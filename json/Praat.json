@@ -1,32 +1,42 @@
 [
   {
-    "Version": "6.4.65",
-    "Date": "25/4/2026",
-    "Size": 52963937,
-    "Sha256": "2bc2d572dd7fa958a2d2968e2aa70855705676aa945dc50179945a080ab7ea86",
+    "Version": "6.4.66",
+    "Date": "18/5/2026",
+    "Size": 52978146,
+    "Sha256": "98434a4b1e51eed790122b7599d8e95f02f08a77b4c8eee8482dc04eccef492a",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/praat/praat.github.io/releases/download/v6.4.65/praat6465_win-arm64.zip"
+    "URI": "https://github.com/praat/praat.github.io/releases/download/v6.4.66/praat6466_win-arm64.zip"
   },
   {
-    "Version": "6.4.65",
-    "Date": "25/4/2026",
-    "Size": 54149855,
-    "Sha256": "4a0211fe23173caa05f90ab1b286a363e38ae669cb6a6c2acf81c36d44fae3bf",
+    "Version": "6.4.66",
+    "Date": "18/5/2026",
+    "Size": 54166429,
+    "Sha256": "2528b8a96997f8157fc9c91301788308a66faea288de2a3c1c442e3bd0aac3cf",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/praat/praat.github.io/releases/download/v6.4.65/praat6465_win-intel64.zip"
+    "URI": "https://github.com/praat/praat.github.io/releases/download/v6.4.66/praat6466_win-x64v1.zip"
   },
   {
-    "Version": "6.4.65",
-    "Date": "25/4/2026",
-    "Size": 54499576,
-    "Sha256": "0e9706b9e111e7ce2e2062f64da98998e502810ee74b8399e1757f3fa4f62402",
+    "Version": "6.4.66",
+    "Date": "18/5/2026",
+    "Size": 54637095,
+    "Sha256": "c2f0d695a0432751d631c81b867d8273335f6f9bb0e6e35058c2a829acf80e90",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "zip",
+    "URI": "https://github.com/praat/praat.github.io/releases/download/v6.4.66/praat6466_win-x64v3.zip"
+  },
+  {
+    "Version": "6.4.66",
+    "Date": "18/5/2026",
+    "Size": 55104117,
+    "Sha256": "3f5616f60fe4c2e0d5fb5625d33cdb55da531ba1af083ea539cb658c1623e9c1",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/praat/praat.github.io/releases/download/v6.4.65/praat6465_win-intel32.zip"
+    "URI": "https://github.com/praat/praat.github.io/releases/download/v6.4.66/praat6466_win-intel32.zip"
   }
 ]
