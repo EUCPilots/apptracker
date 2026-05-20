@@ -1,12 +1,12 @@
 [
   {
-    "Version": "3.0.2",
+    "Version": "3.1.0",
     "Date": "21/12/2022",
-    "Size": 258822552,
-    "Sha256": "53605c871e31c78d860b225adbb5eeda9acc6300ae0e0bcd4e9a33764cb3e002",
+    "Size": 235790776,
+    "Sha256": "c875a21a60b289b029dddc3af7fc7a305f6acb5dc0b7d889ad165e384f298773",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/LUMESCA/calibrite-profiler-releases/releases/download/v3.0.2/calibrite-PROFILER-Setup-3.0.2.exe"
+    "URI": "https://github.com/LUMESCA/calibrite-profiler-releases/releases/download/v3.1.0/calibrite-PROFILER-Setup-3.1.0.exe"
   }
 ]
