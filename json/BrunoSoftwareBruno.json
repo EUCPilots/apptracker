@@ -1,42 +1,42 @@
 [
   {
-    "Version": "3.3.0",
-    "Date": "22/4/2026",
-    "Size": 119701352,
-    "Sha256": "0422fee2712f168b194faca93d270b582fcab4ae72e9632092ec26268d13b1d6",
+    "Version": "3.4.1",
+    "Date": "20/5/2026",
+    "Size": 119489152,
+    "Sha256": "2225b397834dd4fd2ef9a662677498ecd83c185d949c9501928931837de0f7b7",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/usebruno/bruno/releases/download/v3.3.0/bruno_3.3.0_arm64_win.exe"
+    "URI": "https://github.com/usebruno/bruno/releases/download/v3.4.1/bruno_3.4.1_arm64_win.exe"
   },
   {
-    "Version": "3.3.0",
-    "Date": "22/4/2026",
-    "Size": 117892944,
-    "Sha256": "8527c3eb08a6a6833955cc6fe98c22f937360675c23c8e6ff410ab00de8a2fb4",
+    "Version": "3.4.1",
+    "Date": "20/5/2026",
+    "Size": 117683008,
+    "Sha256": "28519218f953a95dedf7527ac80d6670f3b63a6e619585db8ea8a215f9cf45ee",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/usebruno/bruno/releases/download/v3.3.0/bruno_3.3.0_x64_win.exe"
+    "URI": "https://github.com/usebruno/bruno/releases/download/v3.4.1/bruno_3.4.1_x64_win.exe"
   },
   {
-    "Version": "3.3.0",
-    "Date": "22/4/2026",
-    "Size": 125886464,
-    "Sha256": "0c8358614ecfb41e386744b6b29a0eb48aa59908c331e549d6021a4957e9fa91",
+    "Version": "3.4.1",
+    "Date": "20/5/2026",
+    "Size": 125636608,
+    "Sha256": "f62198c23d9c99aa31065021ba2aa164a4553d193c6231577f30231df8c489d5",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/usebruno/bruno/releases/download/v3.3.0/bruno_3.3.0_arm64_win.msi"
+    "URI": "https://github.com/usebruno/bruno/releases/download/v3.4.1/bruno_3.4.1_arm64_win.msi"
   },
   {
-    "Version": "3.3.0",
-    "Date": "22/4/2026",
-    "Size": 129662976,
-    "Sha256": "7dc460362f49931914eaf68b74da59f14d7d29833417ec5aa7dfc6e53404b867",
+    "Version": "3.4.1",
+    "Date": "20/5/2026",
+    "Size": 129437696,
+    "Sha256": "fac94b729c9426d53a3a24a86816833bda98368b8460381283c65df1cdc957cc",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/usebruno/bruno/releases/download/v3.3.0/bruno_3.3.0_x64_win.msi"
+    "URI": "https://github.com/usebruno/bruno/releases/download/v3.4.1/bruno_3.4.1_x64_win.msi"
   }
 ]

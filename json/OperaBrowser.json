@@ -1,31 +1,31 @@
 [
   {
-    "Version": "132.0.5898.0",
+    "Version": "132.0.5903.0",
     "Channel": "Developer",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera-developer/132.0.5898.0/win/Opera_Developer_132.0.5898.0_Setup_x64.exe"
+    "URI": "https://get.geo.opera.com/pub/opera-developer/132.0.5903.0/win/Opera_Developer_132.0.5903.0_Setup_x64.exe"
   },
   {
-    "Version": "132.0.5898.0",
+    "Version": "132.0.5903.0",
     "Channel": "Developer",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera-developer/132.0.5898.0/win/Opera_Developer_132.0.5898.0_Setup.exe"
+    "URI": "https://get.geo.opera.com/pub/opera-developer/132.0.5903.0/win/Opera_Developer_132.0.5903.0_Setup.exe"
   },
   {
-    "Version": "131.0.5877.55",
+    "Version": "131.0.5877.74",
     "Channel": "Stable",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera/desktop/131.0.5877.55/win/Opera_131.0.5877.55_Setup_x64.exe"
+    "URI": "https://get.geo.opera.com/pub/opera/desktop/131.0.5877.74/win/Opera_131.0.5877.74_Setup_x64.exe"
   },
   {
-    "Version": "131.0.5877.55",
+    "Version": "131.0.5877.74",
     "Channel": "Stable",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera/desktop/131.0.5877.55/win/Opera_131.0.5877.55_Setup.exe"
+    "URI": "https://get.geo.opera.com/pub/opera/desktop/131.0.5877.74/win/Opera_131.0.5877.74_Setup.exe"
   },
   {
     "Version": "126.0.5750.30",
