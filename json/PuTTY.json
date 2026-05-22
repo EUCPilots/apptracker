@@ -1,20 +1,20 @@
 [
   {
-    "Version": "0.83",
+    "Version": "0.84",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://the.earth.li/~sgtatham/putty/latest/wa64/putty-arm64-0.83-installer.msi"
+    "URI": "https://the.earth.li/~sgtatham/putty/latest/wa64/putty-arm64-0.84-installer.msi"
   },
   {
-    "Version": "0.83",
+    "Version": "0.84",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.83-installer.msi"
+    "URI": "https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.84-installer.msi"
   },
   {
-    "Version": "0.83",
+    "Version": "0.84",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.83-installer.msi"
+    "URI": "https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.84-installer.msi"
   }
 ]

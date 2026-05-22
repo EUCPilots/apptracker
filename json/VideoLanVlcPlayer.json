@@ -3,7 +3,7 @@
     "Version": "3.0.23",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://mirrors.middlendian.com/videolan-ftp/vlc/3.0.23/win64/vlc-3.0.23-win64.exe"
+    "URI": "http://mirrors.middlendian.com/videolan-ftp/vlc/3.0.23/win64/vlc-3.0.23-win64.exe"
   },
   {
     "Version": "3.0.23",
@@ -15,7 +15,7 @@
     "Version": "3.0.23",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://mirrors.middlendian.com/videolan-ftp/vlc/3.0.23/win64/vlc-3.0.23-win64.msi"
+    "URI": "http://mirrors.middlendian.com/videolan-ftp/vlc/3.0.23/win64/vlc-3.0.23-win64.msi"
   },
   {
     "Version": "3.0.23",
@@ -27,7 +27,7 @@
     "Version": "3.0.23",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://mirrors.middlendian.com/videolan-ftp/vlc/3.0.23/win64/vlc-3.0.23-win64.zip"
+    "URI": "http://mirrors.middlendian.com/videolan-ftp/vlc/3.0.23/win64/vlc-3.0.23-win64.zip"
   },
   {
     "Version": "3.0.23",

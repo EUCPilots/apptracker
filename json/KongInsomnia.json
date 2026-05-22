@@ -1,22 +1,22 @@
 [
   {
-    "Version": "12.5.0",
-    "Date": "1/4/2026",
-    "Size": 603284672,
-    "Sha256": "75308e99d7549c450e438b7552c288fe1c580815fcee9bf546ce5ea275984a5c",
+    "Version": "12.6.0",
+    "Date": "21/5/2026",
+    "Size": 610751168,
+    "Sha256": "bec143adc50fcc78a838641af6593f585874856629fb5f1b8a6b62be058be714",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Kong/insomnia/releases/download/core%4012.5.0/Insomnia.Core-12.5.0.exe"
+    "URI": "https://github.com/Kong/insomnia/releases/download/core%4012.6.0/Insomnia.Core-12.6.0.exe"
   },
   {
-    "Version": "12.5.0",
-    "Date": "1/4/2026",
-    "Size": 499428768,
-    "Sha256": "42a5442ffbe4af082343046bafe23ceb105f3bc2a0eca92983738d8034776a0a",
+    "Version": "12.6.0",
+    "Date": "21/5/2026",
+    "Size": 506012800,
+    "Sha256": "091443f28ffa786fbad94695b8db9e95ebe20c29f644fd32d03c80fa3cd1a189",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Kong/insomnia/releases/download/core%4012.5.0/Insomnia.Core-nsis-12.5.0.exe"
+    "URI": "https://github.com/Kong/insomnia/releases/download/core%4012.6.0/Insomnia.Core-nsis-12.6.0.exe"
   }
 ]
