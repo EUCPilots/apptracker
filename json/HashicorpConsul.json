@@ -1,14 +1,14 @@
 [
   {
-    "Version": "1.22.7",
+    "Version": "2.0.0",
     "Type": "zip",
     "Architecture": "x64",
-    "URI": "https://releases.hashicorp.com/consul/1.22.7/consul_1.22.7_windows_amd64.zip"
+    "URI": "https://releases.hashicorp.com/consul/2.0.0/consul_2.0.0_windows_amd64.zip"
   },
   {
-    "Version": "1.22.7",
+    "Version": "2.0.0",
     "Type": "zip",
     "Architecture": "x86",
-    "URI": "https://releases.hashicorp.com/consul/1.22.7/consul_1.22.7_windows_386.zip"
+    "URI": "https://releases.hashicorp.com/consul/2.0.0/consul_2.0.0_windows_386.zip"
   }
 ]
