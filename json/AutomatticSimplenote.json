@@ -1,32 +1,32 @@
 [
   {
-    "Version": "2.25.0",
-    "Date": "21/5/2026",
-    "Size": 108050776,
-    "Sha256": "e4a74234653aa2eff42ab836296eb5fd88ac5708187cc90ec9f104c4d3d72307",
+    "Version": "2.26.0",
+    "Date": "25/5/2026",
+    "Size": 108055560,
+    "Sha256": "47f24ed89e1a3f8347c5c77ec29af3e2cececb4afa0259ab39afa09b6a38019f",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Automattic/simplenote-electron/releases/download/v2.25.0/Simplenote-win-2.25.0-x64.exe"
+    "URI": "https://github.com/Automattic/simplenote-electron/releases/download/v2.26.0/Simplenote-win-2.26.0-x64.exe"
   },
   {
-    "Version": "2.25.0",
-    "Date": "21/5/2026",
-    "Size": 102305264,
-    "Sha256": "8008d5e92ee834c6d0bd98bb4f02e774bc4d18e7a2029922343d0cdb3c6887d6",
+    "Version": "2.26.0",
+    "Date": "25/5/2026",
+    "Size": 102309600,
+    "Sha256": "8aaf62759f2446bae75ea2e874dd697a911dc354dfd45061c4898e82a61cba9f",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Automattic/simplenote-electron/releases/download/v2.25.0/Simplenote-win-2.25.0-ia32.exe"
+    "URI": "https://github.com/Automattic/simplenote-electron/releases/download/v2.26.0/Simplenote-win-2.26.0-ia32.exe"
   },
   {
-    "Version": "2.25.0",
-    "Date": "21/5/2026",
-    "Size": 209573440,
-    "Sha256": "19b39d8cd7c6a1a6ae0c2d10cc9f0f421315010c07ef5f25963b295bdd0bc09c",
+    "Version": "2.26.0",
+    "Date": "25/5/2026",
+    "Size": 209582584,
+    "Sha256": "bcf39c966784f40d8be98928e0ad81cb5b99c48ddc60e4149f73d78083eb690c",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Automattic/simplenote-electron/releases/download/v2.25.0/Simplenote-win-2.25.0.exe"
+    "URI": "https://github.com/Automattic/simplenote-electron/releases/download/v2.26.0/Simplenote-win-2.26.0.exe"
   }
 ]

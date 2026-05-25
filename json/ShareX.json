@@ -1,22 +1,22 @@
 [
   {
-    "Version": "20.1.0",
-    "Date": "6/5/2026",
-    "Size": 121865194,
-    "Sha256": "b1a4472dc87cd6080589b186ecb7b0ff9b75cc57e6fd2b8ecd4f3d3294d70e68",
+    "Version": "20.2.0",
+    "Date": "22/5/2026",
+    "Size": 126171096,
+    "Sha256": "7c0dcaa05806de80cfb5829d243a62496d64bf2ed5cecc10185d9e769f365621",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ShareX/ShareX/releases/download/v20.1.0/ShareX-20.1.0-setup-x64.exe"
+    "URI": "https://github.com/ShareX/ShareX/releases/download/v20.2.0/ShareX-20.2.0-setup-x64.exe"
   },
   {
-    "Version": "20.1.0",
-    "Date": "6/5/2026",
-    "Size": 181743331,
-    "Sha256": "0e576ad3cd4914e2d286156c9a1384cae43c6e0bcd03de2a99749b802551f444",
+    "Version": "20.2.0",
+    "Date": "22/5/2026",
+    "Size": 191813648,
+    "Sha256": "29a22fcc3065f4312360b8697e506901489cd7bb0d077a2f72657d8ad80dab2c",
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/ShareX/ShareX/releases/download/v20.1.0/ShareX-20.1.0-portable-x64.zip"
+    "URI": "https://github.com/ShareX/ShareX/releases/download/v20.2.0/ShareX-20.2.0-portable-x64.zip"
   }
 ]
