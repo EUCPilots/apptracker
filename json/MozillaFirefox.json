@@ -10127,6 +10127,15 @@
   {
     "Version": "140.11.0",
     "Channel": "Extended Support",
+    "Language": "eo",
+    "Architecture": "x86",
+    "Type": "msi",
+    "Filename": "Firefox Setup 140.11.0esr.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.11.0esr/win32/eo/Firefox%20Setup%20140.11.0esr.msi"
+  },
+  {
+    "Version": "140.11.0",
+    "Channel": "Extended Support",
     "Language": "es-AR",
     "Architecture": "x86",
     "Type": "msi",

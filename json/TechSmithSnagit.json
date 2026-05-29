@@ -1,16 +1,16 @@
 [
   {
-    "Version": "26.2.1",
-    "Date": "2026-05-01T00:00:00",
+    "Version": "26.2.2",
+    "Date": "2026-05-28T00:00:00",
     "Type": "exe",
     "Architecture": "x64",
-    "URI": "http://download.techsmith.com/snagit/releases/2621/snagit.exe"
+    "URI": "http://download.techsmith.com/snagit/releases/2622/snagit.exe"
   },
   {
-    "Version": "26.2.1",
-    "Date": "2026-05-01T00:00:00",
+    "Version": "26.2.2",
+    "Date": "2026-05-28T00:00:00",
     "Type": "msi",
     "Architecture": "x64",
-    "URI": "http://download.techsmith.com/snagit/releases/2621/snagit.msi"
+    "URI": "http://download.techsmith.com/snagit/releases/2622/snagit.msi"
   }
 ]
