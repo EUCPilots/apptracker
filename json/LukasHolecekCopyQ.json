@@ -1,12 +1,12 @@
 [
   {
-    "Version": "15.0.0",
-    "Date": "12/4/2026",
-    "Size": 19198508,
-    "Sha256": "71792c0e231f6f0cc987b9b8ab65afa839dc3df2e491455544c82abbedfcf640",
+    "Version": "16.0.0",
+    "Date": "30/5/2026",
+    "Size": 19241128,
+    "Sha256": "f271a1467589ca55cd56d1faf727a4bc34e686b4965ac742854a93be4b186f82",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/hluk/CopyQ/releases/download/v15.0.0/copyq-15.0.0-setup.exe"
+    "URI": "https://github.com/hluk/CopyQ/releases/download/v16.0.0/copyq-16.0.0-setup.exe"
   }
 ]
