@@ -1,22 +1,22 @@
 [
   {
-    "Version": "10.3.0",
-    "Date": "3/2/2026",
-    "Size": 29975895,
-    "Sha256": "ca6496b159b478e864d9cd8f44025a2e5807d11509ac4cc47ae033aee0318970",
+    "Version": "10.4.3",
+    "Date": "1/6/2026",
+    "Size": 30080833,
+    "Sha256": "93e2d647add060e30eec8e712fbe36a69d3cf75b3ae01c928e7f00d1896585f0",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "vsix",
-    "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.3.0/azuredatastudio-sql4cds-10.3.0.vsix"
+    "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.4.3/azuredatastudio-sql4cds-10.4.3.vsix"
   },
   {
-    "Version": "10.3.0",
-    "Date": "3/2/2026",
-    "Size": 9385056,
-    "Sha256": "e24cbd1ed2c08d01ed188decb402bf32d11de7220ff8d0e035565e3a7e54368a",
+    "Version": "10.4.3",
+    "Date": "1/6/2026",
+    "Size": 9502970,
+    "Sha256": "753c79b233168bae25bd417dbbb8846da954624e12bf2f8f0c06092934a55e06",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "vsix",
-    "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.3.0/MarkMpn.Sql4Cds.SSMS.21.vsix"
+    "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.4.3/MarkMpn.Sql4Cds.SSMS.21.vsix"
   }
 ]
