@@ -1,52 +1,52 @@
 [
   {
-    "Version": "7.26.426.1",
-    "Date": "26/4/2026",
-    "Size": 4810064,
-    "Sha256": "3b126a6187abae5b0d99bebf3017968499e9e0e25b7ee86befb630efa8fb4e2b",
+    "Version": "7.26.602.1",
+    "Date": "2/6/2026",
+    "Size": 4882616,
+    "Sha256": "9cf68b38bcc1aa679050b9069174ab222383ba004c37bdd47056cafc71626be9",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_7.26.426.1/Notepad3_7.26.426.1_x64_Setup.exe"
+    "URI": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_7.26.602.1/Notepad3_7.26.602.1_x64_Setup.exe"
   },
   {
-    "Version": "7.26.426.1",
-    "Date": "26/4/2026",
-    "Size": 4571560,
-    "Sha256": "efb7e93897aa77744fcb6460fc145ac84e7fa3824437fa3979467ec86127b2d2",
+    "Version": "7.26.602.1",
+    "Date": "2/6/2026",
+    "Size": 4687064,
+    "Sha256": "9f3e3181f0657018fe47b1527c84341625154ad319e41f577da78a62be9671c5",
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_7.26.426.1/Notepad3Portable_7.26.426.1.paf.exe"
+    "URI": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_7.26.602.1/Notepad3Portable_7.26.602.1.paf.exe"
   },
   {
-    "Version": "7.26.426.1",
-    "Date": "26/4/2026",
-    "Size": 4603880,
-    "Sha256": "9c7ae261663dc2b527c3058842f4b86017bd21e213f687eaacfbf77e356c82ef",
+    "Version": "7.26.602.1",
+    "Date": "2/6/2026",
+    "Size": 4660104,
+    "Sha256": "42375fd4f4801ff0f2999fbc6d56848e0466a96ed89c1c1be8af0051ac875d0d",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_7.26.426.1/Notepad3_7.26.426.1_x86_Setup.exe"
+    "URI": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_7.26.602.1/Notepad3_7.26.602.1_x86_Setup.exe"
   },
   {
-    "Version": "7.26.426.1",
-    "Date": "26/4/2026",
-    "Size": 6764913,
-    "Sha256": "6270dc551f82a0a40998ebe0129c5379146691d2cb7d207111a9e229212ceaca",
+    "Version": "7.26.602.1",
+    "Date": "2/6/2026",
+    "Size": 6868273,
+    "Sha256": "4f8d02c5c1d5943cd0495c4322ee2e3d07c4734f15d29e2e24ae6f5fcbc1a9eb",
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_7.26.426.1/Notepad3_7.26.426.1_x64_Portable.zip"
+    "URI": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_7.26.602.1/Notepad3_7.26.602.1_x64_Portable.zip"
   },
   {
-    "Version": "7.26.426.1",
-    "Date": "26/4/2026",
-    "Size": 6456907,
-    "Sha256": "08f7e7fcd3fb34e0d90052c408f5ff6cac4e030d1d9ad4451e35ed21e237a3e8",
+    "Version": "7.26.602.1",
+    "Date": "2/6/2026",
+    "Size": 6538005,
+    "Sha256": "08ba4efd7dbbb014e7605ca2d3348ea1d4320a7b168826e1e6fbf510fec88147",
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_7.26.426.1/Notepad3_7.26.426.1_x86_Portable.zip"
+    "URI": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_7.26.602.1/Notepad3_7.26.602.1_x86_Portable.zip"
   }
 ]
