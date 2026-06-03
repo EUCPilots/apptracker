@@ -1,22 +1,22 @@
 [
   {
-    "Version": "5.8.0",
-    "Date": "1/6/2026",
-    "Size": 236803848,
-    "Sha256": "3cfde4a00596fef5eab3bad2b78b32f5f3ea925a70cac9002a3c6720f44792e3",
+    "Version": "5.8.1",
+    "Date": "2/6/2026",
+    "Size": 236803520,
+    "Sha256": "b3d4291008604519e29b7405557029f30ed49b0eaf0b53e8f9df7ffde9eaf92e",
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.8.0/Beekeeper-Studio-5.8.0-portable.exe"
+    "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.8.1/Beekeeper-Studio-5.8.1-portable.exe"
   },
   {
-    "Version": "5.8.0",
-    "Date": "1/6/2026",
-    "Size": 237152448,
-    "Sha256": "4ddc9f04cf1872b80d8ebfc2b9a3fb97fdbd29208e71b7db35c29ae9c1600562",
+    "Version": "5.8.1",
+    "Date": "2/6/2026",
+    "Size": 237152120,
+    "Sha256": "2e0cc5893e5ce813dbd43bf7d80753dccb7d514ae523947139540f1f45966621",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.8.0/Beekeeper-Studio-Setup-5.8.0.exe"
+    "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.8.1/Beekeeper-Studio-Setup-5.8.1.exe"
   }
 ]

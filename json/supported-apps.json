@@ -1530,6 +1530,11 @@
     "Link": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/install"
   },
   {
+    "Name": "MicrosoftPowerBI",
+    "Application": "Microsoft Power BI",
+    "Link": "https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop"
+  },
+  {
     "Name": "MicrosoftPowerBIALMToolkit",
     "Application": "Microsoft Power BI ALM Toolkit",
     "Link": "https://github.com/microsoft/Analysis-Services/tree/master/AlmToolkit"
@@ -1543,6 +1548,11 @@
     "Name": "MicrosoftPowerToys",
     "Application": "Microsoft PowerToys",
     "Link": "https://github.com/microsoft/PowerToys/"
+  },
+  {
+    "Name": "MicrosoftScout",
+    "Application": "Microsoft Scout",
+    "Link": "https://learn.microsoft.com/en-au/microsoft-scout/"
   },
   {
     "Name": "MicrosoftSsms",
