@@ -1,14 +1,14 @@
 [
   {
-    "Version": "1.15.3",
+    "Version": "1.15.4",
     "Type": "zip",
     "Architecture": "x64",
-    "URI": "https://releases.hashicorp.com/packer/1.15.3/packer_1.15.3_windows_amd64.zip"
+    "URI": "https://releases.hashicorp.com/packer/1.15.4/packer_1.15.4_windows_amd64.zip"
   },
   {
-    "Version": "1.15.3",
+    "Version": "1.15.4",
     "Type": "zip",
     "Architecture": "x86",
-    "URI": "https://releases.hashicorp.com/packer/1.15.3/packer_1.15.3_windows_386.zip"
+    "URI": "https://releases.hashicorp.com/packer/1.15.4/packer_1.15.4_windows_386.zip"
   }
 ]

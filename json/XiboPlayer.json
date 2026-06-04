@@ -1,32 +1,32 @@
 [
   {
-    "Version": "4R406",
-    "Date": "27/11/2025",
-    "Size": 164576256,
-    "Sha256": "9f0b02206d06e26b3307caad3fa7fdc1e8932a4781b7ba392966946277e1d9aa",
+    "Version": "4R407",
+    "Date": "19/5/2026",
+    "Size": 164639232,
+    "Sha256": "7fc25c91572037e4af51dda8f0ad6d545ce2cb6cd38df2923657fd8dd5da7a9b",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/xibosignage/xibo-dotnetclient/releases/download/4R406/xibo-client-v4-R406.3-win32-x86.msi"
+    "URI": "https://github.com/xibosignage/xibo-dotnetclient/releases/download/4R407/xibo-client-v4-R407.2-win32-x86.msi"
   },
   {
-    "Version": "4R406",
-    "Date": "27/11/2025",
-    "Size": 164362240,
-    "Sha256": "2a6f3707a3b416285119c66c008d7b899cab97dfe4370893247a6c8675057bb3",
+    "Version": "4R407",
+    "Date": "19/5/2026",
+    "Size": 164537344,
+    "Sha256": "10656c01ff72b437e8bfdf547fc2184ba1462eaba504eda2dc01eba8b65a4acc",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/xibosignage/xibo-dotnetclient/releases/download/4R406/XiboScreenThree_v4R406.msi"
+    "URI": "https://github.com/xibosignage/xibo-dotnetclient/releases/download/4R407/XiboScreenThree_v4R407.msi"
   },
   {
-    "Version": "4R406",
-    "Date": "27/11/2025",
-    "Size": 164361728,
-    "Sha256": "ad85d1b77095b1d65055a5abe3522a21cf08f49417cb4021f53fe4531d984841",
+    "Version": "4R407",
+    "Date": "19/5/2026",
+    "Size": 164537856,
+    "Sha256": "50ccf3e37401cb4e61fcdd435eb83a750e221e9218e696b35e38e1a49d8b3e9a",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/xibosignage/xibo-dotnetclient/releases/download/4R406/XiboScreenTwo_v4R406.msi"
+    "URI": "https://github.com/xibosignage/xibo-dotnetclient/releases/download/4R407/XiboScreenTwo_v4R407.msi"
   }
 ]
