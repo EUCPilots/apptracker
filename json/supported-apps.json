@@ -880,6 +880,11 @@
     "Link": "https://cli.github.com/"
   },
   {
+    "Name": "GitHubCopilot",
+    "Application": "GitHub Copilot",
+    "Link": "https://copilot.github.com/"
+  },
+  {
     "Name": "GitHubDesktop",
     "Application": "GitHub Desktop",
     "Link": "https://desktop.github.com/"
@@ -1878,6 +1883,11 @@
     "Name": "OpenChemistryAvogadro",
     "Application": "Open Chemistry Avogadro",
     "Link": "https://two.avogadro.cc/docs/index.html"
+  },
+  {
+    "Name": "OpenClawWindowsCompanion",
+    "Application": "OpenClaw Windows Companion",
+    "Link": "https://github.com/openclaw/openclaw-windows-node/"
   },
   {
     "Name": "OpenEducationFoundationOpenBoard",
