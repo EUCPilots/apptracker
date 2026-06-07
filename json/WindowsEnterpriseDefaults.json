@@ -1,22 +1,22 @@
 [
   {
-    "Version": "2510.27.242",
-    "Date": "27/10/2025",
-    "Size": 56069,
-    "Sha256": "6c44ff2fd628d4490e9580788cd9854e569e6637d5813b6bb8cc587bbfe12017",
+    "Version": "2606.07.248",
+    "Date": "7/6/2026",
+    "Size": 77301,
+    "Sha256": "5b820624ea6e324b5ce4ad50b1454ba6bf3a2a3cf87b2737583e8bdaef625723",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "intunewin",
-    "URI": "https://github.com/aaronparker/defaults/releases/download/v2510.27.242/Install-Defaults.intunewin"
+    "URI": "https://github.com/aaronparker/defaults/releases/download/v2606.07.248/Install-Defaults.intunewin"
   },
   {
-    "Version": "2510.27.242",
-    "Date": "27/10/2025",
-    "Size": 50549,
-    "Sha256": "da8dee31e042e8d1cbe00737f536eb39f577fc18dfa60e67941ee040f70ee8f9",
+    "Version": "2606.07.248",
+    "Date": "7/6/2026",
+    "Size": 68096,
+    "Sha256": "5de719103f10a789af32d4203a89131ac46fa960fdcf9fe855f8e825a8b4f118",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/aaronparker/defaults/releases/download/v2510.27.242/defaults.zip"
+    "URI": "https://github.com/aaronparker/defaults/releases/download/v2606.07.248/defaults.zip"
   }
 ]
