@@ -1,10 +1,10 @@
 [
   {
-    "Version": "1.1.5",
-    "Date": "2026-05-12T08:09:38",
+    "Version": "1.1.6",
+    "Date": "2026-06-08T10:53:55",
     "Release": "Stable",
-    "Sha512": "3ed7f9bc680e670c0e7a9454ff1e8a018f8041c1f2255f97daccf187ce087ec47adadfe528a5fab4798c7d0f74ce078fa1bffbdc73a7e729258bde628221b928",
+    "Sha512": "370685dbbb40e954838447775e6a520d24383f02a753ef47c1628c7ca0cc3f23a167660fac261769cb5270a847cf45a0a6c4ab84b7da37aaaa25c3f859eba4a0",
     "Type": "msi",
-    "URI": "https://proton.me/download/authenticator/windows/ProtonAuthenticator_1.1.5_x64_en-US.msi"
+    "URI": "https://proton.me/download/authenticator/windows/ProtonAuthenticator_1.1.6_x64_en-US.msi"
   }
 ]
