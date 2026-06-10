@@ -1,12 +1,12 @@
 [
   {
-    "Version": "0.81",
-    "Date": "12/1/2026",
-    "Size": 16166680,
-    "Sha256": "c00ea85173739871d2957aad3b5e0a413cc7d070d5993d3b1eb150ae91b183b3",
+    "Version": "0.82",
+    "Date": "10/6/2026",
+    "Size": 16230472,
+    "Sha256": "28747c52648f53460563be3a7b72375e5ae988bc46638f6e1ab3fc2eabbeb11a",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Nevcairiel/LAVFilters/releases/download/0.81/LAVFilters-0.81-Installer.exe"
+    "URI": "https://github.com/Nevcairiel/LAVFilters/releases/download/0.82/LAVFilters-0.82-Installer.exe"
   }
 ]

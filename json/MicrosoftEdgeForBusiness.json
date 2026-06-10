@@ -1,5 +1,49 @@
 [
   {
+    "Version": "150.0.4078.1",
+    "Date": "2026-06-09T18:31:00",
+    "Channel": "Policy",
+    "Expiry": "2026-09-09T18:31:00",
+    "SHA256": "BAC356F07CBB93C72FFFEF3C2FC6275F3077EE355D0C32F42D498C62E77F92D9",
+    "Size": 17.58,
+    "Architecture": "x86",
+    "Type": "cab",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b9275d26-5d88-4464-9826-ee859d3e40ad/MicrosoftEdgePolicyTemplates.cab"
+  },
+  {
+    "Version": "150.0.4078.1",
+    "Date": "2026-06-09T18:09:00",
+    "Channel": "Dev",
+    "Expiry": "2026-09-09T18:09:00",
+    "SHA256": "890A32ED27B363E62ED074856310201C84B29B5D8D247B7465D63157E3906753",
+    "Size": 213.33,
+    "Architecture": "ARM64",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4d7455d6-41bb-4e32-8f79-8cf32fb5234d/MicrosoftEdgeDevEnterpriseARM64.msi"
+  },
+  {
+    "Version": "150.0.4078.1",
+    "Date": "2026-06-09T18:13:00",
+    "Channel": "Dev",
+    "Expiry": "2026-09-09T18:13:00",
+    "SHA256": "43C3CF5672A722D7065ABDF3E15310CFFEB3FC3CA47E954D9CFB4611C612C934",
+    "Size": 209.17,
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/defaa3ec-5a81-4105-84fb-85ffb32f2c0b/MicrosoftEdgeDevEnterpriseX64.msi"
+  },
+  {
+    "Version": "150.0.4078.1",
+    "Date": "2026-06-09T18:13:00",
+    "Channel": "Dev",
+    "Expiry": "2026-09-09T18:13:00",
+    "SHA256": "55EC23830C725ED410E2120A1B3F319AA9E95C019061EA81AF41A1E1292B6763",
+    "Size": 185.6,
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/154808a8-d5e5-47d1-aefc-2a7e8b36bffe/MicrosoftEdgeDevEnterpriseX86.msi"
+  },
+  {
     "Version": "150.0.4064.2",
     "Date": "2026-06-04T18:22:00",
     "Channel": "Policy",
@@ -130,6 +174,83 @@
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c9a1a08e-ba8b-4aea-ae41-73edba8e4012/MicrosoftEdgeDevEnterpriseX86.msi"
+  },
+  {
+    "Version": "149.0.4022.62",
+    "Date": "2026-06-09T15:42:00",
+    "Channel": "Policy",
+    "Expiry": "2026-09-09T15:42:00",
+    "SHA256": "4E005CC663E89D3DE982A08985BB0199F7CDBFA802550C6A5017F6D72131068F",
+    "Size": 17.52,
+    "Architecture": "x86",
+    "Type": "cab",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c6df154b-3b0a-439f-a46f-8e814f1ab74a/MicrosoftEdgePolicyTemplates.cab"
+  },
+  {
+    "Version": "149.0.4022.62",
+    "Date": "2026-06-09T15:27:00",
+    "Channel": "Beta",
+    "Expiry": "2026-09-09T15:27:00",
+    "SHA256": "E571F8D559AA8D35E5144D364E9C55F840AF8FAB8959AB7D5C338156B1C825B4",
+    "Size": 196.66,
+    "Architecture": "ARM64",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/209f4a2b-6d6b-4cde-8a40-bb814a85fede/MicrosoftEdgeBetaEnterpriseARM64.msi"
+  },
+  {
+    "Version": "149.0.4022.62",
+    "Date": "2026-06-09T16:25:00",
+    "Channel": "Stable",
+    "Expiry": "2027-06-09T16:05:00",
+    "SHA256": "16B147126026C68A2A34479693B482DF4D6F2F825FF6252B088CF64E47B5DE1F",
+    "Size": 196.66,
+    "Architecture": "ARM64",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/241786a2-1ba7-4ad2-8124-6108081c6ba7/MicrosoftEdgeEnterpriseARM64.msi"
+  },
+  {
+    "Version": "149.0.4022.62",
+    "Date": "2026-06-09T15:36:00",
+    "Channel": "Beta",
+    "Expiry": "2026-09-09T15:36:00",
+    "SHA256": "20CE6CA4B34DD41651C0FFD0758E8F0BFB3DBCF26A83141EF6ED7DE3A835BB26",
+    "Size": 192.52,
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3b3b6c3b-d1b1-4f13-bcf5-76606cb598d7/MicrosoftEdgeBetaEnterpriseX64.msi"
+  },
+  {
+    "Version": "149.0.4022.62",
+    "Date": "2026-06-09T16:30:00",
+    "Channel": "Stable",
+    "Expiry": "2027-06-09T16:05:00",
+    "SHA256": "E6FBEB15752F91B526F228526DAE65030B719D7DCA210C72EDB98A7E4F05A18E",
+    "Size": 192.52,
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/be446108-f4a5-446d-9738-a3eb4fc475f6/MicrosoftEdgeEnterpriseX64.msi"
+  },
+  {
+    "Version": "149.0.4022.62",
+    "Date": "2026-06-09T15:37:00",
+    "Channel": "Beta",
+    "Expiry": "2026-09-09T15:37:00",
+    "SHA256": "0C07D4D2B838804EA4A4AD9A83699A7A40129B2CD70D972457766FBC37066064",
+    "Size": 170.22,
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/9b28f141-e3d8-4a36-9196-16712c378b6f/MicrosoftEdgeBetaEnterpriseX86.msi"
+  },
+  {
+    "Version": "149.0.4022.62",
+    "Date": "2026-06-09T16:31:00",
+    "Channel": "Stable",
+    "Expiry": "2027-06-09T16:09:00",
+    "SHA256": "227062060E9EF61354084EE810D83EDE3713E43052C746C27299C25812E2CF71",
+    "Size": 170.22,
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4b71b917-9113-4eea-a1ff-34638e5b4137/MicrosoftEdgeEnterpriseX86.msi"
   },
   {
     "Version": "149.0.4022.52",
@@ -471,6 +592,50 @@
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/643de608-7f86-4ed2-94a2-182155b5db01/MicrosoftEdgeBetaEnterpriseX86.msi"
+  },
+  {
+    "Version": "148.0.3967.116",
+    "Date": "2026-06-09T18:05:00",
+    "Channel": "Policy",
+    "Expiry": "2026-09-09T18:05:00",
+    "SHA256": "188FE83ED889A07F421708AD6E333698B347E984E90D0723FEB330E12D88ECE1",
+    "Size": 17.32,
+    "Architecture": "x86",
+    "Type": "cab",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e60421b3-4001-42cb-84cf-09fa7de4db96/MicrosoftEdgePolicyTemplates.cab"
+  },
+  {
+    "Version": "148.0.3967.116",
+    "Date": "2026-06-09T17:37:00",
+    "Channel": "Stable",
+    "Expiry": "2027-06-09T17:11:00",
+    "SHA256": "683012E105E43632B40F241E972D8C244487440D4D641B9CB7D5666FAEB9AD70",
+    "Size": 194.6,
+    "Architecture": "ARM64",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/112c7976-4bcc-4af8-99e9-a1d3083cf41d/MicrosoftEdgeEnterpriseARM64.msi"
+  },
+  {
+    "Version": "148.0.3967.116",
+    "Date": "2026-06-09T17:40:00",
+    "Channel": "Stable",
+    "Expiry": "2027-06-09T17:12:00",
+    "SHA256": "38A447FC531F1CD1A0EF389437EB203D9C727B19FF1A5DA9D84902C568FAB087",
+    "Size": 190.38,
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f108faa3-220c-4187-9b53-504d39a5ce1d/MicrosoftEdgeEnterpriseX64.msi"
+  },
+  {
+    "Version": "148.0.3967.116",
+    "Date": "2026-06-09T17:40:00",
+    "Channel": "Stable",
+    "Expiry": "2027-06-09T17:14:00",
+    "SHA256": "AA88422EF9F48F656479B6238DF9B67342D45DBFF7B0A17235B9E6D7CD0251AC",
+    "Size": 168.02,
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4ea67ee9-5855-49c2-b705-cab91a39bbe8/MicrosoftEdgeEnterpriseX86.msi"
   },
   {
     "Version": "148.0.3967.109",
@@ -1354,17 +1519,6 @@
   },
   {
     "Version": "145.0.3800.97",
-    "Date": "2026-03-06T19:32:00",
-    "Channel": "Policy",
-    "Expiry": "2026-06-06T19:32:00",
-    "SHA256": "274FE5BC6B35C16D0DC5E1AFBB0CB9767FAFCAFBA9F8C294499D8C7FB178AF44",
-    "Size": 16.61,
-    "Architecture": "x86",
-    "Type": "cab",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c50ab040-722c-4f33-969e-356df61e397b/MicrosoftEdgePolicyTemplates.cab"
-  },
-  {
-    "Version": "145.0.3800.97",
     "Date": "2026-03-06T19:39:00",
     "Channel": "Stable",
     "Expiry": "2027-03-06T19:39:00",
@@ -1527,17 +1681,6 @@
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e17c9fda-663a-4e6a-921f-9405aaa83294/MicrosoftEdgeEnterpriseX86.msi"
-  },
-  {
-    "Version": "144.0.3719.162",
-    "Date": "2026-03-06T22:36:00",
-    "Channel": "Policy",
-    "Expiry": "2026-06-06T22:36:00",
-    "SHA256": "87EE22EC7A6941F1DFE2A66C325C8BEB5CC16FFD3F27D85779459E07F44EFD1F",
-    "Size": 16.43,
-    "Architecture": "x86",
-    "Type": "cab",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/176fdb74-dfc9-44bd-a558-c9585710114a/MicrosoftEdgePolicyTemplates.cab"
   },
   {
     "Version": "144.0.3719.162",
