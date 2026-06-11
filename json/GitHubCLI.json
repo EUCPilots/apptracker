@@ -1,32 +1,32 @@
 [
   {
-    "Version": "2.93.0",
-    "Date": "27/5/2026",
-    "Size": 13225984,
-    "Sha256": "dbf73bd0a4ffe9815c186adcdef4be06243374cca2e35989a9b3cea55a35f741",
+    "Version": "2.94.0",
+    "Date": "10/6/2026",
+    "Size": 13332480,
+    "Sha256": "ad2582d95c63e6df4be4302bb0bd02abc487c59996087230c21469901f56957c",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/cli/cli/releases/download/v2.93.0/gh_2.93.0_windows_arm64.msi"
+    "URI": "https://github.com/cli/cli/releases/download/v2.94.0/gh_2.94.0_windows_arm64.msi"
   },
   {
-    "Version": "2.93.0",
-    "Date": "27/5/2026",
-    "Size": 14757888,
-    "Sha256": "f6d13d271083201acb02ea728c4522e72d8f67caaf053a7d97508eba0c474993",
+    "Version": "2.94.0",
+    "Date": "10/6/2026",
+    "Size": 14884864,
+    "Sha256": "a44e43d3da36b537c48f200b316c72c1158dee86ace2641af2f912ad9c80667c",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/cli/cli/releases/download/v2.93.0/gh_2.93.0_windows_amd64.msi"
+    "URI": "https://github.com/cli/cli/releases/download/v2.94.0/gh_2.94.0_windows_amd64.msi"
   },
   {
-    "Version": "2.93.0",
-    "Date": "27/5/2026",
-    "Size": 14131200,
-    "Sha256": "763f5f76654337c0cfb8f73715683e50b27a54fc31dd03af9ce25fa6514ecbcd",
+    "Version": "2.94.0",
+    "Date": "10/6/2026",
+    "Size": 14245888,
+    "Sha256": "29ad304230550b867201cb71b318794a51b9c9ecd00e82f695ca5e2090305243",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/cli/cli/releases/download/v2.93.0/gh_2.93.0_windows_386.msi"
+    "URI": "https://github.com/cli/cli/releases/download/v2.94.0/gh_2.94.0_windows_386.msi"
   }
 ]
