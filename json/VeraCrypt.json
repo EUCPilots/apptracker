@@ -1,29 +1,29 @@
 [
   {
-    "Version": "1.26.24",
+    "Version": "1.26.29",
     "Architecture": "x86",
     "Type": "exe",
-    "Size": "40413480",
-    "Md5": "328843fea3f15ea3ebfdf741047ae0f5",
-    "FileName": "VeraCrypt%20Portable%201.26.24.exe",
-    "URI": "https://ixpeering.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.24/Windows/VeraCrypt%20Portable%201.26.24.exe?viasf=1"
+    "Size": "40592280",
+    "Md5": "edab1e437e0418eaca7c99afc75330bb",
+    "FileName": "VeraCrypt%20Portable%201.26.29.exe",
+    "URI": "https://ixpeering.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.29/Windows/VeraCrypt%20Portable%201.26.29.exe?viasf=1"
   },
   {
-    "Version": "1.26.24",
+    "Version": "1.26.29",
     "Architecture": "x86",
     "Type": "exe",
-    "Size": "40643880",
-    "Md5": "3236facc7a30df4ba4e57fddfba41ec5",
-    "FileName": "VeraCrypt%20Setup%201.26.24.exe",
-    "URI": "https://ixpeering.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.24/Windows/VeraCrypt%20Setup%201.26.24.exe?viasf=1"
+    "Size": "40832408",
+    "Md5": "1d4b1e8a958ee8354c3e66a17bc2a177",
+    "FileName": "VeraCrypt%20Setup%201.26.29.exe",
+    "URI": "https://ixpeering.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.29/Windows/VeraCrypt%20Setup%201.26.29.exe?viasf=1"
   },
   {
-    "Version": "1.26.24",
+    "Version": "1.26.29",
     "Architecture": "x64",
     "Type": "msi",
-    "Size": "48259072",
-    "Md5": "1087fb4681949abf719840bafc151787",
-    "FileName": "VeraCrypt_Setup_x64_1.26.24.msi",
-    "URI": "https://ixpeering.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.24/Windows/VeraCrypt_Setup_x64_1.26.24.msi?viasf=1"
+    "Size": "52789248",
+    "Md5": "c1cb9efeba09cb1d8802f4be75dfcde4",
+    "FileName": "VeraCrypt_Setup_x64_1.26.29.msi",
+    "URI": "https://ixpeering.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.29/Windows/VeraCrypt_Setup_x64_1.26.29.msi?viasf=1"
   }
 ]

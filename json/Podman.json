@@ -7,7 +7,7 @@
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/containers/podman/releases/download/v5.8.2/podman-installer-windows-arm64.exe"
+    "URI": "https://github.com/podman-container-tools/podman/releases/download/v5.8.2/podman-installer-windows-arm64.exe"
   },
   {
     "Version": "5.8.2",
@@ -17,7 +17,7 @@
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/containers/podman/releases/download/v5.8.2/podman-installer-windows-amd64.exe"
+    "URI": "https://github.com/podman-container-tools/podman/releases/download/v5.8.2/podman-installer-windows-amd64.exe"
   },
   {
     "Version": "5.8.2",
@@ -27,6 +27,6 @@
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/containers/podman/releases/download/v5.8.2/podman-5.8.2-setup.exe"
+    "URI": "https://github.com/podman-container-tools/podman/releases/download/v5.8.2/podman-5.8.2-setup.exe"
   }
 ]
