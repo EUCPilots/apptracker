@@ -2057,12 +2057,12 @@
   {
     "Name": "Podman",
     "Application": "Podman",
-    "Link": "https://github.com/containers/podman"
+    "Link": "https://podman.io/"
   },
   {
     "Name": "PodmanDesktop",
     "Application": "Podman Desktop",
-    "Link": "https://github.com/podman-desktop/podman-desktop"
+    "Link": "https://podman-desktop.io/"
   },
   {
     "Name": "PositRStudio",
