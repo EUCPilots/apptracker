@@ -1,5 +1,13 @@
 [
   {
+    "Version": "1.13.3",
+    "Date": "12/6/2026",
+    "Release": "Alpha",
+    "Sha512": "5bcdaed9be8467f215d75bccf4a666fbcf2636a479d0bf2312de2d5d4e846bfdb74a729acfd3117fd23b6646ee953639be58335dfc3e5adffce121dd755f95d4",
+    "Type": "exe",
+    "URI": "https://proton.me/download/mail/windows/ProtonMail-desktop.exe"
+  },
+  {
     "Version": "1.13.2",
     "Date": "4/6/2026",
     "Release": "EarlyAccess",
@@ -12,14 +20,6 @@
     "Date": "29/1/2026",
     "Release": "Stable",
     "Sha512": "a316cbce89ad0215cb0daf826487b95103d845a4df681e5b3f1f38cf270998ea5fe61d888dd878c10344bff8aa46dd04a1d673b33be7ef0cb1f991cb9dbc893d",
-    "Type": "exe",
-    "URI": "https://proton.me/download/mail/windows/ProtonMail-desktop.exe"
-  },
-  {
-    "Version": "1.10.0",
-    "Date": "31/10/2025",
-    "Release": "Alpha",
-    "Sha512": "4222ca86e022b74b98a38c283b69da042728b5463b74f89c40dde235a346df6a378efb0fa69d332f54de67773d0e4f86976b838e2acf00be74b6dc1a06e805e2",
     "Type": "exe",
     "URI": "https://proton.me/download/mail/windows/ProtonMail-desktop.exe"
   }
