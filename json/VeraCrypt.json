@@ -19,6 +19,15 @@
   },
   {
     "Version": "1.26.29",
+    "Architecture": "ARM64",
+    "Type": "msi",
+    "Size": "46174208",
+    "Md5": "f236fb1d65913a8a58783261f78121a1",
+    "FileName": "VeraCrypt_Setup_arm64_1.26.29.msi",
+    "URI": "https://ixpeering.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.29/Windows/VeraCrypt_Setup_arm64_1.26.29.msi?viasf=1"
+  },
+  {
+    "Version": "1.26.29",
     "Architecture": "x64",
     "Type": "msi",
     "Size": "52789248",
