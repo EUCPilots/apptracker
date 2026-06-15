@@ -1,18 +1,18 @@
 [
   {
+    "Version": "26.3.1.194",
+    "Stream": "Current",
+    "Date": "12/5/2026",
+    "Size": "464787808",
+    "Hash": "030b2ccf9629a4e9f7b2d2028e771a85dff8ca712ef932594fb31516008e049f",
+    "URI": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp26.3.1.194.exe"
+  },
+  {
     "Version": "25.7.2000.2020",
     "Stream": "LTSR",
     "Date": "2/4/2026",
     "Size": "513074528",
     "Hash": "f9c6401da8d081f0c82c881007f84242540bbec1436cc5396cffb50a39d3a975",
     "URI": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp25.7.2000.2020.exe"
-  },
-  {
-    "Version": "0.0.0.0",
-    "Stream": "Current",
-    "Date": "12/5/2026",
-    "Size": "464787808",
-    "Hash": "030b2ccf9629a4e9f7b2d2028e771a85dff8ca712ef932594fb31516008e049f",
-    "URI": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp26.3.1.194.exe"
   }
 ]
