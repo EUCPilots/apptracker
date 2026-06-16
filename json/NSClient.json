@@ -35,7 +35,7 @@
     "Size": 77008896,
     "Sha256": "76c6cd5dbb630e0237f110a42f416f54710ea1a9e6aa6c31a98b80d16219963e",
     "Architecture": "x86",
-    "InstallerType": "Default",
+    "InstallerType": "Legacy",
     "Type": "msi",
     "URI": "https://github.com/mickem/nscp/releases/download/0.12.6/NSCP-0.12.6-Win32-legacy-xp.msi"
   },

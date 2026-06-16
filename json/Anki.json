@@ -1,11 +1,22 @@
 [
   {
-    "Version": "25.09",
-    "Date": "6/9/2025",
-    "Size": 12599816,
-    "Architecture": "x86",
+    "Version": "26.05",
+    "Date": "15/6/2026",
+    "Size": 164286464,
+    "Sha256": "c354b8d2df56232a8a4158b17a155b6e132a1be56bded66e8c0fed0fa4ac8005",
+    "Architecture": "ARM64",
     "InstallerType": "Default",
-    "Type": "exe",
-    "URI": "https://github.com/ankitects/anki/releases/download/25.09/anki-launcher-25.09-windows.exe"
+    "Type": "msi",
+    "URI": "https://github.com/ankitects/anki/releases/download/26.05/anki-26.05-win-arm64.msi"
+  },
+  {
+    "Version": "26.05",
+    "Date": "15/6/2026",
+    "Size": 201834496,
+    "Sha256": "2047f71d7771add993e15f2f01a56ea41617967ae5b3d6d3f402cbc40716c5e0",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/ankitects/anki/releases/download/26.05/anki-26.05-win-x64.msi"
   }
 ]

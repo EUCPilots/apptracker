@@ -5,7 +5,7 @@
     "Size": 66994176,
     "Sha256": "fc3a43bd40d6b67b26ea75b7050ec962e65f3933bd699fcd952f71050d169c3e",
     "Architecture": "x64",
-    "InstallerType": "Default",
+    "InstallerType": "Legacy",
     "Type": "msi",
     "URI": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.12/KeePassXC-2.7.12-Win64-LegacyWindows.msi"
   },
