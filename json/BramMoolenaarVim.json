@@ -1,62 +1,62 @@
 [
   {
-    "Version": "9.2.0653",
+    "Version": "9.2.0663",
     "Date": "16/6/2026",
-    "Size": 10943286,
-    "Sha256": "d7fd05ed9e15ab51c52031b122db9724f8e50b787203219cc5c5e613d4c2534f",
+    "Size": 10942855,
+    "Sha256": "0279c7b22ef865c3d309379cb33da95dbae6acf1f1bea4632d93553a7533205e",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/vim/vim-win32-installer/releases/download/v9.2.0653/gvim_9.2.0653_arm64.exe"
+    "URI": "https://github.com/vim/vim-win32-installer/releases/download/v9.2.0663/gvim_9.2.0663_arm64.exe"
   },
   {
-    "Version": "9.2.0653",
+    "Version": "9.2.0663",
     "Date": "16/6/2026",
-    "Size": 10955392,
-    "Sha256": "22d830880594c3ef3f6b5a0b268e312c2912c49a170f1f8eadb82d2a67f55587",
+    "Size": 10954960,
+    "Sha256": "339ccb97b0b05a7cc026d57152c73d29457d69a2006607330598326983744ed0",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/vim/vim-win32-installer/releases/download/v9.2.0653/gvim_9.2.0653_arm64_signed.exe"
+    "URI": "https://github.com/vim/vim-win32-installer/releases/download/v9.2.0663/gvim_9.2.0663_arm64_signed.exe"
   },
   {
-    "Version": "9.2.0653",
+    "Version": "9.2.0663",
     "Date": "16/6/2026",
-    "Size": 12339126,
-    "Sha256": "33041f7c5ecf1d1f4edfbf20773bf7f8075f1cb5a410ae453329605d9351dd0f",
+    "Size": 12341331,
+    "Sha256": "e0af36500e0bb2dbc06710d2d81ba43063347c7f07982633ef054bbae0b86742",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/vim/vim-win32-installer/releases/download/v9.2.0653/gvim_9.2.0653_x64.exe"
+    "URI": "https://github.com/vim/vim-win32-installer/releases/download/v9.2.0663/gvim_9.2.0663_x64.exe"
   },
   {
-    "Version": "9.2.0653",
+    "Version": "9.2.0663",
     "Date": "16/6/2026",
-    "Size": 12351232,
-    "Sha256": "841426ef9a9cdfc9918eed33fd49d22b6272c052d3c9c98f90238dff0f14c8aa",
+    "Size": 12353440,
+    "Sha256": "c888ea429eb8a38dd53689b2f2fc5b44ed76e1ebfc6f936b8b8d32b7ce840ecd",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/vim/vim-win32-installer/releases/download/v9.2.0653/gvim_9.2.0653_x64_signed.exe"
+    "URI": "https://github.com/vim/vim-win32-installer/releases/download/v9.2.0663/gvim_9.2.0663_x64_signed.exe"
   },
   {
-    "Version": "9.2.0653",
+    "Version": "9.2.0663",
     "Date": "16/6/2026",
-    "Size": 11377592,
-    "Sha256": "bbdf39bf17a240b382175d8d443c52e25fb29cd77c98a80cdf6a255761599754",
+    "Size": 11374522,
+    "Sha256": "b3867057fee0c7f9cbe10d78c136eeafea3e17caec4398b9eddf576a8cc3921b",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/vim/vim-win32-installer/releases/download/v9.2.0653/gvim_9.2.0653_x86.exe"
+    "URI": "https://github.com/vim/vim-win32-installer/releases/download/v9.2.0663/gvim_9.2.0663_x86.exe"
   },
   {
-    "Version": "9.2.0653",
+    "Version": "9.2.0663",
     "Date": "16/6/2026",
-    "Size": 11389696,
-    "Sha256": "f87662b43a587a0b9d188165b3281f635308dbd1fa8cc65baab4f139d7a9f2e3",
+    "Size": 11386632,
+    "Sha256": "e5028dd2138eff3b1900d2e5db3ec5ddb7d2e30e6fe0bb38e40e5500fd27257d",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/vim/vim-win32-installer/releases/download/v9.2.0653/gvim_9.2.0653_x86_signed.exe"
+    "URI": "https://github.com/vim/vim-win32-installer/releases/download/v9.2.0663/gvim_9.2.0663_x86_signed.exe"
   }
 ]

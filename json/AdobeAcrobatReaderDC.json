@@ -430,5 +430,21 @@
     "Architecture": "x86",
     "Type": "exe",
     "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600121662/AcroRdrDC2600121662_uk_UA.exe"
+  },
+  {
+    "Version": "26.001.21529",
+    "Language": "MUI",
+    "Size": 778,
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600121529/AcroRdrDCx642600121529_MUI.exe"
+  },
+  {
+    "Version": "26.001.21529",
+    "Language": "MUI",
+    "Size": 677,
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600121529/AcroRdrDC2600121529_MUI.exe"
   }
 ]

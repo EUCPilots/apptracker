@@ -66,18 +66,18 @@
   {
     "Version": "17.66.19.0",
     "JavaVersion": "17.0.19+10",
-    "ImageType": "JDK",
-    "Architecture": "x64",
-    "Type": "zip",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu17.66.19-ca-jdk17.0.19-win_x64.zip"
-  },
-  {
-    "Version": "17.66.19.0",
-    "JavaVersion": "17.0.19+10",
     "ImageType": "JRE",
     "Architecture": "x64",
     "Type": "zip",
     "URI": "https://cdn.azul.com/zulu/bin/zulu17.66.19-ca-jre17.0.19-win_x64.zip"
+  },
+  {
+    "Version": "17.66.19.0",
+    "JavaVersion": "17.0.19+10",
+    "ImageType": "JDK",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://cdn.azul.com/zulu/bin/zulu17.66.19-ca-jdk17.0.19-win_x64.zip"
   },
   {
     "Version": "17.66.19.0",
