@@ -1,22 +1,22 @@
 [
   {
-    "Version": "12.19",
-    "Date": "19/4/2026",
-    "Size": 93785720,
-    "Sha256": "40009dd382228da80622b586a80b3c0a3c2b795751582c28bad64ee0f22ab140",
+    "Version": "12.20",
+    "Date": "18/6/2026",
+    "Size": 93663768,
+    "Sha256": "fece674eebf3e6cb0efac82346653e87c1955949e56dc9b3394941361beb36cf",
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/RandomEngy/VidCoder/releases/download/v12.19/VidCoder-12.19-Portable.exe"
+    "URI": "https://github.com/RandomEngy/VidCoder/releases/download/v12.20/VidCoder-12.20-Portable.exe"
   },
   {
-    "Version": "12.19",
-    "Date": "19/4/2026",
-    "Size": 49450392,
-    "Sha256": "f3c557143f5374be7f3dc6e7bf36c85a7a455b6c39aa039e02e2ceb44c30d47f",
+    "Version": "12.20",
+    "Date": "18/6/2026",
+    "Size": 49321320,
+    "Sha256": "c9e7aff3d140cecf090e743ec69eb0385ff31a8b5bae3fac502f71d27543861d",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/RandomEngy/VidCoder/releases/download/v12.19/VidCoder-12.19.exe"
+    "URI": "https://github.com/RandomEngy/VidCoder/releases/download/v12.20/VidCoder-12.20.exe"
   }
 ]
