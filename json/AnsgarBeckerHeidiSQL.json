@@ -1,12 +1,12 @@
 [
   {
-    "Version": "12.18",
-    "Date": "9/6/2026",
-    "Size": 17777528,
-    "Sha256": "2ef48652853a353277aa2d671d955a4c90e4768da810901bad1f902c091fdff9",
+    "Version": "12.19",
+    "Date": "20/6/2026",
+    "Size": 17783176,
+    "Sha256": "33b45fb3e5311ff4030a5d59a698ee3870033a0a80ba4543a8a71ea63ff51f5e",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/HeidiSQL/HeidiSQL/releases/download/v12.18/HeidiSQL_12.18.0.7304_Setup.exe"
+    "URI": "https://github.com/HeidiSQL/HeidiSQL/releases/download/v12.19/HeidiSQL_12.19.0.7314_Setup.exe"
   }
 ]
