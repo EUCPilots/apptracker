@@ -27,6 +27,15 @@
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
+    "Version": "16.0.19127.20678",
+    "ReleaseVersion": "2508",
+    "Channel": "SemiAnnual",
+    "Name": "Semi-Annual Enterprise Channel",
+    "Date": "2026-06-09T14:31:06",
+    "EOSDate": "2027-01-12T00:00:00",
+    "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
+  },
+  {
     "Version": "16.0.17932.20842",
     "ReleaseVersion": "2409",
     "Channel": "PerpetualVL2024",

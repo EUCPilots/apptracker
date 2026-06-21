@@ -11,6 +11,15 @@
   {
     "Version": "26.001.21677",
     "Track": "DC",
+    "Product": "Acrobat",
+    "Language": "Neutral",
+    "Architecture": "x64",
+    "Type": "msp",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600121677/AcrobatDCx64Upd2600121677.msp"
+  },
+  {
+    "Version": "26.001.21677",
+    "Track": "DC",
     "Product": "Reader",
     "Language": "Neutral",
     "Architecture": "x64",
@@ -25,6 +34,15 @@
     "Architecture": "x86",
     "Type": "msp",
     "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2600121677/AcroRdrDCUpd2600121677_MUI.msp"
+  },
+  {
+    "Version": "26.001.21677",
+    "Track": "DC",
+    "Product": "Acrobat",
+    "Language": "Neutral",
+    "Architecture": "x86",
+    "Type": "msp",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600121677/AcrobatDCUpd2600121677.msp"
   },
   {
     "Version": "26.001.21677",
@@ -88,23 +106,5 @@
     "Architecture": "x86",
     "Type": "msp",
     "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/Acrobat2015/1500630527/Acrobat2015Upd1500630527.msp"
-  },
-  {
-    "Version": "",
-    "Track": "DC",
-    "Product": "Acrobat",
-    "Language": "Neutral",
-    "Architecture": "x64",
-    "Type": "msp",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC//AcrobatDCx64Upd.msp"
-  },
-  {
-    "Version": "",
-    "Track": "DC",
-    "Product": "Acrobat",
-    "Language": "Neutral",
-    "Architecture": "x86",
-    "Type": "msp",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC//AcrobatDCUpd.msp"
   }
 ]
