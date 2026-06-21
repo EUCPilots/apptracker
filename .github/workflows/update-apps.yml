@@ -22,17 +22,13 @@ jobs:
         with:
           ref: main
 
-      - name: Install packages
+      - name: Install modules
         shell: pwsh
         run: |
           [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
           Register-PackageSource -Name "NuGet" -Location "https://api.nuget.org/v3/index.json" -ProviderName "NuGet" -Trusted
-          Install-PackageProvider -Name "PowerShellGet" -MinimumVersion "2.2.5" -Force
+          Install-PackageProvider -Name "PowerShellGet" -MinimumVersion "2.2.5" -Force -ErrorAction "Ignore"
           Set-PSRepository -Name "PSGallery" -InstallationPolicy "Trusted"
-
-      - name: Install modules
-        shell: pwsh
-        run: |
           Install-Module -Name "DnsClient-PS"
           Install-Module -Name "Evergreen" -AllowClobber -SkipPublisherCheck -AllowPrerelease -Force -Verbose
           Update-Evergreen
@@ -143,8 +139,10 @@ jobs:
         shell: pwsh
         run: |
           [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
-          Get-PSResourceRepository | Set-PSResourceRepository -Trusted
-          Install-PSResource -Name "Evergreen" -Prerelease
+          Register-PackageSource -Name "NuGet" -Location "https://api.nuget.org/v3/index.json" -ProviderName "NuGet" -Trusted
+          Install-PackageProvider -Name "PowerShellGet" -MinimumVersion "2.2.5" -Force -ErrorAction "Ignore"
+          Set-PSRepository -Name "PSGallery" -InstallationPolicy "Trusted"
+          Install-Module -Name "Evergreen" -AllowClobber -SkipPublisherCheck -AllowPrerelease -Force -Verbose
           Update-Evergreen
 
       - name: Update Cloudflare KV with all apps list
