@@ -120,6 +120,11 @@
     "Link": "https://adoptium.net/"
   },
   {
+    "Name": "AdoptiumTemurin26",
+    "Application": "Adoptium Temurin 26",
+    "Link": "https://adoptium.net/"
+  },
+  {
     "Name": "AdoptiumTemurin8",
     "Application": "Adoptium Temurin 8",
     "Link": "https://adoptium.net/"
@@ -207,6 +212,11 @@
   {
     "Name": "AmazonCorretto25",
     "Application": "Amazon Corretto 25",
+    "Link": "https://aws.amazon.com/corretto/"
+  },
+  {
+    "Name": "AmazonCorretto26",
+    "Application": "Amazon Corretto 26",
     "Link": "https://aws.amazon.com/corretto/"
   },
   {
@@ -412,6 +422,11 @@
   {
     "Name": "BellSoftLibericaJDK25",
     "Application": "BellSoft Liberica JDK 25",
+    "Link": "https://bell-sw.com/libericajdk/"
+  },
+  {
+    "Name": "BellSoftLibericaJDK26",
+    "Application": "BellSoft Liberica JDK 26",
     "Link": "https://bell-sw.com/libericajdk/"
   },
   {
@@ -1605,6 +1620,11 @@
     "Link": "https://code.visualstudio.com"
   },
   {
+    "Name": "MicrosoftWdot",
+    "Application": "Microsoft Windows Desktop Optimization Tool",
+    "Link": "https://github.com/The-Virtual-Desktop-Team/Windows-Desktop-Optimization-Tool"
+  },
+  {
     "Name": "MicrosoftWindowsAdminCenter",
     "Application": "Microsoft Windows Admin Center",
     "Link": "https://learn.microsoft.com/en-us/windows-server/manage/windows-admin-center/overview"
@@ -1963,6 +1983,11 @@
     "Name": "OracleJava25",
     "Application": "Oracle Java 25",
     "Link": "https://www.oracle.com/java/technologies/downloads/#java25"
+  },
+  {
+    "Name": "OracleJava26",
+    "Application": "Oracle Java 26",
+    "Link": "https://www.oracle.com/java/technologies/downloads/#java26"
   },
   {
     "Name": "OracleJava8",
