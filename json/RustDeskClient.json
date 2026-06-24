@@ -2,8 +2,8 @@
   {
     "Version": "1.4.8",
     "Date": "21/6/2026",
-    "Size": 22308720,
-    "Sha256": "8992993026f9ab963733657e53107024a242dc8cb3baa87479c9ee60d6cc0fb6",
+    "Size": 22301552,
+    "Sha256": "39d0db320c5558a210078f25d39bd890271488f89e36e432f3bd3251063fb82e",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
@@ -32,8 +32,8 @@
   {
     "Version": "1.4.8",
     "Date": "21/6/2026",
-    "Size": 22843392,
-    "Sha256": "ba1cc6e263d55de63500119d37aa9ce294ed020927f67f0d7459c8a2381a215c",
+    "Size": 22839296,
+    "Sha256": "ec5b7531a1aeec3baf14a536e0d3c516818d968626e3755ccacc0f86c7e81613",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
