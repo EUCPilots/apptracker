@@ -1,72 +1,72 @@
 [
   {
-    "Version": "26.01",
-    "Date": "27/4/2026",
-    "Size": 1663430,
-    "Sha256": "cdea8d9c7c7c6c20d9267eacd529a0ff4423318d1dad0a0ec0cd74cdb4b87ec0",
+    "Version": "26.02",
+    "Date": "26/6/2026",
+    "Size": 1661739,
+    "Sha256": "fbdc9bfcb8e0f9d5a4bdda2f247a843b8737534cd506b970be17f0d418d2abd8",
     "Architecture": "ARM",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ip7z/7zip/releases/download/26.01/7z2601-arm.exe"
+    "URI": "https://github.com/ip7z/7zip/releases/download/26.02/7z2602-arm.exe"
   },
   {
-    "Version": "26.01",
-    "Date": "27/4/2026",
-    "Size": 1592021,
-    "Sha256": "1fecf4e3407950939c8ffcc3e42e3039821997dea155301c75369474e5f15175",
+    "Version": "26.02",
+    "Date": "26/6/2026",
+    "Size": 1590118,
+    "Sha256": "7c6fde79ed5e11b81c7bb6573b7962d3b6322aa5fce69c33ed19f672b55173ab",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ip7z/7zip/releases/download/26.01/7z2601-arm64.exe"
+    "URI": "https://github.com/ip7z/7zip/releases/download/26.02/7z2602-arm64.exe"
   },
   {
-    "Version": "26.01",
-    "Date": "27/4/2026",
-    "Size": 1658851,
-    "Sha256": "d64a0468f5b5b0b0fc5b2188450bcd655b70809d97b1c4535f2884635094377d",
+    "Version": "26.02",
+    "Date": "26/6/2026",
+    "Size": 1657896,
+    "Sha256": "6745fa76dc2ea031596d8678f6f6b99c3c1b435b4164a63485adbbc7b8d82ef0",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ip7z/7zip/releases/download/26.01/7z2601-x64.exe"
+    "URI": "https://github.com/ip7z/7zip/releases/download/26.02/7z2602-x64.exe"
   },
   {
-    "Version": "26.01",
-    "Date": "27/4/2026",
-    "Size": 1359532,
-    "Sha256": "615976598f800c70827c5a47e68c2b0d2b17d048b9721ba071c8af825d2476bd",
+    "Version": "26.02",
+    "Date": "26/6/2026",
+    "Size": 1357836,
+    "Sha256": "17d894c17b04984b6ffcc1b31926b39c42d315cd861c3adbf7f34bd941d529ac",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ip7z/7zip/releases/download/26.01/7z2601.exe"
+    "URI": "https://github.com/ip7z/7zip/releases/download/26.02/7z2602.exe"
   },
   {
-    "Version": "26.01",
-    "Date": "27/4/2026",
+    "Version": "26.02",
+    "Date": "26/6/2026",
     "Size": 602112,
-    "Sha256": "abcf64ae1cbafddb5395e4cdd3bdc7e3e0561d54a0c6380e3dd43bdbffe519a2",
+    "Sha256": "56b8cc9f4971cef253644fafe54063ed7fdca551d4dee0f8c6baa81b855acd72",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ip7z/7zip/releases/download/26.01/7zr.exe"
+    "URI": "https://github.com/ip7z/7zip/releases/download/26.02/7zr.exe"
   },
   {
-    "Version": "26.01",
-    "Date": "27/4/2026",
-    "Size": 2002432,
-    "Sha256": "a47ea8dcf8bc08e6de474cae77c828e031fa22cb528f6095defffebf11cd02f2",
+    "Version": "26.02",
+    "Date": "26/6/2026",
+    "Size": 1999872,
+    "Sha256": "db407a4f6d4999e5c7bc00ce8a882be94717b56e7fa68140fe3f12605d91643e",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/ip7z/7zip/releases/download/26.01/7z2601-x64.msi"
+    "URI": "https://github.com/ip7z/7zip/releases/download/26.02/7z2602-x64.msi"
   },
   {
-    "Version": "26.01",
-    "Date": "27/4/2026",
-    "Size": 1568768,
-    "Sha256": "9643110e10bd0f2f31afa30d904da77f91161b95cc9b744d2f58c9167e23c1a7",
+    "Version": "26.02",
+    "Date": "26/6/2026",
+    "Size": 1569792,
+    "Sha256": "55171bb369d0375ae0e6e8f6cccfffb112c8b13e5c991c4d1f6b21ad968c1af0",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/ip7z/7zip/releases/download/26.01/7z2601.msi"
+    "URI": "https://github.com/ip7z/7zip/releases/download/26.02/7z2602.msi"
   }
 ]

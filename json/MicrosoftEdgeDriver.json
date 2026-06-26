@@ -36,21 +36,21 @@
     "URI": "https://msedgedriver.microsoft.com/150.0.4078.28/edgedriver_win32.zip"
   },
   {
-    "Version": "149.0.4022.80",
+    "Version": "149.0.4022.96",
     "Channel": "Stable",
     "Architecture": "ARM64",
-    "URI": "https://msedgedriver.microsoft.com/149.0.4022.80/edgedriver_arm64.zip"
+    "URI": "https://msedgedriver.microsoft.com/149.0.4022.96/edgedriver_arm64.zip"
   },
   {
-    "Version": "149.0.4022.80",
+    "Version": "149.0.4022.96",
     "Channel": "Stable",
     "Architecture": "x64",
-    "URI": "https://msedgedriver.microsoft.com/149.0.4022.80/edgedriver_win64.zip"
+    "URI": "https://msedgedriver.microsoft.com/149.0.4022.96/edgedriver_win64.zip"
   },
   {
-    "Version": "149.0.4022.80",
+    "Version": "149.0.4022.96",
     "Channel": "Stable",
     "Architecture": "x86",
-    "URI": "https://msedgedriver.microsoft.com/149.0.4022.80/edgedriver_win32.zip"
+    "URI": "https://msedgedriver.microsoft.com/149.0.4022.96/edgedriver_win32.zip"
   }
 ]

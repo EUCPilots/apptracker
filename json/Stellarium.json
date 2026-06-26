@@ -2,8 +2,18 @@
   {
     "Version": "26.2",
     "Date": "24/6/2026",
-    "Size": 477892165,
-    "Sha256": "17464caf148ae526a39731080aae26d425b055a9cc8bb7168bbda446302d74d8",
+    "Size": 446137264,
+    "Sha256": "8c35bde7a6f580b9c97d85d514de33148e4b56c2b4d05744dca374af3d7f38d3",
+    "Architecture": "ARM64",
+    "InstallerType": "Qt6",
+    "Type": "exe",
+    "URI": "https://github.com/Stellarium/stellarium/releases/download/v26.2/stellarium-26.2-qt6-arm64.exe"
+  },
+  {
+    "Version": "26.2",
+    "Date": "24/6/2026",
+    "Size": 477906576,
+    "Sha256": "cda1d07081c94781e388f6c607da5b85a3215a366ae545473ce92a7d38135045",
     "Architecture": "x64",
     "InstallerType": "Qt6",
     "Type": "exe",
