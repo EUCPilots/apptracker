@@ -1,62 +1,62 @@
 [
   {
-    "Version": "26.01",
-    "Date": "13/6/2026",
-    "Size": 2939933,
-    "Sha256": "dff611032c0c54d93bcab8948cde1380253bdd8dfd4500417037ce624fa50469",
+    "Version": "26.02",
+    "Date": "27/6/2026",
+    "Size": 2556170,
+    "Sha256": "36a10af429d9ca503f1b7a4293b9a4bf31e60f897408454ac274af52a337f8c7",
     "Architecture": "ARM64",
     "InstallerType": "NonDarkMode",
     "Type": "exe",
-    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.01-v1.5.7-R1/7z26.01-zstd-arm64-ndm.exe"
+    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.02-v1.5.7-R1/7z26.01-zstd-arm64-ndm.exe"
   },
   {
-    "Version": "26.01",
-    "Date": "13/6/2026",
-    "Size": 3003701,
-    "Sha256": "9bf8e4b93f022df5fd669c6b29397aacbcc05244a435a8f7117c16796c4610d9",
+    "Version": "26.02",
+    "Date": "27/6/2026",
+    "Size": 2618590,
+    "Sha256": "880d663a10456e213c70107816941113a4260b167c61c79c5fe49235c33fc36e",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.01-v1.5.7-R1/7z26.01-zstd-arm64.exe"
+    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.02-v1.5.7-R1/7z26.01-zstd-arm64.exe"
   },
   {
-    "Version": "26.01",
-    "Date": "13/6/2026",
-    "Size": 3263743,
-    "Sha256": "17428b92161c17a0126f26626a2e64b52115e3dbf15fcf7d5b3b3f52332916a6",
+    "Version": "26.02",
+    "Date": "27/6/2026",
+    "Size": 2880375,
+    "Sha256": "57b8c82c9f5a8aae1a0e2cc39e4ede817045633a7fc12ad0f519db0d0aa05c19",
     "Architecture": "x64",
     "InstallerType": "NonDarkMode",
     "Type": "exe",
-    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.01-v1.5.7-R1/7z26.01-zstd-x64-ndm.exe"
+    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.02-v1.5.7-R1/7z26.01-zstd-x64-ndm.exe"
   },
   {
-    "Version": "26.01",
-    "Date": "13/6/2026",
-    "Size": 3347411,
-    "Sha256": "337eb2af535d1ae752a9b78bfa2c51261c395e5827bd57e8dc0eb93685c588ed",
+    "Version": "26.02",
+    "Date": "27/6/2026",
+    "Size": 2961957,
+    "Sha256": "e6b3728f0ed2f6fd9f18c11d793ff67a8b1553555f1f8d9b916fe2e7f748ae27",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.01-v1.5.7-R1/7z26.01-zstd-x64.exe"
+    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.02-v1.5.7-R1/7z26.01-zstd-x64.exe"
   },
   {
-    "Version": "26.01",
-    "Date": "13/6/2026",
-    "Size": 2786530,
-    "Sha256": "f47beb036c30fc6ffe0aaeed92a49559fbb38c75ed238dadc8246f2443b4bfd1",
+    "Version": "26.02",
+    "Date": "27/6/2026",
+    "Size": 2403121,
+    "Sha256": "32c58a89635b99b71d5976bc6ebb8d3df450fc19d68a8c37d077e52a5a4b2c90",
     "Architecture": "x86",
     "InstallerType": "NonDarkMode",
     "Type": "exe",
-    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.01-v1.5.7-R1/7z26.01-zstd-x86-ndm.exe"
+    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.02-v1.5.7-R1/7z26.01-zstd-x86-ndm.exe"
   },
   {
-    "Version": "26.01",
-    "Date": "13/6/2026",
-    "Size": 2851505,
-    "Sha256": "6fda0b6793b89b3ea0bcedd6155cbc881d9199a1e8faf20ef8292e8bdf298f61",
+    "Version": "26.02",
+    "Date": "27/6/2026",
+    "Size": 2467981,
+    "Sha256": "19c0609e79c0c00a00914f1edf598dd65a67c6d48d422ea0cdb73c78f0dbd4bf",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.01-v1.5.7-R1/7z26.01-zstd-x86.exe"
+    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.02-v1.5.7-R1/7z26.01-zstd-x86.exe"
   }
 ]
