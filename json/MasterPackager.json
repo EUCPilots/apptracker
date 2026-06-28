@@ -1,7 +1,9 @@
 [
   {
-    "Version": "24.9.9118",
-    "Type": "Free",
-    "URI": "https://www.masterpackager.com/installer/masterpackager_24.9.9118.msi"
+    "Version": "26.3.9672",
+    "Sha256": "28dd80dd5c4570935ac85865b6609c6ed120a43477ed9f44bedb16b7d7bce17e",
+    "Type": "msi",
+    "Filename": "master_packager_suite_26.3.9672.msi",
+    "URI": "https://cdn.masterpackager.com/installer/mp/26.3.9672/master_packager_suite_26.3.9672.msi"
   }
 ]

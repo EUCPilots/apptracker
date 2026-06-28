@@ -1,0 +1,20 @@
+[
+  {
+    "Version": "3.18.3",
+    "Date": "2026-06-16T19:33:29.583+00:00",
+    "Architecture": "ARM64",
+    "Size": 156403320,
+    "Sha512": "GpXlLPUG1a4XhKpw51yzdGrqbVeYco9iVW0R1hNG2wx93b0zArahkZbw9wvSK6qXo1Rpkqa3STQoFMvGvoyg/w==",
+    "Type": "exe",
+    "URI": "https://public-cdn.cloud.unity3d.com/hub/prod/3.18.3/UnityHubSetup-3.18.3-arm64.exe"
+  },
+  {
+    "Version": "3.18.3",
+    "Date": "2026-06-16T19:33:29.583+00:00",
+    "Architecture": "x64",
+    "Size": 153683384,
+    "Sha512": "TVgT1Q8WHWs6hVh3vmsMqH2F+4rXu5KlhSH86qf4dCZx22UXIi9C5hXejTEXa79uIAmC/ZVlNnyTOPo1LY69nQ==",
+    "Type": "exe",
+    "URI": "https://public-cdn.cloud.unity3d.com/hub/prod/3.18.3/UnityHubSetup-3.18.3-x64.exe"
+  }
+]

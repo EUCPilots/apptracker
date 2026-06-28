@@ -1,12 +1,22 @@
 [
   {
-    "Version": "6.0.3",
-    "Date": "6/4/2026",
-    "Size": 103282407,
-    "Sha256": "7464d8d97c94b163fd7f51aa39ff99935785ea342c97e10427b154cf9b3e476d",
+    "Version": "6.1.0",
+    "Date": "27/6/2026",
+    "Size": 95522286,
+    "Sha256": "2612244308ee8bd9d6c93740035b66cd2ee62c70fa1d8cedbd852e337de9ddb7",
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/sn4k3/UVtools/releases/download/v6.1.0/UVtools_win-arm64_v6.1.0.msi"
+  },
+  {
+    "Version": "6.1.0",
+    "Date": "27/6/2026",
+    "Size": 112680554,
+    "Sha256": "19ac20f9b37fa7ac4aa5898f43af09f5ad7433c7c0096f69ae79677c0807f9cf",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/sn4k3/UVtools/releases/download/v6.0.3/UVtools_win-x64_v6.0.3.msi"
+    "URI": "https://github.com/sn4k3/UVtools/releases/download/v6.1.0/UVtools_win-x64_v6.1.0.msi"
   }
 ]

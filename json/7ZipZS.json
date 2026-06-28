@@ -7,7 +7,7 @@
     "Architecture": "ARM64",
     "InstallerType": "NonDarkMode",
     "Type": "exe",
-    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.02-v1.5.7-R1/7z26.01-zstd-arm64-ndm.exe"
+    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.02-v1.5.7-R1/7z26.02-zstd-arm64-ndm.exe"
   },
   {
     "Version": "26.02",
@@ -17,7 +17,7 @@
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.02-v1.5.7-R1/7z26.01-zstd-arm64.exe"
+    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.02-v1.5.7-R1/7z26.02-zstd-arm64.exe"
   },
   {
     "Version": "26.02",
@@ -27,7 +27,7 @@
     "Architecture": "x64",
     "InstallerType": "NonDarkMode",
     "Type": "exe",
-    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.02-v1.5.7-R1/7z26.01-zstd-x64-ndm.exe"
+    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.02-v1.5.7-R1/7z26.02-zstd-x64-ndm.exe"
   },
   {
     "Version": "26.02",
@@ -37,7 +37,7 @@
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.02-v1.5.7-R1/7z26.01-zstd-x64.exe"
+    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.02-v1.5.7-R1/7z26.02-zstd-x64.exe"
   },
   {
     "Version": "26.02",
@@ -47,7 +47,7 @@
     "Architecture": "x86",
     "InstallerType": "NonDarkMode",
     "Type": "exe",
-    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.02-v1.5.7-R1/7z26.01-zstd-x86-ndm.exe"
+    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.02-v1.5.7-R1/7z26.02-zstd-x86-ndm.exe"
   },
   {
     "Version": "26.02",
@@ -57,6 +57,6 @@
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.02-v1.5.7-R1/7z26.01-zstd-x86.exe"
+    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v26.02-v1.5.7-R1/7z26.02-zstd-x86.exe"
   }
 ]
