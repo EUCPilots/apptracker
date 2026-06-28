@@ -230,6 +230,11 @@
     "Link": "https://www.anaconda.com/"
   },
   {
+    "Name": "AnacondaMiniconda",
+    "Application": "Anaconda Miniconda",
+    "Link": "https://docs.conda.io/en/latest/miniconda.html"
+  },
+  {
     "Name": "AnalogDevicesLTspice",
     "Application": "Analog Devices LTspice",
     "Link": "https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html"
@@ -321,7 +326,7 @@
   },
   {
     "Name": "AWSAppStreamClient",
-    "Application": "AWS AppStream 2.0 Client",
+    "Application": "Amazon AppStream 2.0 Client",
     "Link": "https://docs.aws.amazon.com/en_us/appstream2/latest/developerguide/client-release-versions.html"
   },
   {
@@ -618,11 +623,6 @@
     "Name": "Deskflow",
     "Application": "Deskflow Deskflow",
     "Link": "https://deskflow.org/"
-  },
-  {
-    "Name": "deviceTRUST",
-    "Application": "deviceTRUST",
-    "Link": "https://devicetrust.com/"
   },
   {
     "Name": "DevToys",
@@ -1043,11 +1043,6 @@
     "Name": "HashicorpVault",
     "Application": "Hashicorp Vault",
     "Link": "https://www.vaultproject.io/"
-  },
-  {
-    "Name": "HashicorpWaypoint",
-    "Application": "Hashicorp Waypoint",
-    "Link": "https://www.waypointproject.io/"
   },
   {
     "Name": "HendrikErzZettlr",
@@ -1680,11 +1675,6 @@
     "Link": "https://microsoft.github.io/XmlNotepad/"
   },
   {
-    "Name": "Miniconda",
-    "Application": "Miniconda",
-    "Link": "https://docs.conda.io/en/latest/miniconda.html"
-  },
-  {
     "Name": "Minitab",
     "Application": "Minitab",
     "Link": "https://www.minitab.com/"
@@ -1933,11 +1923,6 @@
     "Name": "OpenShotStudiosOpenShotVideoEditor",
     "Application": "OpenShot Studios OpenShot Video Editor",
     "Link": "https://www.openshot.org/"
-  },
-  {
-    "Name": "OpenWebStart",
-    "Application": "OpenWebStart",
-    "Link": "https://openwebstart.com/"
   },
   {
     "Name": "OperaAirBrowser",
@@ -2610,8 +2595,8 @@
     "Link": "https://ultimaker.com/software/ultimaker-cura"
   },
   {
-    "Name": "UnityEditor",
-    "Application": "Unity Editor",
+    "Name": "UnityHub",
+    "Application": "Unity Hub",
     "Link": "https://unity.com/download"
   },
   {
