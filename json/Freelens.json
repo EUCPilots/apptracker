@@ -1,62 +1,62 @@
 [
   {
-    "Version": "1.10.1",
-    "Date": "20/6/2026",
-    "Size": 159962736,
-    "Sha256": "74e95ad720d94c9929aa32688bf6e0b6d4f7588f370577ca464617b83790cec3",
+    "Version": "1.10.2",
+    "Date": "28/6/2026",
+    "Size": 159498880,
+    "Sha256": "df5df4312d95a5d1d34334d9c010b5dddfdb4085aa8ed5549ee683a60393a38e",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/freelensapp/freelens/releases/download/v1.10.1/Freelens-1.10.1-windows-arm64.exe"
+    "URI": "https://github.com/freelensapp/freelens/releases/download/v1.10.2/Freelens-1.10.2-windows-arm64.exe"
   },
   {
-    "Version": "1.10.1",
-    "Date": "20/6/2026",
-    "Size": 159535144,
-    "Sha256": "c6e9873db8d2b7e902bb4276e20f33ae32e9e0d92872679410d05788f76824fd",
+    "Version": "1.10.2",
+    "Date": "28/6/2026",
+    "Size": 159071440,
+    "Sha256": "07a302531acb77119d9648a087863e9c23e39a0e826532899a3c39c9e91f5fce",
     "Architecture": "ARM64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/freelensapp/freelens/releases/download/v1.10.1/Freelens-1.10.1-windows-portable-arm64.exe"
+    "URI": "https://github.com/freelensapp/freelens/releases/download/v1.10.2/Freelens-1.10.2-windows-portable-arm64.exe"
   },
   {
-    "Version": "1.10.1",
-    "Date": "20/6/2026",
-    "Size": 162476728,
-    "Sha256": "88a7bcfec8094a96edfbca45a791e219cab65ce6da9f7c235d0f2740867b0f94",
+    "Version": "1.10.2",
+    "Date": "28/6/2026",
+    "Size": 162013856,
+    "Sha256": "d1c9971b6db72293a240df9653d3f34b44777e3dda6bdd10238db3498e1e7018",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/freelensapp/freelens/releases/download/v1.10.1/Freelens-1.10.1-windows-amd64.exe"
+    "URI": "https://github.com/freelensapp/freelens/releases/download/v1.10.2/Freelens-1.10.2-windows-amd64.exe"
   },
   {
-    "Version": "1.10.1",
-    "Date": "20/6/2026",
-    "Size": 162048728,
-    "Sha256": "29b2686ee0e7434c62eeca53a4a53e0900e3371d834cac025706473fe3780f0c",
+    "Version": "1.10.2",
+    "Date": "28/6/2026",
+    "Size": 161585912,
+    "Sha256": "7cb50450f735c7aa325f6061a12c3e9d247068ef0c5f37944de3b549d10883d4",
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/freelensapp/freelens/releases/download/v1.10.1/Freelens-1.10.1-windows-portable-amd64.exe"
+    "URI": "https://github.com/freelensapp/freelens/releases/download/v1.10.2/Freelens-1.10.2-windows-portable-amd64.exe"
   },
   {
-    "Version": "1.10.1",
-    "Date": "20/6/2026",
-    "Size": 168128512,
-    "Sha256": "c1ea0da52c25e7608f2292fb1b279119b40f7bd14ac49394a1fad34e78ad14fb",
+    "Version": "1.10.2",
+    "Date": "28/6/2026",
+    "Size": 167538688,
+    "Sha256": "c1eb460dde1d95848b3b89a428c0a0b28ddd26a974d738103568e4dab371611f",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/freelensapp/freelens/releases/download/v1.10.1/Freelens-1.10.1-windows-arm64.msi"
+    "URI": "https://github.com/freelensapp/freelens/releases/download/v1.10.2/Freelens-1.10.2-windows-arm64.msi"
   },
   {
-    "Version": "1.10.1",
-    "Date": "20/6/2026",
-    "Size": 178413568,
-    "Sha256": "677cfd66bada311493ecadf2b42e1d83ba9ced9fd071436db3ecb9d8be330386",
+    "Version": "1.10.2",
+    "Date": "28/6/2026",
+    "Size": 178315264,
+    "Sha256": "39dcbc7035727eee504240a785870163497673accf2dca27a8905f3e66d794d1",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/freelensapp/freelens/releases/download/v1.10.1/Freelens-1.10.1-windows-amd64.msi"
+    "URI": "https://github.com/freelensapp/freelens/releases/download/v1.10.2/Freelens-1.10.2-windows-amd64.msi"
   }
 ]
