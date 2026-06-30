@@ -1,42 +1,42 @@
 [
   {
-    "Version": "6.4.67",
-    "Date": "21/5/2026",
-    "Size": 52976987,
-    "Sha256": "11f0139c065931453c099fa913e2b5289c75f32e90f852d89ac97d08eda60549",
+    "Version": "6.6.30",
+    "Date": "30/6/2026",
+    "Size": 53039594,
+    "Sha256": "ab74942fbf569a4df1c02fb0a384bfc2ed7009cf80dc87ea05f2e56515ad73c9",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/praat/praat.github.io/releases/download/v6.4.67/praat6467_win-arm64.zip"
+    "URI": "https://github.com/praat/praat.github.io/releases/download/v6.6.30/praat6630_win-arm64.zip"
   },
   {
-    "Version": "6.4.67",
-    "Date": "21/5/2026",
-    "Size": 54165726,
-    "Sha256": "60bafed34b0573b7208b0f1c984dffcf673235903b5721d505b049c65907a55a",
+    "Version": "6.6.30",
+    "Date": "30/6/2026",
+    "Size": 54227549,
+    "Sha256": "0720c28260eff630d537452759a555a088313642b19db0b297f5109d8aaf6f0a",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/praat/praat.github.io/releases/download/v6.4.67/praat6467_win-x64v1.zip"
+    "URI": "https://github.com/praat/praat.github.io/releases/download/v6.6.30/praat6630_win-x64v1.zip"
   },
   {
-    "Version": "6.4.67",
-    "Date": "21/5/2026",
-    "Size": 54635556,
-    "Sha256": "df9adb8653150c8ac4bd1044a30832d0be8c2deaf232c5497de84765404dcb20",
+    "Version": "6.6.30",
+    "Date": "30/6/2026",
+    "Size": 54698841,
+    "Sha256": "6a40d39fe1b03744f864cc32bc6a3442a7e47dee0bf2d6ae63da0488a9da8048",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/praat/praat.github.io/releases/download/v6.4.67/praat6467_win-x64v3.zip"
+    "URI": "https://github.com/praat/praat.github.io/releases/download/v6.6.30/praat6630_win-x64v3.zip"
   },
   {
-    "Version": "6.4.67",
-    "Date": "21/5/2026",
-    "Size": 55104238,
-    "Sha256": "ed9f2f29a2b3f69502b90596c4fd23da8b3c0d398dc4188535f19ec4794b37fe",
+    "Version": "6.6.30",
+    "Date": "30/6/2026",
+    "Size": 55169069,
+    "Sha256": "5f398ab3e7de2ad3387ae8ea0aa95a44e3fe5a396bb0ecc358b33737d2c70750",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/praat/praat.github.io/releases/download/v6.4.67/praat6467_win-intel32.zip"
+    "URI": "https://github.com/praat/praat.github.io/releases/download/v6.6.30/praat6630_win-intel32.zip"
   }
 ]

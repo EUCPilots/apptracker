@@ -1,42 +1,42 @@
 [
   {
-    "Version": "4.1.2",
-    "Date": "1/6/2026",
-    "Size": 19865600,
-    "Sha256": "49b9586c63ee29018c67b0b000f9c342553899a55e8089954c1207af2c7165b4",
+    "Version": "4.1.3",
+    "Date": "29/6/2026",
+    "Size": 19869696,
+    "Sha256": "782040475407a22a9f4efa4140046da22281310744b6c7ed1b3f7b8db14c5a63",
     "Architecture": "x64",
     "InstallerType": "Qt5",
     "Type": "msi",
-    "URI": "https://github.com/transmission/transmission/releases/download/4.1.2/transmission-4.1.2-qt5-x64.msi"
+    "URI": "https://github.com/transmission/transmission/releases/download/4.1.3/transmission-4.1.3-qt5-x64.msi"
   },
   {
-    "Version": "4.1.2",
-    "Date": "1/6/2026",
-    "Size": 23322624,
-    "Sha256": "f36fd9c245f3c298597ac238b319c86f00eacfd1984881aa8eca3a0943f53008",
+    "Version": "4.1.3",
+    "Date": "29/6/2026",
+    "Size": 23326720,
+    "Sha256": "c8ea492d8f46fadac26e0c05b244cabba556201d5fe348dfcf1cf036621741f8",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/transmission/transmission/releases/download/4.1.2/transmission-4.1.2-x64.msi"
+    "URI": "https://github.com/transmission/transmission/releases/download/4.1.3/transmission-4.1.3-x64.msi"
   },
   {
-    "Version": "4.1.2",
-    "Date": "1/6/2026",
+    "Version": "4.1.3",
+    "Date": "29/6/2026",
     "Size": 17661952,
-    "Sha256": "e1ded82a66dcafee4b6d3d7dc9c6b39f38b049a76545f2942cab40328bf38234",
+    "Sha256": "c823865c74a8d5baa5a2d5ebebac22f25cce7c2c39717ea4f37787de295f1bdd",
     "Architecture": "x86",
     "InstallerType": "Qt5",
     "Type": "msi",
-    "URI": "https://github.com/transmission/transmission/releases/download/4.1.2/transmission-4.1.2-qt5-x86.msi"
+    "URI": "https://github.com/transmission/transmission/releases/download/4.1.3/transmission-4.1.3-qt5-x86.msi"
   },
   {
-    "Version": "4.1.2",
-    "Date": "1/6/2026",
+    "Version": "4.1.3",
+    "Date": "29/6/2026",
     "Size": 20590592,
-    "Sha256": "eeafc800a804da5d2bfba7418fdd6d3f18cc403d9090369cc5400b803f87070c",
+    "Sha256": "74485b7b5d494cf98549e9165fd8f64a8640f2990aeee5edb43fae529dc0ec29",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/transmission/transmission/releases/download/4.1.2/transmission-4.1.2-x86.msi"
+    "URI": "https://github.com/transmission/transmission/releases/download/4.1.3/transmission-4.1.3-x86.msi"
   }
 ]

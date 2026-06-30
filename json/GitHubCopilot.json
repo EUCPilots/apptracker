@@ -1,42 +1,42 @@
 [
   {
-    "Version": "1.0.10",
-    "Date": "25/6/2026",
-    "Size": 154748664,
-    "Sha256": "f69f3a3c0a29ba9c835fbbbd4b47727925f1b8606dda1e6c0ba6b86b567b7d66",
+    "Version": "1.0.11",
+    "Date": "26/6/2026",
+    "Size": 158384032,
+    "Sha256": "8b71f34086fc299dd2323b3cd1b983d1bb6d84d8e5f8a932c5cb943d35dbaf6f",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/github/app/releases/download/v1.0.10/GitHub-Copilot-windows-arm64-setup.exe"
+    "URI": "https://github.com/github/app/releases/download/v1.0.11/GitHub-Copilot-windows-arm64-setup.exe"
   },
   {
-    "Version": "1.0.10",
-    "Date": "25/6/2026",
-    "Size": 161619608,
-    "Sha256": "a5eedbc10218fe34e1c95ca4984806ef3b05b8bc4e35510c2d7bba444abc1223",
+    "Version": "1.0.11",
+    "Date": "26/6/2026",
+    "Size": 165576048,
+    "Sha256": "bff070e98e9941304997b5780015f7a90a3759ce5c73aee946bd98491d362046",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/github/app/releases/download/v1.0.10/GitHub-Copilot-windows-x64-setup.exe"
+    "URI": "https://github.com/github/app/releases/download/v1.0.11/GitHub-Copilot-windows-x64-setup.exe"
   },
   {
-    "Version": "1.0.10",
-    "Date": "25/6/2026",
-    "Size": 171200512,
-    "Sha256": "fbba1e7d8e3120da752d568af0d7d0d1a0615b67ad948373751d44ee6ff09abb",
+    "Version": "1.0.11",
+    "Date": "26/6/2026",
+    "Size": 174628864,
+    "Sha256": "e280e18e98b98f6aa43a77244f8c7c9feb89bdaf09c79c1700a507bd4d44215c",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/github/app/releases/download/v1.0.10/GitHub-Copilot-windows-arm64.msi"
+    "URI": "https://github.com/github/app/releases/download/v1.0.11/GitHub-Copilot-windows-arm64.msi"
   },
   {
-    "Version": "1.0.10",
-    "Date": "25/6/2026",
-    "Size": 176631808,
-    "Sha256": "8c12433987eea3868cf976aeb38ce5cc4953940ee9854730fb27b3617918b4c5",
+    "Version": "1.0.11",
+    "Date": "26/6/2026",
+    "Size": 180473856,
+    "Sha256": "3effbe3c36f265c0244aba8bc7d4bfd68150ca16cfd2bd8692c5afe4480c31cc",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/github/app/releases/download/v1.0.10/GitHub-Copilot-windows-x64.msi"
+    "URI": "https://github.com/github/app/releases/download/v1.0.11/GitHub-Copilot-windows-x64.msi"
   }
 ]

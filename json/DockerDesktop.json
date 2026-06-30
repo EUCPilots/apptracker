@@ -1,20 +1,20 @@
 [
   {
-    "Version": "4.79.0",
-    "Build": "230596",
-    "Size": "571302320",
+    "Version": "4.80.0",
+    "Build": "232116",
+    "Size": "554870704",
     "Architecture": "ARM64",
     "Type": "exe",
     "FileName": "Docker Desktop Installer.exe",
-    "URI": "https://desktop.docker.com/win/main/arm64/230596/Docker%20Desktop%20Installer.exe"
+    "URI": "https://desktop.docker.com/win/main/arm64/232116/Docker%20Desktop%20Installer.exe"
   },
   {
-    "Version": "4.79.0",
-    "Build": "230596",
-    "Size": "636942768",
+    "Version": "4.80.0",
+    "Build": "232116",
+    "Size": "635122096",
     "Architecture": "x64",
     "Type": "exe",
     "FileName": "Docker Desktop Installer.exe",
-    "URI": "https://desktop.docker.com/win/main/amd64/230596/Docker%20Desktop%20Installer.exe"
+    "URI": "https://desktop.docker.com/win/main/amd64/232116/Docker%20Desktop%20Installer.exe"
   }
 ]
