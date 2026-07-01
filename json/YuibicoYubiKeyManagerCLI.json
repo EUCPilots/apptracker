@@ -1,12 +1,12 @@
 [
   {
-    "Version": "5.9.1",
-    "Date": "15/4/2026",
-    "Size": 21671936,
-    "Sha256": "a8cdfd148886e61c55ad91d41fb353f218cd304f817d435b12765800e0fbbf12",
+    "Version": "5.9.2",
+    "Date": "30/6/2026",
+    "Size": 22396928,
+    "Sha256": "54e5830c56fafcdde80037de490a88de4fe3afc398fc2ad7ccbffcfc6b93be9f",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/Yubico/yubikey-manager/releases/download/5.9.1/yubikey-manager-5.9.1-win64.msi"
+    "URI": "https://github.com/Yubico/yubikey-manager/releases/download/5.9.2/yubikey-manager-5.9.2-win64.msi"
   }
 ]

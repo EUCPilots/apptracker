@@ -1,18 +1,10 @@
 [
   {
-    "Version": "7.5.7",
-    "InstallerVersion": "inSync7.5.7r110923",
+    "Version": "8.1.3",
+    "InstallerVersion": "inSync8.1.3r111021",
     "CloudPlatform": "Cloud",
-    "Md5sum": "67e95d6afa8260d8373d2c47f827676366cdb162",
+    "Md5sum": "4c45697f93852bbb40b13b4b920af133b8734ad7",
     "Type": "msi",
-    "URI": "https://downloads.druva.com/downloads/inSync/Windows/7.5.7/inSync7.5.7r110923.msi"
-  },
-  {
-    "Version": "7.5.7",
-    "InstallerVersion": "inSync7.5.7r110923",
-    "CloudPlatform": "GOVCloud",
-    "Md5sum": "67e95d6afa8260d8373d2c47f827676366cdb162",
-    "Type": "msi",
-    "URI": "https://downloads.druva.com/downloads/inSync/Windows/7.5.7_Gov/inSync7.5.7r110923.msi"
+    "URI": "https://downloads.druva.com/downloads/inSync/Windows/8.1.3/inSync8.1.3r111021.msi"
   }
 ]

@@ -1,19 +1,19 @@
 [
   {
-    "Version": "151.0.7922.2",
-    "Revision": "1654411",
+    "Version": "152.0.7923.0",
+    "Revision": "1655155",
     "Channel": "Canary",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/151.0.7922.2/win64/chrome-win64.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/152.0.7923.0/win64/chrome-win64.zip"
   },
   {
-    "Version": "151.0.7922.2",
-    "Revision": "1654411",
+    "Version": "152.0.7923.0",
+    "Revision": "1655155",
     "Channel": "Canary",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/151.0.7922.2/win32/chrome-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/152.0.7923.0/win32/chrome-win32.zip"
   },
   {
     "Version": "151.0.7912.0",
@@ -42,25 +42,25 @@
   {
     "Version": "150.0.7871.46",
     "Revision": "1639810",
+    "Channel": "Stable",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/150.0.7871.46/win64/chrome-win64.zip"
+  },
+  {
+    "Version": "150.0.7871.46",
+    "Revision": "1639810",
     "Channel": "Beta",
     "Architecture": "x86",
     "Type": "zip",
     "URI": "https://storage.googleapis.com/chrome-for-testing-public/150.0.7871.46/win32/chrome-win32.zip"
   },
   {
-    "Version": "150.0.7871.24",
-    "Revision": "1639810",
-    "Channel": "Stable",
-    "Architecture": "x64",
-    "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/150.0.7871.24/win64/chrome-win64.zip"
-  },
-  {
-    "Version": "150.0.7871.24",
+    "Version": "150.0.7871.46",
     "Revision": "1639810",
     "Channel": "Stable",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/150.0.7871.24/win32/chrome-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/150.0.7871.46/win32/chrome-win32.zip"
   }
 ]
