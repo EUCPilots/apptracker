@@ -1,52 +1,52 @@
 [
   {
-    "Version": "1.4.8",
-    "Date": "21/6/2026",
-    "Size": 22301552,
-    "Sha256": "39d0db320c5558a210078f25d39bd890271488f89e36e432f3bd3251063fb82e",
+    "Version": "1.4.9",
+    "Date": "6/7/2026",
+    "Size": 22318960,
+    "Sha256": "c717bf52fdd601c58419e46c503176dd87187d174ebf8b3b5854ca381e8e9145",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.4.8/rustdesk-1.4.8-aarch64.exe"
+    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.4.9/rustdesk-1.4.9-aarch64.exe"
   },
   {
-    "Version": "1.4.8",
-    "Date": "21/6/2026",
-    "Size": 24464752,
-    "Sha256": "f0053229fa2a2459c8b86f326c3e7423018a72f010f9758dc21be171b112d1b2",
+    "Version": "1.4.9",
+    "Date": "6/7/2026",
+    "Size": 24472432,
+    "Sha256": "eaedeb0088e687bf46f7c46a9c6ea5493ce51f3134dfd6acbedb47b5b9136274",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.4.8/rustdesk-1.4.8-x86_64.exe"
+    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.4.9/rustdesk-1.4.9-x86_64.exe"
   },
   {
-    "Version": "1.4.8",
-    "Date": "21/6/2026",
-    "Size": 11937648,
-    "Sha256": "10a14578ed3adbab66bfe5c8daa0d49d07e002d48f69f303966ea349f58dfea7",
+    "Version": "1.4.9",
+    "Date": "6/7/2026",
+    "Size": 11951472,
+    "Sha256": "28e89fc56598978799b87b3d177464a112da174fceb61512919c514a7e90ea20",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.4.8/rustdesk-1.4.8-x86-sciter.exe"
+    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.4.9/rustdesk-1.4.9-x86-sciter.exe"
   },
   {
-    "Version": "1.4.8",
-    "Date": "21/6/2026",
-    "Size": 22839296,
-    "Sha256": "ec5b7531a1aeec3baf14a536e0d3c516818d968626e3755ccacc0f86c7e81613",
+    "Version": "1.4.9",
+    "Date": "6/7/2026",
+    "Size": 22855680,
+    "Sha256": "30bc8925e62c7ade52371758c2b944036ed2386f6c554e9e59f3bcfef06c7cd9",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.4.8/rustdesk-1.4.8-aarch64.msi"
+    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.4.9/rustdesk-1.4.9-aarch64.msi"
   },
   {
-    "Version": "1.4.8",
-    "Date": "21/6/2026",
+    "Version": "1.4.9",
+    "Date": "6/7/2026",
     "Size": 24825856,
-    "Sha256": "17117c3a609445bb49cb9298c5cb53cf9c95f0bc4eae8353b81bb5b280c03307",
+    "Sha256": "c87d2f4cef2a5acd6003b6507dcfbf5d5168a256db082cd90b54d35193224aaa",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.4.8/rustdesk-1.4.8-x86_64.msi"
+    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.4.9/rustdesk-1.4.9-x86_64.msi"
   }
 ]
