@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2026.2.22.0",
-    "Date": "22/2/2026",
-    "Size": 22646784,
-    "Sha256": "ad3a107d76b9391c88c4427717f243c64309f4d66fea9775aab75c1cd51a2d4e",
+    "Version": "2026.7.7.0",
+    "Date": "7/7/2026",
+    "Size": 29102080,
+    "Sha256": "26b4ced4ed8ff48ed10b484a7c25580f6fce545c18643461428bbdb47d171824",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/BornToBeRoot/NETworkManager/releases/download/2026.2.22.0/NETworkManager_2026.2.22.0_Setup.msi"
+    "URI": "https://github.com/BornToBeRoot/NETworkManager/releases/download/2026.7.7.0/NETworkManager_2026.7.7.0_Setup.msi"
   }
 ]

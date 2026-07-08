@@ -1,14 +1,14 @@
 [
   {
-    "Version": "2.0.3",
+    "Version": "2.0.4",
     "Type": "zip",
     "Architecture": "x64",
-    "URI": "https://releases.hashicorp.com/nomad/2.0.3/nomad_2.0.3_windows_amd64.zip"
+    "URI": "https://releases.hashicorp.com/nomad/2.0.4/nomad_2.0.4_windows_amd64.zip"
   },
   {
-    "Version": "2.0.3",
+    "Version": "2.0.4",
     "Type": "zip",
     "Architecture": "x86",
-    "URI": "https://releases.hashicorp.com/nomad/2.0.3/nomad_2.0.3_windows_386.zip"
+    "URI": "https://releases.hashicorp.com/nomad/2.0.4/nomad_2.0.4_windows_386.zip"
   }
 ]
