@@ -1,12 +1,12 @@
 [
   {
-    "Version": "7.4.0",
-    "Date": "16/6/2026",
-    "Size": 60899328,
-    "Sha256": "616bec7354eb8830ced8338a50c405f4d0277d626967c45cb1bf5ca3e9d8e3b1",
+    "Version": "7.4.1",
+    "Date": "8/7/2026",
+    "Size": 61652992,
+    "Sha256": "fd3a4beee31b07ce6acb67f8b9f46b75daf15b669bd034b7582171743e0436ad",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/Yubico/yubioath-flutter/releases/download/7.4.0/yubico-authenticator-7.4.0-win64.msi"
+    "URI": "https://github.com/Yubico/yubioath-flutter/releases/download/7.4.1/yubico-authenticator-7.4.1-win64.msi"
   }
 ]

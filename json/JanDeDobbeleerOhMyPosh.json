@@ -1,42 +1,42 @@
 [
   {
-    "Version": "29.22.1",
-    "Date": "8/7/2026",
-    "Size": 18631432,
-    "Sha256": "57a96f65dfe314d63e060733bb5491c43c5d29cb011ea670ed6055c4a4c45ea3",
+    "Version": "29.23.0",
+    "Date": "9/7/2026",
+    "Size": 18647824,
+    "Sha256": "8248769e69eb64cc20d0c3fcb83d59ad6a11909be63137b82bafddd6c5304675",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.22.1/posh-windows-arm64.exe"
+    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.23.0/posh-windows-arm64.exe"
   },
   {
-    "Version": "29.22.1",
-    "Date": "8/7/2026",
-    "Size": 20398352,
-    "Sha256": "57d9b55de889d4932117cc3dba815d07b242acc22ed4e60f9ca38f8895196c2e",
+    "Version": "29.23.0",
+    "Date": "9/7/2026",
+    "Size": 20414736,
+    "Sha256": "be4ff63e53adbf98decf08fd4f8da6a0c1fbf5364e57e36cdb4f15908c3bd0e3",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.22.1/posh-windows-amd64.exe"
+    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.23.0/posh-windows-amd64.exe"
   },
   {
-    "Version": "29.22.1",
-    "Date": "8/7/2026",
-    "Size": 5767168,
-    "Sha256": "8bdbbab52395e3097de5f192f8caeb2c78fbf8ccc96f85cad755806373bbd7f4",
+    "Version": "29.23.0",
+    "Date": "9/7/2026",
+    "Size": 5763072,
+    "Sha256": "58a7ac4ed35f97259b7a754df82e22e668aea6861621025885023450310c7fae",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.22.1/install-arm64.msi"
+    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.23.0/install-arm64.msi"
   },
   {
-    "Version": "29.22.1",
-    "Date": "8/7/2026",
-    "Size": 6393856,
-    "Sha256": "f932143483e0e18e18a62e64d977286eebb4084af350253b81694e83e4859c16",
+    "Version": "29.23.0",
+    "Date": "9/7/2026",
+    "Size": 6389760,
+    "Sha256": "74522a025bddb6d25b80d7ac4b33889e67fefb9838d6add014624ae07ab7e21b",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.22.1/install-x64.msi"
+    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.23.0/install-x64.msi"
   }
 ]

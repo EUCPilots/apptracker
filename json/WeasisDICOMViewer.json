@@ -1,12 +1,12 @@
 [
   {
-    "Version": "4.7.0",
-    "Date": "28/5/2026",
-    "Size": 51085312,
-    "Sha256": "b429756f9282dd9bec45dcd669ff83ba5f28c91ca73a36ef049f23ae749de7ea",
+    "Version": "4.7.1",
+    "Date": "9/7/2026",
+    "Size": 54423552,
+    "Sha256": "e2af585492e4f6954cc8cbc6938d841fc8824ace7fa138add3f2fdd134e9609a",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/nroduit/Weasis/releases/download/v4.7.0/Weasis-4.7.0-x86-64.msi"
+    "URI": "https://github.com/nroduit/Weasis/releases/download/v4.7.1/Weasis-4.7.1-x86-64.msi"
   }
 ]
