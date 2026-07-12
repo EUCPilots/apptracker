@@ -64,7 +64,7 @@
     "Date": "7/6/2026",
     "Size": 25721458,
     "Sha256": "80bfe8d5f5d11cc3ef76b834add3ed4e82dee6523ffeb435c283f88b1a21f09d",
-    "Architecture": "x86",
+    "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
     "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrakeCLI-1.11.2-win-x86_64.zip"
@@ -74,7 +74,7 @@
     "Date": "7/6/2026",
     "Size": 26207897,
     "Sha256": "d9bd679822f2c313f4918e7833eb2f57a9d2ceeb7ed0152343bc99c9cb44bdb0",
-    "Architecture": "x86",
+    "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
     "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/LibHB-1.11.2-win-x86_64.zip"
