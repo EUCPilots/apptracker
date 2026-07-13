@@ -1,12 +1,12 @@
 [
   {
-    "Version": "1.3.4655.98",
-    "Date": "11/6/2026",
-    "Size": 307368288,
-    "Sha256": "86555e22045e5ddd2cbefca58a91ed5d2d6035e23b34e819c84f6e99985d77a7",
+    "Version": "1.3.4686.95",
+    "Date": "12/7/2026",
+    "Size": 308414064,
+    "Sha256": "95cd503daa00c043e0b20c4a7a39271495f0253e354387625218a7eaf1142577",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pritunl/pritunl-client/releases/download/1.3.4655.98/Pritunl.exe"
+    "URI": "https://github.com/pritunl/pritunl-client/releases/download/1.3.4686.95/Pritunl.exe"
   }
 ]

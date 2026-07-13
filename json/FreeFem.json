@@ -1,12 +1,12 @@
 [
   {
-    "Version": "4.16",
-    "Date": "31/3/2026",
-    "Size": 210290111,
-    "Sha256": "38df81255bbff05e12dc88142dae5ca01cc20d8654edcf0530a82fff81268f95",
+    "Version": "4.17",
+    "Date": "13/7/2026",
+    "Size": 220962075,
+    "Sha256": "f78737f7fb3b46961588ff9028e9241c76804414c4425511a776ece3274f5d7a",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/FreeFem/FreeFem-sources/releases/download/v4.16/FreeFEM-4.16-amd64-win64.exe"
+    "URI": "https://github.com/FreeFem/FreeFem-sources/releases/download/v4.17/FreeFEM-4.17-amd64-win64.exe"
   }
 ]

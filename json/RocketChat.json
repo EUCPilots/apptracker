@@ -2,6 +2,36 @@
   {
     "Version": "4.15.3",
     "Date": "10/7/2026",
+    "Size": 171597468,
+    "Sha256": "9d0fa4ff12c76c33e0130ddbd609e257e1a874966a395bc78df2e0c0295f72ac",
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "appx",
+    "URI": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.15.3/rocketchat-4.15.3-win-arm64.appx"
+  },
+  {
+    "Version": "4.15.3",
+    "Date": "10/7/2026",
+    "Size": 174435804,
+    "Sha256": "ed0a91c69c8a6885798ceef47f52293455d0d1c0acdeea2ac0d731a5e2867929",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "appx",
+    "URI": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.15.3/rocketchat-4.15.3-win-x64.appx"
+  },
+  {
+    "Version": "4.15.3",
+    "Date": "10/7/2026",
+    "Size": 151307708,
+    "Sha256": "3c165775e75c7f2c53033a7fa0b127d01bd4bb8d357194e368951cb623d5e94d",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "appx",
+    "URI": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.15.3/rocketchat-4.15.3-win-ia32.appx"
+  },
+  {
+    "Version": "4.15.3",
+    "Date": "10/7/2026",
     "Size": 116148312,
     "Sha256": "6704301d06a4e6ad0fbbcee18248cd5a11d4db57ffd8f6bb7d3108c5417e04f5",
     "Architecture": "ARM64",

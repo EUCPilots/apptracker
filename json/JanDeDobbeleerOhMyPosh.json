@@ -1,42 +1,22 @@
 [
   {
-    "Version": "29.26.1",
-    "Date": "11/7/2026",
-    "Size": 18682128,
-    "Sha256": "cee8b806900358a27005c5fde5e2fc8477b471b93f7280dbd417e92e2fc899fd",
+    "Version": "29.27.0",
+    "Date": "13/7/2026",
+    "Size": 18690832,
+    "Sha256": "08ca9239cf8f62a4e186f8d2d56dc27db28d5c1d7102605bac5aa2afe8daf98a",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.26.1/posh-windows-arm64.exe"
+    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.27.0/posh-windows-arm64.exe"
   },
   {
-    "Version": "29.26.1",
-    "Date": "11/7/2026",
-    "Size": 20453128,
-    "Sha256": "1c7402e49b0574058563d3142da24d3f4e74a3e909c42e978381ea2cda4fa78a",
+    "Version": "29.27.0",
+    "Date": "13/7/2026",
+    "Size": 20462864,
+    "Sha256": "8b2023aa6250715fe908f7d675d18f7b368743d92c26528e088bed19459e5b64",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.26.1/posh-windows-amd64.exe"
-  },
-  {
-    "Version": "29.26.1",
-    "Date": "11/7/2026",
-    "Size": 5779456,
-    "Sha256": "9eab12694ad07f10141835981b6a8281f6d93cc67e69d728ade79828de7ba1ac",
-    "Architecture": "ARM64",
-    "InstallerType": "Default",
-    "Type": "msi",
-    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.26.1/install-arm64.msi"
-  },
-  {
-    "Version": "29.26.1",
-    "Date": "11/7/2026",
-    "Size": 6406144,
-    "Sha256": "238e3644747077472cc878c9d99083d655e428c139494b7fa9a4bf366e18956a",
-    "Architecture": "x64",
-    "InstallerType": "Default",
-    "Type": "msi",
-    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.26.1/install-x64.msi"
+    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.27.0/posh-windows-amd64.exe"
   }
 ]

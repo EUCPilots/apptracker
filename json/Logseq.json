@@ -1,22 +1,22 @@
 [
   {
-    "Version": "0.10.15",
-    "Date": "14/11/2025",
-    "Size": 231276488,
-    "Sha256": "b9335b55d4449a22628bdd4cea856183b2512aa9f2b07ddc17c5b36452802a21",
+    "Version": "2.0.1",
+    "Date": "13/7/2026",
+    "Size": 142984208,
+    "Sha256": "47a33c890ce10783a688b25f238b4f4e91ef97574d573fd221e87f7238d4abbe",
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/logseq/logseq/releases/download/2.0.1/Logseq-win-arm64-2.0.1-nsis.exe"
+  },
+  {
+    "Version": "2.0.1",
+    "Date": "13/7/2026",
+    "Size": 141469064,
+    "Sha256": "01c98d98aa9895027de3fe2f698c3d042b8cc6256504e94eca119bfaaacca88f",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/logseq/logseq/releases/download/0.10.15/Logseq-win-x64-0.10.15.exe"
-  },
-  {
-    "Version": "0.10.15",
-    "Date": "14/11/2025",
-    "Size": 237090540,
-    "Sha256": "a71aace5050eaba8df351b1108e0199701795a7776d6a5ca14f6a2b5c94c343a",
-    "Architecture": "x64",
-    "InstallerType": "Default",
-    "Type": "msi",
-    "URI": "https://github.com/logseq/logseq/releases/download/0.10.15/Logseq-win-x64-0.10.15.msi"
+    "URI": "https://github.com/logseq/logseq/releases/download/2.0.1/Logseq-win-x64-2.0.1-nsis.exe"
   }
 ]

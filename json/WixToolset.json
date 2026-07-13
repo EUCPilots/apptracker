@@ -1,11 +1,22 @@
 [
   {
-    "Version": "3.14.1",
-    "Date": "22/3/2024",
-    "Size": 32438176,
+    "Version": "7.0.0",
+    "Date": "3/4/2026",
+    "Size": 1116240,
+    "Sha256": "2632f40d856b317a9bbd51446807d7114fa313ce6141fa40c8d549706af317be",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/wixtoolset/wix3/releases/download/wix3141rtm/wix314.exe"
+    "URI": "https://github.com/wixtoolset/wix/releases/download/v7.0.0/WixAdditionalTools.exe"
+  },
+  {
+    "Version": "7.0.0",
+    "Date": "3/4/2026",
+    "Size": 12365824,
+    "Sha256": "16ff3857255e0ffa118d90e6d3a20e47499e55cda109853b5aac4700735f0293",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/wixtoolset/wix/releases/download/v7.0.0/wix-cli-x64.msi"
   }
 ]

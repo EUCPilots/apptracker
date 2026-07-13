@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2.6.3",
+    "Version": "2.7.0",
     "Date": "30/5/2022",
-    "Size": 105767904,
-    "Sha256": "fc441bea4cc9573530abf3cf5fff60a4e403f5717fdb30f9b04b34d11d1a5fce",
+    "Size": 110395216,
+    "Sha256": "b7317f31d56b950d2ae9a0921e8ab913a50bb269a05a11e442aa04a9d7214293",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ramboxapp/download/releases/download/v2.6.3/Rambox-2.6.3-win-x64.exe"
+    "URI": "https://github.com/ramboxapp/download/releases/download/v2.7.0/Rambox-2.7.0-win-x64.exe"
   }
 ]

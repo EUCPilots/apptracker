@@ -2,6 +2,26 @@
   {
     "Version": "2.27.1",
     "Date": "1/7/2026",
+    "Size": 160858997,
+    "Sha256": "ca84248f85720cb3185726ef6520fe2b3f43847d353ad1bd86b27f40485aca06",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "appx",
+    "URI": "https://github.com/Automattic/simplenote-electron/releases/download/v2.27.1/Simplenote-win-store-2.27.1-x64.appx"
+  },
+  {
+    "Version": "2.27.1",
+    "Date": "1/7/2026",
+    "Size": 152136948,
+    "Sha256": "4fce80162b798287336b6c45f83f98d827122dd142c8df2ad5b10075c4155267",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "appx",
+    "URI": "https://github.com/Automattic/simplenote-electron/releases/download/v2.27.1/Simplenote-win-store-2.27.1-ia32.appx"
+  },
+  {
+    "Version": "2.27.1",
+    "Date": "1/7/2026",
     "Size": 108244520,
     "Sha256": "769f6df020a30f7a298d1aa062719c70f18a26bfe2473a6a6459ff7ca53feb08",
     "Architecture": "x64",
