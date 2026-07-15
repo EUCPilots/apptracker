@@ -1,42 +1,42 @@
 [
   {
-    "Version": "7.0.1",
-    "Date": "31/5/2026",
-    "Size": 23678976,
-    "Sha256": "ae43d20724223f0a29404ae707b1b2ae3b24464094148b9f7505619ce41f362b",
+    "Version": "7.2.0",
+    "Date": "10/7/2026",
+    "Size": 25673728,
+    "Sha256": "616829b92a85cc306fbfd236e0d7ea11cfaa8446e76cfd5b33d43588db1e509e",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v7.0.1/GitExtensions-arm64-7.0.1.86-c119a52.msi"
+    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v7.2.0/GitExtensions-arm64-7.2.0.92-501f831.msi"
   },
   {
-    "Version": "7.0.1",
-    "Date": "31/5/2026",
-    "Size": 24031232,
-    "Sha256": "53792d2bf39e0949319ca711a189120e41d53b60d7b74d6a11d66120cd0725ed",
+    "Version": "7.2.0",
+    "Date": "10/7/2026",
+    "Size": 26107904,
+    "Sha256": "32b9a9997bb36b36d14c9fe06c9a7a521b8234280dc21e19c22db29fcaf0cbbe",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v7.0.1/GitExtensions-x64-7.0.1.86-c119a52.msi"
+    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v7.2.0/GitExtensions-x64-7.2.0.92-501f831.msi"
   },
   {
-    "Version": "7.0.1",
-    "Date": "31/5/2026",
-    "Size": 17960982,
-    "Sha256": "08f5e4d287263923405608aaad555e8ee4b736feadc55f72b52acfa8cc0cdeaa",
+    "Version": "7.2.0",
+    "Date": "10/7/2026",
+    "Size": 19953330,
+    "Sha256": "4b83ebad3507f3d9ac55b3c891ba76f79828d8b47d4c24c965bb0752efee18aa",
     "Architecture": "ARM64",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v7.0.1/GitExtensions-Portable-arm64-7.0.1.86-c119a52.zip"
+    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v7.2.0/GitExtensions-Portable-arm64-7.2.0.92-501f831.zip"
   },
   {
-    "Version": "7.0.1",
-    "Date": "31/5/2026",
-    "Size": 18107832,
-    "Sha256": "7b8989ceb4192194742c7ab166226c02af4a846bfb6037c1d4d44b1a61d01b1a",
+    "Version": "7.2.0",
+    "Date": "10/7/2026",
+    "Size": 20186968,
+    "Sha256": "ac192d72434ed315e7bb34305ddcf4987527e69bb8bc4d0fe1b858e001ae142c",
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v7.0.1/GitExtensions-Portable-x64-7.0.1.86-c119a52.zip"
+    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v7.2.0/GitExtensions-Portable-x64-7.2.0.92-501f831.zip"
   }
 ]
