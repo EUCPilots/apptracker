@@ -1,18 +1,18 @@
 [
   {
-    "Version": "0.22.333",
-    "Date": "6/6/2026",
+    "Version": "0.23.331",
+    "Date": "9/7/2026",
     "Architecture": "ARM64",
     "Type": "exe",
-    "Filename": "MicrosoftScout-Windows-0.22.333-arm64-Setup.exe",
-    "URI": "https://download.microsoft.com/download/f5e1aa08-9d73-4e0b-adbd-14b2947e9b44/Scout%200.22.333/MicrosoftScout-Windows-0.22.333-arm64-Setup.exe"
+    "Filename": "MicrosoftScout-Windows-0.23.331-arm64-Setup.exe",
+    "URI": "https://download.microsoft.com/download/f5e1aa08-9d73-4e0b-adbd-14b2947e9b44/MicrosoftScout-Windows-0.23.331-arm64-Setup.exe"
   },
   {
-    "Version": "0.22.333",
-    "Date": "6/6/2026",
+    "Version": "0.23.331",
+    "Date": "9/7/2026",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "MicrosoftScout-Windows-0.22.333-x64-Setup.exe",
-    "URI": "https://download.microsoft.com/download/f5e1aa08-9d73-4e0b-adbd-14b2947e9b44/Scout%200.22.333/MicrosoftScout-Windows-0.22.333-x64-Setup.exe"
+    "Filename": "MicrosoftScout-Windows-0.23.331-x64-Setup.exe",
+    "URI": "https://download.microsoft.com/download/f5e1aa08-9d73-4e0b-adbd-14b2947e9b44/MicrosoftScout-Windows-0.23.331-x64-Setup.exe"
   }
 ]

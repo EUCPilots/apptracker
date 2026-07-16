@@ -1,62 +1,62 @@
 [
   {
-    "Version": "5.6.1",
-    "Date": "28/4/2026",
-    "Size": 12048400,
-    "Sha256": "64f22ac7ddb2464052beea9fb1a0ceda6039c1f92ff39ebb06b12600a8d5bfe8",
+    "Version": "5.6.2",
+    "Date": "15/7/2026",
+    "Size": 12050520,
+    "Sha256": "4fb3812cab0944bfc6acc7bb8a7df4ee5b520dbf9bb92e21329b12487fa4182d",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/TeraTermProject/teraterm/releases/download/v5.6.1/teraterm-5.6.1-arm64.exe"
+    "URI": "https://github.com/TeraTermProject/teraterm/releases/download/v5.6.2/teraterm-5.6.2-arm64.exe"
   },
   {
-    "Version": "5.6.1",
-    "Date": "28/4/2026",
-    "Size": 12344288,
-    "Sha256": "e2035d4dc05757aae5913c6542b973028b17a311fe03e8561d138b5255792dbc",
+    "Version": "5.6.2",
+    "Date": "15/7/2026",
+    "Size": 12349192,
+    "Sha256": "ce18ce457ac45f2ffb57bf1854c3458cb4dc766a60dde3793915dabcd181b901",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/TeraTermProject/teraterm/releases/download/v5.6.1/teraterm-5.6.1-x64.exe"
+    "URI": "https://github.com/TeraTermProject/teraterm/releases/download/v5.6.2/teraterm-5.6.2-x64.exe"
   },
   {
-    "Version": "5.6.1",
-    "Date": "28/4/2026",
-    "Size": 12005848,
-    "Sha256": "f39d3cb6f6dde7808d5760dbf0fd02a077b5bea4d291f1b5c2b7b36d9bac3b74",
+    "Version": "5.6.2",
+    "Date": "15/7/2026",
+    "Size": 12010048,
+    "Sha256": "82d4fb0f5879df0c632806a4af9cd75a0f6111cd55a26cb73647f922052d669f",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/TeraTermProject/teraterm/releases/download/v5.6.1/teraterm-5.6.1-x86.exe"
+    "URI": "https://github.com/TeraTermProject/teraterm/releases/download/v5.6.2/teraterm-5.6.2-x86.exe"
   },
   {
-    "Version": "5.6.1",
-    "Date": "28/4/2026",
-    "Size": 15527911,
-    "Sha256": "9b96c665e5ab23f38fc5e4252857d1e63d73234038176e43508416bc272a4d19",
+    "Version": "5.6.2",
+    "Date": "15/7/2026",
+    "Size": 15535797,
+    "Sha256": "7d8ad4af02cca361099b099009f673d37cdaee152bb53e1c6fcd1c093c6e08c1",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/TeraTermProject/teraterm/releases/download/v5.6.1/teraterm-5.6.1-arm64.zip"
+    "URI": "https://github.com/TeraTermProject/teraterm/releases/download/v5.6.2/teraterm-5.6.2-arm64.zip"
   },
   {
-    "Version": "5.6.1",
-    "Date": "28/4/2026",
-    "Size": 16140346,
-    "Sha256": "4cd4a75dc6614c7be8e19955fadadd4ceb0fc4c7ad4475913e2deecb37cbc656",
+    "Version": "5.6.2",
+    "Date": "15/7/2026",
+    "Size": 16147397,
+    "Sha256": "693477bbfcd4b507506b5926f5aca1489b4b0c873ae2417eb9109818ea6982f5",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/TeraTermProject/teraterm/releases/download/v5.6.1/teraterm-5.6.1-x64.zip"
+    "URI": "https://github.com/TeraTermProject/teraterm/releases/download/v5.6.2/teraterm-5.6.2-x64.zip"
   },
   {
-    "Version": "5.6.1",
-    "Date": "28/4/2026",
-    "Size": 15104783,
-    "Sha256": "c9fc3010cb617176f301a0bd1e0b595fa2ef0f44d44db77ddd5c0df43ac0a133",
+    "Version": "5.6.2",
+    "Date": "15/7/2026",
+    "Size": 15110853,
+    "Sha256": "f36213c59d28fe66fe96b2d78bcdddfeb5ad0b664b69af375b883d178893cfcf",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/TeraTermProject/teraterm/releases/download/v5.6.1/teraterm-5.6.1-x86.zip"
+    "URI": "https://github.com/TeraTermProject/teraterm/releases/download/v5.6.2/teraterm-5.6.2-x86.zip"
   }
 ]
