@@ -1320,6 +1320,11 @@
     "Link": "https://lehreroffice.net/"
   },
   {
+    "Name": "Letos",
+    "Application": "letos.org Letos",
+    "Link": "https://letos.org/"
+  },
+  {
     "Name": "LGTVCompanion",
     "Application": "Jörgen Persson LGTV Companion",
     "Link": "https://github.com/JPersson77/LGTVCompanion"
@@ -1708,6 +1713,11 @@
     "Name": "MozillaGeckoDriver",
     "Application": "Mozilla Gecko Driver",
     "Link": "https://developer.mozilla.org/en-US/docs/Web/WebDriver"
+  },
+  {
+    "Name": "MozillaPolicyTemplates",
+    "Application": "Mozilla Policy Templates",
+    "Link": "https://github.com/mozilla/policy-templates"
   },
   {
     "Name": "MozillaThunderbird",
@@ -2428,11 +2438,6 @@
     "Name": "SpyderIDE",
     "Application": "Spyder Project Contributors Spyder IDE",
     "Link": "https://www.spyder-ide.org/"
-  },
-  {
-    "Name": "SQLiteStudio",
-    "Application": "sqlitestudio.pl SQLiteStudio",
-    "Link": "https://sqlitestudio.pl/"
   },
   {
     "Name": "StefansToolsgrepWin",
