@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "4.0.1",
+    "Date": "6/7/2026",
+    "Size": 33554880,
+    "Sha256": "66a449f524a0aa8c868dd2f6bd28bbf57ca2ff00f4e5186988aa638830f79206",
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/pawelsalawa/letos/releases/download/4.0.1/Letos-4.0.1-windows-arm64-setup.exe"
+  },
+  {
+    "Version": "4.0.1",
+    "Date": "6/7/2026",
+    "Size": 35269304,
+    "Sha256": "fac036588ebd274f8f146640565b808003d446c94246076b7b0048adbde72abd",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/pawelsalawa/letos/releases/download/4.0.1/Letos-4.0.1-windows-x64-setup.exe"
+  }
+]

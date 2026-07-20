@@ -1,12 +1,12 @@
 [
   {
-    "Version": "1.9.29",
-    "Date": "11/7/2026",
-    "Size": 2860504,
-    "Sha256": "813ac615cd0331927fc8a63c0dd35a6f6eececde011472d172d6b7e903550ae6",
+    "Version": "1.9.30",
+    "Date": "20/7/2026",
+    "Size": 2855792,
+    "Sha256": "619e7db0f310dcb921b0de9a9ecc5febe11368cca5b4639e026619a6db91415a",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/chrisant996/clink/releases/download/v1.9.29/clink.1.9.29.fc1e8d_setup.exe"
+    "URI": "https://github.com/chrisant996/clink/releases/download/v1.9.30/clink.1.9.30.85f10f_setup.exe"
   }
 ]
