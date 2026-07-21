@@ -1,122 +1,122 @@
 [
   {
-    "Version": "1.28.2",
-    "Date": "15/6/2026",
-    "Size": 144334816,
-    "Sha256": "48e398971da8f518acd3d45c54a4a4333902e81bd7a0edd6987a7cc0c8377b2e",
+    "Version": "1.28.3",
+    "Date": "20/7/2026",
+    "Size": 144336064,
+    "Sha256": "17c97f744d9173274fc142cb7d3340fc6a5925f02692293a0a364966c3875c2f",
     "Architecture": "ARM64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.2/podman-desktop-1.28.2-arm64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.3/podman-desktop-1.28.3-arm64.exe"
   },
   {
-    "Version": "1.28.2",
-    "Date": "15/6/2026",
-    "Size": 144573136,
-    "Sha256": "dabfcb90d3a0816cc12ffc3c743e903f3cde7e19f81aedc053d05003a6a9cc6f",
+    "Version": "1.28.3",
+    "Date": "20/7/2026",
+    "Size": 144574384,
+    "Sha256": "a1650eea98d5724882d4d5d355aef292979c6410b3cb4ffa1b87d94aad028fb3",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.2/podman-desktop-1.28.2-setup-arm64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.3/podman-desktop-1.28.3-setup-arm64.exe"
   },
   {
-    "Version": "1.28.2",
-    "Date": "15/6/2026",
-    "Size": 375902096,
-    "Sha256": "aa67933d409bc11786bb741c0e6395e7fe3b2d214c66affd5c1d6058c6780343",
+    "Version": "1.28.3",
+    "Date": "20/7/2026",
+    "Size": 376047512,
+    "Sha256": "a04763f1659fcb2ed11a3fff3fb74990fe7704f09e5352df876e4a6284d1cfb0",
     "Architecture": "ARM64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.2/podman-desktop-airgap-1.28.2-arm64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.3/podman-desktop-airgap-1.28.3-arm64.exe"
   },
   {
-    "Version": "1.28.2",
-    "Date": "15/6/2026",
-    "Size": 376140416,
-    "Sha256": "bbd75f2b19c7794e2b26291cefa1b35cd23cd359b59abdb9e50631ca74500877",
+    "Version": "1.28.3",
+    "Date": "20/7/2026",
+    "Size": 376285832,
+    "Sha256": "b802e61cfcb01068cc13b51f25635e924850f42084ab882ac485192dd63515fc",
     "Architecture": "ARM64",
     "InstallerType": "Airgap",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.2/podman-desktop-airgap-1.28.2-setup-arm64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.3/podman-desktop-airgap-1.28.3-setup-arm64.exe"
   },
   {
-    "Version": "1.28.2",
-    "Date": "15/6/2026",
-    "Size": 146023784,
-    "Sha256": "2c54b2cdec30b736e6372f527b603a4618fc98a4f207b5c8a724e53cf3411639",
+    "Version": "1.28.3",
+    "Date": "20/7/2026",
+    "Size": 146041920,
+    "Sha256": "1b405749ae21b3c84d639fd01d6f667076d439a13e5498d2c084cb158bb6bb05",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.2/podman-desktop-1.28.2-setup-x64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.3/podman-desktop-1.28.3-setup-x64.exe"
   },
   {
-    "Version": "1.28.2",
-    "Date": "15/6/2026",
-    "Size": 145785104,
-    "Sha256": "85593ea14ad1e227f63bc00d180b3bdfba38e555d0fa557563be5ae2a8f36ada",
+    "Version": "1.28.3",
+    "Date": "20/7/2026",
+    "Size": 145803232,
+    "Sha256": "ed222f8df5a9259ec32851dc089172d3bfa95ef8d3d11e9b7f81eaf4fe34b8c1",
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.2/podman-desktop-1.28.2-x64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.3/podman-desktop-1.28.3-x64.exe"
   },
   {
-    "Version": "1.28.2",
-    "Date": "15/6/2026",
-    "Size": 391394376,
-    "Sha256": "2b76efa0619a18bbdcfa35ec2b172b257562d53041272883f1d42b0b4e33cf67",
+    "Version": "1.28.3",
+    "Date": "20/7/2026",
+    "Size": 391447072,
+    "Sha256": "a91007997767db16547400067d1210b5d047a3b2d0e55ad53c65ffcfc6fb1406",
     "Architecture": "x64",
     "InstallerType": "Airgap",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.2/podman-desktop-airgap-1.28.2-setup-x64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.3/podman-desktop-airgap-1.28.3-setup-x64.exe"
   },
   {
-    "Version": "1.28.2",
-    "Date": "15/6/2026",
-    "Size": 391155720,
-    "Sha256": "1014eaef0d921a9d01800549adf57256fc13018c5ba09eb1ab42e3047f4b022a",
+    "Version": "1.28.3",
+    "Date": "20/7/2026",
+    "Size": 391208320,
+    "Sha256": "c6563040913f394dfc8105ef7f7a22a4aa6509c56d8078c7a03de35328d6c767",
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.2/podman-desktop-airgap-1.28.2-x64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.3/podman-desktop-airgap-1.28.3-x64.exe"
   },
   {
-    "Version": "1.28.2",
-    "Date": "15/6/2026",
-    "Size": 289978112,
-    "Sha256": "95d16531e522622064506845a8bfc02e98d50ea00e722449464fe7ec356700e2",
+    "Version": "1.28.3",
+    "Date": "20/7/2026",
+    "Size": 289997504,
+    "Sha256": "45f55afc30105114f11df57348ca1de9c262c35fcc6cc5fd5b8ac03107c69f44",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.2/podman-desktop-1.28.2-setup.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.3/podman-desktop-1.28.3-setup.exe"
   },
   {
-    "Version": "1.28.2",
-    "Date": "15/6/2026",
-    "Size": 289739640,
-    "Sha256": "7285f2149187ccc1936efb991cd86616ef7d9aba5aa04c0afcf948da7aadf26c",
+    "Version": "1.28.3",
+    "Date": "20/7/2026",
+    "Size": 289759008,
+    "Sha256": "ef76f6f412946e1eb79d14a6ae0094456820c92a129928c502634ea5a8c85ca1",
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.2/podman-desktop-1.28.2.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.3/podman-desktop-1.28.3.exe"
   },
   {
-    "Version": "1.28.2",
-    "Date": "15/6/2026",
-    "Size": 766916000,
-    "Sha256": "177e62ceac4360246a5caeac727e62b635ab8b461b9ad893987b4597dd8b4142",
+    "Version": "1.28.3",
+    "Date": "20/7/2026",
+    "Size": 767114016,
+    "Sha256": "c0f5c6754fc57aa6339c60084b84250bfff4f8cdacb97d75bca9a5f73c4c0bb6",
     "Architecture": "x86",
     "InstallerType": "Airgap",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.2/podman-desktop-airgap-1.28.2-setup.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.3/podman-desktop-airgap-1.28.3-setup.exe"
   },
   {
-    "Version": "1.28.2",
-    "Date": "15/6/2026",
-    "Size": 766677528,
-    "Sha256": "ee6e92f90dec6278499f432fc04feb77944dad4b4cefb3e6821615c2401ac218",
+    "Version": "1.28.3",
+    "Date": "20/7/2026",
+    "Size": 766875544,
+    "Sha256": "b6b049c21dc4c8ffea549552704ed5f85245bcca9bc3d092b6752830bdce465b",
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.2/podman-desktop-airgap-1.28.2.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.28.3/podman-desktop-airgap-1.28.3.exe"
   }
 ]

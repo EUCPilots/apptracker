@@ -44,6 +44,50 @@
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b21569f8-429b-42fe-b8c4-0797a8e1a4ab/MicrosoftEdgeDevEnterpriseX86.msi"
   },
   {
+    "Version": "151.0.4129.35",
+    "Date": "2026-07-20T20:29:00",
+    "Channel": "Policy",
+    "Expiry": "2026-10-20T20:29:00",
+    "SHA256": "F35AF071A013601D0E576164AA1E093694E5E7C0EB3AE5A5B8EC80D6A0E2FA70",
+    "Size": 17.67,
+    "Architecture": "x86",
+    "Type": "cab",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/48573ff7-cf90-4f2f-9daa-a490ac1c0220/MicrosoftEdgePolicyTemplates.cab"
+  },
+  {
+    "Version": "151.0.4129.35",
+    "Date": "2026-07-20T20:10:00",
+    "Channel": "Beta",
+    "Expiry": "2026-10-20T20:10:00",
+    "SHA256": "34348A089B8BB9FE631CD5BA00DCDF6502E9AF7CFF69232DDF2830DF318D1D54",
+    "Size": 204.29,
+    "Architecture": "ARM64",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6278c6ab-9175-4954-8053-24c10d6347b9/MicrosoftEdgeBetaEnterpriseARM64.msi"
+  },
+  {
+    "Version": "151.0.4129.35",
+    "Date": "2026-07-20T20:09:00",
+    "Channel": "Beta",
+    "Expiry": "2026-10-20T20:09:00",
+    "SHA256": "E893B0D73FDFDEACFABBF561329D4B4D188B05DBB1023FA217090A2A346FE73B",
+    "Size": 200.35,
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ff303ca5-0517-4ff2-bb36-14047dc4b19c/MicrosoftEdgeBetaEnterpriseX64.msi"
+  },
+  {
+    "Version": "151.0.4129.35",
+    "Date": "2026-07-20T20:08:00",
+    "Channel": "Beta",
+    "Expiry": "2026-10-20T20:08:00",
+    "SHA256": "46EF8FE8EAC16EE4D627B712DE053B79D15041F9D5495C240DA9A7F2F4F2FF1F",
+    "Size": 175.98,
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/118f66be-1bc2-47aa-819d-8cd66f3b54e4/MicrosoftEdgeBetaEnterpriseX86.msi"
+  },
+  {
     "Version": "151.0.4129.21",
     "Date": "2026-07-13T18:21:00",
     "Channel": "Policy",
