@@ -1,12 +1,12 @@
 [
   {
-    "Version": "7.12",
-    "Date": "16/6/2026",
-    "Size": 130219,
-    "Sha256": "dc81b6b79de48fb13575437cf10a198f8992e54e9cdd324072110bdb89b6c113",
+    "Version": "8.0",
+    "Date": "21/7/2026",
+    "Size": 180929,
+    "Sha256": "444f1782f42ea58b84285aece19124f734070f3fe024d1c79656b5784d9bd003",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/mozilla/policy-templates/releases/download/v7.12/policy_templates_v7.12.zip"
+    "URI": "https://github.com/mozilla/policy-templates/releases/download/v8.0/policy_templates_v8.0.zip"
   }
 ]

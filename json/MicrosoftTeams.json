@@ -1,24 +1,24 @@
 [
   {
-    "Version": "26163.405.4842.717",
+    "Version": "26183.1903.4892.4448",
     "Release": "Enterprise",
     "Architecture": "ARM64",
     "Type": "msix",
-    "URI": "https://teamsinstaller.public.onecdn.static.microsoft/production-windows-arm64/26163.405.4842.717/MSTeams-arm64.msix"
+    "URI": "https://teamsinstaller.public.onecdn.static.microsoft/production-windows-arm64/26183.1903.4892.4448/MSTeams-arm64.msix"
   },
   {
-    "Version": "26163.405.4842.717",
+    "Version": "26183.1903.4892.4448",
     "Release": "Enterprise",
     "Architecture": "x64",
     "Type": "msix",
-    "URI": "https://teamsinstaller.public.onecdn.static.microsoft/production-windows-x64/26163.405.4842.717/MSTeams-x64.msix"
+    "URI": "https://teamsinstaller.public.onecdn.static.microsoft/production-windows-x64/26183.1903.4892.4448/MSTeams-x64.msix"
   },
   {
-    "Version": "26163.405.4842.717",
+    "Version": "26183.1903.4892.4448",
     "Release": "Enterprise",
     "Architecture": "x86",
     "Type": "msix",
-    "URI": "https://teamsinstaller.public.onecdn.static.microsoft/production-windows-x86/26163.405.4842.717/MSTeams-x86.msix"
+    "URI": "https://teamsinstaller.public.onecdn.static.microsoft/production-windows-x86/26183.1903.4892.4448/MSTeams-x86.msix"
   },
   {
     "Version": "25290.205.4069.4894",

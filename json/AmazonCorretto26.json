@@ -1,18 +1,18 @@
 [
   {
-    "Version": "26.0.1.8.1",
-    "Md5": "2555ede7161958c2159d75de68cd2ba5",
+    "Version": "26.0.2.10.1",
+    "Md5": "10bf676584fba496126de6f4027a4bf3",
     "Architecture": "x64",
     "ImageType": "JDK",
     "Type": "msi",
-    "URI": "https://corretto.aws/downloads/resources/26.0.1.8.1/amazon-corretto-26.0.1.8.1-windows-x64.msi"
+    "URI": "https://corretto.aws/downloads/resources/26.0.2.10.1/amazon-corretto-26.0.2.10.1-windows-x64.msi"
   },
   {
-    "Version": "26.0.1.8.1",
-    "Md5": "c3ebcbe2057c49d141be39369cb802f9",
+    "Version": "26.0.2.10.1",
+    "Md5": "f7b6263d29ff147f47b21a1d1c0b10aa",
     "Architecture": "x64",
     "ImageType": "JDK",
     "Type": "zip",
-    "URI": "https://corretto.aws/downloads/resources/26.0.1.8.1/amazon-corretto-26.0.1.8.1-windows-x64-jdk.zip"
+    "URI": "https://corretto.aws/downloads/resources/26.0.2.10.1/amazon-corretto-26.0.2.10.1-windows-x64-jdk.zip"
   }
 ]
