@@ -1,12 +1,12 @@
 [
   {
-    "Version": "3.10",
-    "Date": "4/6/2026",
-    "Size": 41164800,
-    "Sha256": "5334f560afb99efc2917c95ddd6d4337f4562f57b0122839b611854e2a6678e0",
+    "Version": "3.10.2",
+    "Date": "12/8/2026",
+    "Size": 41394176,
+    "Sha256": "937ed557c4565f4e7c7e1ee59cb059dfe8aafc9adb5b422bfdf688fcaee63a0b",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/jgm/pandoc/releases/download/3.10/pandoc-3.10-windows-x86_64.msi"
+    "URI": "https://github.com/jgm/pandoc/releases/download/3.10.2/pandoc-3.10.2-windows-x86_64.msi"
   }
 ]

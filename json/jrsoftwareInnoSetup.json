@@ -1,22 +1,22 @@
 [
   {
-    "Version": "is-7_0_2",
-    "Date": "11/7/2026",
-    "Size": 17020192,
-    "Sha256": "5ad54ca3def786f8f4212552e54cc6d8d61329e2d24a1cfee0571d42c2684ff1",
+    "Version": "is-7_1_0",
+    "Date": "10/8/2026",
+    "Size": 14304168,
+    "Sha256": "0362a383ed217d4c4239b5933866dd96d3eb2102737da92f80f6057a4b40df2f",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/jrsoftware/issrc/releases/download/is-7_0_2/innosetup-7.0.2-x64.exe"
+    "URI": "https://github.com/jrsoftware/issrc/releases/download/is-7_1_0/innosetup-7.1.0-x64.exe"
   },
   {
-    "Version": "is-7_0_2",
-    "Date": "11/7/2026",
-    "Size": 15682024,
-    "Sha256": "2b8734490a83f1ed074022b85d46c5ce9c3e2fbe9b63a45c28a74b478ac3a94f",
+    "Version": "is-7_1_0",
+    "Date": "10/8/2026",
+    "Size": 13119232,
+    "Sha256": "f9671174e0d15ba9b4f6b56564c6aed32ea8db9c3cb9bf6f2af0850fe7894f60",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/jrsoftware/issrc/releases/download/is-7_0_2/innosetup-7.0.2-x86.exe"
+    "URI": "https://github.com/jrsoftware/issrc/releases/download/is-7_1_0/innosetup-7.1.0-x86.exe"
   }
 ]

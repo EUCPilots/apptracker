@@ -1,42 +1,42 @@
 [
   {
-    "Version": "2.55.0.3",
-    "Date": "10/7/2026",
-    "Size": 63200704,
-    "Sha256": "e3d7f5a2214f214f0a93cf0d8915dab236a0e91c7de6de70a7dbde9a61c794db",
+    "Version": "2.55.0.4",
+    "Date": "22/7/2026",
+    "Size": 63197000,
+    "Sha256": "8d358f4d53a5a475570edca3124dc0d4f1a020321594984f58e6b04f86f50ec4",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.3/Git-2.55.0.3-arm64.exe"
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.4/Git-2.55.0.4-arm64.exe"
   },
   {
-    "Version": "2.55.0.3",
-    "Date": "10/7/2026",
-    "Size": 59163400,
-    "Sha256": "3bf26b94d9399b16a890776e468334f501742861576cbcdea2d9134643c374bd",
+    "Version": "2.55.0.4",
+    "Date": "22/7/2026",
+    "Size": 59191568,
+    "Sha256": "d69d0c6a3c5445553565ef74f1d9e22a9869f57c246111db347dd96c252b4da5",
     "Architecture": "ARM64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.3/PortableGit-2.55.0.3-arm64.7z.exe"
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.4/PortableGit-2.55.0.4-arm64.7z.exe"
   },
   {
-    "Version": "2.55.0.3",
-    "Date": "10/7/2026",
-    "Size": 65388144,
-    "Sha256": "af12577d0fdff74243a5988197aa49b957d5044edc17004f6ddf0768996f1dca",
+    "Version": "2.55.0.4",
+    "Date": "22/7/2026",
+    "Size": 65388168,
+    "Sha256": "0cbc0b34a74b3aff3ace0910328549155a770e228331b19cb1498218a120e7ff",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.3/Git-2.55.0.3-64-bit.exe"
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.4/Git-2.55.0.4-64-bit.exe"
   },
   {
-    "Version": "2.55.0.3",
-    "Date": "10/7/2026",
-    "Size": 58919776,
-    "Sha256": "ab00566336b5472120f9a52d34f2e79c5406535792acb0548001ffd0bd090e5d",
+    "Version": "2.55.0.4",
+    "Date": "22/7/2026",
+    "Size": 58915456,
+    "Sha256": "016e84230a3767f0c6b3788e79ba0c58a17377086801719d46700fca4f7b36b5",
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.3/PortableGit-2.55.0.3-64-bit.7z.exe"
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.4/PortableGit-2.55.0.4-64-bit.7z.exe"
   }
 ]

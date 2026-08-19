@@ -1,5 +1,23 @@
 [
   {
+    "Version": "7.1.6.8048",
+    "Platform": "Rooms",
+    "Installer": "User",
+    "Size": 454746336,
+    "Type": "exe",
+    "Architecture": "x64",
+    "URI": "https://cdn.zoom.us/prod/7.1.6.8048/x64/zoomrooms-7.1.6.8048-x64.exe"
+  },
+  {
+    "Version": "7.1.6.8048",
+    "Platform": "Rooms",
+    "Installer": "Admin",
+    "Size": 459788800,
+    "Type": "msi",
+    "Architecture": "x64",
+    "URI": "https://cdn.zoom.us/prod/7.1.6.8048/x64/zoomrooms-7.1.6.8048-x64.msi"
+  },
+  {
     "Version": "7.1.5.43453",
     "Platform": "Desktop",
     "Installer": "User",
@@ -34,24 +52,6 @@
     "Type": "msi",
     "Architecture": "x64",
     "URI": "https://cdn.zoom.us/prod/7.1.5.43453/x64/ZoomInstallerFull.msi"
-  },
-  {
-    "Version": "7.1.0.7866",
-    "Platform": "Rooms",
-    "Installer": "User",
-    "Size": 450245680,
-    "Type": "exe",
-    "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/7.1.0.7866/x64/zoomrooms-7.1.0.7866-x64.exe"
-  },
-  {
-    "Version": "7.1.0.7866",
-    "Platform": "Rooms",
-    "Installer": "Admin",
-    "Size": 455211008,
-    "Type": "msi",
-    "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/7.1.0.7866/x64/zoomrooms-7.1.0.7866-x64.msi"
   },
   {
     "Version": "7.1.0.1261",

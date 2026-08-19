@@ -1,7 +1,7 @@
 [
   {
-    "Version": "152.0.7965.0",
-    "StartDate": "2026-07-22T07:47:17.668275Z",
+    "Version": "153.0.8010.2",
+    "StartDate": "2026-08-18T20:48:26.301787Z",
     "EndDate": "N/A",
     "Channel": "Canary",
     "Architecture": "x64",
@@ -9,26 +9,26 @@
     "URI": "https://dl.google.com/update2/installers/chromesetup.exe"
   },
   {
-    "Version": "152.0.7953.3",
-    "StartDate": "2026-07-17T16:57:29.882195Z",
-    "EndDate": "N/A",
+    "Version": "153.0.8003.0",
+    "StartDate": "2026-08-13T18:10:46.700646Z",
+    "EndDate": "2026-08-15T08:16:19.867711Z",
     "Channel": "Dev",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
   },
   {
-    "Version": "152.0.7953.3",
-    "StartDate": "2026-07-17T16:57:29.882195Z",
-    "EndDate": "N/A",
+    "Version": "153.0.8003.0",
+    "StartDate": "2026-08-13T18:10:46.700646Z",
+    "EndDate": "2026-08-15T08:16:19.867711Z",
     "Channel": "Dev",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
-    "Version": "151.0.7922.34",
-    "StartDate": "2026-07-15T20:54:08.465704Z",
+    "Version": "152.0.7977.42",
+    "StartDate": "2026-08-12T16:55:46.046908Z",
     "EndDate": "N/A",
     "Channel": "Beta",
     "Architecture": "ARM64",
@@ -36,8 +36,8 @@
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise_arm64.msi"
   },
   {
-    "Version": "151.0.7922.34",
-    "StartDate": "2026-07-15T20:38:21.870822Z",
+    "Version": "152.0.7977.42",
+    "StartDate": "2026-08-12T21:09:07.353208Z",
     "EndDate": "N/A",
     "Channel": "Stable",
     "Architecture": "ARM64",
@@ -45,8 +45,8 @@
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise_arm64.msi"
   },
   {
-    "Version": "151.0.7922.34",
-    "StartDate": "2026-07-15T20:54:08.465704Z",
+    "Version": "152.0.7977.42",
+    "StartDate": "2026-08-12T16:55:46.046908Z",
     "EndDate": "N/A",
     "Channel": "Beta",
     "Architecture": "x64",
@@ -54,8 +54,8 @@
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi"
   },
   {
-    "Version": "151.0.7922.34",
-    "StartDate": "2026-07-15T20:38:21.870822Z",
+    "Version": "152.0.7977.42",
+    "StartDate": "2026-08-12T21:09:07.353208Z",
     "EndDate": "N/A",
     "Channel": "Stable",
     "Architecture": "x64",
@@ -63,8 +63,8 @@
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
   },
   {
-    "Version": "151.0.7922.34",
-    "StartDate": "2026-07-15T20:54:08.465704Z",
+    "Version": "152.0.7977.42",
+    "StartDate": "2026-08-12T16:55:46.046908Z",
     "EndDate": "N/A",
     "Channel": "Beta",
     "Architecture": "x86",
@@ -72,8 +72,8 @@
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
   },
   {
-    "Version": "151.0.7922.34",
-    "StartDate": "2026-07-15T20:38:21.870822Z",
+    "Version": "152.0.7977.42",
+    "StartDate": "2026-08-12T21:09:07.353208Z",
     "EndDate": "N/A",
     "Channel": "Stable",
     "Architecture": "x86",
@@ -81,8 +81,8 @@
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
   },
   {
-    "Version": "151.0.7922.34",
-    "StartDate": "2026-07-15T20:38:21.870822Z",
+    "Version": "152.0.7977.42",
+    "StartDate": "2026-08-12T21:09:07.353208Z",
     "EndDate": "N/A",
     "Channel": "Stable",
     "Architecture": "ARM64",
@@ -90,8 +90,8 @@
     "URI": "https://dl.google.com/dl/chrome/install/googlechromeenterprisebundle_arm64.zip"
   },
   {
-    "Version": "151.0.7922.34",
-    "StartDate": "2026-07-15T20:38:21.870822Z",
+    "Version": "152.0.7977.42",
+    "StartDate": "2026-08-12T21:09:07.353208Z",
     "EndDate": "N/A",
     "Channel": "Stable",
     "Architecture": "x64",
@@ -99,8 +99,8 @@
     "URI": "https://dl.google.com/dl/chrome/install/googlechromeenterprisebundle64.zip"
   },
   {
-    "Version": "151.0.7922.34",
-    "StartDate": "2026-07-15T20:38:21.870822Z",
+    "Version": "152.0.7977.42",
+    "StartDate": "2026-08-12T21:09:07.353208Z",
     "EndDate": "N/A",
     "Channel": "Stable",
     "Architecture": "x86",
@@ -108,8 +108,8 @@
     "URI": "https://dl.google.com/dl/chrome/install/googlechromeenterprisebundle.zip"
   },
   {
-    "Version": "150.0.7871.182",
-    "StartDate": "2026-07-21T20:42:41.457947Z",
+    "Version": "150.0.7871.250",
+    "StartDate": "2026-08-18T19:16:51.183472Z",
     "EndDate": "N/A",
     "Channel": "Extended",
     "Architecture": "ARM64",
@@ -117,8 +117,8 @@
     "URI": "https://dl.google.com/dl/chrome/install/extended/googlechromestandaloneenterprise_arm64.msi"
   },
   {
-    "Version": "150.0.7871.182",
-    "StartDate": "2026-07-21T20:42:41.457947Z",
+    "Version": "150.0.7871.250",
+    "StartDate": "2026-08-18T19:16:51.183472Z",
     "EndDate": "N/A",
     "Channel": "Extended",
     "Architecture": "x64",
@@ -126,8 +126,8 @@
     "URI": "https://dl.google.com/dl/chrome/install/extended/googlechromestandaloneenterprise64.msi"
   },
   {
-    "Version": "150.0.7871.182",
-    "StartDate": "2026-07-21T20:42:41.457947Z",
+    "Version": "150.0.7871.250",
+    "StartDate": "2026-08-18T19:16:51.183472Z",
     "EndDate": "N/A",
     "Channel": "Extended",
     "Architecture": "x86",
@@ -135,8 +135,8 @@
     "URI": "https://dl.google.com/dl/chrome/install/extended/googlechromestandaloneenterprise.msi"
   },
   {
-    "Version": "150.0.7871.182",
-    "StartDate": "2026-07-21T20:42:41.457947Z",
+    "Version": "150.0.7871.250",
+    "StartDate": "2026-08-18T19:16:51.183472Z",
     "EndDate": "N/A",
     "Channel": "Extended",
     "Architecture": "ARM64",
@@ -144,8 +144,8 @@
     "URI": "https://dl.google.com/dl/chrome/install/extended/googlechromeenterprisebundle_arm64.zip"
   },
   {
-    "Version": "150.0.7871.182",
-    "StartDate": "2026-07-21T20:42:41.457947Z",
+    "Version": "150.0.7871.250",
+    "StartDate": "2026-08-18T19:16:51.183472Z",
     "EndDate": "N/A",
     "Channel": "Extended",
     "Architecture": "x64",
@@ -153,8 +153,8 @@
     "URI": "https://dl.google.com/dl/chrome/install/extended/googlechromeenterprisebundle64.zip"
   },
   {
-    "Version": "150.0.7871.182",
-    "StartDate": "2026-07-21T20:42:41.457947Z",
+    "Version": "150.0.7871.250",
+    "StartDate": "2026-08-18T19:16:51.183472Z",
     "EndDate": "N/A",
     "Channel": "Extended",
     "Architecture": "x86",

@@ -1,66 +1,66 @@
 [
   {
-    "Version": "8.502.07.1",
-    "Md5": "367ee755de715aa77df7570687458654",
+    "Version": "8.504.01.1",
+    "Md5": "69b99a49764580e117c557e7a083cca4",
     "Architecture": "x64",
     "ImageType": "JDK",
     "Type": "msi",
-    "URI": "https://corretto.aws/downloads/resources/8.502.07.1/amazon-corretto-8.502.07.1-windows-x64-jdk.msi"
+    "URI": "https://corretto.aws/downloads/resources/8.504.01.1/amazon-corretto-8.504.01.1-windows-x64-jdk.msi"
   },
   {
-    "Version": "8.502.07.1",
-    "Md5": "aa64afee4126e646116197ef540fd2a1",
+    "Version": "8.504.01.1",
+    "Md5": "82bd00eea2b0db67da91e6a1f2037c44",
     "Architecture": "x64",
     "ImageType": "JRE",
     "Type": "msi",
-    "URI": "https://corretto.aws/downloads/resources/8.502.07.1/amazon-corretto-8.502.07.1-windows-x64-jre.msi"
+    "URI": "https://corretto.aws/downloads/resources/8.504.01.1/amazon-corretto-8.504.01.1-windows-x64-jre.msi"
   },
   {
-    "Version": "8.502.07.1",
-    "Md5": "bc25c3f538f972ce0f6d99b072737692",
+    "Version": "8.504.01.1",
+    "Md5": "1d54818d9d0adfc59ec4d43fef0732ce",
     "Architecture": "x86",
     "ImageType": "JDK",
     "Type": "msi",
-    "URI": "https://corretto.aws/downloads/resources/8.502.07.1/amazon-corretto-8.502.07.1-windows-x86-jdk.msi"
+    "URI": "https://corretto.aws/downloads/resources/8.504.01.1/amazon-corretto-8.504.01.1-windows-x86-jdk.msi"
   },
   {
-    "Version": "8.502.07.1",
-    "Md5": "fb9f055403b48480d55332a9b72c7958",
+    "Version": "8.504.01.1",
+    "Md5": "1b1227062246a9127ef127ea925d4603",
     "Architecture": "x86",
     "ImageType": "JRE",
     "Type": "msi",
-    "URI": "https://corretto.aws/downloads/resources/8.502.07.1/amazon-corretto-8.502.07.1-windows-x86-jre.msi"
+    "URI": "https://corretto.aws/downloads/resources/8.504.01.1/amazon-corretto-8.504.01.1-windows-x86-jre.msi"
   },
   {
-    "Version": "8.502.07.1",
-    "Md5": "cb4605046c020ae16bd27175c0f661ed",
+    "Version": "8.504.01.1",
+    "Md5": "41ca4f834ade2f0f7bcb6cf4bcb53b41",
     "Architecture": "x64",
     "ImageType": "JDK",
     "Type": "zip",
-    "URI": "https://corretto.aws/downloads/resources/8.502.07.1/amazon-corretto-8.502.07.1-windows-x64-jdk.zip"
+    "URI": "https://corretto.aws/downloads/resources/8.504.01.1/amazon-corretto-8.504.01.1-windows-x64-jdk.zip"
   },
   {
-    "Version": "8.502.07.1",
-    "Md5": "57b766d66c024f14d7aca6ddb5da203d",
+    "Version": "8.504.01.1",
+    "Md5": "8d1dd2838657f9b4660aef54505cf0fc",
     "Architecture": "x64",
     "ImageType": "JRE",
     "Type": "zip",
-    "URI": "https://corretto.aws/downloads/resources/8.502.07.1/amazon-corretto-8.502.07.1-windows-x64-jre.zip"
+    "URI": "https://corretto.aws/downloads/resources/8.504.01.1/amazon-corretto-8.504.01.1-windows-x64-jre.zip"
   },
   {
-    "Version": "8.502.07.1",
-    "Md5": "3e12598320177d25577545f3585431d6",
+    "Version": "8.504.01.1",
+    "Md5": "ff18412e8ded0ba2bc2f2fd38224daf6",
     "Architecture": "x86",
     "ImageType": "JDK",
     "Type": "zip",
-    "URI": "https://corretto.aws/downloads/resources/8.502.07.1/amazon-corretto-8.502.07.1-windows-x86-jdk.zip"
+    "URI": "https://corretto.aws/downloads/resources/8.504.01.1/amazon-corretto-8.504.01.1-windows-x86-jdk.zip"
   },
   {
-    "Version": "8.502.07.1",
-    "Md5": "567a38cc808a32642a351a0571735420",
+    "Version": "8.504.01.1",
+    "Md5": "e227e2ddc0acd6625204f765562d49e9",
     "Architecture": "x86",
     "ImageType": "JRE",
     "Type": "zip",
-    "URI": "https://corretto.aws/downloads/resources/8.502.07.1/amazon-corretto-8.502.07.1-windows-x86-jre.zip"
+    "URI": "https://corretto.aws/downloads/resources/8.504.01.1/amazon-corretto-8.504.01.1-windows-x86-jre.zip"
   }
 ]

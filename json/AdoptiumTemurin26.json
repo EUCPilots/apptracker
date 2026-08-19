@@ -1,22 +1,22 @@
 [
   {
-    "Version": "26.0.1+8",
-    "Date": "2026-05-15T10:16:51Z",
+    "Version": "26.0.2+10",
+    "Date": "2026-08-03T08:47:23Z",
     "ImageType": "jre",
-    "Checksum": "400bdf064a84e8cb47d442a054d8931fbfdf81a867ecb68c5b99541db32fabab",
-    "Size": 43925504,
+    "Checksum": "b35b3ded4429c10442e7809bf38b0000fc58d944b08e354c872938d638de4ee6",
+    "Size": 43905024,
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.1%2B8/OpenJDK26U-jre_x64_windows_hotspot_26.0.1_8.msi"
+    "URI": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_x64_windows_hotspot_26.0.2_10.msi"
   },
   {
-    "Version": "26.0.1+8",
-    "Date": "2026-05-15T10:16:19Z",
+    "Version": "26.0.2+10",
+    "Date": "2026-08-03T08:47:40Z",
     "ImageType": "jdk",
-    "Checksum": "d09792de6d928826a285421af01c9334118904b540a6bc3bfbd225f362e22670",
-    "Size": 118628352,
+    "Checksum": "80ca3c0874a4287c007f99ebaa5ea0e9ef73166c9b2a850009aa1e0b62648e57",
+    "Size": 118652928,
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.1%2B8/OpenJDK26U-jdk_x64_windows_hotspot_26.0.1_8.msi"
+    "URI": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jdk_x64_windows_hotspot_26.0.2_10.msi"
   }
 ]

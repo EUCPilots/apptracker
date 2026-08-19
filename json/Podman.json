@@ -1,32 +1,22 @@
 [
   {
-    "Version": "5.8.3",
-    "Date": "12/6/2026",
-    "Size": 26139184,
-    "Sha256": "f59b12f26f18c499b53a95501d4c12c205b7dafc2c1da84f1fa0ab47f583030e",
+    "Version": "6.1.0",
+    "Date": "12/8/2026",
+    "Size": 25694208,
+    "Sha256": "1d5f33844e168c0892e10f8e0e5c3085f250e5641f916ac1b7bf3665f97efbab",
     "Architecture": "ARM64",
     "InstallerType": "Default",
-    "Type": "exe",
-    "URI": "https://github.com/podman-container-tools/podman/releases/download/v5.8.3/podman-installer-windows-arm64.exe"
+    "Type": "msi",
+    "URI": "https://github.com/podman-container-tools/podman/releases/download/v6.1.0/podman-installer-windows-arm64.msi"
   },
   {
-    "Version": "5.8.3",
-    "Date": "12/6/2026",
-    "Size": 28262760,
-    "Sha256": "b87fe41c112062b3f598574ed4aa3fb82aaa4bc150b29eb4915400e59b0b6b55",
+    "Version": "6.1.0",
+    "Date": "12/8/2026",
+    "Size": 27852800,
+    "Sha256": "1958aac22abb3a9cf7b52626c71ba1a26015c323f0b5fa74671e303b22b043d3",
     "Architecture": "x64",
     "InstallerType": "Default",
-    "Type": "exe",
-    "URI": "https://github.com/podman-container-tools/podman/releases/download/v5.8.3/podman-installer-windows-amd64.exe"
-  },
-  {
-    "Version": "5.8.3",
-    "Date": "12/6/2026",
-    "Size": 28262760,
-    "Sha256": "b87fe41c112062b3f598574ed4aa3fb82aaa4bc150b29eb4915400e59b0b6b55",
-    "Architecture": "x86",
-    "InstallerType": "Default",
-    "Type": "exe",
-    "URI": "https://github.com/podman-container-tools/podman/releases/download/v5.8.3/podman-5.8.3-setup.exe"
+    "Type": "msi",
+    "URI": "https://github.com/podman-container-tools/podman/releases/download/v6.1.0/podman-installer-windows-amd64.msi"
   }
 ]

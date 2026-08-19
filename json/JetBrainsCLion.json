@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2026.2",
-    "Build": "262.8665.262",
+    "Version": "2026.2.1",
+    "Build": "262.9437.136",
     "Edition": "CLion",
-    "Sha256": "44e86485fcd0b23804d165a02bd9a002ace860198f4a62ca2168b638e30b7637",
-    "Date": "16/7/2026",
-    "Size": 1744060224,
+    "Sha256": "90f42c8361e5130dea7345a5cd46c358ee44c988ada21625689a407fcd0b3975",
+    "Date": "5/8/2026",
+    "Size": 1703326120,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/cpp/CLion-2026.2.exe"
+    "URI": "https://download.jetbrains.com/cpp/CLion-2026.2.1.exe"
   }
 ]

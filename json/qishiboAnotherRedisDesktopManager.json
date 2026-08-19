@@ -1,20 +1,32 @@
 [
   {
-    "Version": "1.7.1",
-    "Date": "28/12/2024",
-    "Size": 65016286,
+    "Version": "1.7.2",
+    "Date": "29/7/2026",
+    "Size": 65103283,
+    "Sha256": "e7c192f0afc7668962c941e0b81f02b4da6a5e8dea84682f68069594b9a28ee4",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/Another-Redis-Desktop-Manager-win-1.7.1-arm64.exe"
+    "URI": "https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/Another-Redis-Desktop-Manager-win-1.7.2-arm64.exe"
   },
   {
-    "Version": "1.7.1",
-    "Date": "28/12/2024",
-    "Size": 61848160,
+    "Version": "1.7.2",
+    "Date": "29/7/2026",
+    "Size": 61935133,
+    "Sha256": "6fe90477216437907d5d107ae9fffd3d9445a988fcfc7a1aee313faa693f1b1a",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/Another-Redis-Desktop-Manager-win-1.7.1-x64.exe"
+    "URI": "https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/Another-Redis-Desktop-Manager-win-1.7.2-x64.exe"
+  },
+  {
+    "Version": "1.7.2",
+    "Date": "29/7/2026",
+    "Size": 126105944,
+    "Sha256": "8d16d47e5fe27ea70343a85040c7f63b744e497f133b93813f7611eeaa4558b1",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/Another-Redis-Desktop-Manager-win-1.7.2.exe"
   }
 ]

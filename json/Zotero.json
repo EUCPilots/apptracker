@@ -1,38 +1,38 @@
 [
   {
-    "Version": "9.0.6",
+    "Version": "10.0",
     "Architecture": "ARM64",
     "Type": "exe",
-    "URI": "https://download.zotero.org/client/release/9.0.6/Zotero-9.0.6_arm64_setup.exe"
+    "URI": "https://download.zotero.org/client/release/10.0/Zotero-10.0_arm64_setup.exe"
   },
   {
-    "Version": "9.0.6",
+    "Version": "10.0",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://download.zotero.org/client/release/9.0.6/Zotero-9.0.6_x64_setup.exe"
+    "URI": "https://download.zotero.org/client/release/10.0/Zotero-10.0_x64_setup.exe"
   },
   {
-    "Version": "9.0.6",
+    "Version": "10.0",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://download.zotero.org/client/release/9.0.6/Zotero-9.0.6_win32_setup.exe"
+    "URI": "https://download.zotero.org/client/release/10.0/Zotero-10.0_win32_setup.exe"
   },
   {
-    "Version": "9.0.6",
+    "Version": "10.0",
     "Architecture": "ARM64",
     "Type": "zip",
-    "URI": "https://download.zotero.org/client/release/9.0.6/Zotero-9.0.6_win-arm64.zip"
+    "URI": "https://download.zotero.org/client/release/10.0/Zotero-10.0_win-arm64.zip"
   },
   {
-    "Version": "9.0.6",
+    "Version": "10.0",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://download.zotero.org/client/release/9.0.6/Zotero-9.0.6_win-x64.zip"
+    "URI": "https://download.zotero.org/client/release/10.0/Zotero-10.0_win-x64.zip"
   },
   {
-    "Version": "9.0.6",
+    "Version": "10.0",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://download.zotero.org/client/release/9.0.6/Zotero-9.0.6_win32.zip"
+    "URI": "https://download.zotero.org/client/release/10.0/Zotero-10.0_win32.zip"
   }
 ]

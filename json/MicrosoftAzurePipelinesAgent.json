@@ -1,14 +1,14 @@
 [
   {
-    "Version": "5.275.0",
+    "Version": "5.277.0",
     "Type": "zip",
     "Architecture": "x64",
-    "URI": "https://download.agent.dev.azure.com/agent/5.275.0/vsts-agent-win-x64-5.275.0.zip"
+    "URI": "https://download.agent.dev.azure.com/agent/5.277.0/vsts-agent-win-x64-5.277.0.zip"
   },
   {
-    "Version": "5.275.0",
+    "Version": "5.277.0",
     "Type": "zip",
     "Architecture": "x86",
-    "URI": "https://download.agent.dev.azure.com/agent/5.275.0/vsts-agent-win-x86-5.275.0.zip"
+    "URI": "https://download.agent.dev.azure.com/agent/5.277.0/vsts-agent-win-x86-5.277.0.zip"
   }
 ]

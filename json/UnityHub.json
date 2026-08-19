@@ -1,20 +1,11 @@
 [
   {
-    "Version": "3.19.4",
-    "Date": "2026-07-07T17:47:57.627+00:00",
-    "Architecture": "ARM64",
-    "Size": 186784960,
-    "Sha512": "Ek9RyWj5ATMhYId5in+N0V8UnnHatQau6EAbMsBqb6i0uTMjYoJJpfOdCCfWyuMF10penpPkidnFPX5Pnpb2Yg==",
-    "Type": "exe",
-    "URI": "https://public-cdn.cloud.unity3d.com/hub/prod/3.19.4/UnityHubSetup-3.19.4-arm64.exe"
-  },
-  {
-    "Version": "3.19.4",
-    "Date": "2026-07-07T17:47:57.627+00:00",
+    "Version": "3.21.0",
+    "Date": "2026-08-18T15:16:19.734+00:00",
     "Architecture": "x64",
-    "Size": 187238512,
-    "Sha512": "synm7vq4aDgaZdyiFaS2BkV50hVbk3Y4lK7Z47FbvWtGg1YrNx2Y2dhpfg42AQfYp36klcAPyJOgQ4+7uOxtPg==",
+    "Size": 179870016,
+    "Sha512": "7zMT00OZ8v4qHZIDbpmnbz7WSHSrHeWC0+gwzQxiQPjR/+pPN71L1Xyllqnbt1UYpokDKzPbuEEw1ej6e5EiqQ==",
     "Type": "exe",
-    "URI": "https://public-cdn.cloud.unity3d.com/hub/prod/3.19.4/UnityHubSetup-3.19.4-x64.exe"
+    "URI": "https://public-cdn.cloud.unity3d.com/hub/prod/3.21.0/UnityHubSetup-3.21.0-x64.exe"
   }
 ]

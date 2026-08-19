@@ -1,12 +1,12 @@
 [
   {
-    "Version": "SP_54221_64bit",
-    "Date": "7/4/2026",
-    "Size": 209807241,
-    "Sha256": "1b473a709e4d69128f52b30426a423f44d181cefc6460e88b4f519f534cc6583",
+    "Version": "SP_54231_64bit",
+    "Date": "17/8/2026",
+    "Size": 210153216,
+    "Sha256": "b0adbd4f1b3fc0a91b96cdff647cabcb6d3dd4bf05d9ee6f4f4fb76913ac57cd",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/StrawberryPerl/Perl-Dist-Strawberry/releases/download/SP_54221_64bit/strawberry-perl-5.42.2.1-64bit.msi"
+    "URI": "https://github.com/StrawberryPerl/Perl-Dist-Strawberry/releases/download/SP_54231_64bit/strawberry-perl-5.42.3.1-64bit.msi"
   }
 ]

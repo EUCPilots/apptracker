@@ -1,19 +1,19 @@
 [
   {
-    "Version": "1.2.6.0",
-    "Date": "26/12/2025",
-    "Size": 67786088,
-    "Sha256": "afa7698db7d6d811af5f0c849541a59bf0f6d0ce07c55a09f9dd9be881f29785",
+    "Version": "1.2.13.0",
+    "Date": "18/8/2026",
+    "Size": 70275688,
+    "Sha256": "575da6ddc8c7841092deaa0b1cc0729bbbca224e8d6af303675a0fd75fb0d7f6",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/fxsound2/fxsound-app/releases/download/latest/fxsound_setup.arm64.exe"
   },
   {
-    "Version": "1.2.6.0",
-    "Date": "26/12/2025",
-    "Size": 72514648,
-    "Sha256": "d97f1d58d36a1cc5748749b12c691c537342c0a3ccdce125e6cefefb1287e2e1",
+    "Version": "1.2.13.0",
+    "Date": "18/8/2026",
+    "Size": 77977536,
+    "Sha256": "975cc9fa6feb3c0963e771e4c4cd54917c95ef361db620a4d487e84847a5ff5e",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",

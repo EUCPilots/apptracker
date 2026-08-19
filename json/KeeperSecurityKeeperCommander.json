@@ -1,12 +1,12 @@
 [
   {
-    "Version": "18.0.13",
-    "Date": "17/7/2026",
-    "Size": 72028368,
-    "Sha256": "672f9e5717dfb9a0a9163ad07ac6d7d98be91d214ba49315e627e27b47b09e52",
+    "Version": "18.1.1",
+    "Date": "14/8/2026",
+    "Size": 72751752,
+    "Sha256": "407e11b5bef944868783db8ac7419284578e526abe33446d8df2201032766221",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Keeper-Security/Commander/releases/download/v18.0.13/keeper-commander-windows-v18.0.13.exe"
+    "URI": "https://github.com/Keeper-Security/Commander/releases/download/v18.1.1/keeper-commander-windows-v18.1.1.exe"
   }
 ]

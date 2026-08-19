@@ -1,22 +1,22 @@
 [
   {
-    "Version": "0.6.12",
-    "Date": "30/6/2026",
-    "Size": 104756192,
-    "Sha256": "0a971f691e72885e00663f6c200a5847f1561c59a91ad265f7dd31ddf470ab7e",
+    "Version": "2026.7.1",
+    "Date": "11/8/2026",
+    "Size": 108011960,
+    "Sha256": "3ea8ea9d58ef3637fe1ce67b139330bc1e8bc585c7155b47e58243a7f9e93c8c",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/openclaw/openclaw-windows-node/releases/download/v0.6.12/OpenClawCompanion-Setup-arm64.exe"
+    "URI": "https://github.com/openclaw/openclaw-windows-node/releases/download/v2026.7.1/OpenClawCompanion-Setup-arm64.exe"
   },
   {
-    "Version": "0.6.12",
-    "Date": "30/6/2026",
-    "Size": 119668336,
-    "Sha256": "b5e18b9210d606b921d94cea4e695a56ebae9862038e77e0483b552585d4d42b",
+    "Version": "2026.7.1",
+    "Date": "11/8/2026",
+    "Size": 122306488,
+    "Sha256": "0fad205697dc92a020be4c5809ecdf2f383258f5a54914922399787e1a4afa1b",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/openclaw/openclaw-windows-node/releases/download/v0.6.12/OpenClawCompanion-Setup-x64.exe"
+    "URI": "https://github.com/openclaw/openclaw-windows-node/releases/download/v2026.7.1/OpenClawCompanion-Setup-x64.exe"
   }
 ]

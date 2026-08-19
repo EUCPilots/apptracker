@@ -1,12 +1,12 @@
 [
   {
-    "Version": "5.1.24",
-    "Date": "28/5/2026",
-    "Size": 109722248,
-    "Sha256": "960908076ef0adcfbbf31a68290363f3ce16891cae067e9be3e73cfee1c44d62",
+    "Version": "5.2.5",
+    "Date": "10/8/2026",
+    "Size": 122241720,
+    "Sha256": "52a7a782d3a3515cda172330e84c5cb4263379dfdd2271fb852d7bd1059b66eb",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/phcode-dev/phoenix-desktop/releases/download/prod-app-v5.1.24/Phoenix.Code_5.1.24_x64-setup.exe"
+    "URI": "https://github.com/phcode-dev/phoenix-desktop/releases/download/prod-app-v5.2.5/Phoenix.Code_5.2.5_x64-setup.exe"
   }
 ]

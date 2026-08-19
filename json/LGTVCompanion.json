@@ -1,22 +1,22 @@
 [
   {
-    "Version": "5.6.0",
-    "Date": "12/6/2026",
+    "Version": "5.7.0",
+    "Date": "17/8/2026",
     "Size": 9539584,
-    "Sha256": "7b9bd855b331fca0160b8bfd5f12cb84fe4f9d1616b69f8ad82737edf0613cc3",
+    "Sha256": "c1aad0231929bfb7690e13fd30d2b6752aeb24198ff1f13171bb22a19f155f00",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/JPersson77/LGTVCompanion/releases/download/v5.6.0/LGTV.Companion.Setup.ARM64.msi"
+    "URI": "https://github.com/JPersson77/LGTVCompanion/releases/download/v5.7.0/LGTV.Companion.Setup.ARM64.msi"
   },
   {
-    "Version": "5.6.0",
-    "Date": "12/6/2026",
+    "Version": "5.7.0",
+    "Date": "17/8/2026",
     "Size": 8638464,
-    "Sha256": "70db49dd577712987762288ac1d638971c2f6775240575f1d4e0f81e3d6ddcef",
+    "Sha256": "cc0d0ef17104fd7ab2b04753ab0d54521a311ac8b5b2abddb9c25e09c7eac139",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/JPersson77/LGTVCompanion/releases/download/v5.6.0/LGTV.Companion.Setup.x64.msi"
+    "URI": "https://github.com/JPersson77/LGTVCompanion/releases/download/v5.7.0/LGTV.Companion.Setup.x64.msi"
   }
 ]

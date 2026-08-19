@@ -1,152 +1,152 @@
 [
   {
-    "Version": "2.43.1",
-    "Date": "22/3/2026",
-    "Size": 7319552,
-    "Sha256": "5c722d85708f1f2293b36691a2db36004c42d69431eb51ee49bd17e58346093f",
+    "Version": "2.43.2",
+    "Date": "28/7/2026",
+    "Size": 7372800,
+    "Sha256": "c6d99544964bb22480fc82958677c4fce74f426dfdd7ed1697d95e12b5b7e6c2",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.1/ScreenToGif.2.43.1.Light.Setup.Arm64.msi"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Light.Setup.Arm64.msi"
   },
   {
-    "Version": "2.43.1",
-    "Date": "22/3/2026",
-    "Size": 70823936,
-    "Sha256": "49032fffd6254098bbee1776c6a697da2876215a563227ea5cb0aca5d1c2f6d7",
+    "Version": "2.43.2",
+    "Date": "28/7/2026",
+    "Size": 70791168,
+    "Sha256": "6e5f16cafdcdb6c83096ad8aec647fae60e53734ebd1884ccf39e7008cdf81df",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.1/ScreenToGif.2.43.1.Setup.Arm64.msi"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Setup.Arm64.msi"
   },
   {
-    "Version": "2.43.1",
-    "Date": "22/3/2026",
-    "Size": 7368704,
-    "Sha256": "79ebaaf95e63c66acc94e1cfbe72b299aa173c5054d542464538ce98dafddf64",
+    "Version": "2.43.2",
+    "Date": "28/7/2026",
+    "Size": 7426048,
+    "Sha256": "37aa0a58daeafbb068ed5039d93892399a25568610b63b7d1e6c3f007d10b8cc",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.1/ScreenToGif.2.43.1.Light.Setup.x64.msi"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Light.Setup.x64.msi"
   },
   {
-    "Version": "2.43.1",
-    "Date": "22/3/2026",
-    "Size": 75161600,
-    "Sha256": "3af267374782a40dde9b9b4537e743bdc70e89dde104addcc9c15500c90abe4b",
+    "Version": "2.43.2",
+    "Date": "28/7/2026",
+    "Size": 75137024,
+    "Sha256": "b494e929ac250d0e09cf2803cd172cc5580d9c35df179b022b451304a06df4a7",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.1/ScreenToGif.2.43.1.Setup.x64.msi"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Setup.x64.msi"
   },
   {
-    "Version": "2.43.1",
-    "Date": "22/3/2026",
-    "Size": 7311360,
-    "Sha256": "48df02c71a2239735d323f3e98cd03f4ac1f9ab22fd359440b33884074d498b8",
+    "Version": "2.43.2",
+    "Date": "28/7/2026",
+    "Size": 7372800,
+    "Sha256": "66075008f8dda74775ed530e7d12af6d47894861fcc9c723965833760f43019a",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.1/ScreenToGif.2.43.1.Light.Setup.x86.msi"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Light.Setup.x86.msi"
   },
   {
-    "Version": "2.43.1",
-    "Date": "22/3/2026",
-    "Size": 69890048,
-    "Sha256": "b28e548bc68ebf70670e544b382c1aa6bb9fb2064ab38d5f5f24b7197453c0e1",
+    "Version": "2.43.2",
+    "Date": "28/7/2026",
+    "Size": 69849088,
+    "Sha256": "216c90afa47cc6ef91c4c10f7c2d5519797b5172cd0fc3dd93b1901b6dd258fe",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.1/ScreenToGif.2.43.1.Setup.x86.msi"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Setup.x86.msi"
   },
   {
-    "Version": "2.43.1",
-    "Date": "22/3/2026",
-    "Size": 69420741,
-    "Sha256": "23bdd344a21d098ddc8a74649ceee285b2285db2dda53ba94c7b1d3dd849259c",
+    "Version": "2.43.2",
+    "Date": "28/7/2026",
+    "Size": 69423961,
+    "Sha256": "c189aeb16ec3a4ae474e4b98cbe06799ce4983d8cd3d14526a15051184028403",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msix",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.1/ScreenToGif.2.43.1.Package.arm64.msix"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Package.arm64.msix"
   },
   {
-    "Version": "2.43.1",
-    "Date": "22/3/2026",
-    "Size": 73714326,
-    "Sha256": "23c5eb214ce66ac86543da079c54c52d8b616a20cc42757067df8ddcfb1b9423",
+    "Version": "2.43.2",
+    "Date": "28/7/2026",
+    "Size": 73717762,
+    "Sha256": "8216469d4bc01243da88188f186396001393d13a8d8d9d2804853c6c6c3ab166",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msix",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.1/ScreenToGif.2.43.1.Package.x64.msix"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Package.x64.msix"
   },
   {
-    "Version": "2.43.1",
-    "Date": "22/3/2026",
-    "Size": 67739296,
-    "Sha256": "e97d870f77123606d0cf84af665e89b12b29119b3a0af531663b9de30ceae295",
+    "Version": "2.43.2",
+    "Date": "28/7/2026",
+    "Size": 67744097,
+    "Sha256": "71fe973b23095fb8220f96b5877b445644561c41c47896006c7326f498c866e0",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msix",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.1/ScreenToGif.2.43.1.Package.x86.msix"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Package.x86.msix"
   },
   {
-    "Version": "2.43.1",
-    "Date": "22/3/2026",
-    "Size": 5231432,
-    "Sha256": "f8df5eaea3b17ccdb076d2395a75d66c73e05371101801b1eea9eb664a70871e",
+    "Version": "2.43.2",
+    "Date": "28/7/2026",
+    "Size": 5283363,
+    "Sha256": "3d07dca04ea75200f2e5e9df4532e483c76438d211b6834ee1b7e21d432c0302",
     "Architecture": "ARM64",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.1/ScreenToGif.2.43.1.Light.Portable.Arm64.zip"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Light.Portable.Arm64.zip"
   },
   {
-    "Version": "2.43.1",
-    "Date": "22/3/2026",
-    "Size": 68684726,
-    "Sha256": "fb9baa31c508c52e5f8441cf888961f2d834171fdb4a9664e19469f1ff747659",
+    "Version": "2.43.2",
+    "Date": "28/7/2026",
+    "Size": 68648455,
+    "Sha256": "ab92de243ebb18a7571cc7d2ae518339bfe022af0d2f09c044c53ccfb9a65cc2",
     "Architecture": "ARM64",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.1/ScreenToGif.2.43.1.Portable.Arm64.zip"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Portable.Arm64.zip"
   },
   {
-    "Version": "2.43.1",
-    "Date": "22/3/2026",
-    "Size": 5245666,
-    "Sha256": "e07925052edfc720c0183b10401e998939787bb12ebb00062b794634f544a7f7",
+    "Version": "2.43.2",
+    "Date": "28/7/2026",
+    "Size": 5296103,
+    "Sha256": "455999ae2672728ee7da6438896207193e7586ad7370000f0e2cdbdc8df822a2",
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.1/ScreenToGif.2.43.1.Light.Portable.x64.zip"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Light.Portable.x64.zip"
   },
   {
-    "Version": "2.43.1",
-    "Date": "22/3/2026",
-    "Size": 73064460,
-    "Sha256": "df295530f91cb79d7428c4103d4d1af67c315f9a57de231ed4ca3aed687bb5ff",
+    "Version": "2.43.2",
+    "Date": "28/7/2026",
+    "Size": 73035883,
+    "Sha256": "42a0b53d67ecae22698b4881ffb2c9c7a9049663f5fbdd2edb779e1971000664",
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.1/ScreenToGif.2.43.1.Portable.x64.zip"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Portable.x64.zip"
   },
   {
-    "Version": "2.43.1",
-    "Date": "22/3/2026",
-    "Size": 5228082,
-    "Sha256": "53cb6f410dba5f142e2ab7d4915fec351961bf50242ee0caf471ad15366996e7",
+    "Version": "2.43.2",
+    "Date": "28/7/2026",
+    "Size": 5279766,
+    "Sha256": "ae0357ec4e380b03dd0fd990db3362620365fa46ad6a990ae6c4790b4a1177b6",
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.1/ScreenToGif.2.43.1.Light.Portable.x86.zip"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Light.Portable.x86.zip"
   },
   {
-    "Version": "2.43.1",
-    "Date": "22/3/2026",
-    "Size": 67733412,
-    "Sha256": "3d52d0678d0c2f23b21fd08a1d9ca9c896a3d61ab27b6c74aa05d77811b09532",
+    "Version": "2.43.2",
+    "Date": "28/7/2026",
+    "Size": 67680368,
+    "Sha256": "f378cd84065fa5f24af266213bfb5dad66e661374967586b8374203b970b445e",
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.1/ScreenToGif.2.43.1.Portable.x86.zip"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Portable.x86.zip"
   }
 ]

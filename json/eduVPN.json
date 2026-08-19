@@ -1,38 +1,38 @@
 [
   {
-    "Version": "4.6",
-    "Date": "7/7/2026",
-    "Size": 39925720,
+    "Version": "4.6.1",
+    "Date": "23/7/2026",
+    "Size": 39939280,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://codeberg.org/eduVPN/windows/releases/download/4.6/eduVPNClient_4.6.exe"
+    "URI": "https://codeberg.org/eduVPN/windows/releases/download/4.6.1/eduVPNClient_4.6.1.exe"
   },
   {
-    "Version": "4.6",
-    "Date": "7/7/2026",
+    "Version": "4.6.1",
+    "Date": "23/7/2026",
     "Size": 12750848,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://codeberg.org/eduVPN/windows/releases/download/4.6/eduVPNClient_4.6_ARM64.msi"
+    "URI": "https://codeberg.org/eduVPN/windows/releases/download/4.6.1/eduVPNClient_4.6.1_ARM64.msi"
   },
   {
-    "Version": "4.6",
-    "Date": "7/7/2026",
-    "Size": 13828096,
+    "Version": "4.6.1",
+    "Date": "23/7/2026",
+    "Size": 13832192,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://codeberg.org/eduVPN/windows/releases/download/4.6/eduVPNClient_4.6_x64.msi"
+    "URI": "https://codeberg.org/eduVPN/windows/releases/download/4.6.1/eduVPNClient_4.6.1_x64.msi"
   },
   {
-    "Version": "4.6",
-    "Date": "7/7/2026",
-    "Size": 13037568,
+    "Version": "4.6.1",
+    "Date": "23/7/2026",
+    "Size": 13045760,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://codeberg.org/eduVPN/windows/releases/download/4.6/eduVPNClient_4.6_x86.msi"
+    "URI": "https://codeberg.org/eduVPN/windows/releases/download/4.6.1/eduVPNClient_4.6.1_x86.msi"
   }
 ]
