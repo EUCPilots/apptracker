@@ -1,5 +1,85 @@
 [
   {
+    "Version": "8u504+1",
+    "LTS": true,
+    "BundleType": "jdk-full",
+    "Type": "msi",
+    "Architecture": "x64",
+    "Sha1": "a920371d3d3d09bdf3751bc9de87216d5fb4ec2e",
+    "Size": 148758528,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u504+1/bellsoft-jdk8u504+1-windows-amd64-full.msi"
+  },
+  {
+    "Version": "8u504+1",
+    "LTS": true,
+    "BundleType": "jdk-lite",
+    "Type": "msi",
+    "Architecture": "x64",
+    "Sha1": "ffeec5012280e1e2320581bc56dfe661f0431b4c",
+    "Size": 53415936,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u504+1/bellsoft-jdk8u504+1-windows-amd64-lite.msi"
+  },
+  {
+    "Version": "8u502+9",
+    "LTS": true,
+    "BundleType": "jre-full",
+    "Type": "msi",
+    "Architecture": "x64",
+    "Sha1": "3c3f4898a17eeb8e9b034d0930b09c97ce1d7c9d",
+    "Size": 83611648,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u502+9/bellsoft-jre8u502+9-windows-amd64-full.msi"
+  },
+  {
+    "Version": "8u504+1",
+    "LTS": true,
+    "BundleType": "jdk",
+    "Type": "msi",
+    "Architecture": "x64",
+    "Sha1": "76872826dcba3771596108dc43ce653f7ccfc93b",
+    "Size": 104435712,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u504+1/bellsoft-jdk8u504+1-windows-amd64.msi"
+  },
+  {
+    "Version": "8u504+1",
+    "LTS": true,
+    "BundleType": "jre-full",
+    "Type": "msi",
+    "Architecture": "x64",
+    "Sha1": "5d7f2ae45ee0eda40527032d823aea8ceca7b218",
+    "Size": 83615744,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u504+1/bellsoft-jre8u504+1-windows-amd64-full.msi"
+  },
+  {
+    "Version": "8u502+9",
+    "LTS": true,
+    "BundleType": "jdk",
+    "Type": "msi",
+    "Architecture": "x64",
+    "Sha1": "ea82f63c9dd331f75d537d657420db8c5f5c89ff",
+    "Size": 104431616,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u502+9/bellsoft-jdk8u502+9-windows-amd64.msi"
+  },
+  {
+    "Version": "8u504+1",
+    "LTS": true,
+    "BundleType": "jre",
+    "Type": "msi",
+    "Architecture": "x64",
+    "Sha1": "a24b288320d0aed8c7be2796861cced8e8b9db60",
+    "Size": 40939520,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u504+1/bellsoft-jre8u504+1-windows-amd64.msi"
+  },
+  {
+    "Version": "8u502+9",
+    "LTS": true,
+    "BundleType": "jre",
+    "Type": "msi",
+    "Architecture": "x64",
+    "Sha1": "c9f32facf023a41107e53373ea709bd1d18a4c9a",
+    "Size": 40939520,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u502+9/bellsoft-jre8u502+9-windows-amd64.msi"
+  },
+  {
     "Version": "8u502+9",
     "LTS": true,
     "BundleType": "jdk-full",
@@ -20,54 +100,54 @@
     "URI": "https://github.com/bell-sw/Liberica/releases/download/8u502+9/bellsoft-jdk8u502+9-windows-amd64-lite.msi"
   },
   {
-    "Version": "8u502+9",
+    "Version": "8u504+1",
+    "LTS": true,
+    "BundleType": "jdk-full",
+    "Type": "msi",
+    "Architecture": "x86",
+    "Sha1": "e1331bac968d853ca9e719005a077ef87e62fde3",
+    "Size": 147894272,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u504+1/bellsoft-jdk8u504+1-windows-i586-full.msi"
+  },
+  {
+    "Version": "8u504+1",
+    "LTS": true,
+    "BundleType": "jdk-lite",
+    "Type": "msi",
+    "Architecture": "x86",
+    "Sha1": "7763e4f6368ee3d7d62dbb6486c95c32afd5f9a6",
+    "Size": 52498432,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u504+1/bellsoft-jdk8u504+1-windows-i586-lite.msi"
+  },
+  {
+    "Version": "8u504+1",
     "LTS": true,
     "BundleType": "jdk",
     "Type": "msi",
-    "Architecture": "x64",
-    "Sha1": "ea82f63c9dd331f75d537d657420db8c5f5c89ff",
-    "Size": 104431616,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u502+9/bellsoft-jdk8u502+9-windows-amd64.msi"
+    "Architecture": "x86",
+    "Sha1": "79de893cf58e0212ca768e877ba82f25bc6eaa83",
+    "Size": 105267200,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u504+1/bellsoft-jdk8u504+1-windows-i586.msi"
   },
   {
-    "Version": "8u502+9",
-    "LTS": true,
-    "BundleType": "jre-full",
-    "Type": "msi",
-    "Architecture": "x64",
-    "Sha1": "3c3f4898a17eeb8e9b034d0930b09c97ce1d7c9d",
-    "Size": 83611648,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u502+9/bellsoft-jre8u502+9-windows-amd64-full.msi"
-  },
-  {
-    "Version": "8u502+9",
+    "Version": "8u504+1",
     "LTS": true,
     "BundleType": "jre",
     "Type": "msi",
-    "Architecture": "x64",
-    "Sha1": "c9f32facf023a41107e53373ea709bd1d18a4c9a",
-    "Size": 40939520,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u502+9/bellsoft-jre8u502+9-windows-amd64.msi"
+    "Architecture": "x86",
+    "Sha1": "8cc5a215f1abe7e56d1c9bf8db0b7f1d2981c9d3",
+    "Size": 39247872,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u504+1/bellsoft-jre8u504+1-windows-i586.msi"
   },
   {
     "Version": "8u502+9",
     "LTS": true,
-    "BundleType": "jre-full",
+    "BundleType": "jdk-full",
     "Type": "msi",
     "Architecture": "x86",
-    "Sha1": "760943570abea2e483c2d27da1cb6e87779470df",
-    "Size": 80355328,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u502+9/bellsoft-jre8u502+9-windows-i586-full.msi"
-  },
-  {
-    "Version": "8u502+9",
-    "LTS": true,
-    "BundleType": "jdk",
-    "Type": "msi",
-    "Architecture": "x86",
-    "Sha1": "5b97d64d9def3a00bce065e6c10119f0ca6dce2b",
-    "Size": 105263104,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u502+9/bellsoft-jdk8u502+9-windows-i586.msi"
+    "Sha1": "c2dc230116c7072baed79574cf996da0f9b4e280",
+    "Size": 147890176,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u502+9/bellsoft-jdk8u502+9-windows-i586-full.msi"
   },
   {
     "Version": "8u502+9",
@@ -82,12 +162,32 @@
   {
     "Version": "8u502+9",
     "LTS": true,
-    "BundleType": "jdk-full",
+    "BundleType": "jdk",
     "Type": "msi",
     "Architecture": "x86",
-    "Sha1": "c2dc230116c7072baed79574cf996da0f9b4e280",
-    "Size": 147890176,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u502+9/bellsoft-jdk8u502+9-windows-i586-full.msi"
+    "Sha1": "5b97d64d9def3a00bce065e6c10119f0ca6dce2b",
+    "Size": 105263104,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u502+9/bellsoft-jdk8u502+9-windows-i586.msi"
+  },
+  {
+    "Version": "8u502+9",
+    "LTS": true,
+    "BundleType": "jre-full",
+    "Type": "msi",
+    "Architecture": "x86",
+    "Sha1": "760943570abea2e483c2d27da1cb6e87779470df",
+    "Size": 80355328,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u502+9/bellsoft-jre8u502+9-windows-i586-full.msi"
+  },
+  {
+    "Version": "8u504+1",
+    "LTS": true,
+    "BundleType": "jre-full",
+    "Type": "msi",
+    "Architecture": "x86",
+    "Sha1": "cd707825936903b1b9bfede2b29b4348ec8c96e5",
+    "Size": 80355328,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u504+1/bellsoft-jre8u504+1-windows-i586-full.msi"
   },
   {
     "Version": "8u502+9",
@@ -110,6 +210,16 @@
     "URI": "https://github.com/bell-sw/Liberica/releases/download/8u502+9/bellsoft-jre8u502+9-windows-amd64.zip"
   },
   {
+    "Version": "8u504+1",
+    "LTS": true,
+    "BundleType": "jre-full",
+    "Type": "zip",
+    "Architecture": "x64",
+    "Sha1": "344f6c96291032cef5b500fd2b7161fc9b4de993",
+    "Size": 82910762,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u504+1/bellsoft-jre8u504+1-windows-amd64-full.zip"
+  },
+  {
     "Version": "8u502+9",
     "LTS": true,
     "BundleType": "jdk",
@@ -130,6 +240,16 @@
     "URI": "https://github.com/bell-sw/Liberica/releases/download/8u502+9/bellsoft-jdk8u502+9-windows-amd64-lite.zip"
   },
   {
+    "Version": "8u504+1",
+    "LTS": true,
+    "BundleType": "jdk-full",
+    "Type": "zip",
+    "Architecture": "x64",
+    "Sha1": "7a88622e5e2e79ff2b24973645c2ad86521fb272",
+    "Size": 153217940,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u504+1/bellsoft-jdk8u504+1-windows-amd64-full.zip"
+  },
+  {
     "Version": "8u502+9",
     "LTS": true,
     "BundleType": "jdk-full",
@@ -138,6 +258,26 @@
     "Sha1": "92e9f19a4e3e82bd4ed6f4227f328d8151fc5197",
     "Size": 153213297,
     "URI": "https://github.com/bell-sw/Liberica/releases/download/8u502+9/bellsoft-jdk8u502+9-windows-amd64-full.zip"
+  },
+  {
+    "Version": "8u504+1",
+    "LTS": true,
+    "BundleType": "jre",
+    "Type": "zip",
+    "Architecture": "x64",
+    "Sha1": "194ed1cbc1624da2e2f3fbb83f1c4da821851a2c",
+    "Size": 40046017,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u504+1/bellsoft-jre8u504+1-windows-amd64.zip"
+  },
+  {
+    "Version": "8u504+1",
+    "LTS": true,
+    "BundleType": "jdk-lite",
+    "Type": "zip",
+    "Architecture": "x64",
+    "Sha1": "56489b3eff454845511d6ad36775ab9fb76e7515",
+    "Size": 53909008,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u504+1/bellsoft-jdk8u504+1-windows-amd64-lite.zip"
   },
   {
     "Version": "8u502+9",
@@ -150,24 +290,24 @@
     "URI": "https://github.com/bell-sw/Liberica/releases/download/8u502+9/bellsoft-jre8u502+9-windows-amd64-full.zip"
   },
   {
-    "Version": "8u502+9",
+    "Version": "8u504+1",
     "LTS": true,
-    "BundleType": "jdk-full",
+    "BundleType": "jdk",
     "Type": "zip",
-    "Architecture": "x86",
-    "Sha1": "107ad0d11ee8e8e53056de8580313adf56f848f8",
-    "Size": 152294767,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u502+9/bellsoft-jdk8u502+9-windows-i586-full.zip"
+    "Architecture": "x64",
+    "Sha1": "4959a33b476c5af5c8772b17415692b34be748c1",
+    "Size": 108733070,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u504+1/bellsoft-jdk8u504+1-windows-amd64.zip"
   },
   {
     "Version": "8u502+9",
     "LTS": true,
-    "BundleType": "jdk-lite",
+    "BundleType": "jre-full",
     "Type": "zip",
     "Architecture": "x86",
-    "Sha1": "2e96524eca39487cc52630e9c6f1dbdc22fcdce3",
-    "Size": 52925834,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u502+9/bellsoft-jdk8u502+9-windows-i586-lite.zip"
+    "Sha1": "757a839d8a1b51ff6907489296abe50539f633c8",
+    "Size": 79654054,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u502+9/bellsoft-jre8u502+9-windows-i586-full.zip"
   },
   {
     "Version": "8u502+9",
@@ -182,12 +322,72 @@
   {
     "Version": "8u502+9",
     "LTS": true,
+    "BundleType": "jdk-lite",
+    "Type": "zip",
+    "Architecture": "x86",
+    "Sha1": "2e96524eca39487cc52630e9c6f1dbdc22fcdce3",
+    "Size": 52925834,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u502+9/bellsoft-jdk8u502+9-windows-i586-lite.zip"
+  },
+  {
+    "Version": "8u504+1",
+    "LTS": true,
+    "BundleType": "jdk-full",
+    "Type": "zip",
+    "Architecture": "x86",
+    "Sha1": "206aaa45e73e2c8994eeadffc1ce54dff7d0197e",
+    "Size": 152298106,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u504+1/bellsoft-jdk8u504+1-windows-i586-full.zip"
+  },
+  {
+    "Version": "8u504+1",
+    "LTS": true,
+    "BundleType": "jre",
+    "Type": "zip",
+    "Architecture": "x86",
+    "Sha1": "55190083ebefcbe73bd2d3bd5918d656415b9b48",
+    "Size": 38378552,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u504+1/bellsoft-jre8u504+1-windows-i586.zip"
+  },
+  {
+    "Version": "8u504+1",
+    "LTS": true,
     "BundleType": "jre-full",
     "Type": "zip",
     "Architecture": "x86",
-    "Sha1": "757a839d8a1b51ff6907489296abe50539f633c8",
-    "Size": 79654054,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u502+9/bellsoft-jre8u502+9-windows-i586-full.zip"
+    "Sha1": "4cbf72acfb2314c1b3f1d623a136262a3ef92295",
+    "Size": 79656236,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u504+1/bellsoft-jre8u504+1-windows-i586-full.zip"
+  },
+  {
+    "Version": "8u504+1",
+    "LTS": true,
+    "BundleType": "jdk",
+    "Type": "zip",
+    "Architecture": "x86",
+    "Sha1": "c934e1139fc73278c8a879b010edd03e964b5210",
+    "Size": 109490308,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u504+1/bellsoft-jdk8u504+1-windows-i586.zip"
+  },
+  {
+    "Version": "8u504+1",
+    "LTS": true,
+    "BundleType": "jdk-lite",
+    "Type": "zip",
+    "Architecture": "x86",
+    "Sha1": "cfa8dfcd941396a0be384a0c441d10fabe70a024",
+    "Size": 52927650,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u504+1/bellsoft-jdk8u504+1-windows-i586-lite.zip"
+  },
+  {
+    "Version": "8u502+9",
+    "LTS": true,
+    "BundleType": "jdk-full",
+    "Type": "zip",
+    "Architecture": "x86",
+    "Sha1": "107ad0d11ee8e8e53056de8580313adf56f848f8",
+    "Size": 152294767,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u502+9/bellsoft-jdk8u502+9-windows-i586-full.zip"
   },
   {
     "Version": "8u502+9",

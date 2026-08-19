@@ -1,32 +1,32 @@
 [
   {
-    "Version": "1.7.2",
-    "Date": "29/7/2026",
-    "Size": 65103283,
-    "Sha256": "e7c192f0afc7668962c941e0b81f02b4da6a5e8dea84682f68069594b9a28ee4",
+    "Version": "1.7.4",
+    "Date": "17/8/2026",
+    "Size": 65103494,
+    "Sha256": "ee54c5e02fe10abec22e844e883ae5068115ce3933227f4ab4b113ef39141431",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/Another-Redis-Desktop-Manager-win-1.7.2-arm64.exe"
+    "URI": "https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.4/Another-Redis-Desktop-Manager-win-1.7.4-arm64.exe"
   },
   {
-    "Version": "1.7.2",
-    "Date": "29/7/2026",
-    "Size": 61935133,
-    "Sha256": "6fe90477216437907d5d107ae9fffd3d9445a988fcfc7a1aee313faa693f1b1a",
+    "Version": "1.7.4",
+    "Date": "17/8/2026",
+    "Size": 61935432,
+    "Sha256": "a7f9788dda0bf9d6c52f9df1e2e6d43d9823540f2aacfe3632a4956db5091a41",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/Another-Redis-Desktop-Manager-win-1.7.2-x64.exe"
+    "URI": "https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.4/Another-Redis-Desktop-Manager-win-1.7.4-x64.exe"
   },
   {
-    "Version": "1.7.2",
-    "Date": "29/7/2026",
-    "Size": 126105944,
-    "Sha256": "8d16d47e5fe27ea70343a85040c7f63b744e497f133b93813f7611eeaa4558b1",
+    "Version": "1.7.4",
+    "Date": "17/8/2026",
+    "Size": 126106472,
+    "Sha256": "28af6a9756b93a59cbd71ee9120351ad7cc1280e48e57832fe10013f6d9784ce",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/Another-Redis-Desktop-Manager-win-1.7.2.exe"
+    "URI": "https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.4/Another-Redis-Desktop-Manager-win-1.7.4.exe"
   }
 ]

@@ -1,42 +1,42 @@
 [
   {
-    "Version": "4.10.0",
-    "Date": "13/5/2026",
-    "Size": 4870144,
-    "Sha256": "b3a373e2514fb948135d9a67885b9626b9e91780495afa6afb9c4941637c5d69",
+    "Version": "4.11.0",
+    "Date": "19/8/2026",
+    "Size": 5271552,
+    "Sha256": "587f7bed8ce45e0d288ae363de129b9428231989898a2abd58264a726680a79e",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/open-eid/DigiDoc4-Client/releases/download/v4.10.0/Digidoc4-4.10.0.5399.arm64.msi"
+    "URI": "https://github.com/open-eid/DigiDoc4-Client/releases/download/v4.11.0/Digidoc4-4.11.0.5424.arm64.msi"
   },
   {
-    "Version": "4.10.0",
-    "Date": "13/5/2026",
-    "Size": 15728640,
-    "Sha256": "d790616ef7998fed3c99c433cb37cdaf2ae025bf49aa436a88925398773e10ee",
+    "Version": "4.11.0",
+    "Date": "19/8/2026",
+    "Size": 16240640,
+    "Sha256": "f1814cd422004ba8a1ba1487b5566e1ab890eca6f248d63c52952742f90cde6f",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/open-eid/DigiDoc4-Client/releases/download/v4.10.0/Digidoc4-4.10.0.5399.arm64.qt.msi"
+    "URI": "https://github.com/open-eid/DigiDoc4-Client/releases/download/v4.11.0/Digidoc4-4.11.0.5424.arm64.qt.msi"
   },
   {
-    "Version": "4.10.0",
-    "Date": "13/5/2026",
-    "Size": 4890624,
-    "Sha256": "fead190c779244dde3f40455bd061343277525306894ccde6aad30a0843dd1db",
+    "Version": "4.11.0",
+    "Date": "19/8/2026",
+    "Size": 5332992,
+    "Sha256": "7bcd3097e839dda91914191e23e7b52dacc473db667d056107059b6f2d0024df",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/open-eid/DigiDoc4-Client/releases/download/v4.10.0/Digidoc4-4.10.0.5399.x64.msi"
+    "URI": "https://github.com/open-eid/DigiDoc4-Client/releases/download/v4.11.0/Digidoc4-4.11.0.5424.x64.msi"
   },
   {
-    "Version": "4.10.0",
-    "Date": "13/5/2026",
-    "Size": 25059328,
-    "Sha256": "399703476eb7acbb04b62898282f64438399827f174ad9346a5d5f0f8b8e9f02",
+    "Version": "4.11.0",
+    "Date": "19/8/2026",
+    "Size": 25657344,
+    "Sha256": "bc69f197e18330c3a35ebc1fec8240a661eb9f3aff06e375dcbe39375c77577b",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/open-eid/DigiDoc4-Client/releases/download/v4.10.0/Digidoc4-4.10.0.5399.x64.qt.msi"
+    "URI": "https://github.com/open-eid/DigiDoc4-Client/releases/download/v4.11.0/Digidoc4-4.11.0.5424.x64.qt.msi"
   }
 ]
