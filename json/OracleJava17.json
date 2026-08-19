@@ -1,24 +1,24 @@
 [
   {
-    "Version": "17.0.20",
-    "FullVersion": "17.0.20+7",
-    "Date": "21/7/2026",
+    "Version": "17.0.20.1",
+    "FullVersion": "17.0.20.1+1",
+    "Date": "18/8/2026",
     "Sha256": "https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe.sha256",
     "Type": "exe",
     "URI": "https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe"
   },
   {
-    "Version": "17.0.20",
-    "FullVersion": "17.0.20+7",
-    "Date": "21/7/2026",
+    "Version": "17.0.20.1",
+    "FullVersion": "17.0.20.1+1",
+    "Date": "18/8/2026",
     "Sha256": "https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.msi.sha256",
     "Type": "msi",
     "URI": "https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.msi"
   },
   {
-    "Version": "17.0.20",
-    "FullVersion": "17.0.20+7",
-    "Date": "21/7/2026",
+    "Version": "17.0.20.1",
+    "FullVersion": "17.0.20.1+1",
+    "Date": "18/8/2026",
     "Sha256": "https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.zip.sha256",
     "Type": "zip",
     "URI": "https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.zip"
