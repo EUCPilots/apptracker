@@ -1,22 +1,12 @@
 [
   {
-    "Version": "6.1",
-    "Date": "5/3/2026",
-    "Size": 9218295,
-    "Sha256": "e782028942d915f8a2bb59cdd2df5cb80d87f810ce9bef76346b717a8f4a25ed",
+    "Version": "6.2",
+    "Date": "9/6/2026",
+    "Size": 9221652,
+    "Sha256": "f0a28736925efb89146a1259ecdd08904a92d2d8ee42a3aed1f9b3ccbf0cd28a",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v6.1/BCUninstaller_6.1.0.1_setup.exe"
-  },
-  {
-    "Version": "6.1",
-    "Date": "5/3/2026",
-    "Size": 9557484,
-    "Sha256": "02d8a79d5953fb4ed17b73682c9d2ebb935f97b56b846fb7378b355dde180114",
-    "Architecture": "x86",
-    "InstallerType": "Default",
-    "Type": "exe",
-    "URI": "https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v6.1/BCUninstaller_6.1.0_setup.exe"
+    "URI": "https://github.com/BCUninstaller/Bulk-Crap-Uninstaller/releases/download/v6.2/BCUninstaller_6.2.0_setup.exe"
   }
 ]

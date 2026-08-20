@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2.25.0",
+    "Version": "2.26.0",
     "Date": "15/9/2022",
-    "Size": 7051204,
-    "Sha256": "6a16a275fa906e9a03db82510f0a70e85bbf23117123b4b8ef426bac4401c1c2",
+    "Size": 7242156,
+    "Sha256": "41db111e73b297c6ef4a9ac01f2a5c010da83e54f19e87ae57b4689e603630fd",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/splunk/acs-cli/releases/download/v2.25.0/acs_v2.25.0_windows_amd64_installer.exe"
+    "URI": "https://github.com/splunk/acs-cli/releases/download/v2.26.0/acs_v2.26.0_windows_amd64_installer.exe"
   }
 ]
