@@ -1335,6 +1335,11 @@
     "Link": "https://www.libreoffice.org/"
   },
   {
+    "Name": "LogitechOptionsPlus",
+    "Application": "Logitech Options+",
+    "Link": "https://support.logi.com/hc/en-us/articles/11570501236119-Logitech-Options-offline-installer"
+  },
+  {
     "Name": "Logseq",
     "Application": "Logseq Logseq",
     "Link": "https://logseq.com/"
@@ -1428,6 +1433,11 @@
     "Name": "Microsoft365Apps",
     "Application": "Microsoft 365 Apps",
     "Link": "https://www.microsoft.com/office"
+  },
+  {
+    "Name": "MicrosoftAptosFont",
+    "Application": "Microsoft Aptos Font",
+    "Link": "https://learn.microsoft.com/en-au/typography/font-list/aptos"
   },
   {
     "Name": "MicrosoftAzureCLI",
@@ -1933,6 +1943,11 @@
     "Name": "OpenShotStudiosOpenShotVideoEditor",
     "Application": "OpenShot Studios OpenShot Video Editor",
     "Link": "https://www.openshot.org/"
+  },
+  {
+    "Name": "OpenSSLLibrary",
+    "Application": "OpenSSL Library",
+    "Link": "https://www.openssl.org/"
   },
   {
     "Name": "OperaAirBrowser",
