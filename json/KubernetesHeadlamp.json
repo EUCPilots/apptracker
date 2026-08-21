@@ -1,32 +1,32 @@
 [
   {
-    "Version": "0.44.0",
-    "Date": "29/7/2026",
-    "Size": 138811777,
-    "Sha256": "0ca5f483db28a49e692bf0fbecf5df11f1ab0db75b8d9567965a42ff8a5f7904",
+    "Version": "0.45.0",
+    "Date": "20/8/2026",
+    "Size": 111310368,
+    "Sha256": "c02bf0dfd3e1be7aef4d7f4dfc701e5791884338553e2b1eac58021338b9f20c",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.44.0/Headlamp-0.44.0-win-arm64.exe"
+    "URI": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.45.0/Headlamp-0.45.0-win-arm64.exe"
   },
   {
-    "Version": "0.44.0",
-    "Date": "29/7/2026",
-    "Size": 139740373,
-    "Sha256": "57038c256dab3936f7a0a2dc83794378f182bbd29dc749a6f02a110e6c93a4e3",
+    "Version": "0.45.0",
+    "Date": "20/8/2026",
+    "Size": 119591059,
+    "Sha256": "c8733a8c0d246abb4ff4cc76066002b35a72a67a83dd754ddef7b7229d6bc799",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.44.0/Headlamp-0.44.0-win-x64.exe"
+    "URI": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.45.0/Headlamp-0.45.0-win-x64.exe"
   },
   {
-    "Version": "0.44.0",
-    "Date": "29/7/2026",
-    "Size": 189559156,
-    "Sha256": "940ba3b2e252aece099fd99bb79ac18df1f9626a9265d1e3bac4629680c04bc8",
+    "Version": "0.45.0",
+    "Date": "20/8/2026",
+    "Size": 171182085,
+    "Sha256": "33dc5c69d74104dbfc0a58629750674c25a599d7f25ac354f9f2d2403b193886",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.44.0/Headlamp-0.44.0-win-x64.msi"
+    "URI": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.45.0/Headlamp-0.45.0-win-x64.msi"
   }
 ]
