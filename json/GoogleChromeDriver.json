@@ -1,19 +1,35 @@
 [
   {
-    "Version": "154.0.8015.0",
-    "Revision": "1683520",
+    "Version": "154.0.8016.0",
+    "Revision": "1683791",
     "Channel": "Canary",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/154.0.8015.0/win64/chromedriver-win64.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/154.0.8016.0/win64/chromedriver-win64.zip"
   },
   {
-    "Version": "154.0.8015.0",
-    "Revision": "1683520",
+    "Version": "154.0.8016.0",
+    "Revision": "1683791",
     "Channel": "Canary",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/154.0.8015.0/win32/chromedriver-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/154.0.8016.0/win32/chromedriver-win32.zip"
+  },
+  {
+    "Version": "154.0.8013.2",
+    "Revision": "1682742",
+    "Channel": "Dev",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/154.0.8013.2/win64/chromedriver-win64.zip"
+  },
+  {
+    "Version": "154.0.8013.2",
+    "Revision": "1682742",
+    "Channel": "Dev",
+    "Architecture": "x86",
+    "Type": "zip",
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/154.0.8013.2/win32/chromedriver-win32.zip"
   },
   {
     "Version": "153.0.8010.5",
@@ -30,22 +46,6 @@
     "Architecture": "x86",
     "Type": "zip",
     "URI": "https://storage.googleapis.com/chrome-for-testing-public/153.0.8010.5/win32/chromedriver-win32.zip"
-  },
-  {
-    "Version": "153.0.7993.0",
-    "Revision": "1674545",
-    "Channel": "Dev",
-    "Architecture": "x64",
-    "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/153.0.7993.0/win64/chromedriver-win64.zip"
-  },
-  {
-    "Version": "153.0.7993.0",
-    "Revision": "1674545",
-    "Channel": "Dev",
-    "Architecture": "x86",
-    "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/153.0.7993.0/win32/chromedriver-win32.zip"
   },
   {
     "Version": "152.0.7977.54",
