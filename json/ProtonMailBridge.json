@@ -1,0 +1,18 @@
+[
+  {
+    "Version": "3.26.0",
+    "Date": "20/8/2026",
+    "Release": "EarlyAccess",
+    "Sha512": "2e798415ac2880a63f1029ab0626041161251d92270dc84261baefc08d6748d77d0757d121d3772a5d102eac3e03113b660811f14274916c2f500274d701aeba",
+    "Type": "exe",
+    "URI": "https://proton.me/download/bridge/Bridge-Installer.exe"
+  },
+  {
+    "Version": "3.25.0",
+    "Date": "15/6/2026",
+    "Release": "Stable",
+    "Sha512": "2e798415ac2880a63f1029ab0626041161251d92270dc84261baefc08d6748d77d0757d121d3772a5d102eac3e03113b660811f14274916c2f500274d701aeba",
+    "Type": "exe",
+    "URI": "https://proton.me/download/bridge/Bridge-Installer.exe"
+  }
+]
