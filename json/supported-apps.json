@@ -2815,6 +2815,11 @@
     "Link": "https://developers.yubico.com/yubikey-manager/"
   },
   {
+    "Name": "ZabbixAgent2",
+    "Application": "Zabbix Agent 2",
+    "Link": "https://www.zabbix.com/download_agents"
+  },
+  {
     "Name": "Zoom",
     "Application": "Zoom",
     "Link": "https://zoom.us/download"
