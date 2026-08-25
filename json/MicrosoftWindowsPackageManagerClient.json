@@ -1,12 +1,12 @@
 [
   {
-    "Version": "1.29.280",
-    "Date": "22/6/2026",
-    "Size": 216775738,
-    "Sha256": "0809fa9f52e395d6e7de692331dce847ac991952675116bb4d8aae2ddcc20946",
+    "Version": "1.29.290",
+    "Date": "27/7/2026",
+    "Size": 216783252,
+    "Sha256": "6824b6e9484ab24687d99a0c829d2bcbcc7849a70a4d0f596fc43c89d20dff15",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msixbundle",
-    "URI": "https://github.com/microsoft/winget-cli/releases/download/v1.29.280/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle"
+    "URI": "https://github.com/microsoft/winget-cli/releases/download/v1.29.290/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle"
   }
 ]

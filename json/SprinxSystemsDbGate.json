@@ -35,7 +35,7 @@
     "Size": 148843840,
     "Sha256": "f6ff309e24211ff109205d3bff0633204a58518bb8a4205a37e5e065aacb679a",
     "Architecture": "x64",
-    "InstallerType": "Default",
+    "InstallerType": "Premium",
     "Type": "exe",
     "URI": "https://github.com/dbgate/dbgate/releases/download/v7.2.5/dbgate-premium-7.2.5-win_x64.exe"
   },
@@ -65,7 +65,7 @@
     "Size": 148843840,
     "Sha256": "f6ff309e24211ff109205d3bff0633204a58518bb8a4205a37e5e065aacb679a",
     "Architecture": "x86",
-    "InstallerType": "Default",
+    "InstallerType": "Premium",
     "Type": "exe",
     "URI": "https://github.com/dbgate/dbgate/releases/download/v7.2.5/dbgate-premium-latest.exe"
   }

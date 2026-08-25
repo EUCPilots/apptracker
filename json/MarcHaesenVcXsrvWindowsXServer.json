@@ -13,7 +13,7 @@
     "Date": "10/3/2025",
     "Size": 43875010,
     "Architecture": "x64",
-    "InstallerType": "Debug",
+    "InstallerType": "Admin",
     "Type": "exe",
     "URI": "https://github.com/marchaesen/vcxsrv/releases/download/21.1.16.1/vcxsrv-64-debug.21.1.16.1.installer.noadmin.exe"
   },
@@ -31,7 +31,7 @@
     "Date": "10/3/2025",
     "Size": 42998523,
     "Architecture": "x64",
-    "InstallerType": "NoAdmin",
+    "InstallerType": "Admin",
     "Type": "exe",
     "URI": "https://github.com/marchaesen/vcxsrv/releases/download/21.1.16.1/vcxsrv-64.21.1.16.1.installer.noadmin.exe"
   }

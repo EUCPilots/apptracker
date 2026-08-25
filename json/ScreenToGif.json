@@ -5,7 +5,7 @@
     "Size": 7372800,
     "Sha256": "c6d99544964bb22480fc82958677c4fce74f426dfdd7ed1697d95e12b5b7e6c2",
     "Architecture": "ARM64",
-    "InstallerType": "Default",
+    "InstallerType": "Light",
     "Type": "msi",
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Light.Setup.Arm64.msi"
   },
@@ -25,7 +25,7 @@
     "Size": 7426048,
     "Sha256": "37aa0a58daeafbb068ed5039d93892399a25568610b63b7d1e6c3f007d10b8cc",
     "Architecture": "x64",
-    "InstallerType": "Default",
+    "InstallerType": "Light",
     "Type": "msi",
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Light.Setup.x64.msi"
   },
@@ -45,7 +45,7 @@
     "Size": 7372800,
     "Sha256": "66075008f8dda74775ed530e7d12af6d47894861fcc9c723965833760f43019a",
     "Architecture": "x86",
-    "InstallerType": "Default",
+    "InstallerType": "Light",
     "Type": "msi",
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Light.Setup.x86.msi"
   },
@@ -95,7 +95,7 @@
     "Size": 5283363,
     "Sha256": "3d07dca04ea75200f2e5e9df4532e483c76438d211b6834ee1b7e21d432c0302",
     "Architecture": "ARM64",
-    "InstallerType": "Portable",
+    "InstallerType": "Light",
     "Type": "zip",
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Light.Portable.Arm64.zip"
   },
@@ -115,7 +115,7 @@
     "Size": 5296103,
     "Sha256": "455999ae2672728ee7da6438896207193e7586ad7370000f0e2cdbdc8df822a2",
     "Architecture": "x64",
-    "InstallerType": "Portable",
+    "InstallerType": "Light",
     "Type": "zip",
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Light.Portable.x64.zip"
   },
@@ -135,7 +135,7 @@
     "Size": 5279766,
     "Sha256": "ae0357ec4e380b03dd0fd990db3362620365fa46ad6a990ae6c4790b4a1177b6",
     "Architecture": "x86",
-    "InstallerType": "Portable",
+    "InstallerType": "Light",
     "Type": "zip",
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Light.Portable.x86.zip"
   },

@@ -1,22 +1,22 @@
 [
   {
-    "Version": "30.6.5",
-    "Date": "12/8/2026",
-    "Size": 13439240,
-    "Sha256": "b75f3c70b98bad4cb9a0771d44589c2cfd576d6b81ab94307039e10a4bd0ba8b",
+    "Version": "30.7.0",
+    "Date": "25/8/2026",
+    "Size": 13440784,
+    "Sha256": "b20c73af5480e6d141d260316f065f4ebf7d5844f17e48117bcfc3dab54a0b8c",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v30.6.5/posh-windows-arm64.exe"
+    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v30.7.0/posh-windows-arm64.exe"
   },
   {
-    "Version": "30.6.5",
-    "Date": "12/8/2026",
-    "Size": 14698768,
-    "Sha256": "f90971570b1e63784d8bd5742c8767fa1661833aaf5a97a30f4b49e97963f8ad",
+    "Version": "30.7.0",
+    "Date": "25/8/2026",
+    "Size": 14700808,
+    "Sha256": "9b412992a0999ee99761056687bb3578f9cd3acf3fb3fa2f1a8b8c27a6461527",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v30.6.5/posh-windows-amd64.exe"
+    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v30.7.0/posh-windows-amd64.exe"
   }
 ]

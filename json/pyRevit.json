@@ -5,7 +5,7 @@
     "Size": 87091960,
     "Sha256": "4c01408084226c788b901e00ab64615819bd4bc911c54d108b7fafe916b5e82f",
     "Architecture": "x86",
-    "InstallerType": "Default",
+    "InstallerType": "Admin",
     "Type": "exe",
     "URI": "https://github.com/pyrevitlabs/pyRevit/releases/download/v6.5.4.26228%2B1146/pyRevit_6.5.4.26228_admin_signed.exe"
   },
@@ -25,7 +25,7 @@
     "Size": 10222336,
     "Sha256": "3bd60cb684cda5f7194e6e34da46f32aa682711efe0a824b9c504127b76ecf4c",
     "Architecture": "x86",
-    "InstallerType": "Default",
+    "InstallerType": "Admin",
     "Type": "exe",
     "URI": "https://github.com/pyrevitlabs/pyRevit/releases/download/v6.5.4.26228%2B1146/pyRevit_CLI_6.5.4.26228_admin_signed.exe"
   },
@@ -45,7 +45,7 @@
     "Size": 54505472,
     "Sha256": "3815abe13f61996a71b872036238ee8965cc9f7e2b226f2cff80e827e516d37d",
     "Architecture": "x86",
-    "InstallerType": "Default",
+    "InstallerType": "Admin",
     "Type": "msi",
     "URI": "https://github.com/pyrevitlabs/pyRevit/releases/download/v6.5.4.26228%2B1146/pyRevit_CLI_6.5.4.26228_admin_signed.msi"
   }

@@ -1,52 +1,52 @@
 [
   {
-    "Version": "10.0.4.819",
-    "Date": "21/8/2026",
-    "Size": 35225600,
-    "Sha256": "2c3bbce3cb4114e55cbd7af90797a1a9debf9a3016f89a61ddcd235ef1388a16",
+    "Version": "10.0.5.825",
+    "Date": "25/8/2026",
+    "Size": 35270656,
+    "Sha256": "b1f06d3c38b9ab8d732e9d430542eb5bbe69c9030be5691498b01b2a34f59e98",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/d2phap/ImageGlass/releases/download/10.0.4.819/ImageGlass_10.0.4.819_win-x64_pro-business.msi"
+    "URI": "https://github.com/d2phap/ImageGlass/releases/download/10.0.5.825/ImageGlass_10.0.5.825_win-x64.msi"
   },
   {
-    "Version": "10.0.4.819",
-    "Date": "21/8/2026",
-    "Size": 43829978,
-    "Sha256": "c8c8c5db35643d73d471616d2facbcc25ee63f11ab36151169b69fb54403a013",
+    "Version": "10.0.5.825",
+    "Date": "25/8/2026",
+    "Size": 43915046,
+    "Sha256": "481128b5e0f298f4ff6836396224345dcaa2567f519745847eba2e0d83c6ebcf",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msix",
-    "URI": "https://github.com/d2phap/ImageGlass/releases/download/10.0.4.819/ImageGlass_10.0.4.819_win-arm64.msix"
+    "URI": "https://github.com/d2phap/ImageGlass/releases/download/10.0.5.825/ImageGlass_10.0.5.825_win-arm64.msix"
   },
   {
-    "Version": "10.0.4.819",
-    "Date": "21/8/2026",
-    "Size": 46186039,
-    "Sha256": "a1ac01c9fef08c7b420e0c7586309039a4853270811af4b283788ab98eae1f72",
+    "Version": "10.0.5.825",
+    "Date": "25/8/2026",
+    "Size": 46249732,
+    "Sha256": "29405f2c805ee73a4920800fefa81ba244da2e7e0d887ef6fedf69639915239f",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msix",
-    "URI": "https://github.com/d2phap/ImageGlass/releases/download/10.0.4.819/ImageGlass_10.0.4.819_win-x64.msix"
+    "URI": "https://github.com/d2phap/ImageGlass/releases/download/10.0.5.825/ImageGlass_10.0.5.825_win-x64.msix"
   },
   {
-    "Version": "10.0.4.819",
-    "Date": "21/8/2026",
-    "Size": 41243792,
-    "Sha256": "9d4d70069300aa6b54fc66e49a9c5a314390efd41e7d42ee39936cd1fc1f2bb3",
+    "Version": "10.0.5.825",
+    "Date": "25/8/2026",
+    "Size": 41315802,
+    "Sha256": "be989a54826292df8cd9999ecb7e053b114861ac5983fffe83d6df16357803a8",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/d2phap/ImageGlass/releases/download/10.0.4.819/ImageGlass_10.0.4.819_win-arm64.zip"
+    "URI": "https://github.com/d2phap/ImageGlass/releases/download/10.0.5.825/ImageGlass_10.0.5.825_win-arm64.zip"
   },
   {
-    "Version": "10.0.4.819",
-    "Date": "21/8/2026",
-    "Size": 43642163,
-    "Sha256": "9eff01842d2570efba558baf8d6f502980588c99f8b0bf0a4f11acc1a0a9af83",
+    "Version": "10.0.5.825",
+    "Date": "25/8/2026",
+    "Size": 43720589,
+    "Sha256": "1676d43d2ffbfd20fd9b574e1652337be30c6a3935a67e8693954df2365d9786",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/d2phap/ImageGlass/releases/download/10.0.4.819/ImageGlass_10.0.4.819_win-x64.zip"
+    "URI": "https://github.com/d2phap/ImageGlass/releases/download/10.0.5.825/ImageGlass_10.0.5.825_win-x64.zip"
   }
 ]

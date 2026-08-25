@@ -1,0 +1,114 @@
+[
+  {
+    "Version": "7.4.13",
+    "Date": "2026-07-29",
+    "Encryption": "OpenSSL",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://cdn.zabbix.com/zabbix/binaries/stable/7.4/7.4.13/zabbix_agent-7.4.13-windows-amd64-openssl.msi"
+  },
+  {
+    "Version": "7.4.13",
+    "Date": "2026-07-29",
+    "Encryption": "OpenSSL",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://cdn.zabbix.com/zabbix/binaries/stable/7.4/7.4.13/zabbix_agent2-7.4.13-windows-amd64-openssl.msi"
+  },
+  {
+    "Version": "7.4.13",
+    "Date": "2026-07-29",
+    "Encryption": "None",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://cdn.zabbix.com/zabbix/binaries/stable/7.4/7.4.13/zabbix_agent2_plugins-7.4.13-windows-amd64.msi"
+  },
+  {
+    "Version": "7.4.13",
+    "Date": "2026-07-29",
+    "Encryption": "OpenSSL",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://cdn.zabbix.com/zabbix/binaries/stable/7.4/7.4.13/zabbix_agent-7.4.13-windows-i386-openssl.msi"
+  },
+  {
+    "Version": "7.4.13",
+    "Date": "2026-07-29",
+    "Encryption": "OpenSSL",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://cdn.zabbix.com/zabbix/binaries/stable/7.4/7.4.13/zabbix_agent2-7.4.13-windows-i386-openssl.msi"
+  },
+  {
+    "Version": "7.4.13",
+    "Date": "2026-07-29",
+    "Encryption": "OpenSSL",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://cdn.zabbix.com/zabbix/binaries/stable/7.4/7.4.13/zabbix_agent-7.4.13-windows-amd64-openssl.zip"
+  },
+  {
+    "Version": "7.4.13",
+    "Date": "2026-07-29",
+    "Encryption": "None",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://cdn.zabbix.com/zabbix/binaries/stable/7.4/7.4.13/zabbix_agent-7.4.13-windows-amd64.zip"
+  },
+  {
+    "Version": "7.4.13",
+    "Date": "2026-07-29",
+    "Encryption": "OpenSSL",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://cdn.zabbix.com/zabbix/binaries/stable/7.4/7.4.13/zabbix_agent2-7.4.13-windows-amd64-openssl-static.zip"
+  },
+  {
+    "Version": "7.4.13",
+    "Date": "2026-07-29",
+    "Encryption": "None",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://cdn.zabbix.com/zabbix/binaries/stable/7.4/7.4.13/zabbix_agent2-7.4.13-windows-amd64-static.zip"
+  },
+  {
+    "Version": "7.4.13",
+    "Date": "2026-07-29",
+    "Encryption": "None",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://cdn.zabbix.com/zabbix/binaries/stable/7.4/7.4.13/zabbix_agent2_plugins-7.4.13-windows-amd64.zip"
+  },
+  {
+    "Version": "7.4.13",
+    "Date": "2026-07-29",
+    "Encryption": "OpenSSL",
+    "Architecture": "x86",
+    "Type": "zip",
+    "URI": "https://cdn.zabbix.com/zabbix/binaries/stable/7.4/7.4.13/zabbix_agent-7.4.13-windows-i386-openssl.zip"
+  },
+  {
+    "Version": "7.4.13",
+    "Date": "2026-07-29",
+    "Encryption": "None",
+    "Architecture": "x86",
+    "Type": "zip",
+    "URI": "https://cdn.zabbix.com/zabbix/binaries/stable/7.4/7.4.13/zabbix_agent-7.4.13-windows-i386.zip"
+  },
+  {
+    "Version": "7.4.13",
+    "Date": "2026-07-29",
+    "Encryption": "OpenSSL",
+    "Architecture": "x86",
+    "Type": "zip",
+    "URI": "https://cdn.zabbix.com/zabbix/binaries/stable/7.4/7.4.13/zabbix_agent2-7.4.13-windows-i386-openssl-static.zip"
+  },
+  {
+    "Version": "7.4.13",
+    "Date": "2026-07-29",
+    "Encryption": "None",
+    "Architecture": "x86",
+    "Type": "zip",
+    "URI": "https://cdn.zabbix.com/zabbix/binaries/stable/7.4/7.4.13/zabbix_agent2-7.4.13-windows-i386-static.zip"
+  }
+]
