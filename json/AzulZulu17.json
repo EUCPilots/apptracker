@@ -2,6 +2,14 @@
   {
     "Version": "17.68.203.0",
     "JavaVersion": "17.0.20.1+1",
+    "ImageType": "JDKFX",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://cdn.azul.com/zulu/bin/zulu17.68.203-ca-fx-jdk17.0.20.1-win_x64.msi"
+  },
+  {
+    "Version": "17.68.203.0",
+    "JavaVersion": "17.0.20.1+1",
     "ImageType": "JRE",
     "Architecture": "x64",
     "Type": "msi",
@@ -42,6 +50,22 @@
   {
     "Version": "17.68.203.0",
     "JavaVersion": "17.0.20.1+1",
+    "ImageType": "JREFX",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://cdn.azul.com/zulu/bin/zulu17.68.203-ca-fx-jre17.0.20.1-win_x64.zip"
+  },
+  {
+    "Version": "17.68.203.0",
+    "JavaVersion": "17.0.20.1+1",
+    "ImageType": "JDKFX",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://cdn.azul.com/zulu/bin/zulu17.68.203-ca-fx-jdk17.0.20.1-win_x64.zip"
+  },
+  {
+    "Version": "17.68.203.0",
+    "JavaVersion": "17.0.20.1+1",
     "ImageType": "JRE",
     "Architecture": "x64",
     "Type": "zip",
@@ -54,6 +78,22 @@
     "Architecture": "x64",
     "Type": "zip",
     "URI": "https://cdn.azul.com/zulu/bin/zulu17.68.203-ca-jdk17.0.20.1-win_x64.zip"
+  },
+  {
+    "Version": "17.68.203.0",
+    "JavaVersion": "17.0.20.1+1",
+    "ImageType": "JREFX",
+    "Architecture": "x86",
+    "Type": "zip",
+    "URI": "https://cdn.azul.com/zulu/bin/zulu17.68.203-ca-fx-jre17.0.20.1-win_i686.zip"
+  },
+  {
+    "Version": "17.68.203.0",
+    "JavaVersion": "17.0.20.1+1",
+    "ImageType": "JDKFX",
+    "Architecture": "x86",
+    "Type": "zip",
+    "URI": "https://cdn.azul.com/zulu/bin/zulu17.68.203-ca-fx-jdk17.0.20.1-win_i686.zip"
   },
   {
     "Version": "17.68.203.0",
