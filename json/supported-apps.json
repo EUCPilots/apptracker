@@ -660,14 +660,9 @@
     "Link": "https://help.drata.com/en/articles/5002305-installing-the-drata-agent-via-windows-os"
   },
   {
-    "Name": "Dropbox",
-    "Application": "Dropbox",
-    "Link": "https://www.dropbox.com/install"
-  },
-  {
     "Name": "DropboxDesktopApp",
     "Application": "Dropbox desktop app",
-    "Link": "https://www.dropbox.com/desktop"
+    "Link": "https://www.dropbox.com/install"
   },
   {
     "Name": "DruvainSyncClient",
