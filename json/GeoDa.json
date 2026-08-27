@@ -1,42 +1,52 @@
 [
   {
-    "Version": "1.22.0.21",
-    "Date": "25/9/2025",
-    "Size": 49529313,
-    "Sha256": "b58ac98d0fbdf3fe7520b004a256e3541aa6c81192853c85166698d3f4e40dc5",
+    "Version": "1.22.1",
+    "Date": "26/8/2026",
+    "Size": 47157431,
+    "Sha256": "4184cfcafae6b5d18b4cf5a56b15a12ba2fac03e5221fc8fd826ba91bc1724fe",
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/GeoDaCenter/geoda/releases/download/v1.22.1/GeoDa_1.22.1_arm64_Setup.exe"
+  },
+  {
+    "Version": "1.22.1",
+    "Date": "26/8/2026",
+    "Size": 50308988,
+    "Sha256": "2dbd5aea49e2782c3b4bda18f9c51323e7d486ec1853fec84f4be6dc756b1119",
     "Architecture": "x64",
     "InstallerType": "Default",
-    "Type": "zip",
-    "URI": "https://github.com/GeoDaCenter/geoda/releases/download/v1.22.0.21/GeoDa-Windows7%2B-x64-installer.zip"
+    "Type": "exe",
+    "URI": "https://github.com/GeoDaCenter/geoda/releases/download/v1.22.1/GeoDa_1.22.1_win7%2Bx64_Setup.exe"
   },
   {
-    "Version": "1.22.0.21",
-    "Date": "25/9/2025",
-    "Size": 31920802,
-    "Sha256": "08eb5c21723e8b72639a5184744e81514012bf2ab28736775c05dda43640bdb2",
-    "Architecture": "x86",
+    "Version": "1.22.1",
+    "Date": "26/8/2026",
+    "Size": 50308842,
+    "Sha256": "660f7291266c9003af37cad743ce34dc74e73106776eefc6f1c2351c85d6309e",
+    "Architecture": "x64",
     "InstallerType": "Default",
-    "Type": "zip",
-    "URI": "https://github.com/GeoDaCenter/geoda/releases/download/v1.22.0.21/GeoDa-1.22.0-jammy.zip"
+    "Type": "exe",
+    "URI": "https://github.com/GeoDaCenter/geoda/releases/download/v1.22.1/GeoDa_1.22.1_x64_Setup.exe"
   },
   {
-    "Version": "1.22.0.21",
-    "Date": "25/9/2025",
-    "Size": 29919783,
-    "Sha256": "7939f5b9abfa34ac89c2ca61a90bd6b1cebaa0c5e6ebff2a2bf21f315ef4cd82",
+    "Version": "1.22.1",
+    "Date": "26/8/2026",
+    "Size": 47232014,
+    "Sha256": "1ee468c32259dfc8ccf9ec155350ca46fbb4bbe1bdff473b8f62b80cf6cf3504",
     "Architecture": "x86",
     "InstallerType": "Default",
-    "Type": "zip",
-    "URI": "https://github.com/GeoDaCenter/geoda/releases/download/v1.22.0.21/GeoDa-1.22.0-noble.zip"
+    "Type": "exe",
+    "URI": "https://github.com/GeoDaCenter/geoda/releases/download/v1.22.1/GeoDa_1.22.1_win7%2Bx86_Setup.exe"
   },
   {
-    "Version": "1.22.0.21",
-    "Date": "25/9/2025",
-    "Size": 46451534,
-    "Sha256": "94cfa31e23c36b6ffc9b345644ec3e0b2a3897f33a605809d59e11fe355209d4",
+    "Version": "1.22.1",
+    "Date": "26/8/2026",
+    "Size": 47231978,
+    "Sha256": "7375260a6f7059798668ee523a33e885cc3cf7f827126f2bca7094c111ec3559",
     "Architecture": "x86",
     "InstallerType": "Default",
-    "Type": "zip",
-    "URI": "https://github.com/GeoDaCenter/geoda/releases/download/v1.22.0.21/GeoDa-Windows7%2B-x86-installer.zip"
+    "Type": "exe",
+    "URI": "https://github.com/GeoDaCenter/geoda/releases/download/v1.22.1/GeoDa_1.22.1_x86_Setup.exe"
   }
 ]
