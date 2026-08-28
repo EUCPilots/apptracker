@@ -1,42 +1,42 @@
 [
   {
-    "Version": "7.0.01",
-    "Date": "19/8/2026",
-    "Size": 53081784,
-    "Sha256": "cb647cda73f721c863a3e0509d4190603ca099107db6b998eedb1c5eea6bedc3",
+    "Version": "7.0.02",
+    "Date": "28/8/2026",
+    "Size": 53098189,
+    "Sha256": "0322bb7546eb2fdd0b3b0b8821adda39eea27125303bd79c640d96b5767f8509",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/praat/praat.github.io/releases/download/v7.0.01/praat7001_win-arm64.zip"
+    "URI": "https://github.com/praat/praat.github.io/releases/download/v7.0.02/praat7002_win-arm64.zip"
   },
   {
-    "Version": "7.0.01",
-    "Date": "19/8/2026",
-    "Size": 54274215,
-    "Sha256": "995d1c4cbe65d0a4ef4b28dcc729e7335e1a7e0823eaaa1d3f960865aa5689a4",
+    "Version": "7.0.02",
+    "Date": "28/8/2026",
+    "Size": 54294575,
+    "Sha256": "d8c741104faec65c5e6d77f460140f60b0568143b22506c079a4b7aa0b8d45a0",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/praat/praat.github.io/releases/download/v7.0.01/praat7001_win-x64v1.zip"
+    "URI": "https://github.com/praat/praat.github.io/releases/download/v7.0.02/praat7002_win-x64v1.zip"
   },
   {
-    "Version": "7.0.01",
-    "Date": "19/8/2026",
-    "Size": 54744556,
-    "Sha256": "29e97b88db08b0664b56bc3c1ffae02c17774f8e29f5a2f345c8324031c520de",
+    "Version": "7.0.02",
+    "Date": "28/8/2026",
+    "Size": 54763419,
+    "Sha256": "9d1a8e3d0e5232275b697cd3c4076b3c964a086eed062271b637c0a84ff1a76e",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/praat/praat.github.io/releases/download/v7.0.01/praat7001_win-x64v3.zip"
+    "URI": "https://github.com/praat/praat.github.io/releases/download/v7.0.02/praat7002_win-x64v3.zip"
   },
   {
-    "Version": "7.0.01",
-    "Date": "19/8/2026",
-    "Size": 55217617,
-    "Sha256": "6ae4a78f87a73515261344b363622d3a6b90cd223d9e6d0dd6e16b6ac619246c",
+    "Version": "7.0.02",
+    "Date": "28/8/2026",
+    "Size": 55252257,
+    "Sha256": "7001c49c3f6ea16bf4228263d1554e967baf370044fe3229572901b8ad3ed97b",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/praat/praat.github.io/releases/download/v7.0.01/praat7001_win-intel32.zip"
+    "URI": "https://github.com/praat/praat.github.io/releases/download/v7.0.02/praat7002_win-intel32.zip"
   }
 ]

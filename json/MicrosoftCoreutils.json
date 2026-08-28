@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "2026.6.16",
+    "Date": "16/6/2026",
+    "Size": 5018496,
+    "Sha256": "45a1b07f5416fa7fef175e12218686eabb3192cdba75e719a4d6f5b37c7bcab3",
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/microsoft/coreutils/releases/download/v2026.6.16/coreutils-2026.6.16-arm64.exe"
+  },
+  {
+    "Version": "2026.6.16",
+    "Date": "16/6/2026",
+    "Size": 5113048,
+    "Sha256": "f862b1aa433310420ae20f9b1384f3f974a26ba98ae37ac548061116a3ef6c62",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/microsoft/coreutils/releases/download/v2026.6.16/coreutils-2026.6.16-x64.exe"
+  }
+]
