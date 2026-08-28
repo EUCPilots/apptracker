@@ -1485,6 +1485,11 @@
     "Link": "https://github.com/microsoft/BotFramework-Emulator/"
   },
   {
+    "Name": "MicrosoftCoreutils",
+    "Application": "Microsoft Coreutils for Windows",
+    "Link": "https://learn.microsoft.com/en-us/windows/core-utils/overview"
+  },
+  {
     "Name": "MicrosoftEdge",
     "Application": "Microsoft Edge",
     "Link": "https://www.microsoft.com/edge"
@@ -2683,6 +2688,11 @@
     "Name": "VercelHyper",
     "Application": "Vercel Hyper",
     "Link": "https://hyper.is/"
+  },
+  {
+    "Name": "VERDIMAXQDA",
+    "Application": "VERDI MAXQDA",
+    "Link": "https://www.maxqda.com/products/maxqda-verdi"
   },
   {
     "Name": "Versentsaml2aws",
