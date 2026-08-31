@@ -1,42 +1,42 @@
 [
   {
-    "Version": "2026.6.0",
-    "Date": "14/8/2026",
-    "Size": 38400128,
-    "Sha256": "ec724206dcd457fa4fe3e36cf12e369b07d44e693a1f6a307064e25ce2195abf",
+    "Version": "2026.7.0",
+    "Date": "27/8/2026",
+    "Size": 38831320,
+    "Sha256": "03dc5ed452a94a7ca2140f08891e093a2fafc92f5c3142efae67f45484f5e7f7",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/mountain-loop/yaak/releases/download/v2026.6.0/Yaak_2026.6.0_arm64-setup-machine.exe"
+    "URI": "https://github.com/mountain-loop/yaak/releases/download/v2026.7.0/Yaak_2026.7.0_arm64-setup-machine.exe"
   },
   {
-    "Version": "2026.6.0",
-    "Date": "14/8/2026",
-    "Size": 38408000,
-    "Sha256": "7a069b21ecca1d624061d36f4ab08b22ee8e466c985af4ba61d1305c86d75aee",
+    "Version": "2026.7.0",
+    "Date": "27/8/2026",
+    "Size": 38827632,
+    "Sha256": "004c8639ddcbec04a0ecc01f8e3dbab53a6fbfd8c69c9b4ea4bae07bc385f5f4",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/mountain-loop/yaak/releases/download/v2026.6.0/Yaak_2026.6.0_arm64-setup.exe"
+    "URI": "https://github.com/mountain-loop/yaak/releases/download/v2026.7.0/Yaak_2026.7.0_arm64-setup.exe"
   },
   {
-    "Version": "2026.6.0",
-    "Date": "14/8/2026",
-    "Size": 42921144,
-    "Sha256": "72ffdf0efe5c55e19081f4727f58e88d58da626b50d0808084746084785f0526",
+    "Version": "2026.7.0",
+    "Date": "27/8/2026",
+    "Size": 43307672,
+    "Sha256": "5c0d128b8e79e21f5f97b1c4a5fba03b0d69aa4ea3ced916524c6f6034b9b73e",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/mountain-loop/yaak/releases/download/v2026.6.0/Yaak_2026.6.0_x64-setup-machine.exe"
+    "URI": "https://github.com/mountain-loop/yaak/releases/download/v2026.7.0/Yaak_2026.7.0_x64-setup-machine.exe"
   },
   {
-    "Version": "2026.6.0",
-    "Date": "14/8/2026",
-    "Size": 42917352,
-    "Sha256": "8ae03db3915f8da8b1030812f4d2b5233b0b4deb3c28482dcd7a8fe73a3b0bd7",
+    "Version": "2026.7.0",
+    "Date": "27/8/2026",
+    "Size": 43302408,
+    "Sha256": "8cd4c0c5c170bb42ceebfd33966607dd7ac1e1d79a8725e9647518c63aea64fb",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/mountain-loop/yaak/releases/download/v2026.6.0/Yaak_2026.6.0_x64-setup.exe"
+    "URI": "https://github.com/mountain-loop/yaak/releases/download/v2026.7.0/Yaak_2026.7.0_x64-setup.exe"
   }
 ]

@@ -1,22 +1,22 @@
 [
   {
-    "Version": "3.5.1",
-    "Date": "5/4/2026",
-    "Size": 219179264,
-    "Sha256": "f7894bbf87ec77f37ea46407fef0ae444cd8db52dfc9fd52d969b8a8bde55685",
+    "Version": "4.0.0",
+    "Date": "27/8/2026",
+    "Size": 229078328,
+    "Sha256": "fcecfcfd616447797d46edcca6d8fe5ca70ea19b387ae257ec24f11811f715ef",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/OpenShot/openshot-qt/releases/download/v3.5.1/OpenShot-v3.5.1-x86_64.exe"
+    "URI": "https://github.com/OpenShot/openshot-qt/releases/download/v4.0.0/OpenShot-v4.0.0-x86_64.exe"
   },
   {
-    "Version": "3.5.1",
-    "Date": "5/4/2026",
-    "Size": 217934920,
-    "Sha256": "205127c2e477564e3cd03d1e2edf73f61d8071d04a37c195bcefa5b8f60e945c",
+    "Version": "4.0.0",
+    "Date": "27/8/2026",
+    "Size": 224873009,
+    "Sha256": "0b06acf0d1b1c75a053dd34975be15202400aa3f1fa1de12d69894ce3e3fb3f2",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/OpenShot/openshot-qt/releases/download/v3.5.1/OpenShot-v3.5.1-x86.exe"
+    "URI": "https://github.com/OpenShot/openshot-qt/releases/download/v4.0.0/OpenShot-v4.0.0-x86.exe"
   }
 ]

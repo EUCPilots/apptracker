@@ -1,12 +1,22 @@
 [
   {
-    "Version": "2.10.0",
-    "Date": "23/7/2026",
-    "Size": 35175784,
-    "Sha256": "98d44f944d2b84e126a6e831d58a32949a32b4cd3d88d490d93cb781df79ab6c",
+    "Version": "2.10.1",
+    "Date": "31/8/2026",
+    "Size": 33678160,
+    "Sha256": "c64f429d4986363aa11fe80be9b2ca43058406e45d529622535ee5d39361969a",
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/MiniZinc/MiniZincIDE/releases/download/2.10.1/MiniZincIDE-2.10.1-aarch64-windows-setup.exe"
+  },
+  {
+    "Version": "2.10.1",
+    "Date": "31/8/2026",
+    "Size": 44157592,
+    "Sha256": "dae59d3e9648ba72a28eb115c3271cc5e19a309e26b46523c2f6a5a3b4cea200",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/MiniZinc/MiniZincIDE/releases/download/2.10.0/MiniZincIDE-2.10.0-bundled-setup-win64.exe"
+    "URI": "https://github.com/MiniZinc/MiniZincIDE/releases/download/2.10.1/MiniZincIDE-2.10.1-x86_64-windows-setup.exe"
   }
 ]
