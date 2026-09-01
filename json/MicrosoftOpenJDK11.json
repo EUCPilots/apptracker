@@ -1,34 +1,34 @@
 [
   {
-    "Version": "11.0.32+9",
-    "Date": "2026-08-05T16:00:00Z",
+    "Version": "11.0.32.1+1",
+    "Date": "2026-08-31T11:00:00Z",
     "ImageType": "jdk",
     "Architecture": "ARM64",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/8c64e580-ba73-47a7-a89b-f39f9788b8c7/49667b1e7e70e13385989e4d7ee02919/microsoft-jdk-11.0.32-windows-aarch64.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/ec014a7c-c89f-4678-8d0a-5006ec1bc394/21fbc519d9ed948e334744562f33f193/microsoft-jdk-11.0.32.1-windows-aarch64.exe"
   },
   {
-    "Version": "11.0.32+9",
-    "Date": "2026-08-05T16:00:00Z",
+    "Version": "11.0.32.1+1",
+    "Date": "2026-08-31T11:00:00Z",
     "ImageType": "jdk",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/8c64e580-ba73-47a7-a89b-f39f9788b8c7/72ad25def0a3b150c71b7f6da3724822/microsoft-jdk-11.0.32-windows-x64.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/ec014a7c-c89f-4678-8d0a-5006ec1bc394/0f54a67177e670a470fb80cc3129e5ab/microsoft-jdk-11.0.32.1-windows-x64.exe"
   },
   {
-    "Version": "11.0.32+9",
-    "Date": "2026-08-05T16:00:00Z",
+    "Version": "11.0.32.1+1",
+    "Date": "2026-08-31T11:00:00Z",
     "ImageType": "jdk",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/8c64e580-ba73-47a7-a89b-f39f9788b8c7/eaa0d5360aa652cae9af8e049b37a9a9/microsoft-jdk-11.0.32-windows-aarch64.msi"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/ec014a7c-c89f-4678-8d0a-5006ec1bc394/df348d89c7af6bcc6dcad930cf9a07dc/microsoft-jdk-11.0.32.1-windows-aarch64.msi"
   },
   {
-    "Version": "11.0.32+9",
-    "Date": "2026-08-05T16:00:00Z",
+    "Version": "11.0.32.1+1",
+    "Date": "2026-08-31T11:00:00Z",
     "ImageType": "jdk",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/8c64e580-ba73-47a7-a89b-f39f9788b8c7/c2e157e787abdcf709e22ca43d6db995/microsoft-jdk-11.0.32-windows-x64.msi"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/ec014a7c-c89f-4678-8d0a-5006ec1bc394/272af5816b9a29f03c6c10b2287ab0da/microsoft-jdk-11.0.32.1-windows-x64.msi"
   }
 ]

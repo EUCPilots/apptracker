@@ -1,22 +1,22 @@
 [
   {
-    "Version": "3.9.3",
-    "Date": "10/11/2025",
-    "Size": 3064425,
-    "Sha256": "5b576e5f33a3ae019881cb5942218ab0d28539bd42693654d4d2319eb196ece6",
-    "Architecture": "x64",
-    "InstallerType": "Default",
-    "Type": "exe",
-    "URI": "https://github.com/angryip/ipscan/releases/download/3.9.3/ipscan-win64-3.9.3.exe"
-  },
-  {
-    "Version": "3.9.3",
-    "Date": "10/11/2025",
-    "Size": 22162953,
-    "Sha256": "91d77c63169249e8fcdd2d912963d4d5cd143d87b65352fc62ba8113fb49f9f5",
+    "Version": "3.10.0",
+    "Date": "31/8/2026",
+    "Size": 24912120,
+    "Sha256": "ad40a95676ab8a89dae9439a4b80cd65126afba5a1af13e3118d66601535bd55",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/angryip/ipscan/releases/download/3.9.3/ipscan-3.9.3-setup.exe"
+    "URI": "https://github.com/angryip/ipscan/releases/download/3.10.0/ipscan-3.10.0-setup.exe"
+  },
+  {
+    "Version": "3.10.0",
+    "Date": "31/8/2026",
+    "Size": 3009741,
+    "Sha256": "6837d14627705d9ad7872f04f6376f06e6ae112e45117f9172df3007be66c2c7",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/angryip/ipscan/releases/download/3.10.0/ipscan-3.10.0-win.exe"
   }
 ]

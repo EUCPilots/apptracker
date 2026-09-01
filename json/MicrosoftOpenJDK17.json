@@ -1,34 +1,34 @@
 [
   {
-    "Version": "17.0.20+8",
-    "Date": "2026-08-05T16:00:00Z",
+    "Version": "17.0.20.1+1",
+    "Date": "2026-08-31T11:00:00Z",
     "ImageType": "jdk",
     "Architecture": "ARM64",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/0f58ae64-1e29-47f5-b1ce-ef382709d781/80f3d84120cfe70fc8c2d8cd73adf462/microsoft-jdk-17.0.20-windows-aarch64.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/a9672056-0a4d-425d-8488-f481ee56319c/c21c1ffdfebefa8baf9fb3778aafda0c/microsoft-jdk-17.0.20.1-windows-aarch64.exe"
   },
   {
-    "Version": "17.0.20+8",
-    "Date": "2026-08-05T16:00:00Z",
+    "Version": "17.0.20.1+1",
+    "Date": "2026-08-31T11:00:00Z",
     "ImageType": "jdk",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/0f58ae64-1e29-47f5-b1ce-ef382709d781/58655294c1012ad8526b10e2a2c8d0cd/microsoft-jdk-17.0.20-windows-x64.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/a9672056-0a4d-425d-8488-f481ee56319c/48ebb6ca7ee526f79944beb784e6e3b8/microsoft-jdk-17.0.20.1-windows-x64.exe"
   },
   {
-    "Version": "17.0.20+8",
-    "Date": "2026-08-05T16:00:00Z",
+    "Version": "17.0.20.1+1",
+    "Date": "2026-08-31T11:00:00Z",
     "ImageType": "jdk",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/0f58ae64-1e29-47f5-b1ce-ef382709d781/747fbeccb2a1c20d3acd14c00b3a9792/microsoft-jdk-17.0.20-windows-aarch64.msi"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/a9672056-0a4d-425d-8488-f481ee56319c/8d2df219d9cd53cff4e72f0fc78a51ca/microsoft-jdk-17.0.20.1-windows-aarch64.msi"
   },
   {
-    "Version": "17.0.20+8",
-    "Date": "2026-08-05T16:00:00Z",
+    "Version": "17.0.20.1+1",
+    "Date": "2026-08-31T11:00:00Z",
     "ImageType": "jdk",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/0f58ae64-1e29-47f5-b1ce-ef382709d781/ba9e8ef2f80e0e7615f88594066bb6ee/microsoft-jdk-17.0.20-windows-x64.msi"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/a9672056-0a4d-425d-8488-f481ee56319c/4fab93796c6496ca90c4a8b7ed6ece21/microsoft-jdk-17.0.20.1-windows-x64.msi"
   }
 ]
