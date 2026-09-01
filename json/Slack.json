@@ -1,20 +1,20 @@
 [
   {
-    "Version": "4.51.191",
+    "Version": "4.52.155",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.51.191/SlackSetup.exe"
+    "URI": "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.52.155/SlackSetup.exe"
   },
   {
-    "Version": "4.51.191",
+    "Version": "4.52.155",
     "Architecture": "ARM64",
     "Type": "msix",
-    "URI": "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.51.191/Slack.msix"
+    "URI": "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.52.155/Slack.msix"
   },
   {
-    "Version": "4.51.191",
+    "Version": "4.52.155",
     "Architecture": "x64",
     "Type": "msix",
-    "URI": "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.51.191/Slack.msix"
+    "URI": "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.52.155/Slack.msix"
   }
 ]
