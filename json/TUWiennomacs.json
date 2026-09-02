@@ -1,12 +1,12 @@
 [
   {
-    "Version": "3.22.2",
-    "Date": "26/8/2026",
-    "Size": 46960640,
-    "Sha256": "5a30313735695e290044b2066afb3d174388d5d716a18142b9d9c6d0c6129e9f",
+    "Version": "3.22.3",
+    "Date": "1/9/2026",
+    "Size": 47280128,
+    "Sha256": "26b39f265461a12048e89a340926b4ace8d205c16551b0a3096d9988b04d5a6b",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/nomacs/nomacs/releases/download/3.22.2/nomacs-setup-x64.msi"
+    "URI": "https://github.com/nomacs/nomacs/releases/download/3.22.3/nomacs-setup-x64.msi"
   }
 ]

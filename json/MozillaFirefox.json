@@ -83,15 +83,6 @@
   {
     "Version": "155.0",
     "Channel": "Current",
-    "Language": "bs",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "Filename": "Firefox Setup 155.0.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0/win64-aarch64/bs/Firefox%20Setup%20155.0.exe"
-  },
-  {
-    "Version": "155.0",
-    "Channel": "Current",
     "Language": "ca",
     "Architecture": "ARM64",
     "Type": "exe",
@@ -430,15 +421,6 @@
     "Type": "exe",
     "Filename": "Firefox Setup 155.0.exe",
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0/win64-aarch64/it/Firefox%20Setup%20155.0.exe"
-  },
-  {
-    "Version": "155.0",
-    "Channel": "Current",
-    "Language": "ja",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "Filename": "Firefox Setup 155.0.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0/win64-aarch64/ja/Firefox%20Setup%20155.0.exe"
   },
   {
     "Version": "155.0",
@@ -1343,15 +1325,6 @@
   {
     "Version": "155.0",
     "Channel": "Current",
-    "Language": "lv",
-    "Architecture": "x64",
-    "Type": "exe",
-    "Filename": "Firefox Setup 155.0.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0/win64/lv/Firefox%20Setup%20155.0.exe"
-  },
-  {
-    "Version": "155.0",
-    "Channel": "Current",
     "Language": "mk",
     "Architecture": "x64",
     "Type": "exe",
@@ -1510,15 +1483,6 @@
     "Type": "exe",
     "Filename": "Firefox Setup 155.0.exe",
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0/win64/sk/Firefox%20Setup%20155.0.exe"
-  },
-  {
-    "Version": "155.0",
-    "Channel": "Current",
-    "Language": "sl",
-    "Architecture": "x64",
-    "Type": "exe",
-    "Filename": "Firefox Setup 155.0.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0/win64/sl/Firefox%20Setup%20155.0.exe"
   },
   {
     "Version": "155.0",
@@ -1744,15 +1708,6 @@
     "Type": "exe",
     "Filename": "Firefox Setup 155.0.exe",
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0/win32/bs/Firefox%20Setup%20155.0.exe"
-  },
-  {
-    "Version": "155.0",
-    "Channel": "Current",
-    "Language": "ca",
-    "Architecture": "x86",
-    "Type": "exe",
-    "Filename": "Firefox Setup 155.0.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0/win32/ca/Firefox%20Setup%20155.0.exe"
   },
   {
     "Version": "155.0",
@@ -1991,15 +1946,6 @@
   {
     "Version": "155.0",
     "Channel": "Current",
-    "Language": "gu-IN",
-    "Architecture": "x86",
-    "Type": "exe",
-    "Filename": "Firefox Setup 155.0.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0/win32/gu-IN/Firefox%20Setup%20155.0.exe"
-  },
-  {
-    "Version": "155.0",
-    "Channel": "Current",
     "Language": "he",
     "Architecture": "x86",
     "Type": "exe",
@@ -2041,15 +1987,6 @@
     "Type": "exe",
     "Filename": "Firefox Setup 155.0.exe",
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0/win32/hu/Firefox%20Setup%20155.0.exe"
-  },
-  {
-    "Version": "155.0",
-    "Channel": "Current",
-    "Language": "hy-AM",
-    "Architecture": "x86",
-    "Type": "exe",
-    "Filename": "Firefox Setup 155.0.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0/win32/hy-AM/Firefox%20Setup%20155.0.exe"
   },
   {
     "Version": "155.0",
@@ -2842,15 +2779,6 @@
     "Type": "msi",
     "Filename": "Firefox Setup 155.0.msi",
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0/win64/hi-IN/Firefox%20Setup%20155.0.msi"
-  },
-  {
-    "Version": "155.0",
-    "Channel": "Current",
-    "Language": "hr",
-    "Architecture": "x64",
-    "Type": "msi",
-    "Filename": "Firefox Setup 155.0.msi",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0/win64/hr/Firefox%20Setup%20155.0.msi"
   },
   {
     "Version": "155.0",
@@ -4583,15 +4511,6 @@
   {
     "Version": "155.0",
     "Channel": "Current",
-    "Language": "ka",
-    "Architecture": "ARM64",
-    "Type": "msix",
-    "Filename": "Firefox Setup 155.0.msix",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0/win64-aarch64/multi/Firefox%20Setup%20155.0.msix"
-  },
-  {
-    "Version": "155.0",
-    "Channel": "Current",
     "Language": "kab",
     "Architecture": "ARM64",
     "Type": "msix",
@@ -5762,15 +5681,6 @@
   {
     "Version": "155.0",
     "Channel": "Current",
-    "Language": "vi",
-    "Architecture": "x64",
-    "Type": "msix",
-    "Filename": "Firefox Setup 155.0.msix",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0/win64/multi/Firefox%20Setup%20155.0.msix"
-  },
-  {
-    "Version": "155.0",
-    "Channel": "Current",
     "Language": "xh",
     "Architecture": "x64",
     "Type": "msix",
@@ -5916,15 +5826,6 @@
     "Version": "155.0",
     "Channel": "Current",
     "Language": "cy",
-    "Architecture": "x86",
-    "Type": "msix",
-    "Filename": "Firefox Setup 155.0.msix",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0/win32/multi/Firefox%20Setup%20155.0.msix"
-  },
-  {
-    "Version": "155.0",
-    "Channel": "Current",
-    "Language": "da",
     "Architecture": "x86",
     "Type": "msix",
     "Filename": "Firefox Setup 155.0.msix",
@@ -6734,15 +6635,6 @@
   {
     "Version": "153.2.0",
     "Channel": "Extended Support Next",
-    "Language": "cs",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "Filename": "Firefox Setup 153.2.0esr.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.2.0esr/win64-aarch64/cs/Firefox%20Setup%20153.2.0esr.exe"
-  },
-  {
-    "Version": "153.2.0",
-    "Channel": "Extended Support Next",
     "Language": "cy",
     "Architecture": "ARM64",
     "Type": "exe",
@@ -6901,15 +6793,6 @@
     "Type": "exe",
     "Filename": "Firefox Setup 153.2.0esr.exe",
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.2.0esr/win64-aarch64/fi/Firefox%20Setup%20153.2.0esr.exe"
-  },
-  {
-    "Version": "153.2.0",
-    "Channel": "Extended Support Next",
-    "Language": "fr",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "Filename": "Firefox Setup 153.2.0esr.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.2.0esr/win64-aarch64/fr/Firefox%20Setup%20153.2.0esr.exe"
   },
   {
     "Version": "153.2.0",
@@ -7522,15 +7405,6 @@
     "Type": "exe",
     "Filename": "Firefox Setup 153.2.0esr.exe",
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.2.0esr/win64/bg/Firefox%20Setup%20153.2.0esr.exe"
-  },
-  {
-    "Version": "153.2.0",
-    "Channel": "Extended Support Next",
-    "Language": "br",
-    "Architecture": "x64",
-    "Type": "exe",
-    "Filename": "Firefox Setup 153.2.0esr.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.2.0esr/win64/br/Firefox%20Setup%20153.2.0esr.exe"
   },
   {
     "Version": "153.2.0",
@@ -8957,15 +8831,6 @@
   {
     "Version": "153.2.0",
     "Channel": "Extended Support Next",
-    "Language": "sk",
-    "Architecture": "x86",
-    "Type": "exe",
-    "Filename": "Firefox Setup 153.2.0esr.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.2.0esr/win32/sk/Firefox%20Setup%20153.2.0esr.exe"
-  },
-  {
-    "Version": "153.2.0",
-    "Channel": "Extended Support Next",
     "Language": "sl",
     "Architecture": "x86",
     "Type": "exe",
@@ -9587,15 +9452,6 @@
   {
     "Version": "153.2.0",
     "Channel": "Extended Support Next",
-    "Language": "kn",
-    "Architecture": "x64",
-    "Type": "msi",
-    "Filename": "Firefox Setup 153.2.0esr.msi",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.2.0esr/win64/kn/Firefox%20Setup%20153.2.0esr.msi"
-  },
-  {
-    "Version": "153.2.0",
-    "Channel": "Extended Support Next",
     "Language": "ko",
     "Architecture": "x64",
     "Type": "msi",
@@ -9619,15 +9475,6 @@
     "Type": "msi",
     "Filename": "Firefox Setup 153.2.0esr.msi",
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.2.0esr/win64/lt/Firefox%20Setup%20153.2.0esr.msi"
-  },
-  {
-    "Version": "153.2.0",
-    "Channel": "Extended Support Next",
-    "Language": "lv",
-    "Architecture": "x64",
-    "Type": "msi",
-    "Filename": "Firefox Setup 153.2.0esr.msi",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.2.0esr/win64/lv/Firefox%20Setup%20153.2.0esr.msi"
   },
   {
     "Version": "153.2.0",
@@ -10055,15 +9902,6 @@
   {
     "Version": "153.2.0",
     "Channel": "Extended Support Next",
-    "Language": "cy",
-    "Architecture": "x86",
-    "Type": "msi",
-    "Filename": "Firefox Setup 153.2.0esr.msi",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.2.0esr/win32/cy/Firefox%20Setup%20153.2.0esr.msi"
-  },
-  {
-    "Version": "153.2.0",
-    "Channel": "Extended Support Next",
     "Language": "da",
     "Architecture": "x86",
     "Type": "msi",
@@ -10087,15 +9925,6 @@
     "Type": "msi",
     "Filename": "Firefox Setup 153.2.0esr.msi",
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.2.0esr/win32/dsb/Firefox%20Setup%20153.2.0esr.msi"
-  },
-  {
-    "Version": "153.2.0",
-    "Channel": "Extended Support Next",
-    "Language": "el",
-    "Architecture": "x86",
-    "Type": "msi",
-    "Filename": "Firefox Setup 153.2.0esr.msi",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.2.0esr/win32/el/Firefox%20Setup%20153.2.0esr.msi"
   },
   {
     "Version": "153.2.0",
@@ -10204,15 +10033,6 @@
     "Type": "msi",
     "Filename": "Firefox Setup 153.2.0esr.msi",
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.2.0esr/win32/ff/Firefox%20Setup%20153.2.0esr.msi"
-  },
-  {
-    "Version": "153.2.0",
-    "Channel": "Extended Support Next",
-    "Language": "fi",
-    "Architecture": "x86",
-    "Type": "msi",
-    "Filename": "Firefox Setup 153.2.0esr.msi",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.2.0esr/win32/fi/Firefox%20Setup%20153.2.0esr.msi"
   },
   {
     "Version": "153.2.0",
@@ -12233,25 +12053,7 @@
   {
     "Version": "153.2.0",
     "Channel": "Extended Support Next",
-    "Language": "rm",
-    "Architecture": "x64",
-    "Type": "msix",
-    "Filename": "Firefox Setup 153.2.0esr.msix",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.2.0esr/win64/multi/Firefox%20Setup%20153.2.0esr.msix"
-  },
-  {
-    "Version": "153.2.0",
-    "Channel": "Extended Support Next",
     "Language": "ro",
-    "Architecture": "x64",
-    "Type": "msix",
-    "Filename": "Firefox Setup 153.2.0esr.msix",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.2.0esr/win64/multi/Firefox%20Setup%20153.2.0esr.msix"
-  },
-  {
-    "Version": "153.2.0",
-    "Channel": "Extended Support Next",
-    "Language": "ru",
     "Architecture": "x64",
     "Type": "msix",
     "Filename": "Firefox Setup 153.2.0esr.msix",
@@ -13250,15 +13052,6 @@
   {
     "Version": "140.15.0",
     "Channel": "Extended Support",
-    "Language": "ach",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "Filename": "Firefox Setup 140.15.0esr.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.15.0esr/win64-aarch64/ach/Firefox%20Setup%20140.15.0esr.exe"
-  },
-  {
-    "Version": "140.15.0",
-    "Channel": "Extended Support",
     "Language": "af",
     "Architecture": "ARM64",
     "Type": "exe",
@@ -13579,15 +13372,6 @@
     "Type": "exe",
     "Filename": "Firefox Setup 140.15.0esr.exe",
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.15.0esr/win64-aarch64/gn/Firefox%20Setup%20140.15.0esr.exe"
-  },
-  {
-    "Version": "140.15.0",
-    "Channel": "Extended Support",
-    "Language": "gu-IN",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "Filename": "Firefox Setup 140.15.0esr.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.15.0esr/win64-aarch64/gu-IN/Firefox%20Setup%20140.15.0esr.exe"
   },
   {
     "Version": "140.15.0",
@@ -13997,15 +13781,6 @@
   {
     "Version": "140.15.0",
     "Channel": "Extended Support",
-    "Language": "th",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "Filename": "Firefox Setup 140.15.0esr.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.15.0esr/win64-aarch64/th/Firefox%20Setup%20140.15.0esr.exe"
-  },
-  {
-    "Version": "140.15.0",
-    "Channel": "Extended Support",
     "Language": "tr",
     "Architecture": "ARM64",
     "Type": "exe",
@@ -14339,15 +14114,6 @@
   {
     "Version": "140.15.0",
     "Channel": "Extended Support",
-    "Language": "ff",
-    "Architecture": "x64",
-    "Type": "exe",
-    "Filename": "Firefox Setup 140.15.0esr.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.15.0esr/win64/ff/Firefox%20Setup%20140.15.0esr.exe"
-  },
-  {
-    "Version": "140.15.0",
-    "Channel": "Extended Support",
     "Language": "fi",
     "Architecture": "x64",
     "Type": "exe",
@@ -14627,15 +14393,6 @@
   {
     "Version": "140.15.0",
     "Channel": "Extended Support",
-    "Language": "my",
-    "Architecture": "x64",
-    "Type": "exe",
-    "Filename": "Firefox Setup 140.15.0esr.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.15.0esr/win64/my/Firefox%20Setup%20140.15.0esr.exe"
-  },
-  {
-    "Version": "140.15.0",
-    "Channel": "Extended Support",
     "Language": "nb-NO",
     "Architecture": "x64",
     "Type": "exe",
@@ -14695,15 +14452,6 @@
     "Type": "exe",
     "Filename": "Firefox Setup 140.15.0esr.exe",
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.15.0esr/win64/pl/Firefox%20Setup%20140.15.0esr.exe"
-  },
-  {
-    "Version": "140.15.0",
-    "Channel": "Extended Support",
-    "Language": "pt-BR",
-    "Architecture": "x64",
-    "Type": "exe",
-    "Filename": "Firefox Setup 140.15.0esr.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.15.0esr/win64/pt-BR/Firefox%20Setup%20140.15.0esr.exe"
   },
   {
     "Version": "140.15.0",
@@ -15055,15 +14803,6 @@
     "Type": "exe",
     "Filename": "Firefox Setup 140.15.0esr.exe",
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.15.0esr/win32/dsb/Firefox%20Setup%20140.15.0esr.exe"
-  },
-  {
-    "Version": "140.15.0",
-    "Channel": "Extended Support",
-    "Language": "el",
-    "Architecture": "x86",
-    "Type": "exe",
-    "Filename": "Firefox Setup 140.15.0esr.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.15.0esr/win32/el/Firefox%20Setup%20140.15.0esr.exe"
   },
   {
     "Version": "140.15.0",
@@ -15847,15 +15586,6 @@
     "Type": "msi",
     "Filename": "Firefox Setup 140.15.0esr.msi",
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.15.0esr/win64/cs/Firefox%20Setup%20140.15.0esr.msi"
-  },
-  {
-    "Version": "140.15.0",
-    "Channel": "Extended Support",
-    "Language": "cy",
-    "Architecture": "x64",
-    "Type": "msi",
-    "Filename": "Firefox Setup 140.15.0esr.msi",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.15.0esr/win64/cy/Firefox%20Setup%20140.15.0esr.msi"
   },
   {
     "Version": "140.15.0",
@@ -16904,15 +16634,6 @@
   {
     "Version": "140.15.0",
     "Channel": "Extended Support",
-    "Language": "he",
-    "Architecture": "x86",
-    "Type": "msi",
-    "Filename": "Firefox Setup 140.15.0esr.msi",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.15.0esr/win32/he/Firefox%20Setup%20140.15.0esr.msi"
-  },
-  {
-    "Version": "140.15.0",
-    "Channel": "Extended Support",
     "Language": "hi-IN",
     "Architecture": "x86",
     "Type": "msi",
@@ -17327,15 +17048,6 @@
   {
     "Version": "140.15.0",
     "Channel": "Extended Support",
-    "Language": "uk",
-    "Architecture": "x86",
-    "Type": "msi",
-    "Filename": "Firefox Setup 140.15.0esr.msi",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.15.0esr/win32/uk/Firefox%20Setup%20140.15.0esr.msi"
-  },
-  {
-    "Version": "140.15.0",
-    "Channel": "Extended Support",
     "Language": "ur",
     "Architecture": "x86",
     "Type": "msi",
@@ -17652,15 +17364,6 @@
     "Version": "140.15.0",
     "Channel": "Extended Support",
     "Language": "ff",
-    "Architecture": "ARM64",
-    "Type": "msix",
-    "Filename": "Firefox Setup 140.15.0esr.msix",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.15.0esr/win64-aarch64/multi/Firefox%20Setup%20140.15.0esr.msix"
-  },
-  {
-    "Version": "140.15.0",
-    "Channel": "Extended Support",
-    "Language": "fi",
     "Architecture": "ARM64",
     "Type": "msix",
     "Filename": "Firefox Setup 140.15.0esr.msix",
@@ -18741,15 +18444,6 @@
     "Version": "140.15.0",
     "Channel": "Extended Support",
     "Language": "mk",
-    "Architecture": "x64",
-    "Type": "msix",
-    "Filename": "Firefox Setup 140.15.0esr.msix",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.15.0esr/win64/multi/Firefox%20Setup%20140.15.0esr.msix"
-  },
-  {
-    "Version": "140.15.0",
-    "Channel": "Extended Support",
-    "Language": "mr",
     "Architecture": "x64",
     "Type": "msix",
     "Filename": "Firefox Setup 140.15.0esr.msix",
@@ -21251,15 +20945,6 @@
   {
     "Version": "156.0b1",
     "Channel": "Developer",
-    "Language": "my",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "Filename": "Firefox Setup 156.0b1.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/156.0b1/win64-aarch64/my/Firefox%20Setup%20156.0b1.exe"
-  },
-  {
-    "Version": "156.0b1",
-    "Channel": "Developer",
     "Language": "nb-NO",
     "Architecture": "ARM64",
     "Type": "exe",
@@ -21400,15 +21085,6 @@
     "Type": "exe",
     "Filename": "Firefox Setup 156.0b1.exe",
     "URI": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/156.0b1/win64-aarch64/son/Firefox%20Setup%20156.0b1.exe"
-  },
-  {
-    "Version": "156.0b1",
-    "Channel": "Developer",
-    "Language": "sq",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "Filename": "Firefox Setup 156.0b1.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/156.0b1/win64-aarch64/sq/Firefox%20Setup%20156.0b1.exe"
   },
   {
     "Version": "156.0b1",
@@ -22250,15 +21926,6 @@
   {
     "Version": "156.0b1",
     "Channel": "Beta",
-    "Language": "sv-SE",
-    "Architecture": "x64",
-    "Type": "exe",
-    "Filename": "Firefox Setup 156.0b1.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/156.0b1/win64/sv-SE/Firefox%20Setup%20156.0b1.exe"
-  },
-  {
-    "Version": "156.0b1",
-    "Channel": "Beta",
     "Language": "ta",
     "Architecture": "x64",
     "Type": "exe",
@@ -22822,15 +22489,6 @@
     "Type": "exe",
     "Filename": "Firefox Setup 156.0b1.exe",
     "URI": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/156.0b1/win64/kk/Firefox%20Setup%20156.0b1.exe"
-  },
-  {
-    "Version": "156.0b1",
-    "Channel": "Developer",
-    "Language": "km",
-    "Architecture": "x64",
-    "Type": "exe",
-    "Filename": "Firefox Setup 156.0b1.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/156.0b1/win64/km/Firefox%20Setup%20156.0b1.exe"
   },
   {
     "Version": "156.0b1",
@@ -23740,15 +23398,6 @@
     "Type": "exe",
     "Filename": "Firefox Setup 156.0b1.exe",
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/156.0b1/win32/my/Firefox%20Setup%20156.0b1.exe"
-  },
-  {
-    "Version": "156.0b1",
-    "Channel": "Beta",
-    "Language": "nb-NO",
-    "Architecture": "x86",
-    "Type": "exe",
-    "Filename": "Firefox Setup 156.0b1.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/156.0b1/win32/nb-NO/Firefox%20Setup%20156.0b1.exe"
   },
   {
     "Version": "156.0b1",
@@ -25814,15 +25463,6 @@
   {
     "Version": "156.0b1",
     "Channel": "Developer",
-    "Language": "dsb",
-    "Architecture": "x64",
-    "Type": "msi",
-    "Filename": "Firefox Setup 156.0b1.msi",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/156.0b1/win64/dsb/Firefox%20Setup%20156.0b1.msi"
-  },
-  {
-    "Version": "156.0b1",
-    "Channel": "Developer",
     "Language": "el",
     "Architecture": "x64",
     "Type": "msi",
@@ -26161,15 +25801,6 @@
     "Type": "msi",
     "Filename": "Firefox Setup 156.0b1.msi",
     "URI": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/156.0b1/win64/ko/Firefox%20Setup%20156.0b1.msi"
-  },
-  {
-    "Version": "156.0b1",
-    "Channel": "Developer",
-    "Language": "lij",
-    "Architecture": "x64",
-    "Type": "msi",
-    "Filename": "Firefox Setup 156.0b1.msi",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/156.0b1/win64/lij/Firefox%20Setup%20156.0b1.msi"
   },
   {
     "Version": "156.0b1",
@@ -28055,15 +27686,6 @@
   {
     "Version": "156.0b1",
     "Channel": "Developer",
-    "Language": "ta",
-    "Architecture": "x86",
-    "Type": "msi",
-    "Filename": "Firefox Setup 156.0b1.msi",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/156.0b1/win32/ta/Firefox%20Setup%20156.0b1.msi"
-  },
-  {
-    "Version": "156.0b1",
-    "Channel": "Developer",
     "Language": "te",
     "Architecture": "x86",
     "Type": "msi",
@@ -28087,15 +27709,6 @@
     "Type": "msi",
     "Filename": "Firefox Setup 156.0b1.msi",
     "URI": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/156.0b1/win32/tr/Firefox%20Setup%20156.0b1.msi"
-  },
-  {
-    "Version": "156.0b1",
-    "Channel": "Developer",
-    "Language": "uk",
-    "Architecture": "x86",
-    "Type": "msi",
-    "Filename": "Firefox Setup 156.0b1.msi",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/156.0b1/win32/uk/Firefox%20Setup%20156.0b1.msi"
   },
   {
     "Version": "156.0b1",
