@@ -900,8 +900,13 @@
     "Link": "https://cli.github.com/"
   },
   {
-    "Name": "GitHubCopilot",
-    "Application": "GitHub Copilot",
+    "Name": "GitHubCopilotApp",
+    "Application": "GitHub Copilot app",
+    "Link": "https://copilot.github.com/"
+  },
+  {
+    "Name": "GitHubCopilotCLI",
+    "Application": "GitHub Copilot CLI",
     "Link": "https://copilot.github.com/"
   },
   {
