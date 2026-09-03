@@ -220,6 +220,50 @@
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/49a19471-4a8e-4af3-ae9e-24cfa29e9c6d/MicrosoftEdgeBetaEnterpriseX86.msi"
   },
   {
+    "Version": "152.0.4191.62",
+    "Date": "2026-09-02T18:49:00",
+    "Channel": "Policy",
+    "Expiry": "2026-12-02T18:49:00",
+    "SHA256": "6B988CC7DEC8A2E53BA5D646C8A124AB30EC312458F64965362767A5C339B3E1",
+    "Size": 17.72,
+    "Architecture": "x86",
+    "Type": "cab",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6cf1f8ed-884d-41fa-83d0-22def81d349f/MicrosoftEdgePolicyTemplates.cab"
+  },
+  {
+    "Version": "152.0.4191.62",
+    "Date": "2026-09-02T18:10:00",
+    "Channel": "Stable",
+    "Expiry": "2027-09-02T17:43:00",
+    "SHA256": "291B157D859E5B0BE1E8A2F6341F09B26221B7F0EC550D2C3F836A7D98FEAA5D",
+    "Size": 251.48,
+    "Architecture": "ARM64",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/dfe6a75f-2e98-4b65-803c-7470321e5831/MicrosoftEdgeEnterpriseARM64.msi"
+  },
+  {
+    "Version": "152.0.4191.62",
+    "Date": "2026-09-02T18:19:00",
+    "Channel": "Stable",
+    "Expiry": "2027-09-02T17:43:00",
+    "SHA256": "093D7CBE7019C7504446599632DD984DCE567DCB96604F14E4384C2C1420239B",
+    "Size": 246.99,
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c4921788-0a24-453a-a265-f0499bb3135b/MicrosoftEdgeEnterpriseX64.msi"
+  },
+  {
+    "Version": "152.0.4191.62",
+    "Date": "2026-09-02T18:19:00",
+    "Channel": "Stable",
+    "Expiry": "2027-09-02T17:46:00",
+    "SHA256": "0B483958BCB4E36DB9CDBA3FF4B19F83A5B649AC96F46D3F5860BC4E125EB424",
+    "Size": 181.22,
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/735f5455-f667-4b9a-89d4-764e0ba5ce55/MicrosoftEdgeEnterpriseX86.msi"
+  },
+  {
     "Version": "152.0.4191.53",
     "Date": "2026-08-28T03:23:00",
     "Channel": "Policy",

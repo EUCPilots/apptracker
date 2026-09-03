@@ -1,22 +1,22 @@
 [
   {
-    "Version": "6.1.0",
-    "Date": "12/8/2026",
-    "Size": 25694208,
-    "Sha256": "1d5f33844e168c0892e10f8e0e5c3085f250e5641f916ac1b7bf3665f97efbab",
+    "Version": "6.1.1",
+    "Date": "2/9/2026",
+    "Size": 26542080,
+    "Sha256": "8ededac563c3b96abe55560f3379962ff59fd8bda1a185ed221891cb6ccf5cba",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/podman-container-tools/podman/releases/download/v6.1.0/podman-installer-windows-arm64.msi"
+    "URI": "https://github.com/podman-container-tools/podman/releases/download/v6.1.1/podman-installer-windows-arm64.msi"
   },
   {
-    "Version": "6.1.0",
-    "Date": "12/8/2026",
-    "Size": 27852800,
-    "Sha256": "1958aac22abb3a9cf7b52626c71ba1a26015c323f0b5fa74671e303b22b043d3",
+    "Version": "6.1.1",
+    "Date": "2/9/2026",
+    "Size": 28823552,
+    "Sha256": "91d0e8ea0846c0151d531c88c329bb2729387231e4d1e42306a8e3ae9d09fc8a",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/podman-container-tools/podman/releases/download/v6.1.0/podman-installer-windows-amd64.msi"
+    "URI": "https://github.com/podman-container-tools/podman/releases/download/v6.1.1/podman-installer-windows-amd64.msi"
   }
 ]

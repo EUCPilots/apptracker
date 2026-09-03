@@ -1,22 +1,22 @@
 [
   {
-    "Version": "1.38.1",
-    "Date": "19/2/2026",
-    "Size": 136384512,
-    "Sha256": "04215bec5632a976b48eb632856b50f1eaaa183b9c2a5904e11d1bacc4961ff7",
+    "Version": "1.39.0",
+    "Date": "2/9/2026",
+    "Size": 144181248,
+    "Sha256": "776386465ded2cf610ae397fe302de32c44d12134b5ce7ce98ab05bd7713b360",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/kubernetes/minikube/releases/download/v1.38.1/minikube-windows-amd64.exe"
+    "URI": "https://github.com/kubernetes/minikube/releases/download/v1.39.0/minikube-windows-amd64.exe"
   },
   {
-    "Version": "1.38.1",
-    "Date": "19/2/2026",
-    "Size": 50928289,
-    "Sha256": "4191fa56bdf25c4bb785f62bbb005a06c56e51cc9e08116149f7f816b907187d",
+    "Version": "1.39.0",
+    "Date": "2/9/2026",
+    "Size": 54308621,
+    "Sha256": "13334fb9aaf70a2b88a9dcd51bd888b265f2817dbc9e1fdf7f5410c797178674",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/kubernetes/minikube/releases/download/v1.38.1/minikube-installer.exe"
+    "URI": "https://github.com/kubernetes/minikube/releases/download/v1.39.0/minikube-installer.exe"
   }
 ]
