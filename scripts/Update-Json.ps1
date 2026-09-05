@@ -40,10 +40,14 @@ $Files = Get-ChildItem -Path $Path -Filter "*.json" | Select-Object -ExpandPrope
 $Apps = Find-EvergreenApp | Select-Object -ExpandProperty "Name"
 Compare-Object -ReferenceObject $Files -DifferenceObject $Apps | `
     Select-Object -ExpandProperty "InputObject" | `
-    ForEach-Object { Remove-Item -Path $([System.IO.Path]::Combine($Path, "$($_).json")) -ErrorAction "SilentlyContinue" }
+    ForEach-Object {
+        Remove-Item -Path $([System.IO.Path]::Combine($Path, "$($_).json")) -ErrorAction "SilentlyContinue"
+        Remove-Item -Path $([System.IO.Path]::Combine($Path, "$($_).err")) -ErrorAction "SilentlyContinue"
+    }
 
 # Walk-through each Evergreen app and export data to JSON files
 foreach ($App in (Find-EvergreenApp | Where-Object { $_.Name -notin $SkipApps } | Select-Object -ExpandProperty "Name" | Sort-Object)) {
+    $ErrPath = [System.IO.Path]::Combine($Path, "$App.err")
     try {
         $params = @{
             Name          = $App
@@ -59,18 +63,31 @@ foreach ($App in (Find-EvergreenApp | Where-Object { $_.Name -notin $SkipApps } 
     catch {
         Write-Information -MessageData "$($PSStyle.Foreground.Cyan)Encountered an issue with: $App."
         Write-Information -MessageData "$($PSStyle.Foreground.Cyan)$($_.Exception.Message)"
-        $_.Exception.Message | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.err")) -NoNewline -Encoding "utf8"
+        $_.Exception.Message | Out-File -FilePath $ErrPath -NoNewline -Encoding "utf8"
         $Output = $null
     }
 
-    if ($null -eq $Output) {
+    if ($null -eq $Output -or @($Output).Count -eq 0) {
         Write-Information -MessageData "$($PSStyle.Foreground.Cyan)Output from app is null: $App."
-        if (!(Test-Path -Path $([System.IO.Path]::Combine($Path, "$App.err")))) {
-            "Output from last run on PowerShell Core was null." | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.err")) -NoNewline -Encoding "utf8"
+        if (!(Test-Path -Path $ErrPath)) {
+            "Output from last run on PowerShell Core was null." | Out-File -FilePath $ErrPath -NoNewline -Encoding "utf8"
+        }
+        $Reason = (Get-Content -Path $ErrPath -Raw -ErrorAction "SilentlyContinue").Trim()
+        if ([string]::IsNullOrWhiteSpace($Reason)) {
+            $Reason = "Output from app was null or empty."
+        }
+        if ($env:GITHUB_ACTIONS -eq 'true') {
+            $CleanReason = $Reason.Replace("`r`n", " ").Replace("`n", " ")
+            Write-Host "::warning title=$App::$CleanReason"
         }
     }
     elseif ("RateLimited" -in $Output.Version) {
         Write-Information -MessageData "$($PSStyle.Foreground.Cyan)Skipping. GitHub API rate limited: $App."
+        $Reason = "GitHub API rate limited."
+        $Reason | Out-File -FilePath $ErrPath -NoNewline -Encoding "utf8"
+        if ($env:GITHUB_ACTIONS -eq 'true') {
+            Write-Host "::warning title=$App::$Reason"
+        }
     }
     else {
 
@@ -95,5 +112,32 @@ foreach ($App in (Find-EvergreenApp | Where-Object { $_.Name -notin $SkipApps } 
 
         # Remove variable
         Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
+
+        # Remove any leftover .err file from previous runs
+        Remove-Item -Path $ErrPath -ErrorAction "SilentlyContinue"
     }
+}
+
+# Write summary to $env:GITHUB_STEP_SUMMARY if running in GitHub Actions
+if ($env:GITHUB_STEP_SUMMARY) {
+    $ErrFiles = Get-ChildItem -Path $Path -Filter "*.err" -ErrorAction "SilentlyContinue" | Sort-Object -Property "BaseName"
+
+    $SummaryMarkdown = "### ⚠️ Applications with Errors or No Output ($($ErrFiles.Count))`n`n"
+    if ($ErrFiles.Count -gt 0) {
+        $SummaryMarkdown += "| Application | Reason / Details |`n"
+        $SummaryMarkdown += "| :--- | :--- |`n"
+        foreach ($File in $ErrFiles) {
+            $AppName = $File.BaseName
+            $Reason = (Get-Content -Path $File.FullName -Raw -ErrorAction "SilentlyContinue").Trim()
+            if ([string]::IsNullOrWhiteSpace($Reason)) {
+                $Reason = "Output was null or empty."
+            }
+            $CleanReason = $Reason.Replace("`r`n", " ").Replace("`n", " ").Replace("|", "&#124;")
+            $SummaryMarkdown += "| ``$AppName`` | $CleanReason |`n"
+        }
+    }
+    else {
+        $SummaryMarkdown = "### Applications Update Summary`n`nAll applications updated successfully.`n"
+    }
+    $SummaryMarkdown | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append -Encoding "utf8"
 }
