@@ -1,29 +1,42 @@
 [
   {
-    "Version": "1.2.2",
-    "Date": "1/1/2025",
-    "Size": 5612296,
-    "Architecture": "x86",
+    "Version": "2.0.0",
+    "Date": "2/9/2026",
+    "Size": 9881166,
+    "Sha256": "62868ba9d1fd0e9b60ad7f69d05e8e85b49b5700ec29cf6e9adb9a5c83aebdb7",
+    "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/coreybutler/nvm-windows/releases/download/1.2.2/nvm-setup.exe"
+    "URI": "https://github.com/nvm-windows/nvm/releases/download/v2.0.0/nvm-2.0.0-arm64-setup.exe"
   },
   {
-    "Version": "1.2.2",
-    "Date": "1/1/2025",
-    "Size": 6306101,
-    "Architecture": "x86",
+    "Version": "2.0.0",
+    "Date": "2/9/2026",
+    "Size": 14301184,
+    "Sha256": "ef67fe9ebb6767bda70d8f1dc47f3113e148e0b9dea8c65f3cedaca8686daf98",
+    "Architecture": "ARM64",
     "InstallerType": "Default",
-    "Type": "zip",
-    "URI": "https://github.com/coreybutler/nvm-windows/releases/download/1.2.2/nvm-noinstall.zip"
+    "Type": "exe",
+    "URI": "https://github.com/nvm-windows/nvm/releases/download/v2.0.0/nvm-2.0.0-arm64-sync.exe"
   },
   {
-    "Version": "1.2.2",
-    "Date": "1/1/2025",
-    "Size": 5071673,
-    "Architecture": "x86",
+    "Version": "2.0.0",
+    "Date": "2/9/2026",
+    "Size": 10837938,
+    "Sha256": "afaee67d3d7bc8ccad0b1b06f63b0f2d6b008bc7e55d5205043f095b4906ac11",
+    "Architecture": "x64",
     "InstallerType": "Default",
-    "Type": "zip",
-    "URI": "https://github.com/coreybutler/nvm-windows/releases/download/1.2.2/nvm-setup.zip"
+    "Type": "exe",
+    "URI": "https://github.com/nvm-windows/nvm/releases/download/v2.0.0/nvm-2.0.0-amd64-setup.exe"
+  },
+  {
+    "Version": "2.0.0",
+    "Date": "2/9/2026",
+    "Size": 15799296,
+    "Sha256": "79793ea532229a404fcf3b00d7f2efab846d6f68ac4fb26b8e5a37c21faab20b",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/nvm-windows/nvm/releases/download/v2.0.0/nvm-2.0.0-amd64-sync.exe"
   }
 ]
