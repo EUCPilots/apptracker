@@ -1,0 +1,26 @@
+[
+  {
+    "Version": "26.0.2.1",
+    "FullVersion": "26.0.2.1+1",
+    "Date": "18/8/2026",
+    "Sha256": "401a4f6fb9a557d7476d31a46277a568457b3e35d388bb9b0eec19ba1adc23bb",
+    "Type": "exe",
+    "URI": "https://download.oracle.com/java/26/latest/jdk-26_windows-x64_bin.exe"
+  },
+  {
+    "Version": "26.0.2.1",
+    "FullVersion": "26.0.2.1+1",
+    "Date": "18/8/2026",
+    "Sha256": "d7c3399c1702182a89bb9131faeeecfe335fdd8a5bb10ef05806bade1166f384",
+    "Type": "msi",
+    "URI": "https://download.oracle.com/java/26/latest/jdk-26_windows-x64_bin.msi"
+  },
+  {
+    "Version": "26.0.2.1",
+    "FullVersion": "26.0.2.1+1",
+    "Date": "18/8/2026",
+    "Sha256": "0bd0029e1dbba30a707c8255c373ce80dc1071b8f224ef1b79438d82d3123aed",
+    "Type": "zip",
+    "URI": "https://download.oracle.com/java/26/latest/jdk-26_windows-x64_bin.zip"
+  }
+]
