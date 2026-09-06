@@ -8,7 +8,7 @@ param(
     [System.String] $Path,
 
     [ValidateNotNullOrEmpty()]
-    [System.String[]] $Apps = ("FreedomScientificFusion", "FreedomScientificJAWS", "FreedomScientificZoomText", "OracleJava17", "OracleJava20", "OracleJava21", "OracleJava22", "OracleJava23", "OracleJava25", "Slack", "VideoLanVlcPlayer")
+    [System.String[]] $Apps = ("FreedomScientificFusion", "FreedomScientificJAWS", "FreedomScientificZoomText", "MicrosoftPowerAutomateDesktop", "OracleJava17", "OracleJava20", "OracleJava21", "OracleJava22", "OracleJava23", "OracleJava25", "OracleJava26", "Slack", "VideoLanVlcPlayer", "ClaudeDesktop", "OctopusDeployServer")
 )
 
 #region Functions
