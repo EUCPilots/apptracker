@@ -1,22 +1,22 @@
 [
   {
-    "Version": "4.7.4",
-    "Date": "6/7/2026",
-    "Size": 137646832,
-    "Sha256": "eb558db557be82c6e0b1812bd999d3240d4b6c216e12d988dd42d11d546e4be1",
+    "Version": "4.7.5",
+    "Date": "31/8/2026",
+    "Size": 138521976,
+    "Sha256": "1f482f572edac911bf61a8fd2e7844b1a010c05b1a1bf611955c57c2c40eb4fa",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/musescore/MuseScore/releases/download/v4.7.4/MuseScore-Studio-4.7.4.260706075-x86_64.paf.exe"
+    "URI": "https://github.com/musescore/MuseScore/releases/download/v4.7.5/MuseScore-Studio-4.7.5.260831071-x86_64.paf.exe"
   },
   {
-    "Version": "4.7.4",
-    "Date": "6/7/2026",
-    "Size": 127807488,
-    "Sha256": "64fe70e5cb9ffe159d047d1e88db567bd101f60d36b0de28feb674716929a378",
+    "Version": "4.7.5",
+    "Date": "31/8/2026",
+    "Size": 128745472,
+    "Sha256": "07b0f3292612e2df4c7e0632deb790add51b218f0ee33f7fecaa6111dd279ec6",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/musescore/MuseScore/releases/download/v4.7.4/MuseScore-Studio-4.7.4.260706075-x86_64.msi"
+    "URI": "https://github.com/musescore/MuseScore/releases/download/v4.7.5/MuseScore-Studio-4.7.5.260831071-x86_64.msi"
   }
 ]
