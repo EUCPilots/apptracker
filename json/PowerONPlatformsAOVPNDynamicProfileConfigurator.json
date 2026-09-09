@@ -1,12 +1,12 @@
 [
   {
-    "Version": "5.4.0",
-    "Date": "5/5/2026",
-    "Size": 1757184,
-    "Sha256": "cd8d821ecc812e021875d8a05612fc96d05d6d3e959f86f42a7785a022a8c51a",
+    "Version": "5.4.1",
+    "Date": "8/9/2026",
+    "Size": 1724416,
+    "Sha256": "012480bfef9f7b08fcacb93f705518f0f5378bb98089811ae865760f176f9bf6",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/ld0614/DPC/releases/download/v5.4.0/DPC.msi"
+    "URI": "https://github.com/ld0614/DPC/releases/download/v5.4.1/DPC.msi"
   }
 ]
