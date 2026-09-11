@@ -1,32 +1,42 @@
 [
   {
-    "Version": "18_00_0002",
-    "Date": "2/7/2026",
-    "Size": 8581603,
-    "Sha256": "e48e593dffda33c6ed8e34654322e3c8d1669185b542616e8674d65aef75b1e5",
+    "Version": "18_00_0003",
+    "Date": "10/9/2026",
+    "Size": 8603355,
+    "Sha256": "272b38151b5f2db46b4570731406d48ddac994867f609abbb9eee34158960ad2",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-18_00_0002/psqlodbc-setup.exe"
+    "URI": "https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-18_00_0003/psqlodbc-setup.exe"
   },
   {
-    "Version": "18_00_0002",
-    "Date": "2/7/2026",
-    "Size": 4583424,
-    "Sha256": "f732181b1337df8114ec46dc1bb75d5176122c5345bdcaddbe887ed0672576f1",
+    "Version": "18_00_0003",
+    "Date": "10/9/2026",
+    "Size": 4268032,
+    "Sha256": "2775c5de225a8960358a6412dcf0f947006e16624462287294599a527728e22b",
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-18_00_0003/psqlodbc_arm64.msi"
+  },
+  {
+    "Version": "18_00_0003",
+    "Date": "10/9/2026",
+    "Size": 4587520,
+    "Sha256": "5b8ba87e3de43f9437dfd24b07e451beba654d8f941b0fa05b46147543ed9a19",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-18_00_0002/psqlodbc_x64.msi"
+    "URI": "https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-18_00_0003/psqlodbc_x64.msi"
   },
   {
-    "Version": "18_00_0002",
-    "Date": "2/7/2026",
-    "Size": 4071424,
-    "Sha256": "d326f15054f6d36eaf0630e22d41d7adafd04f5a8db90fa149de17e69979b93d",
+    "Version": "18_00_0003",
+    "Date": "10/9/2026",
+    "Size": 4091904,
+    "Sha256": "d8ea2848b845ae7dc098fc126d4b08a693941554a57d54c1b7a092268b94bcda",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-18_00_0002/psqlodbc_x86.msi"
+    "URI": "https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-18_00_0003/psqlodbc_x86.msi"
   }
 ]
