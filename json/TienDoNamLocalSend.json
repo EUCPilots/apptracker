@@ -22,6 +22,16 @@
   {
     "Version": "1.18.2",
     "Date": "21/8/2026",
+    "Size": 19901144,
+    "Sha256": "122783e6abb4b0a1f1603d896f46a03aeda3004479ebd3175cab4ddac6b60919",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64.exe"
+  },
+  {
+    "Version": "1.18.2",
+    "Date": "21/8/2026",
     "Size": 9725952,
     "Sha256": "ca0b267e7457324b3664a935de4e4956da701a7fa1045f6f99c72602f7f8dc38",
     "Architecture": "x64",

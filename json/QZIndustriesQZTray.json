@@ -1,22 +1,22 @@
 [
   {
-    "Version": "2.2.6",
-    "Date": "4/4/2026",
-    "Size": 101189808,
-    "Sha256": "ec08eee87768753651c9f3e1ef0e83a297a0b9e8950793875d686931228a7069",
+    "Version": "2.3.0",
+    "Date": "11/9/2026",
+    "Size": 137645696,
+    "Sha256": "10e308b91d84b637520eb36096cb6814b33a66f3cabc317ce776253e759babc8",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/qzind/tray/releases/download/v2.2.6/qz-tray-2.2.6-arm64.exe"
+    "URI": "https://github.com/qzind/tray/releases/download/v2.3.0/qz-tray-2.3.0-arm64.exe"
   },
   {
-    "Version": "2.2.6",
-    "Date": "4/4/2026",
-    "Size": 103873288,
-    "Sha256": "aeb93a601c27f5fa6bb464f63471e7acd43052ba384fef49dceec8290d4f7587",
+    "Version": "2.3.0",
+    "Date": "11/9/2026",
+    "Size": 140352312,
+    "Sha256": "7a44a50f679f0a1dab6679e6c22158dd335511074f5fcc1b208b6f9caf711ba7",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/qzind/tray/releases/download/v2.2.6/qz-tray-2.2.6-x86_64.exe"
+    "URI": "https://github.com/qzind/tray/releases/download/v2.3.0/qz-tray-2.3.0-x86_64.exe"
   }
 ]
