@@ -1,22 +1,22 @@
 [
   {
-    "Version": "26.08.1",
-    "Date": "5/8/2026",
-    "Size": 164085760,
-    "Sha256": "0f3821d09faabfc742642bed649e207e6692344dd0632c62bc66313c3880eba5",
+    "Version": "26.09",
+    "Date": "14/9/2026",
+    "Size": 167845888,
+    "Sha256": "cbc6b07fc75dbd56a98501038f35b127f6c876b95ec2e204c9037bb9e4154695",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/ankitects/anki/releases/download/26.08.1/anki-26.08.1-win-arm64.msi"
+    "URI": "https://github.com/ankitects/anki/releases/download/26.09/anki-26.09-win-arm64.msi"
   },
   {
-    "Version": "26.08.1",
-    "Date": "5/8/2026",
-    "Size": 201519104,
-    "Sha256": "d79170c3cd2e6225f9c2ba33212117a8fe70c10735c3f0e5a2864e2f0ccf7c8c",
+    "Version": "26.09",
+    "Date": "14/9/2026",
+    "Size": 201236480,
+    "Sha256": "6490598460fe65c501cac19ad987a54457ccd49feb5706be0c0a0f7b0c0656a3",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/ankitects/anki/releases/download/26.08.1/anki-26.08.1-win-x64.msi"
+    "URI": "https://github.com/ankitects/anki/releases/download/26.09/anki-26.09-win-x64.msi"
   }
 ]
