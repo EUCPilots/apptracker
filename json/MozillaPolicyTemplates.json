@@ -1,12 +1,12 @@
 [
   {
-    "Version": "8.2",
-    "Date": "31/8/2026",
-    "Size": 182446,
-    "Sha256": "6a0f18be4d38e8e2b04892ba8d9e4e2bcc22bedb27d11f5c314d54b50afdf07a",
+    "Version": "8.3",
+    "Date": "16/9/2026",
+    "Size": 183604,
+    "Sha256": "5c042db1fca51f42c305328a48cd5a452c906200ba02791fe87cff97cc1662ea",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/mozilla/policy-templates/releases/download/v8.2/policy_templates_v8.2.zip"
+    "URI": "https://github.com/mozilla/policy-templates/releases/download/v8.3/policy_templates_v8.3.zip"
   }
 ]
