@@ -1,26 +1,26 @@
 [
   {
-    "Version": "3.20.21",
+    "Version": "3.21.9",
     "Platform": "win32-arm64",
     "Architecture": "ARM64",
-    "URI": "https://downloads.cursor.com/production/f09fca384ceca23f7bf21f9c23655b162641d747/win32/arm64/system-setup/CursorSetup-arm64-3.20.21.exe"
+    "URI": "https://downloads.cursor.com/production/9998796a6096ce83d83a9332bfe7473b985db750/win32/arm64/system-setup/CursorSetup-arm64-3.21.9.exe"
   },
   {
-    "Version": "3.20.21",
+    "Version": "3.21.9",
     "Platform": "win32-arm64-user",
     "Architecture": "ARM64",
-    "URI": "https://downloads.cursor.com/production/f09fca384ceca23f7bf21f9c23655b162641d747/win32/arm64/user-setup/CursorUserSetup-arm64-3.20.21.exe"
+    "URI": "https://downloads.cursor.com/production/9998796a6096ce83d83a9332bfe7473b985db750/win32/arm64/user-setup/CursorUserSetup-arm64-3.21.9.exe"
   },
   {
-    "Version": "3.20.21",
+    "Version": "3.21.9",
     "Platform": "win32-x64",
     "Architecture": "x64",
-    "URI": "https://downloads.cursor.com/production/f09fca384ceca23f7bf21f9c23655b162641d747/win32/x64/system-setup/CursorSetup-x64-3.20.21.exe"
+    "URI": "https://downloads.cursor.com/production/9998796a6096ce83d83a9332bfe7473b985db750/win32/x64/system-setup/CursorSetup-x64-3.21.9.exe"
   },
   {
-    "Version": "3.20.21",
+    "Version": "3.21.9",
     "Platform": "win32-x64-user",
     "Architecture": "x64",
-    "URI": "https://downloads.cursor.com/production/f09fca384ceca23f7bf21f9c23655b162641d747/win32/x64/user-setup/CursorUserSetup-x64-3.20.21.exe"
+    "URI": "https://downloads.cursor.com/production/9998796a6096ce83d83a9332bfe7473b985db750/win32/x64/user-setup/CursorUserSetup-x64-3.21.9.exe"
   }
 ]
