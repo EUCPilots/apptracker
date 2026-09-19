@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2.1.6",
-    "Date": "13/5/2026",
-    "Size": 200075928,
-    "Sha256": "78d1c45a55428e65ab2ac96e462ad6d77adbf7d1c0aa4b704b214bc00e1fcdfc",
+    "Version": "2.1.7",
+    "Date": "18/9/2026",
+    "Size": 200093336,
+    "Sha256": "386bb45da6e0edeb20e065427cdef30a876e4d2a59579f8add329d8510ac12f8",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/balena-io/etcher/releases/download/v2.1.6/balenaEtcher-2.1.6.Setup.exe"
+    "URI": "https://github.com/balena-io/etcher/releases/download/v2.1.7/balenaEtcher-2.1.7.Setup.exe"
   }
 ]
