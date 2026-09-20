@@ -31,7 +31,6 @@ jobs:
           Set-PSRepository -Name "PSGallery" -InstallationPolicy "Trusted"
           Install-Module -Name "DnsClient-PS"
           Install-Module -Name "Evergreen" -AllowClobber -SkipPublisherCheck -AllowPrerelease -Force -Verbose
-          Update-Evergreen
 
       # Import GPG key
       - name: Import GPG key
@@ -53,6 +52,7 @@ jobs:
         working-directory: ${{ github.workspace }}
         run: |
           Import-Module -Name "Evergreen"
+          Update-Evergreen -Force
           . "${{ github.workspace }}/scripts/Update-Json.ps1" -Path "${{ github.workspace }}/json"
 
           # Write the supported apps to a JSON file for reference
