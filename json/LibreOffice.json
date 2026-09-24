@@ -1,1472 +1,1682 @@
 [
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "am",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_am.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_am.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ar",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_ar.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_ar.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ast",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_ast.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_ast.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "bg",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_bg.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_bg.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "bn",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_bn.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_bn.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "bn-IN",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_bn-IN.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_bn-IN.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "bo",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_bo.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_bo.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "bs",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_bs.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_bs.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ca",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_ca.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_ca.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ca-valencia",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_ca-valencia.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_ca-valencia.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "cs",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_cs.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_cs.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "da",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_da.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_da.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "de",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_de.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_de.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "dsb",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_dsb.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_dsb.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "dz",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_dz.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_dz.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "el",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_el.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_el.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "en-GB",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_en-GB.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_en-GB.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "en-US",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_en-US.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_en-US.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "en-ZA",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_en-ZA.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_en-ZA.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "eo",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_eo.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_eo.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "es",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_es.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_es.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "et",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_et.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_et.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "eu",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_eu.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_eu.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "fi",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_fi.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_fi.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "fr",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_fr.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_fr.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "gl",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_gl.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_gl.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "gu",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_gu.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_gu.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "he",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_he.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_he.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "hi",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_hi.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_hi.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "hr",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_hr.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_hr.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "hsb",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_hsb.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_hsb.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "hu",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_hu.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_hu.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "id",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_id.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_id.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "is",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_is.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_is.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "it",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_it.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_it.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ja",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_ja.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_ja.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ka",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_ka.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_ka.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "km",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_km.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_km.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ko",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_ko.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_ko.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "lo",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_lo.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_lo.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "lt",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_lt.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_lt.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "lv",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_lv.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_lv.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "mk",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_mk.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_mk.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "nb",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_nb.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_nb.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ne",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_ne.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_ne.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "Neutral",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Installer",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "nl",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_nl.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_nl.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "nn",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_nn.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_nn.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "om",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_om.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_om.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "pl",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_pl.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_pl.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "pt",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_pt.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_pt.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "pt-BR",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_pt-BR.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_pt-BR.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "qtz",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_qtz.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_qtz.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ro",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_ro.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_ro.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ru",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_ru.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_ru.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "si",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_si.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_si.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "sid",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_sid.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_sid.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "sk",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_sk.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_sk.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "sl",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_sl.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_sl.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "sq",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_sq.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_sq.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "sv",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_sv.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_sv.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ta",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_ta.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_ta.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "tg",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_tg.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_tg.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "tl",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_tl.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_tl.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "tr",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_tr.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_tr.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ug",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_ug.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_ug.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "uk",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_uk.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_uk.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "vi",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_vi.msi"
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_vi.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "ARM64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "zh-CN",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_zh-CN.msi"
-  },
-  {
-    "Version": "26.2.3",
     "Architecture": "ARM64",
-    "Release": "Latest",
-    "Language": "zh-TW",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/aarch64/LibreOffice_26.2.3_Win_aarch64_helppack_zh-TW.msi"
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_zh-CN.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
+    "Language": "zh-TW",
+    "Architecture": "ARM64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/aarch64/LibreOffice_26.2.6_Win_aarch64_helppack_zh-TW.msi"
+  },
+  {
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "am",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_am.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_am.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ar",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_ar.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_ar.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ast",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_ast.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_ast.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "bg",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_bg.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_bg.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "bn",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_bn.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_bn.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "bn-IN",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_bn-IN.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_bn-IN.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "bo",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_bo.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_bo.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "bs",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_bs.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_bs.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ca",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_ca.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_ca.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ca-valencia",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_ca-valencia.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_ca-valencia.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "cs",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_cs.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_cs.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "da",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_da.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_da.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "de",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_de.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_de.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "dsb",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_dsb.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_dsb.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "dz",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_dz.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_dz.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "el",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_el.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_el.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "en-GB",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_en-GB.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_en-GB.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "en-US",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_en-US.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_en-US.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "en-ZA",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_en-ZA.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_en-ZA.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "eo",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_eo.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_eo.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "es",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_es.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_es.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "et",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_et.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_et.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "eu",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_eu.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_eu.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "fi",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_fi.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_fi.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "fr",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_fr.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_fr.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "gl",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_gl.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_gl.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "gu",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_gu.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_gu.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "he",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_he.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_he.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "hi",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_hi.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_hi.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "hr",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_hr.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_hr.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "hsb",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_hsb.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_hsb.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "hu",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_hu.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_hu.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "id",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_id.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_id.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "is",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_is.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_is.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "it",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_it.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_it.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ja",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_ja.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_ja.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ka",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_ka.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_ka.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "km",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_km.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_km.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ko",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_ko.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_ko.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "lo",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_lo.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_lo.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "lt",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_lt.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_lt.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "lv",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_lv.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_lv.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "mk",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_mk.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_mk.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "nb",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_nb.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_nb.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ne",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_ne.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_ne.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "Neutral",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64.msi"
+    "Architecture": "x64",
+    "InstallerType": "Installer",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "nl",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_nl.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_nl.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "nn",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_nn.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_nn.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "om",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_om.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_om.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "pl",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_pl.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_pl.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "pt",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_pt.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_pt.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "pt-BR",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_pt-BR.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_pt-BR.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "qtz",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_qtz.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_qtz.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ro",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_ro.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_ro.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ru",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_ru.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_ru.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "si",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_si.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_si.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "sid",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_sid.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_sid.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "sk",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_sk.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_sk.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "sl",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_sl.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_sl.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "sq",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_sq.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_sq.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "sv",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_sv.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_sv.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ta",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_ta.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_ta.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "tg",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_tg.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_tg.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "tl",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_tl.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_tl.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "tr",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_tr.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_tr.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ug",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_ug.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_ug.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "uk",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_uk.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_uk.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "vi",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_vi.msi"
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_vi.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x64",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "zh-CN",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_zh-CN.msi"
-  },
-  {
-    "Version": "26.2.3",
     "Architecture": "x64",
-    "Release": "Latest",
-    "Language": "zh-TW",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86_64/LibreOffice_26.2.3_Win_x86-64_helppack_zh-TW.msi"
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_zh-CN.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
+    "Language": "zh-TW",
+    "Architecture": "x64",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86_64/LibreOffice_26.2.6_Win_x86-64_helppack_zh-TW.msi"
+  },
+  {
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "am",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_am.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_am.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ar",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_ar.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_ar.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ast",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_ast.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_ast.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "bg",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_bg.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_bg.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "bn",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_bn.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_bn.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "bn-IN",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_bn-IN.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_bn-IN.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "bo",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_bo.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_bo.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "bs",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_bs.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_bs.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ca",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_ca.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_ca.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ca-valencia",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_ca-valencia.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_ca-valencia.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "cs",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_cs.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_cs.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "da",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_da.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_da.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "de",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_de.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_de.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "dsb",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_dsb.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_dsb.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "dz",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_dz.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_dz.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "el",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_el.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_el.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "en-GB",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_en-GB.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_en-GB.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "en-US",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_en-US.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_en-US.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "en-ZA",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_en-ZA.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_en-ZA.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "eo",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_eo.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_eo.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "es",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_es.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_es.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "et",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_et.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_et.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "eu",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_eu.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_eu.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "fi",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_fi.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_fi.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "fr",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_fr.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_fr.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "gl",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_gl.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_gl.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "gu",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_gu.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_gu.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "he",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_he.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_he.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "hi",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_hi.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_hi.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "hr",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_hr.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_hr.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "hsb",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_hsb.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_hsb.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "hu",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_hu.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_hu.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "id",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_id.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_id.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "is",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_is.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_is.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "it",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_it.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_it.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ja",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_ja.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_ja.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ka",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_ka.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_ka.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "km",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_km.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_km.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ko",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_ko.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_ko.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "lo",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_lo.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_lo.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "lt",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_lt.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_lt.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "lv",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_lv.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_lv.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "mk",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_mk.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_mk.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "nb",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_nb.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_nb.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ne",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_ne.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_ne.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "Neutral",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86.msi"
+    "Architecture": "x86",
+    "InstallerType": "Installer",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "nl",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_nl.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_nl.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "nn",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_nn.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_nn.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "om",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_om.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_om.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "pl",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_pl.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_pl.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "pt",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_pt.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_pt.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "pt-BR",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_pt-BR.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_pt-BR.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "qtz",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_qtz.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_qtz.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ro",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_ro.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_ro.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ru",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_ru.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_ru.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "si",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_si.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_si.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "sid",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_sid.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_sid.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "sk",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_sk.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_sk.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "sl",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_sl.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_sl.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "sq",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_sq.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_sq.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "sv",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_sv.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_sv.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ta",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_ta.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_ta.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "tg",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_tg.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_tg.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "tl",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_tl.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_tl.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "tr",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_tr.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_tr.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "ug",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_ug.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_ug.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "uk",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_uk.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_uk.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "vi",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_vi.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_vi.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "zh-CN",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_zh-CN.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_zh-CN.msi"
   },
   {
-    "Version": "26.2.3",
-    "Architecture": "x86",
-    "Release": "Latest",
+    "Version": "26.2.6",
+    "Release": "Previous",
     "Language": "zh-TW",
-    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.3/win/x86/LibreOffice_26.2.3_Win_x86_helppack_zh-TW.msi"
+    "Architecture": "x86",
+    "InstallerType": "Helppack",
+    "URI": "https://download.documentfoundation.org/libreoffice/stable/26.2.6/win/x86/LibreOffice_26.2.6_Win_x86_helppack_zh-TW.msi"
   }
 ]

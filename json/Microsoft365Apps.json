@@ -1,19 +1,19 @@
 [
   {
-    "Version": "16.0.20430.20048",
+    "Version": "16.0.20430.20092",
     "ReleaseVersion": "2609",
-    "Channel": "CurrentPreview",
-    "Name": "Current Channel (Preview)",
-    "Date": "2026-09-16T14:45:27",
+    "Channel": "Current",
+    "Name": "Current Channel",
+    "Date": "2026-09-22T22:30:45",
     "EOSDate": "0001-01-01T00:00:00",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.20326.20158",
-    "ReleaseVersion": "2608",
-    "Channel": "Current",
-    "Name": "Current Channel",
-    "Date": "2026-09-18T22:43:02",
+    "Version": "16.0.20430.20092",
+    "ReleaseVersion": "2609",
+    "Channel": "CurrentPreview",
+    "Name": "Current Channel (Preview)",
+    "Date": "2026-09-21T17:01:38",
     "EOSDate": "0001-01-01T00:00:00",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
@@ -63,11 +63,11 @@
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.10417.20208",
+    "Version": "16.0.10417.20211",
     "ReleaseVersion": "1808",
     "Channel": "PerpetualVL2019",
     "Name": "Office 2019 Perpetual Enterprise",
-    "Date": "2026-09-12T21:58:09",
+    "Date": "2026-09-24T00:16:02",
     "EOSDate": "2026-10-13T00:00:00",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   }

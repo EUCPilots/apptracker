@@ -1,31 +1,31 @@
 [
   {
-    "Version": "4.6.8",
+    "Version": "4.6.9",
     "Release": "Stable",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.6.8-x64.exe"
+    "URI": "https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.6.9-x64.exe"
   },
   {
-    "Version": "4.6.8",
+    "Version": "4.6.9",
     "Release": "Stable",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.6.8-x64.msi"
+    "URI": "https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.6.9-x64.msi"
   },
   {
-    "Version": "4.4.18",
+    "Version": "4.4.19",
     "Release": "Stable",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.4.18-x64.exe"
+    "URI": "https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.4.19-x64.exe"
   },
   {
-    "Version": "4.4.18",
+    "Version": "4.4.19",
     "Release": "Stable",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.4.18-x64.msi"
+    "URI": "https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.4.19-x64.msi"
   },
   {
     "Version": "3.6.24",

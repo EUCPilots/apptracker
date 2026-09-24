@@ -1,21 +1,21 @@
 [
   {
-    "Version": "5.200.9739.41506",
-    "Channel": "alpha",
+    "Version": "5.200.9762.36236",
+    "Channel": "beta",
     "Architecture": "any",
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.2-alpha.5.200.9739.41506/paint.net.5.200.9739.41506.install.anycpu.web.zip"
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.2-beta.5.200.9762.36236/paint.net.5.200.9762.36236.install.anycpu.web.zip"
   },
   {
-    "Version": "5.200.9739.41506",
-    "Channel": "alpha",
+    "Version": "5.200.9762.36236",
+    "Channel": "beta",
     "Architecture": "ARM64",
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.2-alpha.5.200.9739.41506/paint.net.5.200.9739.41506.install.arm64.zip"
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.2-beta.5.200.9762.36236/paint.net.5.200.9762.36236.install.arm64.zip"
   },
   {
-    "Version": "5.200.9739.41506",
-    "Channel": "alpha",
+    "Version": "5.200.9762.36236",
+    "Channel": "beta",
     "Architecture": "x64",
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.2-alpha.5.200.9739.41506/paint.net.5.200.9739.41506.install.x64.zip"
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.2-beta.5.200.9762.36236/paint.net.5.200.9762.36236.install.x64.zip"
   },
   {
     "Version": "5.112.9563.32325",

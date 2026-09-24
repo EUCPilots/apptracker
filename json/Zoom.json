@@ -1,39 +1,48 @@
 [
   {
-    "Version": "7.2.0.48358",
+    "Version": "7.2.1.48556",
     "Platform": "Desktop",
     "Installer": "User",
-    "Size": 119730776,
+    "Size": 119701864,
     "Type": "exe",
     "Architecture": "ARM64",
-    "URI": "https://cdn.zoom.us/prod/7.2.0.48358/arm64/ZoomInstallerFull.exe"
+    "URI": "https://cdn.zoom.us/prod/7.2.1.48556/arm64/ZoomInstallerFull.exe"
   },
   {
-    "Version": "7.2.0.48358",
+    "Version": "7.2.1.48556",
     "Platform": "Desktop",
     "Installer": "User",
-    "Size": 181558384,
+    "Size": 181560368,
     "Type": "exe",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/7.2.0.48358/x64/ZoomInstallerFull.exe"
+    "URI": "https://cdn.zoom.us/prod/7.2.1.48556/x64/ZoomInstallerFull.exe"
   },
   {
-    "Version": "7.2.0.48358",
+    "Version": "7.2.1.48556",
     "Platform": "Desktop",
     "Installer": "Admin",
-    "Size": 160115200,
+    "Size": 160147456,
     "Type": "msi",
     "Architecture": "ARM64",
-    "URI": "https://cdn.zoom.us/prod/7.2.0.48358/arm64/ZoomInstallerFull.msi"
+    "URI": "https://cdn.zoom.us/prod/7.2.1.48556/arm64/ZoomInstallerFull.msi"
   },
   {
-    "Version": "7.2.0.48358",
+    "Version": "7.2.1.48556",
     "Platform": "Desktop",
     "Installer": "Admin",
-    "Size": 220354048,
+    "Size": 220297216,
     "Type": "msi",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/7.2.0.48358/x64/ZoomInstallerFull.msi"
+    "URI": "https://cdn.zoom.us/prod/7.2.1.48556/x64/ZoomInstallerFull.msi"
+  },
+  {
+    "Version": "7.2.0.1283",
+    "Platform": "Outlook",
+    "Installer": "User",
+    "Size": 13455872,
+    "Type": "msi",
+    "Architecture": "x86",
+    "URI": "https://cdn.zoom.us/prod/7.2.0.1283/ZoomOutlookPluginSetup.msi"
   },
   {
     "Version": "7.1.7.8297",
@@ -52,15 +61,6 @@
     "Type": "msi",
     "Architecture": "x64",
     "URI": "https://cdn.zoom.us/prod/7.1.7.8297/x64/zoomrooms-7.1.7.8297-x64.msi"
-  },
-  {
-    "Version": "7.1.0.1261",
-    "Platform": "Outlook",
-    "Installer": "User",
-    "Size": 12994048,
-    "Type": "msi",
-    "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/7.1.0.1261/ZoomOutlookPluginSetup.msi"
   },
   {
     "Version": "7.1.0.1259",
