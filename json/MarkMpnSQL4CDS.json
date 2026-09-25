@@ -8,5 +8,15 @@
     "InstallerType": "Default",
     "Type": "vsix",
     "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.5.1/azuredatastudio-sql4cds-10.5.1.vsix"
+  },
+  {
+    "Version": "10.5.1",
+    "Date": "5/9/2026",
+    "Size": 9439443,
+    "Sha256": "5438a1e96b769c9178cfc13dc4f84e6678a69f012b0f2ac4f69f7a6e72ab29bb",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "vsix",
+    "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.5.1/MarkMpn.Sql4Cds.SSMS.22.vsix"
   }
 ]

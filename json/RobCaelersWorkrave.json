@@ -1,12 +1,12 @@
 [
   {
-    "Version": "1.11.1",
-    "Date": "23/7/2026",
-    "Size": 59441904,
-    "Sha256": "f996e12c0b1baa6de68e656e1a34b798805110b7d2b09cbd98c62e8a2d6deecc",
+    "Version": "1.11.4",
+    "Date": "25/9/2026",
+    "Size": 59240208,
+    "Sha256": "040bc71c659cb389a7b39573fba8b2b586c9009a200cf049ef43c67885726636",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/rcaelers/workrave/releases/download/v1_11_1/workrave-windows-1.11.1.exe"
+    "URI": "https://github.com/rcaelers/workrave/releases/download/v1_11_4/workrave-windows-1.11.4.exe"
   }
 ]
