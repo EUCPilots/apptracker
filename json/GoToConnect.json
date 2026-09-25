@@ -1,14 +1,14 @@
 [
   {
-    "Version": "4.20.2",
+    "Version": "4.20.3",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://goto-desktop.goto.com/GoToSetupMachine-4.20.2-x64.msi"
+    "URI": "https://goto-desktop.goto.com/GoToSetupMachine-4.20.3-x64.msi"
   },
   {
-    "Version": "4.20.2",
+    "Version": "4.20.3",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://goto-desktop.goto.com/GoToSetupMachine-4.20.2-ia32.msi"
+    "URI": "https://goto-desktop.goto.com/GoToSetupMachine-4.20.3-ia32.msi"
   }
 ]
