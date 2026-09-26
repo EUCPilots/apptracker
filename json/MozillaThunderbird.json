@@ -4178,15 +4178,6 @@
   {
     "Version": "153.3.1",
     "Channel": "ESR_Next",
-    "Language": "en-US",
-    "Architecture": "x64",
-    "Type": "exe",
-    "Filename": "Thunderbird Setup 153.3.1esr.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/153.3.1esr/win64/en-US/Thunderbird%20Setup%20153.3.1esr.exe"
-  },
-  {
-    "Version": "153.3.1",
-    "Channel": "ESR_Next",
     "Language": "es-AR",
     "Architecture": "x64",
     "Type": "exe",

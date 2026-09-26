@@ -1,22 +1,22 @@
 [
   {
-    "Version": "1.3.7",
-    "Date": "9/8/2026",
-    "Size": 69202705,
-    "Sha256": "13ea97aa07ff464774335238c1f855d7f23aa8fbbabe5da557faa4cca82ef768",
+    "Version": "1.3.8",
+    "Date": "25/9/2026",
+    "Size": 69279250,
+    "Sha256": "0736f6ef12d51741cece1c51fbc37a39bbdd7ac85e048adc3d27d76b377e2083",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/xournalpp/xournalpp/releases/download/v1.3.7/xournalpp-1.3.7-windows-setup-ARM64.exe"
+    "URI": "https://github.com/xournalpp/xournalpp/releases/download/v1.3.8/xournalpp-1.3.8-windows-setup-ARM64.exe"
   },
   {
-    "Version": "1.3.7",
-    "Date": "9/8/2026",
-    "Size": 96945338,
-    "Sha256": "603dd64187ff6f0029c4acc3eea175a67aa9cc202ca0e749ad12fa70e5b3262a",
+    "Version": "1.3.8",
+    "Date": "25/9/2026",
+    "Size": 96924916,
+    "Sha256": "0524a354a2c2c680e9c4b3817a3fc9284b1e60760bac1a74c562701a4e355637",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/xournalpp/xournalpp/releases/download/v1.3.7/xournalpp-1.3.7-windows-setup-AMD64.exe"
+    "URI": "https://github.com/xournalpp/xournalpp/releases/download/v1.3.8/xournalpp-1.3.8-windows-setup-AMD64.exe"
   }
 ]

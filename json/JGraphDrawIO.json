@@ -1,42 +1,42 @@
 [
   {
-    "Version": "31.5.2",
-    "Date": "24/9/2026",
-    "Size": 141037352,
-    "Sha256": "3a10973ed589b2c17501f83e4ba470ce86ef7f7ad2226e6b8989f49682e5f82f",
+    "Version": "31.5.3",
+    "Date": "25/9/2026",
+    "Size": 141042032,
+    "Sha256": "a5ee1274ec359b8712b622ec1147cbfd9fc3be9ac615bec8236cc247c5037ab0",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v31.5.2/draw.io-arm64-31.5.2-windows-arm64-installer.exe"
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v31.5.3/draw.io-arm64-31.5.3-windows-arm64-installer.exe"
   },
   {
-    "Version": "31.5.2",
-    "Date": "24/9/2026",
-    "Size": 140824552,
-    "Sha256": "aecfa5f866382ffe9bba87233ee15c2464f06fe92886bb8fabae34ae74ca842b",
+    "Version": "31.5.3",
+    "Date": "25/9/2026",
+    "Size": 140829216,
+    "Sha256": "18e0775e30a3a49b3375829c550eb1b983c68abdbe12438041630616f0e46cf9",
     "Architecture": "ARM64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v31.5.2/draw.io-arm64-31.5.2-windows-arm64-no-installer.exe"
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v31.5.3/draw.io-arm64-31.5.3-windows-arm64-no-installer.exe"
   },
   {
-    "Version": "31.5.2",
-    "Date": "24/9/2026",
-    "Size": 146604368,
-    "Sha256": "7282d8222a757b307d7acb06306d600fc9e2d375d077bd1a863ce696d3307c56",
+    "Version": "31.5.3",
+    "Date": "25/9/2026",
+    "Size": 146608608,
+    "Sha256": "9a95bff387dc72380dbd14ff5d620a3354be66d99ecb147dffd29bca8bac660c",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v31.5.2/draw.io-31.5.2-windows-installer.exe"
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v31.5.3/draw.io-31.5.3-windows-installer.exe"
   },
   {
-    "Version": "31.5.2",
-    "Date": "24/9/2026",
-    "Size": 151302144,
-    "Sha256": "08629728da5caee6c5975e9ae6142ce2f64a5608cf785da2ba993c70aabf1911",
+    "Version": "31.5.3",
+    "Date": "25/9/2026",
+    "Size": 151326720,
+    "Sha256": "67fd7b23c3fc359b49164c8748123d92d6d4502869e5124200de76d6fe2eae19",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v31.5.2/draw.io-31.5.2.msi"
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v31.5.3/draw.io-31.5.3.msi"
   }
 ]
