@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "11.2.3",
+    "Date": "2026-09-10T00:00:00",
+    "Size": 17977344,
+    "Md5": "57c45fa6be4adddf0155f93b7374cb2d",
+    "Sha256": "4101fd077222100de3fe1b5b34075660141586cb310df27b684026e8dd9fd4be",
+    "Architecture": "ARM64",
+    "Type": "msi",
+    "URI": "https://www.tenable.com/downloads/api/v2/pages/nessus-agents/files/NessusAgent-11.2.3-arm64.msi"
+  },
+  {
+    "Version": "11.2.3",
+    "Date": "2026-09-10T00:00:00",
+    "Size": 19787776,
+    "Md5": "69b77bcf572230208f781d7118c17545",
+    "Sha256": "80562755f498a2820b224e229a21203689a398981a0c771e29da1eba4cccba35",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://www.tenable.com/downloads/api/v2/pages/nessus-agents/files/NessusAgent-11.2.3-x64.msi"
+  }
+]

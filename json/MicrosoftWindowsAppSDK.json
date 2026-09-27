@@ -1,0 +1,30 @@
+[
+  {
+    "Version": "2.5.1",
+    "Date": "2026-09-27T15:35:14",
+    "Architecture": "ARM64",
+    "Type": "exe",
+    "URI": "https://aka.ms/windowsappsdk/2.5/2.5.1/windowsappruntimeinstall-arm64.exe"
+  },
+  {
+    "Version": "2.5.1",
+    "Date": "2026-09-27T15:35:14",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://aka.ms/windowsappsdk/2.5/2.5.1/windowsappruntimeinstall-x64.exe"
+  },
+  {
+    "Version": "2.5.1",
+    "Date": "2026-09-27T15:35:14",
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://aka.ms/windowsappsdk/2.5/2.5.1/windowsappruntimeinstall-x86.exe"
+  },
+  {
+    "Version": "2.5.1",
+    "Date": "2026-09-27T15:35:14",
+    "Architecture": "x86",
+    "Type": "zip",
+    "URI": "https://aka.ms/windowsappsdk/2.5/2.5.1/Microsoft.WindowsAppRuntime.Redist.2.5.zip"
+  }
+]

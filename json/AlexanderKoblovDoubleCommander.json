@@ -1,42 +1,42 @@
 [
   {
-    "Version": "1.2.8",
-    "Date": "8/8/2026",
-    "Size": 10637065,
-    "Sha256": "975df890e20706185ae140f6b9e3ad63c53230a64dd9742339ef9bfbb5f52b81",
+    "Version": "1.2.9",
+    "Date": "18/9/2026",
+    "Size": 10639174,
+    "Sha256": "3824250b280d1eaefe6422690bb6a0fc652aa8006545c05a63f9d2e1cababfd4",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.2.8/doublecmd-1.2.8.x86_64-win64.exe"
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.2.9/doublecmd-1.2.9.x86_64-win64.exe"
   },
   {
-    "Version": "1.2.8",
-    "Date": "8/8/2026",
-    "Size": 10049802,
-    "Sha256": "32a17a763cb8959bf5b33066bea51d24063c9b4c3bea127a7a8909c7bb472ff3",
+    "Version": "1.2.9",
+    "Date": "18/9/2026",
+    "Size": 10050874,
+    "Sha256": "ebb015ee62ac4c37c3416f3150f5481c4f111796da702ad150a73cc36f1b5c38",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.2.8/doublecmd-1.2.8.i386-win32.exe"
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.2.9/doublecmd-1.2.9.i386-win32.exe"
   },
   {
-    "Version": "1.2.8",
-    "Date": "8/8/2026",
+    "Version": "1.2.9",
+    "Date": "18/9/2026",
     "Size": 17261292,
-    "Sha256": "6852e626b5489f50242aed70b59848dd3a798e140580d0a5d77b8745b656916f",
+    "Sha256": "750c0aab8bcfd22d4d029d552c2bdb573d51213e05a630e5d1ae28fb944c5f55",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.2.8/doublecmd-1.2.8.x86_64-win64.msi"
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.2.9/doublecmd-1.2.9.x86_64-win64.msi"
   },
   {
-    "Version": "1.2.8",
-    "Date": "8/8/2026",
+    "Version": "1.2.9",
+    "Date": "18/9/2026",
     "Size": 16249576,
-    "Sha256": "99c09f7ad3bdad0a5ddde45d71940a98c0fec56c9b058a70a9a590f49e6e764f",
+    "Sha256": "4082c3187ea6fb7c04c05a5837917175d925876f978cb1ba4773f39cb4fd13f3",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.2.8/doublecmd-1.2.8.i386-win32.msi"
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.2.9/doublecmd-1.2.9.i386-win32.msi"
   }
 ]

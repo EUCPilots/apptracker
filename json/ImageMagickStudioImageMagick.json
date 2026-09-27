@@ -1,212 +1,212 @@
 [
   {
     "Version": "7.1.2",
-    "Date": "3/9/2026",
-    "Size": 24059560,
-    "Sha256": "0ea51902c41befad882941122fb3b1376538e3a26b1dc6161a95df042a3af16a",
+    "Date": "27/9/2026",
+    "Size": 24319280,
+    "Sha256": "708264ebd9503c8ea07d626d2456911cbf71f7b2d73b031f80a04f5eb3de102e",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-31/ImageMagick-7.1.2-31-Q16-arm64-dll.exe"
+    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-32/ImageMagick-7.1.2-32-Q16-arm64-dll.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "3/9/2026",
-    "Size": 19362176,
-    "Sha256": "c6e4950bf5e3707c4696acec4e65c44dfbe8246590d81456241680d0add5f603",
+    "Date": "27/9/2026",
+    "Size": 19567632,
+    "Sha256": "ac53d990233ecd07e046a46a3dc4498742a1e20982fe141a8d8a7194fc7d8766",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-31/ImageMagick-7.1.2-31-Q16-arm64-static.exe"
+    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-32/ImageMagick-7.1.2-32-Q16-arm64-static.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "3/9/2026",
-    "Size": 24066296,
-    "Sha256": "40e6a8f5b63295bb1473f4fcc749264169cc4d667059bdde11e6873ff188761c",
+    "Date": "27/9/2026",
+    "Size": 24329360,
+    "Sha256": "12b716e51fde779ef0f59a0c201310adb43e2fb47285ade0c8307e3ba4e3273e",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-31/ImageMagick-7.1.2-31-Q16-HDRI-arm64-dll.exe"
+    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-32/ImageMagick-7.1.2-32-Q16-HDRI-arm64-dll.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "3/9/2026",
-    "Size": 19362896,
-    "Sha256": "45b9d7fdcd681cfefa68b820d089a891b966413acc5870a32589d82e25bea456",
+    "Date": "27/9/2026",
+    "Size": 19580080,
+    "Sha256": "1cb2e9ffb6beb2d7cff2eca9f794de6d59436ac2b9a3ecdeae87535eb9fe8748",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-31/ImageMagick-7.1.2-31-Q16-HDRI-arm64-static.exe"
+    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-32/ImageMagick-7.1.2-32-Q16-HDRI-arm64-static.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "3/9/2026",
-    "Size": 24047568,
-    "Sha256": "6b55faa1ec6ffaba51c688ddec11e626ebd861f139a7f6317efb755d097eb6bc",
+    "Date": "27/9/2026",
+    "Size": 24313848,
+    "Sha256": "4746a92fb00007add4b1927c3593b9ac2fda160840fab85854d2f8ca49ab7228",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-31/ImageMagick-7.1.2-31-Q8-arm64-dll.exe"
+    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-32/ImageMagick-7.1.2-32-Q8-arm64-dll.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "3/9/2026",
-    "Size": 19367112,
-    "Sha256": "54335c86dea1081d5434b1f884cbf012cb683b3839e2a1ad63c0db22fccf9101",
+    "Date": "27/9/2026",
+    "Size": 19562880,
+    "Sha256": "1b66864cb5f685030c63b4311c2165571c13180cb67a7d758a3ec2f3b9fad4c3",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-31/ImageMagick-7.1.2-31-Q8-arm64-static.exe"
+    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-32/ImageMagick-7.1.2-32-Q8-arm64-static.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "3/9/2026",
-    "Size": 24234240,
-    "Sha256": "8536e5aec5053d6531fc099cf52bebbd71f983a55593fc4eab81c40040b2a629",
+    "Date": "27/9/2026",
+    "Size": 24532632,
+    "Sha256": "646486fcdfac4eb57a07eb69817a0f63ef505711109775b0c7a573119600ad4e",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-31/ImageMagick-7.1.2-31-Q16-HDRI-x64-dll.exe"
+    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-32/ImageMagick-7.1.2-32-Q16-HDRI-x64-dll.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "3/9/2026",
-    "Size": 19254712,
-    "Sha256": "419eca0c42b553a3ac3ba1abe5120b7c67894169a148e296a10ba648596d83b8",
+    "Date": "27/9/2026",
+    "Size": 19491360,
+    "Sha256": "5af622dc9659ff8fa4945c85da47252aea0921e1215132002df87e284bd15382",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-31/ImageMagick-7.1.2-31-Q16-HDRI-x64-static.exe"
+    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-32/ImageMagick-7.1.2-32-Q16-HDRI-x64-static.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "3/9/2026",
-    "Size": 24219392,
-    "Sha256": "7649215b07f94412fe45ef7e305d0b7782d395c4b58a7836fe94adeee4cb3cfd",
+    "Date": "27/9/2026",
+    "Size": 24505928,
+    "Sha256": "ee261fe401b64cbe2ed7dab18769da09f71dfbce2f2eab33d824d21ba5798387",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-31/ImageMagick-7.1.2-31-Q16-x64-dll.exe"
+    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-32/ImageMagick-7.1.2-32-Q16-x64-dll.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "3/9/2026",
-    "Size": 19251000,
-    "Sha256": "765eeb01e4def9ab7dfb8e3989141a6a3fae578b34309cc72969768cb0d2e917",
+    "Date": "27/9/2026",
+    "Size": 19486576,
+    "Sha256": "091c2f71060b80957547fa7e98eb349cfe951917eb0b2b45c5012016d937304c",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-31/ImageMagick-7.1.2-31-Q16-x64-static.exe"
+    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-32/ImageMagick-7.1.2-32-Q16-x64-static.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "3/9/2026",
-    "Size": 19240384,
-    "Sha256": "936ea5b58f7071ac7b107a5a3d74d062484dd83b566874c765048641f300fc82",
+    "Date": "27/9/2026",
+    "Size": 19475424,
+    "Sha256": "a3bf8fef22addfb0f1bf3574e59bbc9b860397b6a961d66fd04258e5539dcc90",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-31/ImageMagick-7.1.2-31-Q8-x64-static.exe"
+    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-32/ImageMagick-7.1.2-32-Q8-x64-static.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "3/9/2026",
-    "Size": 24209544,
-    "Sha256": "6c5512823550fac16c660d264f7b0118d4742eeae3f5fd0b10282a84ec55c0dd",
+    "Date": "27/9/2026",
+    "Size": 24504512,
+    "Sha256": "7ee12c9395d720c37a334ad2ead6bb6f5262d2e80202462bcbed6aad5d1570e0",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-31/ImageMagick-7.1.2-31-Q8-x64-dll.exe"
+    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-32/ImageMagick-7.1.2-32-Q8-x64-dll.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "3/9/2026",
-    "Size": 17553424,
-    "Sha256": "d07c3c2acd316b63f300bc31c17ac8f6b9bb4e3ac84feccc409e54995b3af326",
+    "Date": "27/9/2026",
+    "Size": 17748000,
+    "Sha256": "98df98e5d8ec0e289e31e18ebb79b28bbd783454640cf90605ac744a4a1e5bcb",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-31/ImageMagick-7.1.2-31-Q8-x86-static.exe"
+    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-32/ImageMagick-7.1.2-32-Q8-x86-static.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "3/9/2026",
-    "Size": 22312856,
-    "Sha256": "b7fb2d19150ec7d01df86d3534387b04ce2f6e2bb9f8f862bd2fa26085bae39e",
+    "Date": "27/9/2026",
+    "Size": 22580992,
+    "Sha256": "8a799ab6026511b0c86510daeca041d07d3cdd57c2c76ae2c8c475b8eaab1e89",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-31/ImageMagick-7.1.2-31-Q8-x86-dll.exe"
+    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-32/ImageMagick-7.1.2-32-Q8-x86-dll.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "3/9/2026",
-    "Size": 22307432,
-    "Sha256": "da5b4ab85e356847d3e021b96ba6c917d76db51e30951b2454f850bc1ea88790",
+    "Date": "27/9/2026",
+    "Size": 22573408,
+    "Sha256": "c9c85183229f99c56939a97994a04efca438308982b8f5f8e5abc9443b7e9870",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-31/ImageMagick-7.1.2-31-Q16-x86-dll.exe"
+    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-32/ImageMagick-7.1.2-32-Q16-x86-dll.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "3/9/2026",
-    "Size": 17555680,
-    "Sha256": "1965c5a125e153855bb791c851f4522db80fbdbe39aff280af2b6b6687f33c12",
+    "Date": "27/9/2026",
+    "Size": 17758216,
+    "Sha256": "82d0bc607c2c0217d2a18ca9f1d3a43089f21f26d0cb58e1ad6935de62c59c58",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-31/ImageMagick-7.1.2-31-Q16-HDRI-x86-static.exe"
+    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-32/ImageMagick-7.1.2-32-Q16-HDRI-x86-static.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "3/9/2026",
-    "Size": 22317576,
-    "Sha256": "f2ed5d616b30566992179db34b56d8ae8f559234bfb8bd4bb070f6f1df235689",
+    "Date": "27/9/2026",
+    "Size": 22597912,
+    "Sha256": "c9480768c78377c53824204f6f87090039544db7fa6f7a40658829580e0c03bd",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-31/ImageMagick-7.1.2-31-Q16-HDRI-x86-dll.exe"
+    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-32/ImageMagick-7.1.2-32-Q16-HDRI-x86-dll.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "3/9/2026",
-    "Size": 17551120,
-    "Sha256": "49fed7b4d8d27de7b8dcbe346116af7693cfbde599d938ac1fbff85a104ca13b",
+    "Date": "27/9/2026",
+    "Size": 17766112,
+    "Sha256": "c417225a69b2867956b3558e2fa767b98a01b11a31df63c7adebe9c1aaf5e5db",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-31/ImageMagick-7.1.2-31-Q16-x86-static.exe"
+    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-32/ImageMagick-7.1.2-32-Q16-x86-static.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "3/9/2026",
-    "Size": 33269085,
-    "Sha256": "d57ac6adfa680c84fa50ce3b591cb61a513681f09d99b454ab879b41646b4ba0",
+    "Date": "27/9/2026",
+    "Size": 33828239,
+    "Sha256": "9508215af88c006e769d690e245b516c1335acf9ec8641618d05b51405b022e3",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msixbundle",
-    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-31/ImageMagick.Q16.msixbundle"
+    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-32/ImageMagick.Q16.msixbundle"
   },
   {
     "Version": "7.1.2",
-    "Date": "3/9/2026",
-    "Size": 33287181,
-    "Sha256": "6748f2d1c8326a398397aae4c87f8cbecc30adfae9ee7cba6afd5f2c19f2640c",
+    "Date": "27/9/2026",
+    "Size": 33863054,
+    "Sha256": "aaab4a0c27051ee654851ca0fede38ebe04057d2ad70ccbd2be68d8d58e84921",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msixbundle",
-    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-31/ImageMagick.Q16-HDRI.msixbundle"
+    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-32/ImageMagick.Q16-HDRI.msixbundle"
   },
   {
     "Version": "7.1.2",
-    "Date": "3/9/2026",
-    "Size": 33256072,
-    "Sha256": "2739f70f759f547d4ccf2f31eb13c39b661d625c8952e81b829ac1a3f34bdced",
+    "Date": "27/9/2026",
+    "Size": 33799242,
+    "Sha256": "cc605160ce320873dbc4b5bf6918d82dbc08d0cbd65daf395be199b9b67d97b1",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msixbundle",
-    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-31/ImageMagick.Q8.msixbundle"
+    "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-32/ImageMagick.Q8.msixbundle"
   }
 ]
