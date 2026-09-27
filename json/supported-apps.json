@@ -1665,6 +1665,11 @@
     "Link": "https://learn.microsoft.com/en-us/windows-app/whats-new"
   },
   {
+    "Name": "MicrosoftWindowsAppSDK",
+    "Application": "Microsoft Windows Apps SDK",
+    "Link": "https://learn.microsoft.com/en-us/windows/apps/windows-app-sdk/downloads/"
+  },
+  {
     "Name": "MicrosoftWindowsPackageManagerClient",
     "Application": "Microsoft Windows Package Manager Client",
     "Link": "https://docs.microsoft.com/en-us/windows/package-manager/"
@@ -2558,6 +2563,11 @@
     "Name": "TelerikFiddlerEverywhere",
     "Application": "Telerik Fiddler Everywhere",
     "Link": "https://www.telerik.com/fiddler"
+  },
+  {
+    "Name": "TenableNessusAgent",
+    "Application": "Tenable Nessus Agent",
+    "Link": "https://www.tenable.com/downloads/nessus-agents"
   },
   {
     "Name": "TeraTerm",
