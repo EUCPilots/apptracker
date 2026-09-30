@@ -1,12 +1,12 @@
 [
   {
-    "Version": "0.34.4",
-    "Date": "23/9/2026",
-    "Size": 1571115536,
-    "Sha256": "4a6514323eb8c131f6c8bb651b4fe2edf5f1525f4fd8b84315ba20f1af3e210f",
+    "Version": "0.35.0",
+    "Date": "28/9/2026",
+    "Size": 1571105888,
+    "Sha256": "92e45c3518daf7d4ea60480896ee7bdb1bed71381593cfc9f2d7c1ceb941efde",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ollama/ollama/releases/download/v0.34.4/OllamaSetup.exe"
+    "URI": "https://github.com/ollama/ollama/releases/download/v0.35.0/OllamaSetup.exe"
   }
 ]

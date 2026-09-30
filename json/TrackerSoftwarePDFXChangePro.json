@@ -1,21 +1,21 @@
 [
   {
-    "Version": "11.0.1.0",
-    "Hash": "7675EA4E8F2DD708F864342C643BC0FDE7A0413A0D8500BA71E229C72A8BF148",
+    "Version": "11.1.0.0",
+    "Hash": "674e068ae3d37c5420d7994cc27341bab632a3024ba89c9183218f8eac579b0a",
     "Architecture": "ARM64",
     "Type": "msi",
     "URI": "https://downloads.pdf-xchange.com/ProV11.ARM64.msi"
   },
   {
-    "Version": "11.0.1.0",
-    "Hash": "93E938B2A9A25216325A898ED87CF523E6718F8F3F5B6D56599314E6F6B1F47F",
+    "Version": "11.1.0.0",
+    "Hash": "5f1c55d3baf0185a515aad5fd615c4eac4190d7ee724d460a6218386e694d945",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://downloads.pdf-xchange.com/ProV11.x64.msi"
   },
   {
-    "Version": "11.0.1.0",
-    "Hash": "76F5A5BB4ECCFC1AC206E8487CA0D93D14D904B1CF241FFF0962511F3B1F6F4F",
+    "Version": "11.1.0.0",
+    "Hash": "2924b8ec600610794625dfb8db6143fb40f6504dcc02fce4474e62ea4d266de0",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://downloads.pdf-xchange.com/ProV11.x86.msi"

@@ -1,21 +1,21 @@
 [
   {
-    "Version": "11.0.1.0",
-    "Hash": "D039D3E46FA6746B864A4B3999A39582116D6B23D784067BF20B3D77EC38D871",
+    "Version": "11.1.0.0",
+    "Hash": "9bab4b0bfe23aa795921077adb2089bf955f22dfdc45d401ab17cbff972853f6",
     "Architecture": "ARM64",
     "Type": "msi",
     "URI": "https://downloads.pdf-xchange.com/ToolsV11.ARM64.msi"
   },
   {
-    "Version": "11.0.1.0",
-    "Hash": "046AD97F77778C6C63F1A3B116E6DC61D0FDEF8E76D1381E938155EDB9B8C892",
+    "Version": "11.1.0.0",
+    "Hash": "bc9cca3d0b914c76f2f9e9b7f104ec8c75b60a0e6712c3a74c5ae9527fe724c9",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://downloads.pdf-xchange.com/ToolsV11.x64.msi"
   },
   {
-    "Version": "11.0.1.0",
-    "Hash": "4654371B88153C485EFD7F16A6B1BF6C2C8E10F323629D77947831747D1CF717",
+    "Version": "11.1.0.0",
+    "Hash": "9705116f34ed975c1416f38ac4497421ee54fe8d38d33cbb6d4b6e7d6b931c93",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://downloads.pdf-xchange.com/ToolsV11.x86.msi"

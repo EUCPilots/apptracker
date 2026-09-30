@@ -1,22 +1,22 @@
 [
   {
-    "Version": "4.0.0",
-    "Date": "3/9/2026",
-    "Size": 37949440,
-    "Sha256": "a5b222a9cf8f03cccef57c912428427eb9387f0e88fa590d9c2b1d83794b222c",
+    "Version": "4.0.1",
+    "Date": "29/9/2026",
+    "Size": 38264832,
+    "Sha256": "b6606d9bcb1a49254f1966c7edc68d78f7eadd04eebe7d4676350f32ca675f49",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.0/audacity-win-4.0.0-arm64.msi"
+    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-win-4.0.1-arm64.msi"
   },
   {
-    "Version": "4.0.0",
-    "Date": "3/9/2026",
-    "Size": 49532928,
-    "Sha256": "2aecc44d28a004d15ae7c23c099f232ba8c5b3e6b19ebdbaf7d6c596316dc5b3",
+    "Version": "4.0.1",
+    "Date": "29/9/2026",
+    "Size": 49795072,
+    "Sha256": "efb652bf04168f5d4893f28b7cefaaf5ef385d9251544540ac774e3bf54793a3",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.0/audacity-win-4.0.0-x86_64.msi"
+    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-win-4.0.1-x86_64.msi"
   }
 ]
