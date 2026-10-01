@@ -10,34 +10,34 @@
     "URI": "https://www.python.org/ftp/python/pymanager/python-manager-26.3.msi"
   },
   {
-    "Version": "3.14.7",
+    "Version": "3.14.8",
     "Python": 3,
     "md5": "",
-    "Size": 32570072,
-    "Date": "5/8/2026",
+    "Size": 32654848,
+    "Date": "30/9/2026",
     "Type": "exe",
     "Architecture": "ARM64",
-    "URI": "https://www.python.org/ftp/python/3.14.7/python-3.14.7-arm64.exe"
+    "URI": "https://www.python.org/ftp/python/3.14.8/python-3.14.8-arm64.exe"
   },
   {
-    "Version": "3.14.7",
+    "Version": "3.14.8",
     "Python": 3,
     "md5": "",
-    "Size": 33258168,
-    "Date": "5/8/2026",
+    "Size": 33387464,
+    "Date": "30/9/2026",
     "Type": "exe",
     "Architecture": "x64",
-    "URI": "https://www.python.org/ftp/python/3.14.7/python-3.14.7-amd64.exe"
+    "URI": "https://www.python.org/ftp/python/3.14.8/python-3.14.8-amd64.exe"
   },
   {
-    "Version": "3.14.7",
+    "Version": "3.14.8",
     "Python": 3,
     "md5": "",
-    "Size": 31696736,
-    "Date": "5/8/2026",
+    "Size": 31849256,
+    "Date": "30/9/2026",
     "Type": "exe",
     "Architecture": "x86",
-    "URI": "https://www.python.org/ftp/python/3.14.7/python-3.14.7.exe"
+    "URI": "https://www.python.org/ftp/python/3.14.8/python-3.14.8.exe"
   },
   {
     "Version": "2.7.18",

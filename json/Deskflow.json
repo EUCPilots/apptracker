@@ -1,22 +1,22 @@
 [
   {
-    "Version": "1.26.0",
-    "Date": "16/2/2026",
-    "Size": 14129654,
-    "Sha256": "35bc31668be58bf8e193aa11d83053858b6d86bf55e0ef5ed6e5c2ce0c527d74",
+    "Version": "1.27.0",
+    "Date": "1/10/2026",
+    "Size": 14532500,
+    "Sha256": "7a8632193d8fb4814bd93526995b209afbbb9f293468cfc50ca1bddaa3cb752b",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/deskflow/deskflow/releases/download/v1.26.0/deskflow-1.26.0-win-arm64.msi"
+    "URI": "https://github.com/deskflow/deskflow/releases/download/v1.27.0/deskflow-1.27.0-win-arm64.msi"
   },
   {
-    "Version": "1.26.0",
-    "Date": "16/2/2026",
-    "Size": 15784425,
-    "Sha256": "25525334fb33c7b6479884a9ef343212c1edafe57c6f39001a435afbb1ea9b02",
+    "Version": "1.27.0",
+    "Date": "1/10/2026",
+    "Size": 15953799,
+    "Sha256": "0ca5668c4731f5477d0b189bdb11196a2ca51281985d9d8c0757bf7f3b782d64",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/deskflow/deskflow/releases/download/v1.26.0/deskflow-1.26.0-win-x64.msi"
+    "URI": "https://github.com/deskflow/deskflow/releases/download/v1.27.0/deskflow-1.27.0-win-x64.msi"
   }
 ]
