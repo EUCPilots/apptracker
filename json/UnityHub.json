@@ -1,20 +1,20 @@
 [
   {
-    "Version": "3.22.1",
-    "Date": "2026-10-01T16:15:28.058+00:00",
+    "Version": "3.22.2",
+    "Date": "2026-10-02T20:18:59.543+00:00",
     "Architecture": "ARM64",
-    "Size": 184031376,
-    "Sha512": "kxsWmpV1GMxlk61aojm7mJpIUDiVjOnaksuCUtQchVTaOWI2tDLlnJ3rUSXuPtg0bve6ftUSdW7p9Lvz6Ys71g==",
+    "Size": 184024664,
+    "Sha512": "xS9wBSrgc7owknRp9ugLhdFNviHvCPrIIaTKseIKPKgtrWbZCBufzBk/G3VxdiyYF5CkTU1xXDMhOnFzVdiirw==",
     "Type": "exe",
-    "URI": "https://public-cdn.cloud.unity3d.com/hub/prod/3.22.1/UnityHubSetup-3.22.1-arm64.exe"
+    "URI": "https://public-cdn.cloud.unity3d.com/hub/prod/3.22.2/UnityHubSetup-3.22.2-arm64.exe"
   },
   {
-    "Version": "3.22.1",
-    "Date": "2026-10-01T16:15:28.058+00:00",
+    "Version": "3.22.2",
+    "Date": "2026-10-02T20:18:59.543+00:00",
     "Architecture": "x64",
-    "Size": 193623976,
-    "Sha512": "VqvrzGXSogHvXoVK/08UGFyr1iyYrVwvG7iu+hqJ/L4rkINeOWeg0Dcf3flKR3hue9q5xog/CHmvvrvsORLqdQ==",
+    "Size": 193623232,
+    "Sha512": "EWyODdFc2c4AzBm8y3pNopoLL+p2DZQE8yI+lzaJ+fTMKH/mMLlZMgXw4/VZ0YgCyHD/Ai6ebP0OTOEiwDOEdA==",
     "Type": "exe",
-    "URI": "https://public-cdn.cloud.unity3d.com/hub/prod/3.22.1/UnityHubSetup-3.22.1-x64.exe"
+    "URI": "https://public-cdn.cloud.unity3d.com/hub/prod/3.22.2/UnityHubSetup-3.22.2-x64.exe"
   }
 ]

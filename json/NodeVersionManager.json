@@ -1,42 +1,42 @@
 [
   {
-    "Version": "2.0.0",
-    "Date": "2/9/2026",
-    "Size": 9881166,
-    "Sha256": "62868ba9d1fd0e9b60ad7f69d05e8e85b49b5700ec29cf6e9adb9a5c83aebdb7",
+    "Version": "2.0.1",
+    "Date": "2/10/2026",
+    "Size": 10082136,
+    "Sha256": "b9643f97a00baaa2c7f9195a13182793b133c40626b55ad5f49a848dde655140",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/nvm-windows/nvm/releases/download/v2.0.0/nvm-2.0.0-arm64-setup.exe"
+    "URI": "https://github.com/nvm-windows/nvm/releases/download/v2.0.1/nvm-2.0.1-arm64-setup.exe"
   },
   {
-    "Version": "2.0.0",
-    "Date": "2/9/2026",
-    "Size": 14301184,
-    "Sha256": "ef67fe9ebb6767bda70d8f1dc47f3113e148e0b9dea8c65f3cedaca8686daf98",
+    "Version": "2.0.1",
+    "Date": "2/10/2026",
+    "Size": 14499112,
+    "Sha256": "7c13b3406705ec8f409041af22dc35ab3dc66f75c6cd133268c3eba20fe3d383",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/nvm-windows/nvm/releases/download/v2.0.0/nvm-2.0.0-arm64-sync.exe"
+    "URI": "https://github.com/nvm-windows/nvm/releases/download/v2.0.1/nvm-2.0.1-arm64-sync.exe"
   },
   {
-    "Version": "2.0.0",
-    "Date": "2/9/2026",
-    "Size": 10837938,
-    "Sha256": "afaee67d3d7bc8ccad0b1b06f63b0f2d6b008bc7e55d5205043f095b4906ac11",
+    "Version": "2.0.1",
+    "Date": "2/10/2026",
+    "Size": 11055912,
+    "Sha256": "548323d8f721ea2b4a13ce8eedb1cb28077c1f11ea3dd163e71f3788cb0c0d70",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/nvm-windows/nvm/releases/download/v2.0.0/nvm-2.0.0-amd64-setup.exe"
+    "URI": "https://github.com/nvm-windows/nvm/releases/download/v2.0.1/nvm-2.0.1-x64-setup.exe"
   },
   {
-    "Version": "2.0.0",
-    "Date": "2/9/2026",
-    "Size": 15799296,
-    "Sha256": "79793ea532229a404fcf3b00d7f2efab846d6f68ac4fb26b8e5a37c21faab20b",
+    "Version": "2.0.1",
+    "Date": "2/10/2026",
+    "Size": 16020264,
+    "Sha256": "0ff1c18c58719f896f6d3f86c225a39c0bfe5d9766349055fb10db8a0428f4c1",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/nvm-windows/nvm/releases/download/v2.0.0/nvm-2.0.0-amd64-sync.exe"
+    "URI": "https://github.com/nvm-windows/nvm/releases/download/v2.0.1/nvm-2.0.1-x64-sync.exe"
   }
 ]
