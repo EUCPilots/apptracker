@@ -1,32 +1,32 @@
 [
   {
-    "Version": "8.4.0",
-    "Date": "30/9/2026",
-    "Size": 45705064,
-    "Sha256": "d4090bf4d3f3ee7b74666fad119aa04bba0c9d4289ccd2c2c5e00e2a3d396b80",
+    "Version": "8.4.1",
+    "Date": "3/10/2026",
+    "Size": 45700184,
+    "Sha256": "8ba0802fdcd31db81e8253046a3b9067aa1fb768d4ff557dd9940c70f8a17b4b",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/cyanfish/naps2/releases/download/v8.4.0/naps2-8.4.0-win-arm64.exe"
+    "URI": "https://github.com/cyanfish/naps2/releases/download/v8.4.1/naps2-8.4.1-win-arm64.exe"
   },
   {
-    "Version": "8.4.0",
-    "Date": "30/9/2026",
-    "Size": 48573176,
-    "Sha256": "c4ea924bb8cdf3fdf9f831e5ca2ec6a974cd6762e3a0b487bba3c9270866ecd2",
+    "Version": "8.4.1",
+    "Date": "3/10/2026",
+    "Size": 48567464,
+    "Sha256": "3f640c38c75b0a0761374c35ebcaf96927ed12460fe67e45aad4c7527213fcc6",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/cyanfish/naps2/releases/download/v8.4.0/naps2-8.4.0-win-x64.exe"
+    "URI": "https://github.com/cyanfish/naps2/releases/download/v8.4.1/naps2-8.4.1-win-x64.exe"
   },
   {
-    "Version": "8.4.0",
-    "Date": "30/9/2026",
-    "Size": 55312384,
-    "Sha256": "5da657cbbe1b3b4dd0ff3e22fa1107d5be2ff6cbe3b290a59ddc00eae8285df5",
+    "Version": "8.4.1",
+    "Date": "3/10/2026",
+    "Size": 55300096,
+    "Sha256": "472b5d037b32345499a84bd56846e4bf3449a0f5a7b566ad76ef4ada71e880cc",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/cyanfish/naps2/releases/download/v8.4.0/naps2-8.4.0-win-x64.msi"
+    "URI": "https://github.com/cyanfish/naps2/releases/download/v8.4.1/naps2-8.4.1-win-x64.msi"
   }
 ]
