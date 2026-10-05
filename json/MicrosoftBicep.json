@@ -1,32 +1,32 @@
 [
   {
-    "Version": "0.47.16",
-    "Date": "2/9/2026",
-    "Size": 118902472,
-    "Sha256": "657e6aacc4e44d73674874f802d98396bf5e2e23530d160f275fbf9d67b7fde7",
+    "Version": "0.48.1",
+    "Date": "29/9/2026",
+    "Size": 122293160,
+    "Sha256": "613a0afb0ffed4dca106e6466688d780b7db0eac7cf3576f62ae9eab11554b05",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Azure/bicep/releases/download/v0.47.16/bicep-win-arm64.exe"
+    "URI": "https://github.com/Azure/bicep/releases/download/v0.48.1/bicep-win-arm64.exe"
   },
   {
-    "Version": "0.47.16",
-    "Date": "2/9/2026",
-    "Size": 111968424,
-    "Sha256": "8380dddbfe6e51f5dd32c9ad928129914cf4c1a5782a247a61d42566058314ea",
+    "Version": "0.48.1",
+    "Date": "29/9/2026",
+    "Size": 115155008,
+    "Sha256": "8cb241203f65daaadfdc81c0aff58fef20db6e68431ca01259fe066459301821",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Azure/bicep/releases/download/v0.47.16/bicep-setup-win-x64.exe"
+    "URI": "https://github.com/Azure/bicep/releases/download/v0.48.1/bicep-setup-win-x64.exe"
   },
   {
-    "Version": "0.47.16",
-    "Date": "2/9/2026",
-    "Size": 121239080,
-    "Sha256": "3f343ab1ce41feac156464adee3dc499cb6c197366fc731aed276192011d867c",
+    "Version": "0.48.1",
+    "Date": "29/9/2026",
+    "Size": 124666608,
+    "Sha256": "398af294cf16ac4becdbd008a77d148d0e8e91492309a6b60ec911b7e1cab082",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Azure/bicep/releases/download/v0.47.16/bicep-win-x64.exe"
+    "URI": "https://github.com/Azure/bicep/releases/download/v0.48.1/bicep-win-x64.exe"
   }
 ]

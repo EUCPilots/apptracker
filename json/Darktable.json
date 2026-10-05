@@ -1,22 +1,22 @@
 [
   {
-    "Version": "5.6.1",
-    "Date": "26/8/2026",
-    "Size": 139586523,
-    "Sha256": "bb15a8e4d24c21097cfdef0a560920f7fa0c05dec93482448dd538f2be02d6c4",
+    "Version": "5.6.2",
+    "Date": "4/10/2026",
+    "Size": 138844821,
+    "Sha256": "7f7a1eabcd0a1b548dcfacac842c8203fc85a4175697fb09f90bb891c8931edd",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1-win64.exe"
+    "URI": "https://github.com/darktable-org/darktable/releases/download/release-5.6.2/darktable-5.6.2-win64.exe"
   },
   {
-    "Version": "5.6.1",
-    "Date": "26/8/2026",
-    "Size": 109812580,
-    "Sha256": "b215de036ac2b5a7a1a5eaa98c4bd4e4d8b40a8d403e195d923c7541611f2e26",
+    "Version": "5.6.2",
+    "Date": "4/10/2026",
+    "Size": 107924456,
+    "Sha256": "bcb700de8275f894c29ae4ccb5f600412b269bef1a581eecce9bbed697421fcc",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1-woa64.exe"
+    "URI": "https://github.com/darktable-org/darktable/releases/download/release-5.6.2/darktable-5.6.2-woa64.exe"
   }
 ]

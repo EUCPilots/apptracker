@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2026.2",
-    "Build": "238924",
+    "Version": "2026.2.1",
+    "Build": "239120",
     "Edition": "TeamCity",
-    "Sha256": "30a822365d1dbf7d50dbfeb1142be428a70866b8132c67d40d67cbe6cc623f5c",
-    "Date": "2/9/2026",
-    "Size": 1608651432,
+    "Sha256": "1fd22b51319f67e05d9bd018b5adf99735ce9db805c9791cac4d551d92ca795d",
+    "Date": "5/10/2026",
+    "Size": 1607045160,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/teamcity/TeamCity-2026.2.exe"
+    "URI": "https://download.jetbrains.com/teamcity/TeamCity-2026.2.1.exe"
   }
 ]
