@@ -1,0 +1,20 @@
+[
+  {
+    "Version": "26.3",
+    "Date": "30/6/2026",
+    "Sha256": "259AF5272C8F798786C1109B7AD287DA519C58D43D7250EAD8ED20FA3277A511",
+    "Size": 9875456,
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://www.python.org/ftp/python/pymanager/python-manager-26.3.msi"
+  },
+  {
+    "Version": "26.3",
+    "Date": "30/6/2026",
+    "Sha256": "BDD1A4E0B485F674748B275095CC8E7132BEB37A1AE91DB080ABB2661E3BADEC",
+    "Size": 47047851,
+    "Architecture": "x86",
+    "Type": "msix",
+    "URI": "https://www.python.org/ftp/python/pymanager/python-manager-26.3.msix"
+  }
+]
