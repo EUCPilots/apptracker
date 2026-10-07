@@ -2251,7 +2251,12 @@
   },
   {
     "Name": "Python",
-    "Application": "Python",
+    "Application": "Python Software Foundation Python",
+    "Link": "https://www.python.org/"
+  },
+  {
+    "Name": "PythonInstallManager",
+    "Application": "Python Software Foundation Python Install Manager",
     "Link": "https://www.python.org/"
   },
   {
@@ -2503,6 +2508,16 @@
     "Name": "StrawberryPerl",
     "Application": "Strawberry Perl",
     "Link": "https://strawberryperl.com/"
+  },
+  {
+    "Name": "SublimeMerge",
+    "Application": "Sublime Merge",
+    "Link": "https://www.sublimemerge.com/"
+  },
+  {
+    "Name": "SublimeText",
+    "Application": "Sublime Text",
+    "Link": "https://www.sublimetext.com/"
   },
   {
     "Name": "SumatraPDFReader",
