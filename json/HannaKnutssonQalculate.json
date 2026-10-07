@@ -1,12 +1,12 @@
 [
   {
-    "Version": "5.13.0",
-    "Date": "5/10/2026",
+    "Version": "5.13.1",
+    "Date": "6/10/2026",
     "Size": 70420480,
-    "Sha256": "358fcb47eb49f5c1127afba7a921ff59e7d684dd997e13b02ea28843cdf4096a",
+    "Sha256": "33bb6f11d1ad0a5500a728d1fa7015fb29531f0e2aaba30cc288f38802199c90",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/Qalculate/libqalculate/releases/download/v5.13.0/qalculate-5.13.0-x64.msi"
+    "URI": "https://github.com/Qalculate/libqalculate/releases/download/v5.13.1/qalculate-5.13.1-x64.msi"
   }
 ]
