@@ -1,12 +1,12 @@
 [
   {
-    "Version": "3.0.0",
+    "Version": "3.1.0",
     "Date": "30/5/2022",
-    "Size": 108572720,
-    "Sha256": "dd570374ac9f8ad5ae11f2019041fbb0636096773049eb73918e6f7e3903ae3b",
+    "Size": 108597192,
+    "Sha256": "882571ddeca7b2d79cd2dee39b143fa5760240b9290368d6ef12bd87845b808b",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ramboxapp/download/releases/download/v3.0.0/Rambox-3.0.0-win-x64.exe"
+    "URI": "https://github.com/ramboxapp/download/releases/download/v3.1.0/Rambox-3.1.0-win-x64.exe"
   }
 ]

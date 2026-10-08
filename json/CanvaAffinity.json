@@ -1,24 +1,24 @@
 [
   {
-    "Version": "3.3.0.4850",
+    "Version": "3.3.1.4940",
     "Architecture": "ARM64",
     "Type": "exe",
     "URI": "https://downloads.affinity.studio/Affinity%20arm64.exe"
   },
   {
-    "Version": "3.3.0.4850",
+    "Version": "3.3.1.4940",
     "Architecture": "x64",
     "Type": "exe",
     "URI": "https://downloads.affinity.studio/Affinity%20x64.exe"
   },
   {
-    "Version": "3.3.0.4850",
+    "Version": "3.3.1.4940",
     "Architecture": "ARM64",
     "Type": "msix",
     "URI": "https://downloads.affinity.studio/Affinity%20arm64.msix"
   },
   {
-    "Version": "3.3.0.4850",
+    "Version": "3.3.1.4940",
     "Architecture": "x64",
     "Type": "msix",
     "URI": "https://downloads.affinity.studio/Affinity%20x64.msix"
