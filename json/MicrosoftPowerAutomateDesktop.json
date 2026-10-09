@@ -1,9 +1,11 @@
-{
-  "Version": "2.69.217.26166",
-  "Date": "2026-06-16T00:00:00Z",
-  "Size": 473603312,
-  "Language": "Unknown",
-  "Architecture": "x86",
-  "Type": "exe",
-  "URI": "https://download.microsoft.com/download/decfd77a-3d28-49c5-9bb8-06916e9f98ec/Setup.Microsoft.PowerAutomate.exe"
-}
+[
+  {
+    "Version": "2.72.183.26250",
+    "Date": "2026-09-08T00:00:00Z",
+    "Size": 475564440,
+    "Language": "Unknown",
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://download.microsoft.com/download/cd30c352-a269-4d2c-ab84-4ba59478a32b/Setup.Microsoft.PowerAutomate.exe"
+  }
+]
