@@ -1,12 +1,12 @@
 [
   {
-    "Version": "1.167.0",
-    "Date": "6/10/2026",
-    "Size": 97452032,
-    "Sha256": "5313c7d328cfd809d6248e414a96f1e705dea1c138332d49e39a6e79894af4e2",
+    "Version": "1.168.0",
+    "Date": "9/10/2026",
+    "Size": 97574912,
+    "Sha256": "4076255659cb78fa047c01aa9e4944f2084f5c6b13ac1edae084776db87293c3",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/aws/aws-sam-cli/releases/download/v1.167.0/AWS_SAM_CLI_64_PY3.msi"
+    "URI": "https://github.com/aws/aws-sam-cli/releases/download/v1.168.0/AWS_SAM_CLI_64_PY3.msi"
   }
 ]
