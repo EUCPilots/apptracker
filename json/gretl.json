@@ -1,29 +1,29 @@
 [
   {
-    "Version": "2026b",
+    "Version": "2026c",
     "Architecture": "ARM64",
     "Type": "exe",
-    "Size": "54915992",
-    "Md5": "cd65b1307950d3e8ced01084a548eef3",
-    "FileName": "gretl-2026b-arm64.exe",
-    "URI": "https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2026b/gretl-2026b-arm64.exe?viasf=1"
+    "Size": "54462464",
+    "Md5": "2b2be4132751772a5b057bc4871b5872",
+    "FileName": "gretl-2026c-arm64.exe",
+    "URI": "https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2026c/gretl-2026c-arm64.exe?viasf=1"
   },
   {
-    "Version": "2026b",
+    "Version": "2026c",
     "Architecture": "x64",
     "Type": "exe",
-    "Size": "52849272",
-    "Md5": "0fc58674d57c615f48335839f0e6f3d8",
-    "FileName": "gretl-2026b-64.exe",
-    "URI": "https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2026b/gretl-2026b-64.exe?viasf=1"
+    "Size": "53492240",
+    "Md5": "e1e74cda4ff05f56a93b9973e730742e",
+    "FileName": "gretl-2026c-64.exe",
+    "URI": "https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2026c/gretl-2026c-64.exe?viasf=1"
   },
   {
-    "Version": "2026b",
+    "Version": "2026c",
     "Architecture": "x86",
     "Type": "exe",
-    "Size": "37566944",
-    "Md5": "49ec510e11beec3bd9e75de990720a34",
-    "FileName": "gretl-2026b-32.exe",
-    "URI": "https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2026b/gretl-2026b-32.exe?viasf=1"
+    "Size": "38221608",
+    "Md5": "276fc81cffd404634e84c22a89ecb377",
+    "FileName": "gretl-2026c-32.exe",
+    "URI": "https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2026c/gretl-2026c-32.exe?viasf=1"
   }
 ]

@@ -1,42 +1,42 @@
 [
   {
-    "Version": "0.24.1",
-    "Date": "30/9/2026",
-    "Size": 28631040,
-    "Sha256": "4bf732342ea498ab6e862908577d0625fe40c9cfeed3f2f92bb727cfc4bf6e59",
+    "Version": "0.25.0",
+    "Date": "12/10/2026",
+    "Size": 28733440,
+    "Sha256": "2fdfbaf1e25c38f70264150fc83cf4ce7b8b0ca470c50b0a3dd6918c53969fff",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/mickem/nscp/releases/download/0.24.1/NSCP-0.24.1-ARM64.msi"
+    "URI": "https://github.com/mickem/nscp/releases/download/0.25.0/NSCP-0.25.0-ARM64.msi"
   },
   {
-    "Version": "0.24.1",
-    "Date": "30/9/2026",
-    "Size": 35188736,
-    "Sha256": "96a82fb9f0437f2acb98ffc7407986510706ae98de761523989673305ba2b5f7",
+    "Version": "0.25.0",
+    "Date": "12/10/2026",
+    "Size": 35352576,
+    "Sha256": "b2f5a0acd907dfb79e4e82592fe42c99aa4b11506ce0f3d96fd8fd18f92ae471",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/mickem/nscp/releases/download/0.24.1/NSCP-0.24.1-x64.msi"
+    "URI": "https://github.com/mickem/nscp/releases/download/0.25.0/NSCP-0.25.0-x64.msi"
   },
   {
-    "Version": "0.24.1",
-    "Date": "30/9/2026",
-    "Size": 88952832,
-    "Sha256": "93da099c6f68df935914e32713406f4571d1aecfd919caca747afdbe95b76211",
+    "Version": "0.25.0",
+    "Date": "12/10/2026",
+    "Size": 89210880,
+    "Sha256": "5a4ebee49fb54680ca91ac3bfd5779041c7ed5fa8993083d41592eefef9892c1",
     "Architecture": "x86",
     "InstallerType": "Legacy",
     "Type": "msi",
-    "URI": "https://github.com/mickem/nscp/releases/download/0.24.1/NSCP-0.24.1-Win32-legacy-xp.msi"
+    "URI": "https://github.com/mickem/nscp/releases/download/0.25.0/NSCP-0.25.0-Win32-legacy-xp.msi"
   },
   {
-    "Version": "0.24.1",
-    "Date": "30/9/2026",
-    "Size": 27619328,
-    "Sha256": "eda163af67151d2527bcf962054826c9bc7e755a440d104dcaf3a5187ed03903",
+    "Version": "0.25.0",
+    "Date": "12/10/2026",
+    "Size": 27807744,
+    "Sha256": "023f231dea15f587e97eacf7188016541a36ed94109d8e44747e8a59c9e245ac",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/mickem/nscp/releases/download/0.24.1/NSCP-0.24.1-Win32.msi"
+    "URI": "https://github.com/mickem/nscp/releases/download/0.25.0/NSCP-0.25.0-Win32.msi"
   }
 ]
