@@ -1,5 +1,117 @@
 [
   {
+    "Version": "26.002.22031",
+    "Language": "English",
+    "Size": 752,
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600222031/AcroRdrDCx642600222031_en_US.exe"
+  },
+  {
+    "Version": "26.002.22031",
+    "Language": "English (UK)",
+    "Size": 752,
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600222031/AcroRdrDCx642600222031_en_US.exe"
+  },
+  {
+    "Version": "26.002.22031",
+    "Language": "French",
+    "Size": 754,
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600222031/AcroRdrDCx642600222031_fr_FR.exe"
+  },
+  {
+    "Version": "26.002.22031",
+    "Language": "German",
+    "Size": 755,
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600222031/AcroRdrDCx642600222031_de_DE.exe"
+  },
+  {
+    "Version": "26.002.22031",
+    "Language": "Japanese",
+    "Size": 762,
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600222031/AcroRdrDCx642600222031_ja_JP.exe"
+  },
+  {
+    "Version": "26.002.22031",
+    "Language": "MUI",
+    "Size": 826,
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600222031/AcroRdrDCx642600222031_MUI.exe"
+  },
+  {
+    "Version": "26.002.22031",
+    "Language": "Spanish",
+    "Size": 754,
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600222031/AcroRdrDCx642600222031_es_ES.exe"
+  },
+  {
+    "Version": "26.002.22031",
+    "Language": "English",
+    "Size": 679,
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600222031/AcroRdrDC2600222031_en_US.exe"
+  },
+  {
+    "Version": "26.002.22031",
+    "Language": "English (UK)",
+    "Size": 679,
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600222031/AcroRdrDC2600222031_en_US.exe"
+  },
+  {
+    "Version": "26.002.22031",
+    "Language": "French",
+    "Size": 680,
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600222031/AcroRdrDC2600222031_fr_FR.exe"
+  },
+  {
+    "Version": "26.002.22031",
+    "Language": "German",
+    "Size": 681,
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600222031/AcroRdrDC2600222031_de_DE.exe"
+  },
+  {
+    "Version": "26.002.22031",
+    "Language": "Japanese",
+    "Size": 691,
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600222031/AcroRdrDC2600222031_ja_JP.exe"
+  },
+  {
+    "Version": "26.002.22031",
+    "Language": "MUI",
+    "Size": 711,
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600222031/AcroRdrDC2600222031_MUI.exe"
+  },
+  {
+    "Version": "26.002.22031",
+    "Language": "Spanish",
+    "Size": 680,
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600222031/AcroRdrDC2600222031_es_ES.exe"
+  },
+  {
     "Version": "26.002.21931",
     "Language": "Chinese (Simplified)",
     "Size": 767,
@@ -41,43 +153,11 @@
   },
   {
     "Version": "26.002.21931",
-    "Language": "English",
-    "Size": 748,
-    "Architecture": "x64",
-    "Type": "exe",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600221931/AcroRdrDCx642600221931_en_US.exe"
-  },
-  {
-    "Version": "26.002.21931",
-    "Language": "English (UK)",
-    "Size": 748,
-    "Architecture": "x64",
-    "Type": "exe",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600221931/AcroRdrDCx642600221931_en_US.exe"
-  },
-  {
-    "Version": "26.002.21931",
     "Language": "Finnish",
     "Size": 750,
     "Architecture": "x64",
     "Type": "exe",
     "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600221931/AcroRdrDCx642600221931_fi_FI.exe"
-  },
-  {
-    "Version": "26.002.21931",
-    "Language": "French",
-    "Size": 750,
-    "Architecture": "x64",
-    "Type": "exe",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600221931/AcroRdrDCx642600221931_fr_FR.exe"
-  },
-  {
-    "Version": "26.002.21931",
-    "Language": "German",
-    "Size": 751,
-    "Architecture": "x64",
-    "Type": "exe",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600221931/AcroRdrDCx642600221931_de_DE.exe"
   },
   {
     "Version": "26.002.21931",
@@ -97,27 +177,11 @@
   },
   {
     "Version": "26.002.21931",
-    "Language": "Japanese",
-    "Size": 758,
-    "Architecture": "x64",
-    "Type": "exe",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600221931/AcroRdrDCx642600221931_ja_JP.exe"
-  },
-  {
-    "Version": "26.002.21931",
     "Language": "Korean",
     "Size": 756,
     "Architecture": "x64",
     "Type": "exe",
     "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600221931/AcroRdrDCx642600221931_ko_KR.exe"
-  },
-  {
-    "Version": "26.002.21931",
-    "Language": "MUI",
-    "Size": 822,
-    "Architecture": "x64",
-    "Type": "exe",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600221931/AcroRdrDCx642600221931_MUI.exe"
   },
   {
     "Version": "26.002.21931",
@@ -166,14 +230,6 @@
     "Architecture": "x64",
     "Type": "exe",
     "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600221931/AcroRdrDCx642600221931_sl_SI.exe"
-  },
-  {
-    "Version": "26.002.21931",
-    "Language": "Spanish",
-    "Size": 750,
-    "Architecture": "x64",
-    "Type": "exe",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600221931/AcroRdrDCx642600221931_es_ES.exe"
   },
   {
     "Version": "26.002.21931",
@@ -265,43 +321,11 @@
   },
   {
     "Version": "26.002.21931",
-    "Language": "English",
-    "Size": 614,
-    "Architecture": "x86",
-    "Type": "exe",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600221931/AcroRdrDC2600221931_en_US.exe"
-  },
-  {
-    "Version": "26.002.21931",
-    "Language": "English (UK)",
-    "Size": 614,
-    "Architecture": "x86",
-    "Type": "exe",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600221931/AcroRdrDC2600221931_en_US.exe"
-  },
-  {
-    "Version": "26.002.21931",
     "Language": "Finnish",
     "Size": 614,
     "Architecture": "x86",
     "Type": "exe",
     "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600221931/AcroRdrDC2600221931_fi_FI.exe"
-  },
-  {
-    "Version": "26.002.21931",
-    "Language": "French",
-    "Size": 614,
-    "Architecture": "x86",
-    "Type": "exe",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600221931/AcroRdrDC2600221931_fr_FR.exe"
-  },
-  {
-    "Version": "26.002.21931",
-    "Language": "German",
-    "Size": 614,
-    "Architecture": "x86",
-    "Type": "exe",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600221931/AcroRdrDC2600221931_de_DE.exe"
   },
   {
     "Version": "26.002.21931",
@@ -321,27 +345,11 @@
   },
   {
     "Version": "26.002.21931",
-    "Language": "Japanese",
-    "Size": 622,
-    "Architecture": "x86",
-    "Type": "exe",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600221931/AcroRdrDC2600221931_ja_JP.exe"
-  },
-  {
-    "Version": "26.002.21931",
     "Language": "Korean",
     "Size": 620,
     "Architecture": "x86",
     "Type": "exe",
     "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600221931/AcroRdrDC2600221931_ko_KR.exe"
-  },
-  {
-    "Version": "26.002.21931",
-    "Language": "MUI",
-    "Size": 704,
-    "Architecture": "x86",
-    "Type": "exe",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600221931/AcroRdrDC2600221931_MUI.exe"
   },
   {
     "Version": "26.002.21931",
@@ -398,14 +406,6 @@
     "Architecture": "x86",
     "Type": "exe",
     "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600221931/AcroRdrDC2600221931_sl_SI.exe"
-  },
-  {
-    "Version": "26.002.21931",
-    "Language": "Spanish",
-    "Size": 614,
-    "Architecture": "x86",
-    "Type": "exe",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600221931/AcroRdrDC2600221931_es_ES.exe"
   },
   {
     "Version": "26.002.21931",

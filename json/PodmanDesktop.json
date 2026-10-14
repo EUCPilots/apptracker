@@ -1,122 +1,122 @@
 [
   {
-    "Version": "1.29.3",
-    "Date": "1/9/2026",
-    "Size": 143201944,
-    "Sha256": "24539c64d32c8661eed0506400e71921071c9ea1de5703440c0fd9eec72e190a",
+    "Version": "1.30.5",
+    "Date": "13/10/2026",
+    "Size": 155488328,
+    "Sha256": "d0c04c6996c45b5896bf45b742f7ba1f9ae19921b35974362d5bf9340a38d0a9",
     "Architecture": "ARM64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-arm64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-arm64.exe"
   },
   {
-    "Version": "1.29.3",
-    "Date": "1/9/2026",
-    "Size": 143479104,
-    "Sha256": "64bda1ce8b7ad8ce3a6320bfa37b3aa7adf0f2096c24657584bebf9c68ff9c1e",
+    "Version": "1.30.5",
+    "Date": "13/10/2026",
+    "Size": 155765472,
+    "Sha256": "ba5feb232e8dfe37136505a92e7e808a0de96fba78eb3d1757e7b86b4db7bea4",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-setup-arm64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-setup-arm64.exe"
   },
   {
-    "Version": "1.29.3",
-    "Date": "1/9/2026",
-    "Size": 375996360,
-    "Sha256": "8fab1c94853fa0f261fdbdbbb678dab4b5ead35b8be3f6bfcf63c284ea21e5ad",
+    "Version": "1.30.5",
+    "Date": "13/10/2026",
+    "Size": 389520760,
+    "Sha256": "ac606706431e2af5e959133a4e656b922038772282d2fe84315d25005429c30a",
     "Architecture": "ARM64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-arm64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-arm64.exe"
   },
   {
-    "Version": "1.29.3",
-    "Date": "1/9/2026",
-    "Size": 376273512,
-    "Sha256": "d7e6aaaf12ac97f7925596f8615bc98df1f61f4b687d7ad216d6606fadf44f92",
+    "Version": "1.30.5",
+    "Date": "13/10/2026",
+    "Size": 389797920,
+    "Sha256": "62ac7ba3d17809f955603e55499d794f7cf591c5bac618bec987f8632e006f75",
     "Architecture": "ARM64",
     "InstallerType": "Airgap",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-setup-arm64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-setup-arm64.exe"
   },
   {
-    "Version": "1.29.3",
-    "Date": "1/9/2026",
-    "Size": 150522248,
-    "Sha256": "63e95821fa0942521cc17ef96b0ae5ae9af8207991a9cfcf79e48bf5552e35de",
+    "Version": "1.30.5",
+    "Date": "13/10/2026",
+    "Size": 162833128,
+    "Sha256": "0689d9389853a5256c2b0ce7a09c012399948a5df4c9c4d4735c09de1bbe6928",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-setup-x64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-setup-x64.exe"
   },
   {
-    "Version": "1.29.3",
-    "Date": "1/9/2026",
-    "Size": 150244608,
-    "Sha256": "060a359aa47dc1274e34a14976916f2a5789a6287096bf55747c428b8cbdc471",
+    "Version": "1.30.5",
+    "Date": "13/10/2026",
+    "Size": 162555496,
+    "Sha256": "d1e877d5e004bda0c0a7a2f18ea5f7fed7a536efe34a998c4cccb345330f7e2e",
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-x64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-x64.exe"
   },
   {
-    "Version": "1.29.3",
-    "Date": "1/9/2026",
-    "Size": 397775144,
-    "Sha256": "7e71eebd61d0cdf30be58471a12ab2986363b6db794001b81c28830272747e00",
+    "Version": "1.30.5",
+    "Date": "13/10/2026",
+    "Size": 411427456,
+    "Sha256": "a386ccda7c62ad57e620a8c85a06b59a6624ff5eb099139a0b1fd35fb88c2080",
     "Architecture": "x64",
     "InstallerType": "Airgap",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-setup-x64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-setup-x64.exe"
   },
   {
-    "Version": "1.29.3",
-    "Date": "1/9/2026",
-    "Size": 397497496,
-    "Sha256": "e9915d4d0349301c4ac267096079fcf655fbf3502956bf73277d3ec781693c91",
+    "Version": "1.30.5",
+    "Date": "13/10/2026",
+    "Size": 411149824,
+    "Sha256": "e7f2726f34f0a6fc1a4348d0aae666f37a71da0dbfa44b8a0a38cc364caca5bb",
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-x64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-x64.exe"
   },
   {
-    "Version": "1.29.3",
-    "Date": "1/9/2026",
-    "Size": 293303192,
-    "Sha256": "acdc4c8fa3128f3b491a52f03b9d5761e6d6ebc9cf06fbd74eabb8fc82e16ba2",
+    "Version": "1.30.5",
+    "Date": "13/10/2026",
+    "Size": 317900448,
+    "Sha256": "2ede9346c2157d0a7955ea3232753449f4ef589cfdccaa11e0d915c5da532aa9",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-setup.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-setup.exe"
   },
   {
-    "Version": "1.29.3",
-    "Date": "1/9/2026",
-    "Size": 293025816,
-    "Sha256": "691bdad78a10bf73773e8f91bf54f5cfae81042a3f40c26ed628146693e18b33",
+    "Version": "1.30.5",
+    "Date": "13/10/2026",
+    "Size": 317623080,
+    "Sha256": "0aec7caa4b8e662d57aef46ebcaa03c1842e39ae8861056ade479ad6a4ae79ed",
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5.exe"
   },
   {
-    "Version": "1.29.3",
-    "Date": "1/9/2026",
-    "Size": 773350472,
-    "Sha256": "0fd70a93fc44698f2d8081f976fc56205cd8986ecaa8211ec2ffa64aab9b6015",
+    "Version": "1.30.5",
+    "Date": "13/10/2026",
+    "Size": 800527216,
+    "Sha256": "008ddb481a4b75cc767e2eb751439bb46788f656a4a5cf01fb41744bd6b8fa78",
     "Architecture": "x86",
     "InstallerType": "Airgap",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-setup.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-setup.exe"
   },
   {
-    "Version": "1.29.3",
-    "Date": "1/9/2026",
-    "Size": 773073120,
-    "Sha256": "5816e342835ec22bed6f6421de076bb6a44b47664ef74afda070327573e1fa00",
+    "Version": "1.30.5",
+    "Date": "13/10/2026",
+    "Size": 800249848,
+    "Sha256": "9178bfab44be0957a18be16de6e73274045be5429f01335978d610cb8d416950",
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5.exe"
   }
 ]
