@@ -1,10 +1,10 @@
 [
   {
-    "Version": "26.7.1",
+    "Version": null,
     "Architecture": "x86",
-    "Date": "2026-08-28T18:30:08.1513354Z",
-    "Size": 132526808,
-    "Sha256": "27f1f8ae8c27bc22bbc383b84bf08c63a20a6e190f3975f3502625b1045330b2",
-    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py314_26.7.1-1-Windows-x86_64.exe"
+    "Date": "2026-10-15T04:07:26.729099Z",
+    "Size": 167588008,
+    "Sha256": "5936a05286488584d4b571fb01139bfc5999b77127982ee2a17b03427aa8f4d5",
+    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-arm64.exe"
   }
 ]

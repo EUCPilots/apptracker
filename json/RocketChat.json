@@ -1,102 +1,102 @@
 [
   {
-    "Version": "4.18.2",
-    "Date": "11/10/2026",
-    "Size": 171819069,
-    "Sha256": "c8a1560986a74bf3086437b094ffad12592e28da98dc2535fbf64e5d7c04a916",
+    "Version": "4.18.3",
+    "Date": "14/10/2026",
+    "Size": 171818657,
+    "Sha256": "aaf2729393adaa63c82a62c20d33ed2facac804ef5e3013dacd82fdbdaae9e7d",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "appx",
-    "URI": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.2/rocketchat-4.18.2-win-arm64.appx"
+    "URI": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.3/rocketchat-4.18.3-win-arm64.appx"
   },
   {
-    "Version": "4.18.2",
-    "Date": "11/10/2026",
-    "Size": 174657362,
-    "Sha256": "2cf58bcdc44bb75245a2eb835dd8094d6e836b6a2d243ad16d37f280adc3f6b7",
+    "Version": "4.18.3",
+    "Date": "14/10/2026",
+    "Size": 174656973,
+    "Sha256": "44aaa9a857bd9344d857eaaa58ff54e566b072efd1fb50be46f8179441c89a03",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "appx",
-    "URI": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.2/rocketchat-4.18.2-win-x64.appx"
+    "URI": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.3/rocketchat-4.18.3-win-x64.appx"
   },
   {
-    "Version": "4.18.2",
-    "Date": "11/10/2026",
-    "Size": 151529316,
-    "Sha256": "c62ccba62a32ad32b374a4bd105d5efb81c67bef1605a617f98ae900e74cb279",
+    "Version": "4.18.3",
+    "Date": "14/10/2026",
+    "Size": 151528908,
+    "Sha256": "a1f52b630408d4e18ad9b0b47c6a6a28e50ef1ef4e73fd9caad53bf59f356120",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "appx",
-    "URI": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.2/rocketchat-4.18.2-win-ia32.appx"
+    "URI": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.3/rocketchat-4.18.3-win-ia32.appx"
   },
   {
-    "Version": "4.18.2",
-    "Date": "11/10/2026",
-    "Size": 116012880,
-    "Sha256": "f2a55bacae8908ce88b8fa8e9b19c25b05a02ee02da8fd1fe93fbc20f43e9f13",
+    "Version": "4.18.3",
+    "Date": "14/10/2026",
+    "Size": 116013424,
+    "Sha256": "9afaf8f2393b0ea5bb0dd5879ec7822389032a3229756c846319850cde44bdbf",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.2/rocketchat-4.18.2-win-arm64.exe"
+    "URI": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.3/rocketchat-4.18.3-win-arm64.exe"
   },
   {
-    "Version": "4.18.2",
-    "Date": "11/10/2026",
-    "Size": 116441200,
-    "Sha256": "9d9eae967ebfa3b3e077a88e06a640728d7956a840730e3a340940d490c4de05",
+    "Version": "4.18.3",
+    "Date": "14/10/2026",
+    "Size": 116441840,
+    "Sha256": "9eab7766492adfb84233f96690bd3a71e0437035544e097ed9e1c8ec63c24264",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.2/rocketchat-4.18.2-win-x64.exe"
+    "URI": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.3/rocketchat-4.18.3-win-x64.exe"
   },
   {
-    "Version": "4.18.2",
-    "Date": "11/10/2026",
-    "Size": 101855576,
-    "Sha256": "ad492cdad3d7032ae8bc02ca900bccf3c8fb4418b571f6f12bf61e433dc68ae8",
+    "Version": "4.18.3",
+    "Date": "14/10/2026",
+    "Size": 101855952,
+    "Sha256": "69b911e747dfff559584a35af9fef6e1e4fc817f2a39c155f2f46f01e41ef607",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.2/rocketchat-4.18.2-win-ia32.exe"
+    "URI": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.3/rocketchat-4.18.3-win-ia32.exe"
   },
   {
-    "Version": "4.18.2",
-    "Date": "11/10/2026",
-    "Size": 332318912,
-    "Sha256": "42c18c657153c3a4242c7e78fdc239925cedf42331a49a16fe131dd79b69ffdb",
+    "Version": "4.18.3",
+    "Date": "14/10/2026",
+    "Size": 332320376,
+    "Sha256": "e95070eeabbe7df665873599591034302dc012c28cb9ddf6cb0bda1b22b1f572",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.2/rocketchat-4.18.2-win.exe"
+    "URI": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.3/rocketchat-4.18.3-win.exe"
   },
   {
-    "Version": "4.18.2",
-    "Date": "11/10/2026",
-    "Size": 121577472,
-    "Sha256": "0d017b9334f63375b6f8b97540330219efdb9940d492cbcac361064a4e4d07a4",
+    "Version": "4.18.3",
+    "Date": "14/10/2026",
+    "Size": 121556992,
+    "Sha256": "00097fb39c8b0a82aad9131b8019d12fe44182ef80fe42db84af7f983731040e",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.2/rocketchat-4.18.2-win-arm64.msi"
+    "URI": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.3/rocketchat-4.18.3-win-arm64.msi"
   },
   {
-    "Version": "4.18.2",
-    "Date": "11/10/2026",
-    "Size": 127832064,
-    "Sha256": "96b2f035cb848645417ccc55462e550e2f15fcd5d92030694b13a118b96b2433",
+    "Version": "4.18.3",
+    "Date": "14/10/2026",
+    "Size": 127811584,
+    "Sha256": "22c7f87290cda054f651aec6a3bf7b1682d5e8de204a7f0f2cf12f7f88bb4cf5",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.2/rocketchat-4.18.2-win-x64.msi"
+    "URI": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.3/rocketchat-4.18.3-win-x64.msi"
   },
   {
-    "Version": "4.18.2",
-    "Date": "11/10/2026",
-    "Size": 111505408,
-    "Sha256": "6f914e3a53583a02ae28525fc55029d04aeaceabbcc2a7d8ef29ffb9814e6b6a",
+    "Version": "4.18.3",
+    "Date": "14/10/2026",
+    "Size": 111489024,
+    "Sha256": "0c922306734016f4faf37126fbb2da0de3ed6fa72529afc62dafa0b2ff080c29",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.2/rocketchat-4.18.2-win-ia32.msi"
+    "URI": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.3/rocketchat-4.18.3-win-ia32.msi"
   }
 ]

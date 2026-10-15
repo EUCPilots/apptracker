@@ -1,42 +1,42 @@
 [
   {
-    "Version": "0.80.0",
-    "Date": "1/10/2026",
-    "Size": 18151792,
-    "Sha256": "96daa3ab199f1c2bd78cd621e3fadfbef9c4c756b0004475e481fb9e3c890782",
+    "Version": "0.81.0",
+    "Date": "15/10/2026",
+    "Size": 18204040,
+    "Sha256": "93986218aa1906fb04cf1a85c068f74b9b226f5b419c4c1dd2afd42310e35bab",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/netbirdio/netbird/releases/download/v0.80.0/netbird_installer_0.80.0_windows_arm64.exe"
+    "URI": "https://github.com/netbirdio/netbird/releases/download/v0.81.0/netbird_installer_0.81.0_windows_arm64.exe"
   },
   {
-    "Version": "0.80.0",
-    "Date": "1/10/2026",
-    "Size": 20842248,
-    "Sha256": "1e02ed3ed2b739c3d4d03f74f740ccb2e4cc71d3cf2f2210cf50314bca00bd1b",
+    "Version": "0.81.0",
+    "Date": "15/10/2026",
+    "Size": 20896888,
+    "Sha256": "5473efd72108b5305b65fe0a0a291a6b584b5eacc7b6318f960df38d4d546e72",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/netbirdio/netbird/releases/download/v0.80.0/netbird_installer_0.80.0_windows_amd64.exe"
+    "URI": "https://github.com/netbirdio/netbird/releases/download/v0.81.0/netbird_installer_0.81.0_windows_amd64.exe"
   },
   {
-    "Version": "0.80.0",
-    "Date": "1/10/2026",
-    "Size": 21250048,
-    "Sha256": "347a318eb9df6cd441584ea22a4ff2816f983472d45ef06d082eff326d92358e",
+    "Version": "0.81.0",
+    "Date": "15/10/2026",
+    "Size": 21303296,
+    "Sha256": "a4a7703de9117768947c2adbcc36669b15cca8348a173ab722d3841de0463834",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/netbirdio/netbird/releases/download/v0.80.0/netbird_installer_0.80.0_windows_arm64.msi"
+    "URI": "https://github.com/netbirdio/netbird/releases/download/v0.81.0/netbird_installer_0.81.0_windows_arm64.msi"
   },
   {
-    "Version": "0.80.0",
-    "Date": "1/10/2026",
-    "Size": 23605248,
-    "Sha256": "b9a3eb6ba880f3d4205a30041cab9738716c89d7ec021dd41af38a36e21b6fb8",
+    "Version": "0.81.0",
+    "Date": "15/10/2026",
+    "Size": 23674880,
+    "Sha256": "e74eba43b067fd051e08a6efd8c24e541c3784b1d9c8c5a15cf41c043f7e8945",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/netbirdio/netbird/releases/download/v0.80.0/netbird_installer_0.80.0_windows_amd64.msi"
+    "URI": "https://github.com/netbirdio/netbird/releases/download/v0.81.0/netbird_installer_0.81.0_windows_amd64.msi"
   }
 ]

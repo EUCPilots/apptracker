@@ -1,22 +1,22 @@
 [
   {
-    "Version": "4.0.3",
-    "Date": "11/8/2026",
-    "Size": 33471328,
-    "Sha256": "624a7252d455504c5320800d05176e5e18ddc9560c36fff39843703d4348543b",
+    "Version": "4.0.4",
+    "Date": "15/10/2026",
+    "Size": 33433152,
+    "Sha256": "c3e224f8d3f7269acbe786195ee102b5d831e0230ff4a066c65a871fe0ddd13b",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pawelsalawa/letos/releases/download/4.0.3/Letos-4.0.3-windows-arm64-setup.exe"
+    "URI": "https://github.com/pawelsalawa/letos/releases/download/4.0.4/Letos-4.0.4-windows-arm64-setup.exe"
   },
   {
-    "Version": "4.0.3",
-    "Date": "11/8/2026",
-    "Size": 35189064,
-    "Sha256": "3f5b265bf6ddb4a2920eff56357f85f73694b4c0f31564570c9cc16ab4988e2b",
+    "Version": "4.0.4",
+    "Date": "15/10/2026",
+    "Size": 35185896,
+    "Sha256": "c470431db62977a1b38d27dc41ac2e593b52b2415184ce4b18e9ace90a1a41d2",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pawelsalawa/letos/releases/download/4.0.3/Letos-4.0.3-windows-x64-setup.exe"
+    "URI": "https://github.com/pawelsalawa/letos/releases/download/4.0.4/Letos-4.0.4-windows-x64-setup.exe"
   }
 ]
