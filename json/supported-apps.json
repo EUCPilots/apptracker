@@ -725,9 +725,29 @@
     "Link": "https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows"
   },
   {
+    "Name": "ESETAVRemover",
+    "Application": "ESET AV Remover",
+    "Link": "https://www.eset.com/me/support/av-remover/"
+  },
+  {
+    "Name": "ESETBridge",
+    "Application": "ESET Bridge",
+    "Link": "https://help.eset.com/protect_cloud/en-US/bridge_http_proxy.html"
+  },
+  {
     "Name": "ESETEndpointAntivirus",
     "Application": "ESET Endpoint Antivirus",
     "Link": "https://www.eset.com/au/business/solutions/endpoint-protection/"
+  },
+  {
+    "Name": "ESETEndpointEncryption",
+    "Application": "ESET Endpoint Encryption for Windows",
+    "Link": "https://www.eset.com/int/business/extended-protection-with-full-disk-encryption/"
+  },
+  {
+    "Name": "ESETEndpointEncryptionServer",
+    "Application": "ESET Endpoint Encryption Server",
+    "Link": "https://help.eset.com/eee_server/3/en-US/"
   },
   {
     "Name": "ESETEndpointSecurity",
@@ -735,19 +755,54 @@
     "Link": "https://www.eset.com/au/business/solutions/endpoint-protection/"
   },
   {
-    "Name": "ESETFullDiskEncryption",
-    "Application": "ESET Full Disk Encryption",
-    "Link": "https://www.eset.com/int/business/extended-protection-with-full-disk-encryption/"
-  },
-  {
-    "Name": "ESETInspectConnector",
-    "Application": "ESET Inspect Connector",
+    "Name": "ESETInspectAgent",
+    "Application": "ESET Inspect Agent",
     "Link": "https://www.eset.com/int/business/download/inspect/"
   },
   {
+    "Name": "ESETInspectServer",
+    "Application": "ESET Inspect Server",
+    "Link": "https://www.eset.com/uk/business/download/inspect-server/"
+  },
+  {
+    "Name": "ESETInternetSecurity",
+    "Application": "ESET Internet Security",
+    "Link": "https://www.eset.com/au/home/internet-security/"
+  },
+  {
+    "Name": "ESETMailSecurityForExchange",
+    "Application": "ESET Mail Security for Microsoft Exchange Server",
+    "Link": "https://www.eset.com/uk/business/download/mail-security-exchange/"
+  },
+  {
+    "Name": "ESETMailSecurityForSharePoint",
+    "Application": "ESET Security for Microsoft SharePoint Server",
+    "Link": "https://www.eset.com/uk/business/download/mail-security-exchange/"
+  },
+  {
+    "Name": "ESETManagementAgent",
+    "Application": "ESET Management Agent",
+    "Link": "https://help.eset.com/protect_cloud/en-US/fs_deployment.html"
+  },
+  {
+    "Name": "ESETNOD32Antivirus",
+    "Application": "ESET NOD32 Antivirus",
+    "Link": "https://www.eset.com/au/home/antivirus/"
+  },
+  {
     "Name": "ESETPROTECTServer",
-    "Application": "ESET PROTECT Server",
+    "Application": "ESET PROTECT On-Prem Server",
     "Link": "https://www.eset.com/au/business/solutions/endpoint-protection/"
+  },
+  {
+    "Name": "ESETRemoteDeploymentTool",
+    "Application": "ESET Remote Deployment Tool",
+    "Link": "https://help.eset.com/protect_cloud/en-US/deployment_tool.html"
+  },
+  {
+    "Name": "ESETRogueDetectionSensor",
+    "Application": "ESET Rogue Detection Sensor",
+    "Link": "https://help.eset.com/protect_cloud/en-US/component_installation_rd_sensor_windows.html"
   },
   {
     "Name": "ESETSecureAuthentication",
@@ -755,9 +810,24 @@
     "Link": "https://www.eset.com/au/business/download/secure-authentication/"
   },
   {
+    "Name": "ESETSecurityUltimate",
+    "Application": "ESET Security Ultimate",
+    "Link": "https://www.eset.com/au/home/protection-plans/"
+  },
+  {
     "Name": "ESETServerSecurity",
-    "Application": "ESET Server Security",
-    "Link": "https://www.eset.com/int/business/solutions/file-server-security/"
+    "Application": "ESET Server Security for Microsoft Windows Server",
+    "Link": "https://www.eset.com/au/business/solutions/endpoint-protection/"
+  },
+  {
+    "Name": "ESETSmartSecurityPremium",
+    "Application": "ESET Smart Security Premium",
+    "Link": "https://www.eset.com/au/home/smart-security-premium/"
+  },
+  {
+    "Name": "ESETSysInspector",
+    "Application": "ESET SysInspector",
+    "Link": "https://www.eset.com/au/home/sysinspector/"
   },
   {
     "Name": "EugenePankovTabby",

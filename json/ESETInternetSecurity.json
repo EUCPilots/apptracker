@@ -1,0 +1,18 @@
+[
+  {
+    "Version": "19.2.10.0",
+    "Size": 88823016,
+    "Sha256": "d161474caa3e9c83834de8f384809af5e60dc5fff27cdc25a2e0793f8409a6aa",
+    "Architecture": "ARM64",
+    "Type": "exe",
+    "URI": "https://download.eset.com/com/eset/apps/home/eis/windows/latest/eis_arm64.exe"
+  },
+  {
+    "Version": "19.2.10.0",
+    "Size": 89745120,
+    "Sha256": "66abde4ceef009ff7f599ef63e97fa9acba276836227ec242f75a1b028049687",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://download.eset.com/com/eset/apps/home/eis/windows/latest/eis_nt64.exe"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Version": "2.1.5.0",
+    "Size": 8541040,
+    "Sha256": "ec7fa472555e19cf38141f907ca39c725b836fba7444fba82a6f22973593651e",
+    "Architecture": "ARM64",
+    "Type": "exe",
+    "URI": "https://download.eset.com/com/eset/tools/diagnosis/sysinspector/latest/sysinspector_arm64.exe"
+  },
+  {
+    "Version": "2.1.5.0",
+    "Size": 7961968,
+    "Sha256": "ab92290fac53a4b68fe612ef36ba5cd8d50d48be80ae78efc0d6c6b61191fe08",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://download.eset.com/com/eset/tools/diagnosis/sysinspector/latest/sysinspector_nt64.exe"
+  },
+  {
+    "Version": "2.1.5.0",
+    "Size": 7234928,
+    "Sha256": "f4b52d0321ef862ac1d2827c9eb9a35ee298b1851662358549022c8d52f84ee3",
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://download.eset.com/com/eset/tools/diagnosis/sysinspector/latest/sysinspector_nt32.exe"
+  }
+]

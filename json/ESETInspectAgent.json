@@ -1,0 +1,18 @@
+[
+  {
+    "Version": "3.2.6164.0",
+    "Size": 25993216,
+    "Sha256": "2cf9dca20368f568cbe227e11505701f830b71086ee03ab576e767ae33d73663",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.eset.com/com/eset/apps/business/eei/agent/latest/ei_connector_nt64.msi"
+  },
+  {
+    "Version": "3.2.6164.0",
+    "Size": 21868544,
+    "Sha256": "5ed732e2314dbe1d99b14e60570a75bf7c7f7a56bec45baa7850c5d4260d9917",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://download.eset.com/com/eset/apps/business/eei/agent/latest/ei_connector_nt32.msi"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Version": "1.6.17.0",
+    "Size": 22405032,
+    "Sha256": "5850ed647a4314b5bd99a4c47e0c21d62a5b547fb26083ee2b119b185363014e",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://download.eset.com/com/eset/tools/installers/av_remover/latest/avremover_nt64_enu.exe"
+  },
+  {
+    "Version": "1.6.17.0",
+    "Size": 20426160,
+    "Sha256": "193717031dae42583ec442d3e88eae1de41567f4d2ea8c7071b29678683306af",
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://download.eset.com/com/eset/tools/installers/av_remover/latest/avremover_nt32_enu.exe"
+  }
+]

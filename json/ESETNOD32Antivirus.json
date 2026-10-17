@@ -1,0 +1,18 @@
+[
+  {
+    "Version": "19.2.10.0",
+    "Size": 88823016,
+    "Sha256": "f93dc4c36f867c82cd5412d8707b801a11d070fe6585a2ae901927b09a675cbf",
+    "Architecture": "ARM64",
+    "Type": "exe",
+    "URI": "https://download.eset.com/com/eset/apps/home/eav/windows/latest/eav_arm64.exe"
+  },
+  {
+    "Version": "19.2.10.0",
+    "Size": 89745128,
+    "Sha256": "314ec3d6c198ff342518a6a3f54398c2961c447eebf4b0735afed45488e7dd1d",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://download.eset.com/com/eset/apps/home/eav/windows/latest/eav_nt64.exe"
+  }
+]

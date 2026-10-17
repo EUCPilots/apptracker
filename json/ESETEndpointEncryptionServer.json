@@ -1,0 +1,18 @@
+[
+  {
+    "Version": "3.8.4.0",
+    "Size": 1110617512,
+    "Sha256": "df6eeaac25f92b95daf580722843ea5c14a8a97cbedd420e001e7185afaecbcc",
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://download.eset.com/com/eset/apps/business/deslock/server/latest/eeeserver_all_in_one.exe"
+  },
+  {
+    "Version": "3.8.4.0",
+    "Size": 18800640,
+    "Sha256": "e9a240a2d1e43ac2023bf84a7944446c5ff3210f8cf2d383703f794d2d2f1407",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://download.eset.com/com/eset/apps/business/deslock/server/latest/eees_nt32.msi"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Version": "1.1.693.1",
+    "Size": 18702336,
+    "Sha256": "3a48b5a5a31c1424094d0e28f2b542b0f233e2e845b2f683c0731daadec4f6a1",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.eset.com/com/eset/apps/business/era/rdsensor/latest/rdsensor_x64.msi"
+  },
+  {
+    "Version": "1.1.693.1",
+    "Size": 16629760,
+    "Sha256": "ab8c0c14e0b62d97c654a1a82dbe8b3252549c9cfdf1f838c0b7e9c5a7e55f79",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://download.eset.com/com/eset/apps/business/era/rdsensor/latest/rdsensor_x86.msi"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Version": "13.2.1189.0",
+    "Size": 54517760,
+    "Sha256": "37e524141859930cce467f8becf9e958d676809ee2c78b8fe98355388f84430c",
+    "Architecture": "ARM64",
+    "Type": "msi",
+    "URI": "https://download.eset.com/com/eset/apps/business/era/agent/latest/agent_arm64.msi"
+  },
+  {
+    "Version": "13.2.1189.0",
+    "Size": 56590336,
+    "Sha256": "4815d91aa14ac433090e8c1c832570350bbf929568497d71f15bcb682303011f",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.eset.com/com/eset/apps/business/era/agent/latest/agent_x64.msi"
+  },
+  {
+    "Version": "13.2.1189.0",
+    "Size": 50589696,
+    "Sha256": "c4e032cc8e09157aba265a570bf218ab7cbcb070c990b9f1a69b943b8103c718",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://download.eset.com/com/eset/apps/business/era/agent/latest/agent_x86.msi"
+  }
+]

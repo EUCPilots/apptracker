@@ -1,0 +1,92 @@
+[
+  {
+    "Version": "5.4.23.0",
+    "Size": 29832192,
+    "Sha256": "394e8c77f9d519e850bf80a56f0f198e7dbbf529a11f4c1ed0769022e0ddcb50",
+    "Language": "112",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.eset.com/com/eset/apps/business/eee/windows/latest/eee_nt64_nld.msi"
+  },
+  {
+    "Version": "5.4.23.0",
+    "Size": 29860352,
+    "Sha256": "e945e4c8e8d6901f9f1a828b6c978b8bfe9cb734fe919cc4dd38a323b6a2e739",
+    "Language": "118",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.eset.com/com/eset/apps/business/eee/windows/latest/eee_nt64_plk.msi"
+  },
+  {
+    "Version": "5.4.23.0",
+    "Size": 29865472,
+    "Sha256": "0740b11c2f2a3dbc54af0928edf81d5a91e3b5917ff023ae696bfbc268c2805d",
+    "Language": "152",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.eset.com/com/eset/apps/business/eee/windows/latest/eee_nt64_chs.msi"
+  },
+  {
+    "Version": "5.4.23.0",
+    "Size": 29843456,
+    "Sha256": "2f40c8684c908ce94c1b1ffd97e10180c39f9fc21c68564d98b0a871f4ba6e2b",
+    "Language": "155",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.eset.com/com/eset/apps/business/eee/windows/latest/eee_nt64_cht.msi"
+  },
+  {
+    "Version": "5.4.23.0",
+    "Size": 29853184,
+    "Sha256": "ba6d822571319190d1a266338d32b4af4651009d213d1bf341ef209248b51bb2",
+    "Language": "33",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.eset.com/com/eset/apps/business/eee/windows/latest/eee_nt64_deu.msi"
+  },
+  {
+    "Version": "5.4.23.0",
+    "Size": 29761024,
+    "Sha256": "bc7add7a344f60536da845eeda148d3dd43d525525632352d62c0551c5b4e401",
+    "Language": "41",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.eset.com/com/eset/apps/business/eee/windows/latest/eee_nt64_enu.msi"
+  },
+  {
+    "Version": "5.4.23.0",
+    "Size": 29839872,
+    "Sha256": "732ae906603fe29cec0c7a30c4ba4a0ba45919f1e758c42fa909a0f6fbacf717",
+    "Language": "50",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.eset.com/com/eset/apps/business/eee/windows/latest/eee_nt64_esn.msi"
+  },
+  {
+    "Version": "5.4.23.0",
+    "Size": 29854720,
+    "Sha256": "5adb3f5305801af653709425d541d7094fe5062be3cc1c0122d3ad4652e58bba",
+    "Language": "75",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.eset.com/com/eset/apps/business/eee/windows/latest/eee_nt64_fra.msi"
+  },
+  {
+    "Version": "5.4.23.0",
+    "Size": 29999616,
+    "Sha256": "4e0fe35344685032fdf050c3941d3bc66aac86e6932dbf9f54f24926447ee057",
+    "Language": "92",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.eset.com/com/eset/apps/business/eee/windows/latest/eee_nt64_jpn.msi"
+  },
+  {
+    "Version": "5.4.23.0",
+    "Size": 29927936,
+    "Sha256": "18df3b7e38d187dd5d17305b027e60e2c42f501b7a5a0c3556dbfad3c4120d08",
+    "Language": "97",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.eset.com/com/eset/apps/business/eee/windows/latest/eee_nt64_kor.msi"
+  }
+]
