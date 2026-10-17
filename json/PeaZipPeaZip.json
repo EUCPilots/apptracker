@@ -1,22 +1,22 @@
 [
   {
-    "Version": "11.3.0",
-    "Date": "26/9/2026",
-    "Size": 11391512,
-    "Sha256": "cb52763da39ef44f6b8ce3619eb76817aa8b2e4c3518c406dc5cc2857bcaeb76",
+    "Version": "11.4.0",
+    "Date": "17/10/2026",
+    "Size": 11426050,
+    "Sha256": "7c7e70f4bb64b0f8e6f088c33bb14d7791d9a7c1a762d062f3bfec1bbb8ac9d3",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/peazip/PeaZip/releases/download/11.3.0/peazip-11.3.0.WIN64.exe"
+    "URI": "https://github.com/peazip/PeaZip/releases/download/11.4.0/peazip-11.4.0.WIN64.exe"
   },
   {
-    "Version": "11.3.0",
-    "Date": "26/9/2026",
-    "Size": 8544602,
-    "Sha256": "08443087ef9f6368b650d28a24c601a31732b742920e31a26cd047d5795e1973",
+    "Version": "11.4.0",
+    "Date": "17/10/2026",
+    "Size": 8704046,
+    "Sha256": "fbf48c7a76a12d94f400fe99ebe241495e0fd3ae133f0eebbef69037e9f897e0",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/peazip/PeaZip/releases/download/11.3.0/peazip-11.3.0.WINDOWS.exe"
+    "URI": "https://github.com/peazip/PeaZip/releases/download/11.4.0/peazip-11.4.0.WINDOWS.exe"
   }
 ]
