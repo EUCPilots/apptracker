@@ -125,6 +125,11 @@
     "Link": "https://adoptium.net/"
   },
   {
+    "Name": "AdoptiumTemurin27",
+    "Application": "Adoptium Temurin 27",
+    "Link": "https://adoptium.net/"
+  },
+  {
     "Name": "AdoptiumTemurin8",
     "Application": "Adoptium Temurin 8",
     "Link": "https://adoptium.net/"
@@ -217,6 +222,11 @@
   {
     "Name": "AmazonCorretto26",
     "Application": "Amazon Corretto 26",
+    "Link": "https://aws.amazon.com/corretto/"
+  },
+  {
+    "Name": "AmazonCorretto27",
+    "Application": "Amazon Corretto 27",
     "Link": "https://aws.amazon.com/corretto/"
   },
   {
@@ -432,6 +442,11 @@
   {
     "Name": "BellSoftLibericaJDK26",
     "Application": "BellSoft Liberica JDK 26",
+    "Link": "https://bell-sw.com/libericajdk/"
+  },
+  {
+    "Name": "BellSoftLibericaJDK27",
+    "Application": "BellSoft Liberica JDK 27",
     "Link": "https://bell-sw.com/libericajdk/"
   },
   {
@@ -710,14 +725,29 @@
     "Link": "https://help.elgato.com/hc/en-us/sections/360004111092-Elgato-Game-Capture-HD-Software"
   },
   {
+    "Name": "ElgatoMarketplaceConnect",
+    "Application": "Elgato Marketplace Connect",
+    "Link": "https://www.elgato.com/"
+  },
+  {
     "Name": "ElgatoStreamDeck",
     "Application": "Elgato Stream Deck",
     "Link": "https://www.elgato.com/us/en/s/welcome-to-stream-deck"
   },
   {
+    "Name": "ElgatoStudio",
+    "Application": "Elgato Studio",
+    "Link": "https://www.elgato.com/"
+  },
+  {
     "Name": "ElgatoVideoCapture",
     "Application": "Elgato Video Capture",
     "Link": "https://www.elgato.com/us/en/p/video-capture"
+  },
+  {
+    "Name": "ElgatoWaveCast",
+    "Application": "Elgato Wave Cast",
+    "Link": "https://www.elgato.com/"
   },
   {
     "Name": "ElgatoWaveLink",
@@ -2093,6 +2123,11 @@
     "Name": "OracleJava26",
     "Application": "Oracle Java 26",
     "Link": "https://www.oracle.com/java/technologies/downloads/#java26"
+  },
+  {
+    "Name": "OracleJava27",
+    "Application": "Oracle Java 27",
+    "Link": "https://www.oracle.com/java/technologies/downloads/#java27"
   },
   {
     "Name": "OracleJava8",
