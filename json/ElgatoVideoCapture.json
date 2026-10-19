@@ -1,6 +1,7 @@
 [
   {
     "Version": "1.15",
+    "Release": "Stable",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://edge.elgato.com/egc/windows/evcw/1.15/final/VideoCaptureSetup_1.15.2.msi"

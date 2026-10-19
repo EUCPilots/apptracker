@@ -1,7 +1,8 @@
 [
   {
     "Version": "1.1.1",
-    "Architecture": "x64",
+    "Release": "Stable",
+    "Architecture": "x86",
     "Type": "msi",
     "URI": "https://edge.elgato.com/egc/windows/audio-effects/1.1.1/ElgatoAudioEffects_1.1.1.80.msi"
   }

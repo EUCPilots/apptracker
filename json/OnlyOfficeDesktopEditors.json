@@ -28,35 +28,5 @@
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v10.0.0/DesktopEditors_x86.exe"
-  },
-  {
-    "Version": "10.0.0",
-    "Date": "13/10/2026",
-    "Size": 379928576,
-    "Sha256": "8680487ac80e89511028fcd45fe19ef816ebeb35fabeebf76de59e1d059452a5",
-    "Architecture": "ARM64",
-    "InstallerType": "Default",
-    "Type": "msi",
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v10.0.0/DesktopEditors_arm64.msi"
-  },
-  {
-    "Version": "10.0.0",
-    "Date": "13/10/2026",
-    "Size": 414613504,
-    "Sha256": "488d121f1f700a2fef353fece49329637a808aa8b976b517717866d527b9078c",
-    "Architecture": "x64",
-    "InstallerType": "Default",
-    "Type": "msi",
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v10.0.0/DesktopEditors_x64.msi"
-  },
-  {
-    "Version": "10.0.0",
-    "Date": "13/10/2026",
-    "Size": 397529088,
-    "Sha256": "fc346d524e8a0fdf2a108ba2f921cfce4cc19468cdf091a4e9e8967d014fed84",
-    "Architecture": "x86",
-    "InstallerType": "Default",
-    "Type": "msi",
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v10.0.0/DesktopEditors_x86.msi"
   }
 ]

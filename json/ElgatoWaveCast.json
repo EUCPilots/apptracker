@@ -1,0 +1,16 @@
+[
+  {
+    "Version": "1.0",
+    "Release": "Beta",
+    "Architecture": "x64",
+    "Type": "msix",
+    "URI": "https://edge.elgato.com/egc/windows/ewcw/1.2.1/Elgato.WaveCast_1.2.1.2869_x64.msix"
+  },
+  {
+    "Version": "1.0",
+    "Release": "Stable",
+    "Architecture": "x64",
+    "Type": "msix",
+    "URI": "https://edge.elgato.com/egc/windows/ewcw/1.2.1/Elgato.WaveCast_1.2.1.2869_x64.msix"
+  }
+]

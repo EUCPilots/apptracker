@@ -1,6 +1,7 @@
 [
   {
     "Version": "3.7",
+    "Release": "Stable",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://edge.elgato.com/egc/windows/egcw/3.70/final/GameCaptureSetup_3.70.56.3056_x64.msi"

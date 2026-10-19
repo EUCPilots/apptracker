@@ -1,22 +1,22 @@
 [
   {
-    "Version": "1.3.323",
-    "Date": "8/10/2026",
-    "Size": 3982328,
-    "Sha256": "5ee8bdc558c0b54f07c656bf0ab802e4d835b190e63fbaeb07fb12f6bd09975c",
+    "Version": "1.3.328",
+    "Date": "19/10/2026",
+    "Size": 4021336,
+    "Sha256": "5d6ec298fb30c010351c100d85dec0fa6f2188833f2bc8edf594d785d9aa478a",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/greenshot/greenshot/releases/download/v1.3.323/Greenshot-INSTALLER-1.3.323-RELEASE.exe"
+    "URI": "https://github.com/greenshot/greenshot/releases/download/v1.3.328/Greenshot-INSTALLER-1.3.328-RELEASE.exe"
   },
   {
-    "Version": "1.3.323",
-    "Date": "8/10/2026",
-    "Size": 3740022,
-    "Sha256": "a67345869cd6eee249208bde51348390acf1cdd92b59ea760db8eec530faed24",
+    "Version": "1.3.328",
+    "Date": "19/10/2026",
+    "Size": 4030256,
+    "Sha256": "de221ac76a6bd2586e6c7c770e8827f265390a5eebdb98f3ef7074400b935d02",
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/greenshot/greenshot/releases/download/v1.3.323/Greenshot-PORTABLE-1.3.323-RELEASE.zip"
+    "URI": "https://github.com/greenshot/greenshot/releases/download/v1.3.328/Greenshot-PORTABLE-1.3.328-RELEASE.zip"
   }
 ]

@@ -1,8 +1,30 @@
 [
   {
-    "Version": "2.0.6",
+    "Version": "3.5",
+    "Release": "Beta",
+    "Architecture": "ARM64",
+    "Type": "msix",
+    "URI": "https://edge.elgato.com/egc/windows/ewlw/3.5/Beta/Elgato.WaveLink_3.5.0.4892_arm64.msix"
+  },
+  {
+    "Version": "3.5",
+    "Release": "Beta",
     "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://edge.elgato.com/egc/windows/wavelink/2.0.6/WaveLink_2.0.6.3780_x64.msi"
+    "Type": "msix",
+    "URI": "https://edge.elgato.com/egc/windows/ewlw/3.5/Beta/Elgato.WaveLink_3.5.0.4892_x64.msix"
+  },
+  {
+    "Version": "3.4",
+    "Release": "Stable",
+    "Architecture": "ARM64",
+    "Type": "msix",
+    "URI": "https://edge.elgato.com/egc/windows/ewlw/3.4/Stable/Elgato.WaveLink_3.4.0.4650_arm64.msix"
+  },
+  {
+    "Version": "3.4",
+    "Release": "Stable",
+    "Architecture": "x64",
+    "Type": "msix",
+    "URI": "https://edge.elgato.com/egc/windows/ewlw/3.4/Stable/Elgato.WaveLink_3.4.0.4650_x64.msix"
   }
 ]

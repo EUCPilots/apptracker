@@ -1,6 +1,14 @@
 [
   {
     "Version": "2.3",
+    "Release": "Beta",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://edge.elgato.com/egc/windows/echw/2.3.0/CameraHub_2.3.0.7295_x64.msi"
+  },
+  {
+    "Version": "2.3",
+    "Release": "Stable",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://edge.elgato.com/egc/windows/echw/2.3.0/CameraHub_2.3.0.7295_x64.msi"

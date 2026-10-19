@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "27+35",
+    "Date": "2026-09-25T14:30:08Z",
+    "ImageType": "jdk",
+    "Checksum": "801670bad7d9d49c46b8c0ca9b1205662a49f73180f471e486f87ebd2b642b61",
+    "Size": 117252096,
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jdk_x64_windows_hotspot_27_35.msi"
+  },
+  {
+    "Version": "27+35",
+    "Date": "2026-09-25T14:29:58Z",
+    "ImageType": "jre",
+    "Checksum": "65d0bd6802f06058e8f7b063127f25b3123d5cc406e8fd49208a34a0de563acf",
+    "Size": 43200512,
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_x64_windows_hotspot_27_35.msi"
+  }
+]

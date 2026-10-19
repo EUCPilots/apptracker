@@ -1,0 +1,16 @@
+[
+  {
+    "Version": "2.5.1",
+    "Release": "Stable",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://edge.elgato.com/egc/windows/marketplaceconnect/ElgatoMarketplaceConnectSetup-2.5.1.119.msi"
+  },
+  {
+    "Version": "2.5",
+    "Release": "Beta",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://edge.elgato.com/egc/windows/marketplaceconnect/ElgatoMarketplaceConnectSetup-2.5.0.117.msi"
+  }
+]
