@@ -8,23 +8,23 @@
   },
   {
     "Version": "2.0",
+    "Release": "Stable",
+    "Architecture": "ARM64",
+    "Type": "msix",
+    "URI": "https://edge.elgato.com/egc/windows/estw/2.0.0/Elgato.Studio_2.0.0.3364_arm64.msix"
+  },
+  {
+    "Version": "2.0",
     "Release": "Beta",
     "Architecture": "x64",
     "Type": "msix",
     "URI": "https://edge.elgato.com/egc/windows/estw/2.0.0/Beta/Elgato.Studio_2.0.0.3249_x64.msix"
   },
   {
-    "Version": "1.1",
-    "Release": "Stable",
-    "Architecture": "ARM64",
-    "Type": "msix",
-    "URI": "https://edge.elgato.com/egc/windows/estw/1.1.0/Elgato.Studio_1.1.0.1714_arm64.msix"
-  },
-  {
-    "Version": "1.1",
+    "Version": "2.0",
     "Release": "Stable",
     "Architecture": "x64",
     "Type": "msix",
-    "URI": "https://edge.elgato.com/egc/windows/estw/1.1.0/Elgato.Studio_1.1.0.1714_x64.msix"
+    "URI": "https://edge.elgato.com/egc/windows/estw/2.0.0/Elgato.Studio_2.0.0.3364_x64.msix"
   }
 ]

@@ -1,17 +1,17 @@
 [
   {
-    "Version": "1.9",
+    "Version": "1.9.1",
     "Release": "Stable",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://edge.elgato.com/egc/windows/eccw/1.9/Elgato.ControlCenter_1.9.0.818_ARM64.msi"
+    "URI": "https://edge.elgato.com/egc/windows/eccw/1.9.1/Elgato.ControlCenter_1.9.1.878_ARM64.msi"
   },
   {
-    "Version": "1.9",
+    "Version": "1.9.1",
     "Release": "Stable",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://edge.elgato.com/egc/windows/eccw/1.9/Elgato.ControlCenter_1.9.0.818_x64.msi"
+    "URI": "https://edge.elgato.com/egc/windows/eccw/1.9.1/Elgato.ControlCenter_1.9.1.878_x64.msi"
   },
   {
     "Version": "1.8.1",

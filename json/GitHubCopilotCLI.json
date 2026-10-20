@@ -1,42 +1,42 @@
 [
   {
-    "Version": "1.0.98",
-    "Date": "13/10/2026",
-    "Size": 96616448,
-    "Sha256": "5a72fbfbcd8d6c7e810413f9ca92f6d0111a48d41368cc3fd338baf119aa6dda",
+    "Version": "1.0.100",
+    "Date": "14/10/2026",
+    "Size": 105541632,
+    "Sha256": "f0fed89729474b87ed31452ce51139ed564d3ae61da43ea5dcb11c24dc066889",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/github/copilot-cli/releases/download/v1.0.98/copilot-arm64.msi"
+    "URI": "https://github.com/github/copilot-cli/releases/download/v1.0.100/copilot-arm64.msi"
   },
   {
-    "Version": "1.0.98",
-    "Date": "13/10/2026",
-    "Size": 95662080,
-    "Sha256": "eca3e23e00b5a6ab800babe6215edaf832df62d99886799deeaa1ebc50f02a9a",
+    "Version": "1.0.100",
+    "Date": "14/10/2026",
+    "Size": 104386560,
+    "Sha256": "fd5d4355ddd2b99769adb7f3170f7527199fb3b9766de664ae66c134ee242959",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/github/copilot-cli/releases/download/v1.0.98/copilot-x64.msi"
+    "URI": "https://github.com/github/copilot-cli/releases/download/v1.0.100/copilot-x64.msi"
   },
   {
-    "Version": "1.0.98",
-    "Date": "13/10/2026",
-    "Size": 102333800,
-    "Sha256": "031015a42b34bf582c5c77f1cba539917670945fba5986b0efe36c3a173c4a34",
+    "Version": "1.0.100",
+    "Date": "14/10/2026",
+    "Size": 111228455,
+    "Sha256": "d2fa14db0da65735daca2a690c254380614d5630840a431c98f39dbcaad4ae23",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/github/copilot-cli/releases/download/v1.0.98/copilot-win32-arm64.zip"
+    "URI": "https://github.com/github/copilot-cli/releases/download/v1.0.100/copilot-win32-arm64.zip"
   },
   {
-    "Version": "1.0.98",
-    "Date": "13/10/2026",
-    "Size": 101797948,
-    "Sha256": "e264811888fd77217dc36e9656c13d0b9abbb0433a7041043e1d53798e31fd94",
+    "Version": "1.0.100",
+    "Date": "14/10/2026",
+    "Size": 110520586,
+    "Sha256": "28c02a668474305f765c285d8dcc529e66ae93da31537c92c7467df7714e73e0",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/github/copilot-cli/releases/download/v1.0.98/copilot-win32-x64.zip"
+    "URI": "https://github.com/github/copilot-cli/releases/download/v1.0.100/copilot-win32-x64.zip"
   }
 ]

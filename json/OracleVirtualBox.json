@@ -1,27 +1,27 @@
 [
   {
-    "Version": "7.2.20",
+    "Version": "7.2.22",
     "Channel": "LATEST",
     "Type": "exe",
-    "URI": "https://download.virtualbox.org/virtualbox/7.2.20/VirtualBox-7.2.20-175154-Win.exe"
+    "URI": "https://download.virtualbox.org/virtualbox/7.2.22/VirtualBox-7.2.22-175245-Win.exe"
   },
   {
-    "Version": "7.2.20",
+    "Version": "7.2.22",
     "Channel": "STABLE",
     "Type": "exe",
-    "URI": "https://download.virtualbox.org/virtualbox/7.2.20/VirtualBox-7.2.20-175154-Win.exe"
+    "URI": "https://download.virtualbox.org/virtualbox/7.2.22/VirtualBox-7.2.22-175245-Win.exe"
   },
   {
-    "Version": "7.2.20",
+    "Version": "7.2.22",
     "Channel": "LATEST",
     "Type": "iso",
-    "URI": "https://download.virtualbox.org/virtualbox/7.2.20/VBoxGuestAdditions_7.2.20.iso"
+    "URI": "https://download.virtualbox.org/virtualbox/7.2.22/VBoxGuestAdditions_7.2.22.iso"
   },
   {
-    "Version": "7.2.20",
+    "Version": "7.2.22",
     "Channel": "STABLE",
     "Type": "iso",
-    "URI": "https://download.virtualbox.org/virtualbox/7.2.20/VBoxGuestAdditions_7.2.20.iso"
+    "URI": "https://download.virtualbox.org/virtualbox/7.2.22/VBoxGuestAdditions_7.2.22.iso"
   },
   {
     "Version": "7.2.0_RC1",
