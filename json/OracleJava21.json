@@ -1,25 +1,25 @@
 [
   {
-    "Version": "21.0.12.1",
-    "FullVersion": "21.0.12.1+1",
-    "Date": "18/8/2026",
-    "Sha256": "07f166595579af2702f90a717d99f18ffa53e00e62c62e359f5d48d5a899000d",
+    "Version": "21.0.13",
+    "FullVersion": "21.0.13+10",
+    "Date": "20/10/2026",
+    "Sha256": "b8d08fecfc55ce5576eb1b8f81721e30e469f1863c2d3004d34517a480c772b6",
     "Type": "exe",
     "URI": "https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe"
   },
   {
-    "Version": "21.0.12.1",
-    "FullVersion": "21.0.12.1+1",
-    "Date": "18/8/2026",
-    "Sha256": "e1ddb09dd0af3a78383d5115230a7da1ee7c1055dc0a1c71dec5b33baee86752",
+    "Version": "21.0.13",
+    "FullVersion": "21.0.13+10",
+    "Date": "20/10/2026",
+    "Sha256": "472d4ebdcee2eed528ff4befd55c8612fbb9294672e46e69f7cb576d00eb2b6b",
     "Type": "msi",
     "URI": "https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi"
   },
   {
-    "Version": "21.0.12.1",
-    "FullVersion": "21.0.12.1+1",
-    "Date": "18/8/2026",
-    "Sha256": "9f5d3f285558bef31744514232af6647377d1b7ba42358580f9f99bbb9ff270d",
+    "Version": "21.0.13",
+    "FullVersion": "21.0.13+10",
+    "Date": "20/10/2026",
+    "Sha256": "97c31d3e429df646bb395acf5e699c0f301e592f48e016c307a8458e0966695b",
     "Type": "zip",
     "URI": "https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.zip"
   }
