@@ -1,14 +1,14 @@
 [
   {
-    "Version": "11.1.0.0",
-    "Hash": "4c4e51a84260f949ada3ea672656b4c402525602cff58674fc204316ee98fbca",
+    "Version": "11.1.1.0",
+    "Hash": "1852bf8f74994a68922011d7fdb6012886e5d0260ae1b79f17138e08c6acaa49",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://downloads.pdf-xchange.com/StandardV11.x64.msi"
   },
   {
-    "Version": "11.1.0.0",
-    "Hash": "de7ee43d49e5596e5d1e6741f881eb4452e02cf39c14fc8496fd3dabc12e3556",
+    "Version": "11.1.1.0",
+    "Hash": "54da8b348844add2d7fcab666f0455abe61fb218bc4437a8c4d6e117cc4fe90b",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://downloads.pdf-xchange.com/StandardV11.x86.msi"

@@ -1,22 +1,22 @@
 [
   {
-    "Version": "0.22.0",
-    "Date": "18/10/2026",
-    "Size": 126022673,
-    "Sha256": "377e7bafda950201640afd76aeb0d93a5b255f0899435452a27fc7e82ebe5c30",
+    "Version": "0.23.0",
+    "Date": "21/10/2026",
+    "Size": 126033364,
+    "Sha256": "215fe896f23498a6c4e1e1e159d825d69582ba31288feaa64067a26e4c787509",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/marktext/marktext/releases/download/v0.22.0/marktext-win-arm64-0.22.0-setup.exe"
+    "URI": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-arm64-0.23.0-setup.exe"
   },
   {
-    "Version": "0.22.0",
-    "Date": "18/10/2026",
-    "Size": 132425869,
-    "Sha256": "f710518d5559998515a3799ab4a74d971dd1436532048d3d9d62e808fef4001f",
+    "Version": "0.23.0",
+    "Date": "21/10/2026",
+    "Size": 132435617,
+    "Sha256": "49bf66035f92072ce7dd8fa2f88b91f7036d674c05f872355a2d6e366fc53964",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/marktext/marktext/releases/download/v0.22.0/marktext-win-x64-0.22.0-setup.exe"
+    "URI": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0-setup.exe"
   }
 ]

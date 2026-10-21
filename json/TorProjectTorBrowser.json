@@ -1,16 +1,16 @@
 [
   {
-    "Version": "15.0.25",
+    "Version": "15.0.26",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "ALL",
-    "URI": "https://dist.torproject.org/torbrowser/15.0.25/tor-browser-windows-x86_64-portable-15.0.25.exe"
+    "URI": "https://dist.torproject.org/torbrowser/15.0.26/tor-browser-windows-x86_64-portable-15.0.26.exe"
   },
   {
-    "Version": "15.0.25",
+    "Version": "15.0.26",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "ALL",
-    "URI": "https://dist.torproject.org/torbrowser/15.0.25/tor-browser-windows-i686-portable-15.0.25.exe"
+    "URI": "https://dist.torproject.org/torbrowser/15.0.26/tor-browser-windows-i686-portable-15.0.26.exe"
   }
 ]
