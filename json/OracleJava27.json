@@ -3,7 +3,7 @@
     "Version": "27.0.1",
     "FullVersion": "27.0.1+9",
     "Date": "20/10/2026",
-    "Sha256": "48e97026d5cdff53344e96c07e08aac99396623105ca2d6ad19caa49a6270c90",
+    "Sha256": "cc29f77b054ef217b50d3f07edc803915a80f1d5999e84134981f109bc79591d",
     "Type": "exe",
     "URI": "https://download.oracle.com/java/27/latest/jdk-27_windows-x64_bin.exe"
   },
@@ -11,7 +11,7 @@
     "Version": "27.0.1",
     "FullVersion": "27.0.1+9",
     "Date": "20/10/2026",
-    "Sha256": "758bdb9187fe773dc64f0858925a86fb2d7033e1ee8e5857c7d37d528099bfa3",
+    "Sha256": "7a338be97bf4a83ff9cdbba5e59014376b853aae915c1634bcb5797fe68a9726",
     "Type": "msi",
     "URI": "https://download.oracle.com/java/27/latest/jdk-27_windows-x64_bin.msi"
   },
@@ -19,7 +19,7 @@
     "Version": "27.0.1",
     "FullVersion": "27.0.1+9",
     "Date": "20/10/2026",
-    "Sha256": "1fae104c179476771d21da0c342c69a4906cbd4aa149761b047fdec777a9ca3d",
+    "Sha256": "fdd218bb972a9f6eea40210d00f16594d03e5e311f823ff8652527705c4e7835",
     "Type": "zip",
     "URI": "https://download.oracle.com/java/27/latest/jdk-27_windows-x64_bin.zip"
   }

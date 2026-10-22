@@ -3,7 +3,7 @@
     "Version": "25.0.5",
     "FullVersion": "25.0.5+9",
     "Date": "20/10/2026",
-    "Sha256": "6bc2bb8110569d142de7891a1ee470136a3f69746ca99d4d5ed5f86cad738533",
+    "Sha256": "61f1b42231bd6172a1444b3bff2c2b40462df751970dba386ed4119086f7ca8a",
     "Type": "exe",
     "URI": "https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.exe"
   },
@@ -11,7 +11,7 @@
     "Version": "25.0.5",
     "FullVersion": "25.0.5+9",
     "Date": "20/10/2026",
-    "Sha256": "37370f19a78e261b0673216d3ae3b396739fd1ddd3de55f66aabb7978e1d5dcd",
+    "Sha256": "a3d5464d22af7f7e4350350ad72ddc3749175a9df4b48093f4b9e35752108cc0",
     "Type": "msi",
     "URI": "https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.msi"
   },
@@ -19,7 +19,7 @@
     "Version": "25.0.5",
     "FullVersion": "25.0.5+9",
     "Date": "20/10/2026",
-    "Sha256": "558dff0116b6df12f74ecc2405e2e666ed89faafe6065b8948cedccfe96523d3",
+    "Sha256": "9b11e644a31d9775379d76a1a985b806e8457b96b4ff49516ea5f4c7cffaa6af",
     "Type": "zip",
     "URI": "https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.zip"
   }
