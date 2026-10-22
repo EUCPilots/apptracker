@@ -1,22 +1,22 @@
 [
   {
-    "Version": "2.7.12",
-    "Date": "10/3/2026",
-    "Size": 66994176,
-    "Sha256": "fc3a43bd40d6b67b26ea75b7050ec962e65f3933bd699fcd952f71050d169c3e",
-    "Architecture": "x64",
-    "InstallerType": "Legacy",
+    "Version": "2.8.0",
+    "Date": "21/10/2026",
+    "Size": 58859520,
+    "Sha256": "85eb8f60a7780136b82d672b834822b7047e773d824459acce4f118c4bfde1c1",
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.12/KeePassXC-2.7.12-Win64-LegacyWindows.msi"
+    "URI": "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-ARM64.msi"
   },
   {
-    "Version": "2.7.12",
-    "Date": "10/3/2026",
-    "Size": 35901440,
-    "Sha256": "feee096c1d5d0d7bb7b36b18174818f7bac889be7668c550ff0e5ef9206ea9a5",
+    "Version": "2.8.0",
+    "Date": "21/10/2026",
+    "Size": 69419008,
+    "Sha256": "4f105af5ba780428718c8be5614cf95deceed5cb3b474a9bd624c5df81cec6e5",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.12/KeePassXC-2.7.12-Win64.msi"
+    "URI": "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-x64.msi"
   }
 ]

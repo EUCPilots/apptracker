@@ -1,12 +1,12 @@
 [
   {
-    "Version": "4.47",
-    "Date": "7/8/2026",
-    "Size": 50100053,
-    "Sha256": "9c69692fb937c3944756d32ae9c4a53097d5904cddab2e1d1789427b33191577",
+    "Version": "4.48",
+    "Date": "15/10/2026",
+    "Size": 50128771,
+    "Sha256": "66ade15934e8b70f1f49100af9d8d31a328deffa6d8e2c68550d74e668972892",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/copasi/COPASI/releases/download/Build-309/COPASI-4.47.309-Windows.exe"
+    "URI": "https://github.com/copasi/COPASI/releases/download/Build-311/COPASI-4.48.311-Windows.exe"
   }
 ]

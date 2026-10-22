@@ -1,0 +1,62 @@
+[
+  {
+    "Version": "1.2.7",
+    "Date": "12/10/2026",
+    "Size": 100443600,
+    "Sha256": "e20eac9ecf9a5ac60c03045ae5f307b9caf0111d3bf11360c838b4e9592040ad",
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/PowerPlatformToolBox/desktop-app/releases/download/v1.2.7/Power-Platform-ToolBox-1.2.7-arm64-win.exe"
+  },
+  {
+    "Version": "1.2.7",
+    "Date": "12/10/2026",
+    "Size": 105768472,
+    "Sha256": "e1649523d8e40d157434a3dee4c8ecb6f536d08ae438716ee8ae22fa6a643d18",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/PowerPlatformToolBox/desktop-app/releases/download/v1.2.7/Power-Platform-ToolBox-1.2.7-x64-win.exe"
+  },
+  {
+    "Version": "1.2.7",
+    "Date": "12/10/2026",
+    "Size": 115208192,
+    "Sha256": "e55f1c753015c5b5757452ae1daef23e1dcda1c24b9715f89f919c78d7849327",
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/PowerPlatformToolBox/desktop-app/releases/download/v1.2.7/Power-Platform-ToolBox-1.2.7-arm64-win.msi"
+  },
+  {
+    "Version": "1.2.7",
+    "Date": "12/10/2026",
+    "Size": 119463936,
+    "Sha256": "c36be87cf6172662834c77cff0cd079a24fe9a03cbc1d6e5687e792bfb33b9af",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/PowerPlatformToolBox/desktop-app/releases/download/v1.2.7/Power-Platform-ToolBox-1.2.7-x64-win.msi"
+  },
+  {
+    "Version": "1.2.7",
+    "Date": "12/10/2026",
+    "Size": 148926292,
+    "Sha256": "d1cb2dfd7d2046846402edfc8a077191a9c140a0694df7740002e1238184dcab",
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "zip",
+    "URI": "https://github.com/PowerPlatformToolBox/desktop-app/releases/download/v1.2.7/Power-Platform-ToolBox-1.2.7-arm64-win.zip"
+  },
+  {
+    "Version": "1.2.7",
+    "Date": "12/10/2026",
+    "Size": 149683844,
+    "Sha256": "f39910322178449b8a5034658fa9e4c25144456466d543d56a00b2d5e25f6de7",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "zip",
+    "URI": "https://github.com/PowerPlatformToolBox/desktop-app/releases/download/v1.2.7/Power-Platform-ToolBox-1.2.7-x64-win.zip"
+  }
+]

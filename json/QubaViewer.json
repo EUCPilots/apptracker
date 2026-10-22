@@ -1,22 +1,12 @@
 [
   {
-    "Version": "1.5.1",
-    "Date": "21/4/2026",
-    "Size": 113098073,
-    "Sha256": "78cbc7c39a9c2515510c5bd4b5f41c94bc5cb8dec45a6d81496a1e0c96e7bde9",
-    "Architecture": "x86",
+    "Version": "2.0.0",
+    "Date": "16/7/2026",
+    "Size": 305622528,
+    "Sha256": "a1b4c18776dbc5b45ed6015fa38722b588a8e3a5b111000788b5984ee2232d1e",
+    "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ZUGFeRD/quba-viewer/releases/download/v1.5.1/Quba.Setup.1.5.1.exe"
-  },
-  {
-    "Version": "1.5.1",
-    "Date": "21/4/2026",
-    "Size": 124047360,
-    "Sha256": "61b548bebeabae42a2de01bb0cbaff6373ef52bb92cf2ee48d776d1628a8a987",
-    "Architecture": "x86",
-    "InstallerType": "Default",
-    "Type": "msi",
-    "URI": "https://github.com/ZUGFeRD/quba-viewer/releases/download/v1.5.1/Quba.1.5.1.msi"
+    "URI": "https://github.com/ZUGFeRD/quba-viewer/releases/download/2.0.0/Quba-2.0.0-windows-x64.exe"
   }
 ]
