@@ -18,5 +18,15 @@
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/metabrainz/picard/releases/download/release-3.0.2/picard-setup-3.0.2.exe"
+  },
+  {
+    "Version": "3.0.2",
+    "Date": "11/10/2026",
+    "Size": 75475460,
+    "Sha256": "3a1c0dfbe2dc21089d75748497e7a38f0f9e8802186af4405b8d29111f50884b",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msix",
+    "URI": "https://github.com/metabrainz/picard/releases/download/release-3.0.2/MusicBrainz-Picard-3.0.2.msix"
   }
 ]

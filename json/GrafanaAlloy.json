@@ -1,52 +1,52 @@
 [
   {
-    "Version": "1.21.1",
-    "Date": "21/10/2026",
-    "Size": 108475688,
-    "Sha256": "b4ee04293eebdb438da01dd16bfd021001b65b9e17431a80e5b39f85213e1cb7",
+    "Version": "1.21.2",
+    "Date": "22/10/2026",
+    "Size": 108475584,
+    "Sha256": "2fea06c9e597acab6f79470b1fb247165d13d6faf17b645c967526619974bdc6",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/grafana/alloy/releases/download/v1.21.1/alloy-installer-windows-amd64.exe"
+    "URI": "https://github.com/grafana/alloy/releases/download/v1.21.2/alloy-installer-windows-amd64.exe"
   },
   {
-    "Version": "1.21.1",
-    "Date": "21/10/2026",
-    "Size": 101512000,
-    "Sha256": "23d0fcf5fc1bb31413379f4b65315c4c71fb469b226a292982e5c5e73a481159",
+    "Version": "1.21.2",
+    "Date": "22/10/2026",
+    "Size": 101511996,
+    "Sha256": "5a2560dec36a3763c514eb4b82dcef2be6e558e4c21158e716ce01f0f57d0a84",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/grafana/alloy/releases/download/v1.21.1/alloy-freebsd-amd64.zip"
+    "URI": "https://github.com/grafana/alloy/releases/download/v1.21.2/alloy-freebsd-amd64.zip"
   },
   {
-    "Version": "1.21.1",
-    "Date": "21/10/2026",
-    "Size": 105964832,
-    "Sha256": "6cf6965191e071d7160bf0d3b52c75aa32df4ff542040e695705605f6e941577",
+    "Version": "1.21.2",
+    "Date": "22/10/2026",
+    "Size": 105966522,
+    "Sha256": "383b01ca3556c96a409b9488b1a9ef891b726db1d931c73f657613d21215548e",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/grafana/alloy/releases/download/v1.21.1/alloy-installer-windows-amd64.exe.zip"
+    "URI": "https://github.com/grafana/alloy/releases/download/v1.21.2/alloy-installer-windows-amd64.exe.zip"
   },
   {
-    "Version": "1.21.1",
-    "Date": "21/10/2026",
-    "Size": 107441550,
-    "Sha256": "eb54bd681f64c4685d30f0032954df692d7be8fe9c11fe9737404ed21fea067e",
+    "Version": "1.21.2",
+    "Date": "22/10/2026",
+    "Size": 107441030,
+    "Sha256": "d57d63cf9f3033d521454e44f88aee4daa229a8a148b5123ff51bcc0a3dae819",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/grafana/alloy/releases/download/v1.21.1/alloy-windows-amd64.exe.zip"
+    "URI": "https://github.com/grafana/alloy/releases/download/v1.21.2/alloy-windows-amd64.exe.zip"
   },
   {
-    "Version": "1.21.1",
-    "Date": "21/10/2026",
+    "Version": "1.21.2",
+    "Date": "22/10/2026",
     "Size": 26636,
-    "Sha256": "ca483c436021cb060801914de3a8b46a0210553417d6212581c190cf9f672ac8",
+    "Sha256": "aabea3289165c281f6295370be8fa01494121c4b2006cc4978523d6faef02e91",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/grafana/alloy/releases/download/v1.21.1/alloy-mixin-dashboards-v1.21.1.zip"
+    "URI": "https://github.com/grafana/alloy/releases/download/v1.21.2/alloy-mixin-dashboards-v1.21.2.zip"
   }
 ]

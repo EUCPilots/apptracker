@@ -1,42 +1,102 @@
 [
   {
-    "Version": "4.0.1",
-    "Date": "17/7/2026",
-    "Size": 56829072,
-    "Sha256": "b03d30f32c5e79f99c39a4a959bd92ca442c4bad00f4f49fdad0501f5dc50de5",
+    "Version": "4.1.0",
+    "Date": "23/10/2026",
+    "Size": 57280848,
+    "Sha256": "80b86de77d5278467ee05eb38138752c88f97ff35c4c3e8ab32d6b85adc83be0",
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/openssl/installer/releases/download/publish/4.1.0-1/OpenSSL-arm64-hybridCRT-4.1.0.exe"
+  },
+  {
+    "Version": "4.1.0",
+    "Date": "23/10/2026",
+    "Size": 64684040,
+    "Sha256": "f7c0aa08d7433cf1d78a39f287583f7cdf57f952196f84458c140d46fbdb1864",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/openssl/installer/releases/download/testing_release/OpenSSL-x64-hybridCRT-4.0.1.exe"
+    "URI": "https://github.com/openssl/installer/releases/download/publish/4.1.0-1/OpenSSL-x64-hybridCRT-4.1.0.exe"
   },
   {
-    "Version": "4.0.1",
-    "Date": "17/7/2026",
-    "Size": 81015184,
-    "Sha256": "d113cfd6ff7c0a124ede1a3ad3d984ec73d20e0cd4512e7eb95e129870797bfd",
+    "Version": "4.1.0",
+    "Date": "23/10/2026",
+    "Size": 88841304,
+    "Sha256": "d2428879ed417d7b14bdd1c7509e719ce39e05479c3cb88c0ff5c84c1a591d3b",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/openssl/installer/releases/download/testing_release/OpenSSL-x64-VS-4.0.1.exe"
+    "URI": "https://github.com/openssl/installer/releases/download/publish/4.1.0-1/OpenSSL-x64-VS-4.1.0.exe"
   },
   {
-    "Version": "4.0.1",
-    "Date": "17/7/2026",
-    "Size": 52485632,
-    "Sha256": "06cf411439c334c51d100935263debeb5cca6f8abe626c3f31b4cfebb1c91236",
+    "Version": "4.1.0",
+    "Date": "23/10/2026",
+    "Size": 55686880,
+    "Sha256": "2d95159460e1c546597fecb74cde9aa869c766b03b158c9f1b5c76a7643a4079",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/openssl/installer/releases/download/publish/4.1.0-1/OpenSSL-x86-hybridCRT-4.1.0.exe"
+  },
+  {
+    "Version": "4.1.0",
+    "Date": "23/10/2026",
+    "Size": 68680672,
+    "Sha256": "875402a88bd6d1535a5e0b3b05be09a4261011eb0d0ca9138f263541e1146b21",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/openssl/installer/releases/download/publish/4.1.0-1/OpenSSL-x86-VS-4.1.0.exe"
+  },
+  {
+    "Version": "4.1.0",
+    "Date": "23/10/2026",
+    "Size": 52947456,
+    "Sha256": "dd7f45596a3324104af6dc9bdcf5f8388f5f34915c37ab8f1906c6cabff27404",
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/openssl/installer/releases/download/publish/4.1.0-1/OpenSSL-arm64-hybridCRT-4.1.0.msi"
+  },
+  {
+    "Version": "4.1.0",
+    "Date": "23/10/2026",
+    "Size": 60402176,
+    "Sha256": "23044e1e0cd365f644dfd753df1398004687f0aba7d742e69ea0a4e242a1d802",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/openssl/installer/releases/download/testing_release/OpenSSL-x64-hybridCRT-4.0.1.msi"
+    "URI": "https://github.com/openssl/installer/releases/download/publish/4.1.0-1/OpenSSL-x64-hybridCRT-4.1.0.msi"
   },
   {
-    "Version": "4.0.1",
-    "Date": "17/7/2026",
-    "Size": 76864512,
-    "Sha256": "1039e101dcc922078dbd00f0ade675e59776b7ff1a32fb97e940dc3d92257392",
+    "Version": "4.1.0",
+    "Date": "23/10/2026",
+    "Size": 84752384,
+    "Sha256": "6639988989f7e9502d3cccccb65e44f338d26fcf29015f5ccab3ce15005e7cb0",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/openssl/installer/releases/download/testing_release/OpenSSL-x64-VS-4.0.1.msi"
+    "URI": "https://github.com/openssl/installer/releases/download/publish/4.1.0-1/OpenSSL-x64-VS-4.1.0.msi"
+  },
+  {
+    "Version": "4.1.0",
+    "Date": "23/10/2026",
+    "Size": 51333632,
+    "Sha256": "d264dabe88f9f49d6f5a2dd429bd25ff12857f870142a09aa30f9815b0a06f2a",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/openssl/installer/releases/download/publish/4.1.0-1/OpenSSL-x86-hybridCRT-4.1.0.msi"
+  },
+  {
+    "Version": "4.1.0",
+    "Date": "23/10/2026",
+    "Size": 64430592,
+    "Sha256": "7afc71a63fc5112180946ca29427c3bdd9712381bc64d39987ccb814d1419cb9",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/openssl/installer/releases/download/publish/4.1.0-1/OpenSSL-x86-VS-4.1.0.msi"
   }
 ]

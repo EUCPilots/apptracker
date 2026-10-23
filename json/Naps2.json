@@ -28,5 +28,15 @@
     "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/cyanfish/naps2/releases/download/v8.5.1/naps2-8.5.1-win-x64.msi"
+  },
+  {
+    "Version": "8.5.1",
+    "Date": "12/10/2026",
+    "Size": 68582294,
+    "Sha256": "1390439ad3b56efad7820e11cf7361b3283de081a5c9f8a17390c813f49dd75d",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msix",
+    "URI": "https://github.com/cyanfish/naps2/releases/download/v8.5.1/naps2-8.5.1-win-x64.msix"
   }
 ]

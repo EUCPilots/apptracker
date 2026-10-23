@@ -65,7 +65,7 @@
     "Size": 6632744,
     "Sha256": "a53c5116b55ac93fedd7808e71096badecbf10a55f2be9b28b741591b8917a73",
     "Architecture": "ARM64",
-    "InstallerType": "Plus",
+    "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.arm64.exe"
   },
@@ -75,7 +75,7 @@
     "Size": 6963432,
     "Sha256": "26f3bcced788fadbac4e7e577b430ea2ce6060cf3bcad993ef4612ecd7d743da",
     "Architecture": "x64",
-    "InstallerType": "Plus",
+    "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.x64.exe"
   },
@@ -85,7 +85,7 @@
     "Size": 6814128,
     "Sha256": "ee848aa54df153921678b343857a83861da81ce0c9dbb217b6f55a8780e60f5e",
     "Architecture": "x86",
-    "InstallerType": "Plus",
+    "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.exe"
   },
@@ -95,7 +95,7 @@
     "Size": 7835648,
     "Sha256": "0c4f4fe82babd7688f5c1431b1357392491563af6ffedf4e37f5de0bd71babb4",
     "Architecture": "x64",
-    "InstallerType": "Plus",
+    "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.x64.msi"
   },

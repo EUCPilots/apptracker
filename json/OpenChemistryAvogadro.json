@@ -1,12 +1,42 @@
 [
   {
-    "Version": "2.0.0",
-    "Date": "1/4/2026",
-    "Size": 120752144,
-    "Sha256": "6b2748d55a6e95674bec00baf8c2ad48ecc8dad28c8d25252f68b39bdd9b1bff",
+    "Version": "2.1.0",
+    "Date": "23/10/2026",
+    "Size": 108085552,
+    "Sha256": "391297f4cf93539c74f4b96df3ede7f627fc0b0d0e9fd20beea42af3a914a3ea",
+    "Architecture": "ARM",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/OpenChemistry/avogadrolibs/releases/download/2.1.0/Avogadro2-2.1.0-win-arm.exe"
+  },
+  {
+    "Version": "2.1.0",
+    "Date": "23/10/2026",
+    "Size": 144667624,
+    "Sha256": "8bd45eedd1a0ad4216f5ad0bc5b20f45c3738432bf96083df4dc2b46ac779a84",
+    "Architecture": "ARM",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/OpenChemistry/avogadrolibs/releases/download/2.1.0/Avogadro2-Diagnostic-2.1.0-win-arm.exe"
+  },
+  {
+    "Version": "2.1.0",
+    "Date": "23/10/2026",
+    "Size": 120027776,
+    "Sha256": "b75884ab13412b7c936d99546ba1a5fcb2037dd432895f41cb6cfa0fa5b4d564",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/OpenChemistry/avogadrolibs/releases/download/2.0.0/Avogadro2-2.0.0-win64.exe"
+    "URI": "https://github.com/OpenChemistry/avogadrolibs/releases/download/2.1.0/Avogadro2-2.1.0-win64.exe"
+  },
+  {
+    "Version": "2.1.0",
+    "Date": "23/10/2026",
+    "Size": 158713312,
+    "Sha256": "49a950e300670077e46a3f7c093402fc0486b04231b2f6e7e5568d6ad7ad52db",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/OpenChemistry/avogadrolibs/releases/download/2.1.0/Avogadro2-Diagnostic-2.1.0-win64.exe"
   }
 ]

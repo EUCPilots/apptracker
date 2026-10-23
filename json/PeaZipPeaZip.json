@@ -18,5 +18,15 @@
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/peazip/PeaZip/releases/download/11.4.0/peazip-11.4.0.WINDOWS.exe"
+  },
+  {
+    "Version": "11.4.0",
+    "Date": "17/10/2026",
+    "Size": 20692252,
+    "Sha256": "eb69273d253f1608bef874d4c50dff02530a4fdaffad8bf32c7a498334c6e703",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msix",
+    "URI": "https://github.com/peazip/PeaZip/releases/download/11.4.0/PeaZip_11.4.0.0_x64__m1xx1d1szsx2y.msix"
   }
 ]

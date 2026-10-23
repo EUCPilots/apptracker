@@ -1,12 +1,12 @@
 [
   {
-    "Version": "1.14.4",
-    "Date": "5/10/2026",
-    "Size": 341331008,
-    "Sha256": "28662520368d5956df7798076b8370ac730164a8863dcd4f678ced53f63faa00",
+    "Version": "1.14.5",
+    "Date": "22/10/2026",
+    "Size": 342084056,
+    "Sha256": "4b95aa855062fb253439c392a32b536c3f9f22ac7fad04f1a6cbf176ecbcfa2a",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.14.4/Obsidian-1.14.4.exe"
+    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.14.5/Obsidian-1.14.5.exe"
   }
 ]
