@@ -1,106 +1,66 @@
 [
   {
-    "Version": "8.96.0.205",
-    "JavaVersion": "8.0.504+1",
-    "ImageType": "JDKFX",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu8.96.0.205-ca-fx-jdk8.0.504-win_x64.msi"
-  },
-  {
-    "Version": "8.96.0.205",
-    "JavaVersion": "8.0.504+1",
+    "Version": "8.98.0.107",
+    "JavaVersion": "8.0.512+8",
     "ImageType": "JRE",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu8.96.0.205-ca-jre8.0.504-win_x64.msi"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu8.98.0.107-ca-jre8.0.512-win_x64.msi"
   },
   {
-    "Version": "8.96.0.205",
-    "JavaVersion": "8.0.504+1",
+    "Version": "8.98.0.107",
+    "JavaVersion": "8.0.512+8",
     "ImageType": "JDK",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu8.96.0.205-ca-jdk8.0.504-win_x64.msi"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu8.98.0.107-ca-jdk8.0.512-win_x64.msi"
   },
   {
-    "Version": "8.96.0.205",
-    "JavaVersion": "8.0.504+1",
+    "Version": "8.98.0.107",
+    "JavaVersion": "8.0.512+8",
     "ImageType": "JRE",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu8.96.0.205-ca-jre8.0.504-win_i686.msi"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu8.98.0.107-ca-jre8.0.512-win_i686.msi"
   },
   {
-    "Version": "8.96.0.205",
-    "JavaVersion": "8.0.504+1",
+    "Version": "8.98.0.107",
+    "JavaVersion": "8.0.512+8",
     "ImageType": "JDK",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu8.96.0.205-ca-jdk8.0.504-win_i686.msi"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu8.98.0.107-ca-jdk8.0.512-win_i686.msi"
   },
   {
-    "Version": "8.96.0.205",
-    "JavaVersion": "8.0.504+1",
-    "ImageType": "JREFX",
-    "Architecture": "x64",
-    "Type": "zip",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu8.96.0.205-ca-fx-jre8.0.504-win_x64.zip"
-  },
-  {
-    "Version": "8.96.0.205",
-    "JavaVersion": "8.0.504+1",
-    "ImageType": "JDKFX",
-    "Architecture": "x64",
-    "Type": "zip",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu8.96.0.205-ca-fx-jdk8.0.504-win_x64.zip"
-  },
-  {
-    "Version": "8.96.0.205",
-    "JavaVersion": "8.0.504+1",
+    "Version": "8.98.0.107",
+    "JavaVersion": "8.0.512+8",
     "ImageType": "JRE",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu8.96.0.205-ca-jre8.0.504-win_x64.zip"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu8.98.0.107-ca-jre8.0.512-win_x64.zip"
   },
   {
-    "Version": "8.96.0.205",
-    "JavaVersion": "8.0.504+1",
+    "Version": "8.98.0.107",
+    "JavaVersion": "8.0.512+8",
     "ImageType": "JDK",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu8.96.0.205-ca-jdk8.0.504-win_x64.zip"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu8.98.0.107-ca-jdk8.0.512-win_x64.zip"
   },
   {
-    "Version": "8.96.0.205",
-    "JavaVersion": "8.0.504+1",
-    "ImageType": "JREFX",
-    "Architecture": "x86",
-    "Type": "zip",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu8.96.0.205-ca-fx-jre8.0.504-win_i686.zip"
-  },
-  {
-    "Version": "8.96.0.205",
-    "JavaVersion": "8.0.504+1",
-    "ImageType": "JDKFX",
-    "Architecture": "x86",
-    "Type": "zip",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu8.96.0.205-ca-fx-jdk8.0.504-win_i686.zip"
-  },
-  {
-    "Version": "8.96.0.205",
-    "JavaVersion": "8.0.504+1",
+    "Version": "8.98.0.107",
+    "JavaVersion": "8.0.512+8",
     "ImageType": "JRE",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu8.96.0.205-ca-jre8.0.504-win_i686.zip"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu8.98.0.107-ca-jre8.0.512-win_i686.zip"
   },
   {
-    "Version": "8.96.0.205",
-    "JavaVersion": "8.0.504+1",
+    "Version": "8.98.0.107",
+    "JavaVersion": "8.0.512+8",
     "ImageType": "JDK",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu8.96.0.205-ca-jdk8.0.504-win_i686.zip"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu8.98.0.107-ca-jdk8.0.512-win_i686.zip"
   }
 ]

@@ -1,12 +1,12 @@
 [
   {
-    "Version": "6.1.7",
-    "Date": "28/8/2026",
-    "Size": 638796705,
-    "Sha256": "b1a643e499922c360bc782fc59dd6f0f5ffb5fb4aaa26113b08a0a4264d06acc",
+    "Version": "6.1.8",
+    "Date": "23/10/2026",
+    "Size": 643996077,
+    "Sha256": "21d203fa1eeddb70a1a1db60c8a838ebf535f044b51c371dc148363eee28700b",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/spyder-ide/spyder/releases/download/v6.1.7/Spyder-Windows-x86_64.exe"
+    "URI": "https://github.com/spyder-ide/spyder/releases/download/v6.1.8/Spyder-Windows-x86_64.exe"
   }
 ]

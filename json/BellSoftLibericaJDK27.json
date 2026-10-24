@@ -1,202 +1,202 @@
 [
   {
-    "Version": "27.0.1+11",
+    "Version": "27.0.1.0.2+5",
     "LTS": false,
     "BundleType": "jre-full",
     "Type": "msi",
     "Architecture": "ARM64",
-    "Sha1": "872eccda04846312a91cd4cf9cf0fd665dbb2ad3",
+    "Sha1": "d63f6360d217dcf251fbaa5453459d42e26ad3a7",
     "Size": 50012160,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1+11/bellsoft-jre27.0.1+11-windows-aarch64-full.msi"
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.2+5/bellsoft-jre27.0.1.0.2+5-windows-aarch64-full.msi"
   },
   {
-    "Version": "27.0.1+11",
+    "Version": "27.0.1.0.2+5",
     "LTS": false,
     "BundleType": "jdk",
     "Type": "msi",
     "Architecture": "ARM64",
-    "Sha1": "940b4cee0de1806fcbb85f81e320435269339c44",
-    "Size": 207568896,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1+11/bellsoft-jdk27.0.1+11-windows-aarch64.msi"
+    "Sha1": "65059bd602f5081278e7447bd1b5d4808347a24b",
+    "Size": 207572992,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.2+5/bellsoft-jdk27.0.1.0.2+5-windows-aarch64.msi"
   },
   {
-    "Version": "27.0.1+11",
+    "Version": "27.0.1.0.2+5",
     "LTS": false,
     "BundleType": "jre",
     "Type": "msi",
     "Architecture": "ARM64",
-    "Sha1": "34c921852a0e43a917a35a4373eb38ce1bc1c973",
-    "Size": 44642304,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1+11/bellsoft-jre27.0.1+11-windows-aarch64.msi"
+    "Sha1": "e077ee6b5394a66511bbd3e31f4ab36c36875121",
+    "Size": 44646400,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.2+5/bellsoft-jre27.0.1.0.2+5-windows-aarch64.msi"
   },
   {
-    "Version": "27.0.1+11",
+    "Version": "27.0.1.0.2+5",
     "LTS": false,
     "BundleType": "jdk-full",
     "Type": "msi",
     "Architecture": "ARM64",
-    "Sha1": "6654cb86f7e6ffc6c2df3360427c46cbadc47295",
+    "Sha1": "dbdff26e107a6f4b7a150a382d8ab0fa7f6a05a8",
     "Size": 230785024,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1+11/bellsoft-jdk27.0.1+11-windows-aarch64-full.msi"
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.2+5/bellsoft-jdk27.0.1.0.2+5-windows-aarch64-full.msi"
   },
   {
-    "Version": "27.0.1+11",
+    "Version": "27.0.1.0.2+5",
     "LTS": false,
     "BundleType": "jdk-lite",
     "Type": "msi",
     "Architecture": "ARM64",
-    "Sha1": "70cefaba09899e5f78530271e30201278d6b2b75",
+    "Sha1": "787ac768cff9751cb3b447a9719390c62d3158a6",
     "Size": 82206720,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1+11/bellsoft-jdk27.0.1+11-windows-aarch64-lite.msi"
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.2+5/bellsoft-jdk27.0.1.0.2+5-windows-aarch64-lite.msi"
   },
   {
-    "Version": "27.0.1+11",
+    "Version": "27.0.1.0.2+5",
     "LTS": false,
     "BundleType": "jdk-full",
     "Type": "msi",
     "Architecture": "x64",
-    "Sha1": "f748184845334c5350bf6ec3be08c5808de9b286",
-    "Size": 348213248,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1+11/bellsoft-jdk27.0.1+11-windows-amd64-full.msi"
+    "Sha1": "9f0cfb835b8be185abe2af37e0ea95629ec6dcc4",
+    "Size": 348221440,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.2+5/bellsoft-jdk27.0.1.0.2+5-windows-amd64-full.msi"
   },
   {
-    "Version": "27.0.1+11",
+    "Version": "27.0.1.0.2+5",
     "LTS": false,
     "BundleType": "jdk-lite",
     "Type": "msi",
     "Architecture": "x64",
-    "Sha1": "0e3dbe511914b255e5ba0a423005f5d4babc56ce",
-    "Size": 84639744,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1+11/bellsoft-jdk27.0.1+11-windows-amd64-lite.msi"
+    "Sha1": "492b2b80389b43884dda4ef685ce9d5753f205ba",
+    "Size": 84570112,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.2+5/bellsoft-jdk27.0.1.0.2+5-windows-amd64-lite.msi"
   },
   {
-    "Version": "27.0.1+11",
+    "Version": "27.0.1.0.2+5",
     "LTS": false,
     "BundleType": "jdk",
     "Type": "msi",
     "Architecture": "x64",
-    "Sha1": "4fa43c6838beb614dbba8fdcef86c63e836c35ea",
-    "Size": 249602048,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1+11/bellsoft-jdk27.0.1+11-windows-amd64.msi"
+    "Sha1": "df4f27281a74285c11b73a7ae435f3432eadd42b",
+    "Size": 249610240,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.2+5/bellsoft-jdk27.0.1.0.2+5-windows-amd64.msi"
   },
   {
-    "Version": "27.0.1+11",
+    "Version": "27.0.1.0.2+5",
     "LTS": false,
     "BundleType": "jre-full",
     "Type": "msi",
     "Architecture": "x64",
-    "Sha1": "196fa93a71c820346da5bf4f9898be5b832ccf5c",
-    "Size": 122638336,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1+11/bellsoft-jre27.0.1+11-windows-amd64-full.msi"
+    "Sha1": "62c7ce33ddfaca16a0c95458002264653f2ddb23",
+    "Size": 122642432,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.2+5/bellsoft-jre27.0.1.0.2+5-windows-amd64-full.msi"
   },
   {
-    "Version": "27.0.1+11",
+    "Version": "27.0.1.0.2+5",
     "LTS": false,
     "BundleType": "jre",
     "Type": "msi",
     "Architecture": "x64",
-    "Sha1": "b8cbc21e8f5e8fd0a1350c43cacd19454ad2a68b",
-    "Size": 79327232,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1+11/bellsoft-jre27.0.1+11-windows-amd64.msi"
+    "Sha1": "b204363dfb7d6d713b50ac8fcd1832fecfc44ebf",
+    "Size": 79331328,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.2+5/bellsoft-jre27.0.1.0.2+5-windows-amd64.msi"
   },
   {
-    "Version": "27.0.1+11",
+    "Version": "27.0.1.0.2+5",
     "LTS": false,
     "BundleType": "jre-full",
     "Type": "zip",
     "Architecture": "ARM64",
-    "Sha1": "80435c3c7ad001ae32cb222ccb4446685c065d66",
-    "Size": 49252556,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1+11/bellsoft-jre27.0.1+11-windows-aarch64-full.zip"
+    "Sha1": "b85b33731430b4cfbb49472b00dcf58e93c4c526",
+    "Size": 49258050,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.2+5/bellsoft-jre27.0.1.0.2+5-windows-aarch64-full.zip"
   },
   {
-    "Version": "27.0.1+11",
+    "Version": "27.0.1.0.2+5",
     "LTS": false,
     "BundleType": "jdk",
     "Type": "zip",
     "Architecture": "ARM64",
-    "Sha1": "7e477c1eb9dc156cfb0625af03402af90c2df7f2",
-    "Size": 209591313,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1+11/bellsoft-jdk27.0.1+11-windows-aarch64.zip"
+    "Sha1": "e454d985115130198c1c506159d5388c93e4c128",
+    "Size": 209590990,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.2+5/bellsoft-jdk27.0.1.0.2+5-windows-aarch64.zip"
   },
   {
-    "Version": "27.0.1+11",
+    "Version": "27.0.1.0.2+5",
     "LTS": false,
     "BundleType": "jdk-lite",
     "Type": "zip",
     "Architecture": "ARM64",
-    "Sha1": "0fc5a3d3d08c68525ad2394aeaceee679d068d78",
-    "Size": 81175107,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1+11/bellsoft-jdk27.0.1+11-windows-aarch64-lite.zip"
+    "Sha1": "870634d6d5930a9246b3081aa94f444531cc2e6c",
+    "Size": 81177396,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.2+5/bellsoft-jdk27.0.1.0.2+5-windows-aarch64-lite.zip"
   },
   {
-    "Version": "27.0.1+11",
+    "Version": "27.0.1.0.2+5",
     "LTS": false,
     "BundleType": "jre",
     "Type": "zip",
     "Architecture": "ARM64",
-    "Sha1": "8e7584a10e2da719e7ee9071337d3bfb151325ee",
-    "Size": 43853867,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1+11/bellsoft-jre27.0.1+11-windows-aarch64.zip"
+    "Sha1": "cb171a75b3d7d321ab90d00f45716ddf2bc5d736",
+    "Size": 43852756,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.2+5/bellsoft-jre27.0.1.0.2+5-windows-aarch64.zip"
   },
   {
-    "Version": "27.0.1+11",
+    "Version": "27.0.1.0.2+5",
     "LTS": false,
     "BundleType": "jdk-full",
     "Type": "zip",
     "Architecture": "ARM64",
-    "Sha1": "f2ccec83d9868bb258e2caae8857b34eb8084fd6",
-    "Size": 233256290,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1+11/bellsoft-jdk27.0.1+11-windows-aarch64-full.zip"
+    "Sha1": "f41eed07b7ff3932fb71122a7db04e3167ffb490",
+    "Size": 233268552,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.2+5/bellsoft-jdk27.0.1.0.2+5-windows-aarch64-full.zip"
   },
   {
-    "Version": "27.0.1+11",
+    "Version": "27.0.1.0.2+5",
     "LTS": false,
     "BundleType": "jre-full",
     "Type": "zip",
     "Architecture": "x64",
-    "Sha1": "505ea2e7ba55f54540c2a8741e9f4d5b53a22028",
-    "Size": 122462135,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1+11/bellsoft-jre27.0.1+11-windows-amd64-full.zip"
+    "Sha1": "7624bd18df22979bcafbceef26cd7ae41aecfe31",
+    "Size": 122468097,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.2+5/bellsoft-jre27.0.1.0.2+5-windows-amd64-full.zip"
   },
   {
-    "Version": "27.0.1+11",
+    "Version": "27.0.1.0.2+5",
     "LTS": false,
     "BundleType": "jdk",
     "Type": "zip",
     "Architecture": "x64",
-    "Sha1": "ffdb7f1421d2e81fc1954fc316e5f4bd145d1598",
-    "Size": 252048709,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1+11/bellsoft-jdk27.0.1+11-windows-amd64.zip"
+    "Sha1": "d70ea7567148b20829a5cceadf2bb06dcd3ed61a",
+    "Size": 252062868,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.2+5/bellsoft-jdk27.0.1.0.2+5-windows-amd64.zip"
   },
   {
-    "Version": "27.0.1+11",
+    "Version": "27.0.1.0.2+5",
     "LTS": false,
     "BundleType": "jdk-lite",
     "Type": "zip",
     "Architecture": "x64",
-    "Sha1": "dc545de1b8e4a8afa3a79bb80ea6a8e650c1d496",
-    "Size": 83661496,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1+11/bellsoft-jdk27.0.1+11-windows-amd64-lite.zip"
+    "Sha1": "9de0d3f51979eb824dd96cf7e4902fe749508cb3",
+    "Size": 83598438,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.2+5/bellsoft-jdk27.0.1.0.2+5-windows-amd64-lite.zip"
   },
   {
-    "Version": "27.0.1+11",
+    "Version": "27.0.1.0.2+5",
     "LTS": false,
     "BundleType": "jdk-full",
     "Type": "zip",
     "Architecture": "x64",
-    "Sha1": "8237cf4f84272fe10a31c1086db7e461aaba942a",
-    "Size": 351227626,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1+11/bellsoft-jdk27.0.1+11-windows-amd64-full.zip"
+    "Sha1": "11b3e1d798d3cf8b487bb411cc2e26fb3fb584fe",
+    "Size": 351241376,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.2+5/bellsoft-jdk27.0.1.0.2+5-windows-amd64-full.zip"
   },
   {
-    "Version": "27.0.1+11",
+    "Version": "27.0.1.0.2+5",
     "LTS": false,
     "BundleType": "jre",
     "Type": "zip",
     "Architecture": "x64",
-    "Sha1": "fea997151faa0c31d6ece53398043d28c5dc09d1",
-    "Size": 78970204,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1+11/bellsoft-jre27.0.1+11-windows-amd64.zip"
+    "Sha1": "26836a6f232e3f2e3583a67c073891793f212483",
+    "Size": 78978706,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.2+5/bellsoft-jre27.0.1.0.2+5-windows-amd64.zip"
   }
 ]
