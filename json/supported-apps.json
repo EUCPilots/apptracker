@@ -1280,6 +1280,11 @@
     "Link": "https://www.jetbrains.com/rubymine"
   },
   {
+    "Name": "JetBrainsRustRover",
+    "Application": "JetBrains RustRover",
+    "Link": "https://www.jetbrains.com/rustrover"
+  },
+  {
     "Name": "JetBrainsSpace",
     "Application": "JetBrains Space",
     "Link": "https://www.jetbrains.com/space"
@@ -1377,7 +1382,7 @@
   {
     "Name": "KiCad",
     "Application": "KiCad KiCad",
-    "Link": "https://gitlab.com/kicad/code/kicad"
+    "Link": "https://www.kicad.org/"
   },
   {
     "Name": "KinoveaKinovea",
@@ -1387,7 +1392,7 @@
   {
     "Name": "KitwareCMake",
     "Application": "Kitware CMake",
-    "Link": "https://gitlab.kitware.com/cmake/cmake"
+    "Link": "https://cmake.org/"
   },
   {
     "Name": "KongInsomnia",
