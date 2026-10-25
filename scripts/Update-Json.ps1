@@ -8,10 +8,7 @@ param(
     [System.String] $Path,
 
     [ValidateNotNullOrEmpty()]
-    [System.String[]] $SkipApps = ("FreedomScientificFusion", "FreedomScientificJAWS", "FreedomScientificZoomText", "OracleJava17", "OracleJava20", "OracleJava21", "OracleJava22", "OracleJava23", "OracleJava25", "OracleJava26", "OracleJava27", "Slack", "VideoLanVlcPlayer", "ClaudeDesktop", "OctopusDeployServer"),
-
-    [ValidateNotNullOrEmpty()]
-    [System.String[]] $MozillaApps = @("MozillaFirefox", "MozillaThunderbird")
+    [System.String[]] $SkipApps = ("FreedomScientificFusion", "FreedomScientificJAWS", "FreedomScientificZoomText", "OracleJava17", "OracleJava20", "OracleJava21", "OracleJava22", "OracleJava23", "OracleJava25", "OracleJava26", "OracleJava27", "Slack", "VideoLanVlcPlayer", "ClaudeDesktop", "OctopusDeployServer")
 )
 
 # Configure the environment
@@ -53,10 +50,6 @@ foreach ($App in (Find-EvergreenApp | Where-Object { $_.Name -notin $SkipApps } 
             Name          = $App
             ErrorAction   = "SilentlyContinue"
             WarningAction = "SilentlyContinue"
-        }
-        if ($App -in $MozillaApps) {
-            $Manifest = Export-EvergreenManifest -Name $App
-            $params.AppParams = @{ Language = $Manifest.Get.Download.FullLanguageList }
         }
         $Output = Get-EvergreenApp @params
     }
