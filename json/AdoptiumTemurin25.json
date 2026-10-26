@@ -1,22 +1,22 @@
 [
   {
-    "Version": "25.0.4.1+1-LTS",
-    "Date": "2026-08-21T09:29:45Z",
+    "Version": "25.0.5+8-LTS",
+    "Date": "2026-10-26T11:33:40Z",
     "ImageType": "jre",
-    "Checksum": "0b3b2550b36b8997be76c70f15b6afd29a0631622ea134c973a6c8180859a56b",
-    "Size": 42696704,
+    "Checksum": "503f1c8ce75378b1dfe89485abdbc2cb1588600937cff87e8a63d70ca5873139",
+    "Size": 42799104,
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jre_x64_windows_hotspot_25.0.4.1_1.msi"
+    "URI": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_x64_windows_hotspot_25.0.5_8.msi"
   },
   {
-    "Version": "25.0.4.1+1-LTS",
-    "Date": "2026-08-21T09:29:52Z",
+    "Version": "25.0.5+8-LTS",
+    "Date": "2026-10-26T11:34:10Z",
     "ImageType": "jdk",
-    "Checksum": "517b3590be43120c34c3891d09c97a1eddc12da982208c4f5adf1bdc1b5e3f15",
-    "Size": 115998720,
+    "Checksum": "e1d3c94032579dc16af9abb311f4552ba271466b74c8767e8ce39585a4c64d40",
+    "Size": 116088832,
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jdk_x64_windows_hotspot_25.0.4.1_1.msi"
+    "URI": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jdk_x64_windows_hotspot_25.0.5_8.msi"
   }
 ]
