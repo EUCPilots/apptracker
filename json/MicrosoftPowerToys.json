@@ -1,42 +1,42 @@
 [
   {
-    "Version": "0.102.2933.0",
-    "Date": "21/10/2026",
-    "Size": 311463528,
-    "Sha256": "c98c741e283d13c8308491d9e185f287323f2727f1c3c1c9e59dc6843330b6cd",
+    "Version": "0.102.3001",
+    "Date": "27/10/2026",
+    "Size": 311625952,
+    "Sha256": "1d6a23e643b4e34ea1c3292ad4f8615bc1082ac938b0998d56899264dda5e2ad",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.102.2933.0/PowerToysSetup-0.102.2933.0-arm64.exe"
+    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/PowerToysSetup-0.102.3001.0-arm64.exe"
   },
   {
-    "Version": "0.102.2933.0",
-    "Date": "21/10/2026",
-    "Size": 311437584,
-    "Sha256": "fdc0f3d06000264dc0947e7b0ae3ec63d682c5ba13198fbfbd49149ef69a94f5",
+    "Version": "0.102.3001",
+    "Date": "27/10/2026",
+    "Size": 311603808,
+    "Sha256": "074208c93541be77bb6e875d436a8a765e21649f2613196cee62d9ca936611f2",
     "Architecture": "ARM64",
     "InstallerType": "User",
     "Type": "exe",
-    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.102.2933.0/PowerToysUserSetup-0.102.2933.0-arm64.exe"
+    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/PowerToysUserSetup-0.102.3001.0-arm64.exe"
   },
   {
-    "Version": "0.102.2933.0",
-    "Date": "21/10/2026",
-    "Size": 323641880,
-    "Sha256": "ebaddacfa615614d8b8ec695009ea092c2b64d039ae629a4b9bf0b541e854c3d",
+    "Version": "0.102.3001",
+    "Date": "27/10/2026",
+    "Size": 323913184,
+    "Sha256": "3fb386e628296d6f960f8efc92b47fafa9e29c915c5efd774255a95190dcc87d",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.102.2933.0/PowerToysSetup-0.102.2933.0-x64.exe"
+    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/PowerToysSetup-0.102.3001.0-x64.exe"
   },
   {
-    "Version": "0.102.2933.0",
-    "Date": "21/10/2026",
-    "Size": 323616208,
-    "Sha256": "ec0fd364ae1689a5e8fbefb46bad5c274c7bf0fbe9e828e14c88b44432ada816",
+    "Version": "0.102.3001",
+    "Date": "27/10/2026",
+    "Size": 323884640,
+    "Sha256": "4459b9f1ad5d70a342e109ffb66dbbb08ea07b2d2ec5634b314f878700f9ff0b",
     "Architecture": "x64",
     "InstallerType": "User",
     "Type": "exe",
-    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.102.2933.0/PowerToysUserSetup-0.102.2933.0-x64.exe"
+    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/PowerToysUserSetup-0.102.3001.0-x64.exe"
   }
 ]

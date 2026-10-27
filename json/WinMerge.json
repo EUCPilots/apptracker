@@ -1,42 +1,42 @@
 [
   {
-    "Version": "2.16.58.2",
-    "Date": "27/8/2026",
-    "Size": 18012328,
-    "Sha256": "3dcd40d79fee3f01da7e12765d5dc3f4cbec8e038749b791697b573ba1d3a8ce",
+    "Version": "2.16.60",
+    "Date": "27/10/2026",
+    "Size": 19468088,
+    "Sha256": "6bd632957d3a89fa8d7bc724d509e000a12bfa8141000a8925c0847bd6457fde",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.58.2/WinMerge-2.16.58.2-ARM64-Setup.exe"
+    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.60/WinMerge-2.16.60-ARM64-Setup.exe"
   },
   {
-    "Version": "2.16.58.2",
-    "Date": "27/8/2026",
-    "Size": 17184616,
-    "Sha256": "6ac1e3c0028c39e49962dacd662ab553989d7e817a5cdf96ebbbc1fb345bcff4",
+    "Version": "2.16.60",
+    "Date": "27/10/2026",
+    "Size": 18686216,
+    "Sha256": "35217e6b3bb981e37b7ce3858e686e4ee3afe5cb7820ff5960258829fea0ba03",
     "Architecture": "x64",
     "InstallerType": "User",
     "Type": "exe",
-    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.58.2/WinMerge-2.16.58.2-x64-PerUser-Setup.exe"
+    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.60/WinMerge-2.16.60-x64-PerUser-Setup.exe"
   },
   {
-    "Version": "2.16.58.2",
-    "Date": "27/8/2026",
-    "Size": 17185216,
-    "Sha256": "26f794838bc4e545d7b9f36dc8beeb5a65a12bd4627fa3b4fe87068abef925b0",
+    "Version": "2.16.60",
+    "Date": "27/10/2026",
+    "Size": 18697696,
+    "Sha256": "ed01097f60b63b3e7d58b3036064c40f05504a47c23c231a1081142295815f7f",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.58.2/WinMerge-2.16.58.2-x64-Setup.exe"
+    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.60/WinMerge-2.16.60-x64-Setup.exe"
   },
   {
-    "Version": "2.16.58.2",
-    "Date": "27/8/2026",
-    "Size": 16553904,
-    "Sha256": "6bb69e48757307c7b258e381c3578dc0523fe71f677b536cb7eb6be726bbf2b2",
+    "Version": "2.16.60",
+    "Date": "27/10/2026",
+    "Size": 17628256,
+    "Sha256": "2fbc886be8b28d8d542aafe430e4440b449d2e4107bd13cdb5c9238d165a2329",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.58.2/WinMerge-2.16.58.2-Setup.exe"
+    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.60/WinMerge-2.16.60-Setup.exe"
   }
 ]

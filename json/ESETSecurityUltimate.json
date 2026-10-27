@@ -1,26 +1,18 @@
 [
   {
-    "Version": "18.2.18.0",
-    "Size": 83304880,
-    "Sha256": "705c7c2287b7a61aa1ea543be43b4b66cf22ef2051bc6f3cad64163373f17e73",
+    "Version": "20.0.7.0",
+    "Size": 92883680,
+    "Sha256": "91fad4d78e0cc3cf2e1d6710fc5ad465c54c37a6add18f7c99531534e4a57dcb",
     "Architecture": "ARM64",
     "Type": "exe",
-    "URI": "https://download.eset.com/com/eset/apps/home/esu/windows/v18/latest/esu_arm64.exe"
+    "URI": "https://download.eset.com/com/eset/apps/home/esu/windows/latest/esu_arm64.exe"
   },
   {
-    "Version": "18.2.18.0",
-    "Size": 85126576,
-    "Sha256": "eaa62d30c7ccb2dd3cfd412f49458942a5e7febff838e7dc9e96ef6770cb21ee",
+    "Version": "20.0.7.0",
+    "Size": 93219552,
+    "Sha256": "3b497abe6d0234389545d69beacbb7cde43ec8295c0e97a8a5d2f545da62df87",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://download.eset.com/com/eset/apps/home/esu/windows/v18/latest/esu_nt64.exe"
-  },
-  {
-    "Version": "18.2.18.0",
-    "Size": 78133160,
-    "Sha256": "bf8c4753def87ab809a9b644f2a30174682752502d6f05ff718707803e917cc2",
-    "Architecture": "x86",
-    "Type": "exe",
-    "URI": "https://download.eset.com/com/eset/apps/home/esu/windows/latest/esu_nt32.exe"
+    "URI": "https://download.eset.com/com/eset/apps/home/esu/windows/latest/esu_nt64.exe"
   }
 ]

@@ -1,16 +1,16 @@
 [
   {
-    "Version": "19.2.10.0",
-    "Size": 88823016,
-    "Sha256": "d161474caa3e9c83834de8f384809af5e60dc5fff27cdc25a2e0793f8409a6aa",
+    "Version": "20.0.7.0",
+    "Size": 92883688,
+    "Sha256": "38a9254fead27666d38081460c40f51bca4b1394064a911dfa8df652c2467cb3",
     "Architecture": "ARM64",
     "Type": "exe",
     "URI": "https://download.eset.com/com/eset/apps/home/eis/windows/latest/eis_arm64.exe"
   },
   {
-    "Version": "19.2.10.0",
-    "Size": 89745120,
-    "Sha256": "66abde4ceef009ff7f599ef63e97fa9acba276836227ec242f75a1b028049687",
+    "Version": "20.0.7.0",
+    "Size": 93219552,
+    "Sha256": "2a7774aff6d3a89191b41a524c73dd66c1cdf07c37761130e5279c258e8e22e2",
     "Architecture": "x64",
     "Type": "exe",
     "URI": "https://download.eset.com/com/eset/apps/home/eis/windows/latest/eis_nt64.exe"

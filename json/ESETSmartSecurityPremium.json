@@ -1,16 +1,16 @@
 [
   {
-    "Version": "19.2.10.0",
-    "Size": 88823016,
-    "Sha256": "9bb63f2538146e77bed268f7049a0f19cb3a63af02de5833b69cdaaf55d1cbe2",
+    "Version": "20.0.7.0",
+    "Size": 92883680,
+    "Sha256": "69238ff64cbbd743847d6dd9ad8d69bd64d1bf5d829c5afb486501711f65374d",
     "Architecture": "ARM64",
     "Type": "exe",
     "URI": "https://download.eset.com/com/eset/apps/home/essp/windows/latest/essp_arm64.exe"
   },
   {
-    "Version": "19.2.10.0",
-    "Size": 89745120,
-    "Sha256": "203ab89dc43ddfeaf71b966763e62a56659b1eae176f17c267970cd33b4c9fb8",
+    "Version": "20.0.7.0",
+    "Size": 93219552,
+    "Sha256": "b446d242fd1cd33372362f1b3845ba2688a4bbf0bf9b83245f4ac2599e576b55",
     "Architecture": "x64",
     "Type": "exe",
     "URI": "https://download.eset.com/com/eset/apps/home/essp/windows/latest/essp_nt64.exe"
