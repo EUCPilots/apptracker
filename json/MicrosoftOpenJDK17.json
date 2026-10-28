@@ -3,6 +3,8 @@
     "Version": "17.0.20.1+1",
     "Date": "2026-08-31T11:00:00Z",
     "ImageType": "jdk",
+    "Checksum": null,
+    "Size": null,
     "Architecture": "ARM64",
     "Type": "exe",
     "URI": "https://download.visualstudio.microsoft.com/download/pr/a9672056-0a4d-425d-8488-f481ee56319c/c21c1ffdfebefa8baf9fb3778aafda0c/microsoft-jdk-17.0.20.1-windows-aarch64.exe"
@@ -11,6 +13,8 @@
     "Version": "17.0.20.1+1",
     "Date": "2026-08-31T11:00:00Z",
     "ImageType": "jdk",
+    "Checksum": null,
+    "Size": null,
     "Architecture": "x64",
     "Type": "exe",
     "URI": "https://download.visualstudio.microsoft.com/download/pr/a9672056-0a4d-425d-8488-f481ee56319c/48ebb6ca7ee526f79944beb784e6e3b8/microsoft-jdk-17.0.20.1-windows-x64.exe"

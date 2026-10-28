@@ -3,6 +3,8 @@
     "Version": "11.0.32.1+1",
     "Date": "2026-08-31T11:00:00Z",
     "ImageType": "jdk",
+    "Checksum": null,
+    "Size": null,
     "Architecture": "ARM64",
     "Type": "exe",
     "URI": "https://download.visualstudio.microsoft.com/download/pr/ec014a7c-c89f-4678-8d0a-5006ec1bc394/21fbc519d9ed948e334744562f33f193/microsoft-jdk-11.0.32.1-windows-aarch64.exe"
@@ -11,6 +13,8 @@
     "Version": "11.0.32.1+1",
     "Date": "2026-08-31T11:00:00Z",
     "ImageType": "jdk",
+    "Checksum": null,
+    "Size": null,
     "Architecture": "x64",
     "Type": "exe",
     "URI": "https://download.visualstudio.microsoft.com/download/pr/ec014a7c-c89f-4678-8d0a-5006ec1bc394/0f54a67177e670a470fb80cc3129e5ab/microsoft-jdk-11.0.32.1-windows-x64.exe"
