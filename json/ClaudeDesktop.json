@@ -1,14 +1,14 @@
 [
   {
-    "Version": "3.6556.2",
+    "Version": "4.29.0",
     "Architecture": "ARM64",
     "Type": "msix",
-    "URI": "https://downloads.claude.ai/releases/win32/arm64/3.6556.2/Claude-20c019a1e61fa5b687616af57d31f97bb3181723.msix"
+    "URI": "https://downloads.claude.ai/releases/win32/arm64/4.29.0/Claude-2609742292f7dbce2e259e76f53620cac4da9002.msix"
   },
   {
-    "Version": "3.6556.2",
+    "Version": "4.29.0",
     "Architecture": "x64",
     "Type": "msix",
-    "URI": "https://downloads.claude.ai/releases/win32/x64/3.6556.2/Claude-20c019a1e61fa5b687616af57d31f97bb3181723.msix"
+    "URI": "https://downloads.claude.ai/releases/win32/x64/4.29.0/Claude-2609742292f7dbce2e259e76f53620cac4da9002.msix"
   }
 ]
