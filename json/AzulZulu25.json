@@ -1,50 +1,50 @@
 [
   {
-    "Version": "25.38.107.0",
-    "JavaVersion": "25.0.5+8",
+    "Version": "25.38.109.0",
+    "JavaVersion": "25.0.5.0.3+1",
     "ImageType": "JRE",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu25.38.107-ca-jre25.0.5-win_x64.msi"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu25.38.109-ca-jre25.0.5.0.3-win_x64.msi"
   },
   {
-    "Version": "25.38.107.0",
-    "JavaVersion": "25.0.5+8",
+    "Version": "25.38.109.0",
+    "JavaVersion": "25.0.5.0.3+1",
     "ImageType": "JDK",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu25.38.107-ca-jdk25.0.5-win_x64.msi"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu25.38.109-ca-jdk25.0.5.0.3-win_x64.msi"
   },
   {
-    "Version": "25.38.107.0",
-    "JavaVersion": "25.0.5+8",
+    "Version": "25.38.109.0",
+    "JavaVersion": "25.0.5.0.3+1",
     "ImageType": "JRE",
     "Architecture": "ARM64",
     "Type": "zip",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu25.38.107-ca-jre25.0.5-win_aarch64.zip"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu25.38.109-ca-jre25.0.5.0.3-win_aarch64.zip"
   },
   {
-    "Version": "25.38.107.0",
-    "JavaVersion": "25.0.5+8",
+    "Version": "25.38.109.0",
+    "JavaVersion": "25.0.5.0.3+1",
     "ImageType": "JDK",
     "Architecture": "ARM64",
     "Type": "zip",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu25.38.107-ca-jdk25.0.5-win_aarch64.zip"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu25.38.109-ca-jdk25.0.5.0.3-win_aarch64.zip"
   },
   {
-    "Version": "25.38.107.0",
-    "JavaVersion": "25.0.5+8",
+    "Version": "25.38.109.0",
+    "JavaVersion": "25.0.5.0.3+1",
     "ImageType": "JRE",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu25.38.107-ca-jre25.0.5-win_x64.zip"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu25.38.109-ca-jre25.0.5.0.3-win_x64.zip"
   },
   {
-    "Version": "25.38.107.0",
-    "JavaVersion": "25.0.5+8",
+    "Version": "25.38.109.0",
+    "JavaVersion": "25.0.5.0.3+1",
     "ImageType": "JDK",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu25.38.107-ca-jdk25.0.5-win_x64.zip"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu25.38.109-ca-jdk25.0.5.0.3-win_x64.zip"
   }
 ]

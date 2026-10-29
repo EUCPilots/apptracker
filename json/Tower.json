@@ -1,10 +1,17 @@
 [
   {
-    "Version": "14.2.587",
+    "Version": "15.0.590",
     "Channel": "beta",
-    "sha1": "38D98C2173498B1E43D6D965E78F55B817A534D7",
+    "sha1": "31CF01DCB053E942021B7F543978EB0F80DC7FF9",
     "Type": "exe",
-    "URI": "https://www.git-tower.com/apps/tower3-win/587-d266412d/Tower-14.2.587.exe"
+    "URI": "https://www.git-tower.com/apps/tower3-win/590-9f2e3074/Tower-15.0.590.exe"
+  },
+  {
+    "Version": "15.0.590",
+    "Channel": "beta",
+    "sha1": "67259F592D3966454535CF2B07E0120C2324F70A",
+    "Type": "msi",
+    "URI": "https://www.git-tower.com/apps/tower3-win/590-9f2e3074/Tower-15.0.590.msi"
   },
   {
     "Version": "14.2.587",
@@ -12,13 +19,6 @@
     "sha1": "38D98C2173498B1E43D6D965E78F55B817A534D7",
     "Type": "exe",
     "URI": "https://www.git-tower.com/apps/tower3-win/587-d266412d/Tower-14.2.587.exe"
-  },
-  {
-    "Version": "14.2.587",
-    "Channel": "beta",
-    "sha1": "29F58C65FFC5A88350BBA8B09C1989FB48DB73B6",
-    "Type": "msi",
-    "URI": "https://www.git-tower.com/apps/tower3-win/587-d266412d/Tower-14.2.587.msi"
   },
   {
     "Version": "14.2.587",
