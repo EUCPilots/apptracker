@@ -1,17 +1,17 @@
 [
   {
     "Version": "2026.9.2",
-    "Date": "20/9/2026",
+    "Date": "2026-09-20T17:46:09",
     "Size": 140247920,
     "Sha256": "d05a1da3f4290c73a1d4cefa556e9056fddc2ce510c62f6b3da6d266ec585008",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/appium/appium-inspector/releases/download/v2026.9.2/Appium-Inspector-2026.9.2-win-arm64.exe"
   },
   {
     "Version": "2026.9.2",
-    "Date": "20/9/2026",
+    "Date": "2026-09-20T17:46:09",
     "Size": 145924024,
     "Sha256": "e921cfa82564b4726e56e8cb756d669d43851d6371eefb9d9afd7c20f1009b07",
     "Architecture": "x64",
@@ -21,7 +21,7 @@
   },
   {
     "Version": "2026.9.2",
-    "Date": "20/9/2026",
+    "Date": "2026-09-20T17:46:09",
     "Size": 285511784,
     "Sha256": "6c3bd44f15744eb0246f914da4d200376a420d81bbe3e6613aed3adc5fe449c0",
     "Architecture": "x86",

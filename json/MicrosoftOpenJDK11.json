@@ -1,17 +1,17 @@
 [
   {
     "Version": "11.0.32.1+1",
-    "Date": "2026-08-31T11:00:00Z",
+    "Date": "2026-08-31T11:00:00",
     "ImageType": "jdk",
     "Checksum": null,
     "Size": null,
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "Type": "exe",
     "URI": "https://download.visualstudio.microsoft.com/download/pr/ec014a7c-c89f-4678-8d0a-5006ec1bc394/21fbc519d9ed948e334744562f33f193/microsoft-jdk-11.0.32.1-windows-aarch64.exe"
   },
   {
     "Version": "11.0.32.1+1",
-    "Date": "2026-08-31T11:00:00Z",
+    "Date": "2026-08-31T11:00:00",
     "ImageType": "jdk",
     "Checksum": null,
     "Size": null,
@@ -21,16 +21,20 @@
   },
   {
     "Version": "11.0.32.1+1",
-    "Date": "2026-08-31T11:00:00Z",
+    "Date": "2026-08-31T11:00:00",
     "ImageType": "jdk",
-    "Architecture": "ARM64",
+    "Checksum": null,
+    "Size": null,
+    "Architecture": "arm64",
     "Type": "msi",
     "URI": "https://download.visualstudio.microsoft.com/download/pr/ec014a7c-c89f-4678-8d0a-5006ec1bc394/df348d89c7af6bcc6dcad930cf9a07dc/microsoft-jdk-11.0.32.1-windows-aarch64.msi"
   },
   {
     "Version": "11.0.32.1+1",
-    "Date": "2026-08-31T11:00:00Z",
+    "Date": "2026-08-31T11:00:00",
     "ImageType": "jdk",
+    "Checksum": null,
+    "Size": null,
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://download.visualstudio.microsoft.com/download/pr/ec014a7c-c89f-4678-8d0a-5006ec1bc394/272af5816b9a29f03c6c10b2287ab0da/microsoft-jdk-11.0.32.1-windows-x64.msi"

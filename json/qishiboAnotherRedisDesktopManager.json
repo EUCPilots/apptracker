@@ -1,17 +1,17 @@
 [
   {
     "Version": "1.7.4",
-    "Date": "17/8/2026",
+    "Date": "2026-08-17T14:15:02",
     "Size": 65103494,
     "Sha256": "ee54c5e02fe10abec22e844e883ae5068115ce3933227f4ab4b113ef39141431",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.4/Another-Redis-Desktop-Manager-win-1.7.4-arm64.exe"
   },
   {
     "Version": "1.7.4",
-    "Date": "17/8/2026",
+    "Date": "2026-08-17T14:15:02",
     "Size": 61935432,
     "Sha256": "a7f9788dda0bf9d6c52f9df1e2e6d43d9823540f2aacfe3632a4956db5091a41",
     "Architecture": "x64",
@@ -21,7 +21,7 @@
   },
   {
     "Version": "1.7.4",
-    "Date": "17/8/2026",
+    "Date": "2026-08-17T14:15:02",
     "Size": 126106472,
     "Sha256": "28af6a9756b93a59cbd71ee9120351ad7cc1280e48e57832fe10013f6d9784ce",
     "Architecture": "x86",

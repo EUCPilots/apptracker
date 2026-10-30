@@ -1,22 +1,68 @@
 [
   {
-    "Version": "2026.2.3",
-    "Build": "262.10968.63",
+    "Version": "2026.2.4",
+    "Build": "262.11879.100",
     "Edition": "IntelliJ IDEA Ultimate",
-    "Sha256": "cd6398bafe6202674676dcff0b0c7791cd55dbe7e3ce0a4e996cc68f6dc80f9a",
-    "Date": "16/9/2026",
-    "Size": 1197026408,
+    "Date": "2026-10-30T00:00:00",
+    "Sha256": "6d087e604d36775ec49b8d737cc61e9f6f979bac614c60ef2c83a8bdd5318920",
+    "Size": 1201110584,
+    "Architecture": "arm64",
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/idea/idea-2026.2.3.exe"
+    "URI": "https://download.jetbrains.com/idea/idea-2026.2.4-aarch64.exe"
+  },
+  {
+    "Version": "2026.2.4",
+    "Build": "262.11879.100",
+    "Edition": "IntelliJ IDEA Ultimate",
+    "Date": "2026-10-30T00:00:00",
+    "Sha256": "b44afef7ecb05bbd1ec09f1b4e0491d5d3140539ecb01b427d3288d55285bd19",
+    "Size": 1202710176,
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://download.jetbrains.com/idea/idea-2026.2.4.exe"
+  },
+  {
+    "Version": "2026.2.4",
+    "Build": "262.11879.100",
+    "Edition": "IntelliJ IDEA Ultimate",
+    "Date": "2026-10-30T00:00:00",
+    "Sha256": "293bbad2303ef7d5493202bc3a3c28ef8131967bcade2f4db297dd7f895d4d2a",
+    "Size": 1643501560,
+    "Architecture": "x86",
+    "Type": "zip",
+    "URI": "https://download.jetbrains.com/idea/idea-2026.2.4.win.zip"
   },
   {
     "Version": "2025.3",
     "Build": "253.28294.334",
     "Edition": "IntelliJ IDEA Community",
+    "Date": "2025-12-08T00:00:00",
+    "Sha256": "a145833fb8e49db398c97fadcadb3c05083d428df4e47b7215669b939fe28e5d",
+    "Size": 1067752608,
+    "Architecture": "arm64",
+    "Type": "exe",
+    "URI": "https://download.jetbrains.com/idea/idea-2025.3-aarch64.exe"
+  },
+  {
+    "Version": "2025.3",
+    "Build": "253.28294.334",
+    "Edition": "IntelliJ IDEA Community",
+    "Date": "2025-12-08T00:00:00",
     "Sha256": "d7f0310423078c6a3b136c8a04090c1b6d316c2104dc2502d99167feb7ecc1fc",
-    "Date": "8/12/2025",
     "Size": 1108206656,
+    "Architecture": "x86",
     "Type": "exe",
     "URI": "https://download.jetbrains.com/idea/idea-2025.3.exe"
+  },
+  {
+    "Version": "2025.3",
+    "Build": "253.28294.334",
+    "Edition": "IntelliJ IDEA Community",
+    "Date": "2025-12-08T00:00:00",
+    "Sha256": "6f7234b57444371c3af02ab31a15f76dd1d6e5e32eaabc96722777a9addcd023",
+    "Size": 1526871900,
+    "Architecture": "x86",
+    "Type": "zip",
+    "URI": "https://download.jetbrains.com/idea/idea-2025.3.win.zip"
   }
 ]

@@ -1,17 +1,17 @@
 [
   {
     "Version": "2.0.2",
-    "Date": "7/10/2026",
+    "Date": "2026-10-07T13:56:43",
     "Size": 147426600,
     "Sha256": "44f60959e0d2bb71f573a8fabd3f5dc7abb3ec6bb0457aeb680e643a775424b4",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/logseq/logseq/releases/download/2.0.2/Logseq-win-arm64-2.0.2-nsis.exe"
   },
   {
     "Version": "2.0.2",
-    "Date": "7/10/2026",
+    "Date": "2026-10-07T13:56:43",
     "Size": 152653328,
     "Sha256": "5d7f52fa676a65cb91b88a688ff2705de629dd60a0530dc6c9119e97b463d853",
     "Architecture": "x64",

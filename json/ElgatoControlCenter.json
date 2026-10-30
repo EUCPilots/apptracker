@@ -2,7 +2,7 @@
   {
     "Version": "1.9.1",
     "Release": "Stable",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "Type": "msi",
     "URI": "https://edge.elgato.com/egc/windows/eccw/1.9.1/Elgato.ControlCenter_1.9.1.878_ARM64.msi"
   },

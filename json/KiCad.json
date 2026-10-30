@@ -1,17 +1,17 @@
 [
   {
     "Version": "10.0.7",
-    "Date": "6/10/2026",
+    "Date": "2026-10-06T20:41:21",
     "Size": 944454792,
     "Sha256": "eb0e93a3b4ce2c1c3ec2ba46f55192097a1341f52bb0facc0976bc009bdb748c",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/KiCad/kicad-source-mirror/releases/download/10.0.7/kicad-10.0.7-arm64.exe"
   },
   {
     "Version": "10.0.7",
-    "Date": "6/10/2026",
+    "Date": "2026-10-06T20:41:21",
     "Size": 968953784,
     "Sha256": "ce3881b6a9188eb34ac1ebaaec7651149e8a025206410addfb11a1a9656ecf95",
     "Architecture": "x64",

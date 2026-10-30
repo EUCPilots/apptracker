@@ -1,26 +1,26 @@
 [
   {
     "Version": "3.3.1.4940",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "URI": "https://downloads.affinity.studio/Affinity%20arm64.exe"
-  },
-  {
-    "Version": "3.3.1.4940",
-    "Architecture": "x64",
+    "Architecture": "x86",
     "Type": "exe",
     "URI": "https://downloads.affinity.studio/Affinity%20x64.exe"
   },
   {
     "Version": "3.3.1.4940",
-    "Architecture": "ARM64",
-    "Type": "msix",
-    "URI": "https://downloads.affinity.studio/Affinity%20arm64.msix"
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://downloads.affinity.studio/Affinity%20arm64.exe"
   },
   {
     "Version": "3.3.1.4940",
-    "Architecture": "x64",
+    "Architecture": "x86",
     "Type": "msix",
     "URI": "https://downloads.affinity.studio/Affinity%20x64.msix"
+  },
+  {
+    "Version": "3.3.1.4940",
+    "Architecture": "x86",
+    "Type": "msix",
+    "URI": "https://downloads.affinity.studio/Affinity%20arm64.msix"
   }
 ]

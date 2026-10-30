@@ -1,17 +1,17 @@
 [
   {
     "Version": "10.4.0.0",
-    "Date": "23/9/2026",
+    "Date": "2026-09-23T15:14:45",
     "Size": 6590464,
     "Sha256": "75fa139d8975eedb706d9180f454e2148af09d417692825f383fe00610b00e21",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/10.4.0.0p1-Preview/OpenSSH-ARM64-v10.4.0.0.msi"
   },
   {
     "Version": "10.4.0.0",
-    "Date": "23/9/2026",
+    "Date": "2026-09-23T15:14:45",
     "Size": 6889472,
     "Sha256": "788d8643464a01eb63640a2fd746f9ed23d106b5a901a35f88dc8cd40e446ac9",
     "Architecture": "x64",
@@ -21,7 +21,7 @@
   },
   {
     "Version": "10.4.0.0",
-    "Date": "23/9/2026",
+    "Date": "2026-09-23T15:14:45",
     "Size": 6103040,
     "Sha256": "cc16bb7be31ce517887864dfecfe12fed8355959e28f9c2075c39f6311b53a51",
     "Architecture": "x86",
@@ -31,27 +31,27 @@
   },
   {
     "Version": "10.4.0.0",
-    "Date": "23/9/2026",
+    "Date": "2026-09-23T15:14:45",
     "Size": 5067720,
     "Sha256": "6685a3c777149765fa0e54296ebb2104009a9addd3576cf3180edeee1c8f301c",
-    "Architecture": "ARM",
+    "Architecture": "arm",
     "InstallerType": "Default",
     "Type": "zip",
     "URI": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/10.4.0.0p1-Preview/OpenSSH-ARM.zip"
   },
   {
     "Version": "10.4.0.0",
-    "Date": "23/9/2026",
+    "Date": "2026-09-23T15:14:45",
     "Size": 5330882,
     "Sha256": "d2b1928225479fec9e0c938f527fdb5ed676446cca1bbcc5af84aca1f272842e",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "zip",
     "URI": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/10.4.0.0p1-Preview/OpenSSH-ARM64.zip"
   },
   {
     "Version": "10.4.0.0",
-    "Date": "23/9/2026",
+    "Date": "2026-09-23T15:14:45",
     "Size": 6021393,
     "Sha256": "b67ff8becd203502190ec42ac7787c24c2cd3325ed7700485fe7a1c83d2a7957",
     "Architecture": "x64",
@@ -61,7 +61,7 @@
   },
   {
     "Version": "10.4.0.0",
-    "Date": "23/9/2026",
+    "Date": "2026-09-23T15:14:45",
     "Size": 5214110,
     "Sha256": "4f7218ec8f1df9217ed17fbfaf16057d7d40559a04eeae710ce234feabbd618b",
     "Architecture": "x86",

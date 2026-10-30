@@ -1,17 +1,17 @@
 [
   {
     "Version": "1.8.2",
-    "Date": "20/6/2026",
+    "Date": "2026-06-20T11:58:06",
     "Size": 973312,
     "Sha256": "083b5377392bc57cf27052b6d20a2d927770683bca844632901ff38b4b7b0ac7",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/jqlang/jq/releases/download/jq-1.8.2/jq-windows-arm64.exe"
   },
   {
     "Version": "1.8.2",
-    "Date": "20/6/2026",
+    "Date": "2026-06-20T11:58:06",
     "Size": 1035264,
     "Sha256": "a6fc67fedaf9128a3309a1e2ebb8b986aeccf70122ee46d2cb4849e423f0c627",
     "Architecture": "x64",
@@ -21,7 +21,7 @@
   },
   {
     "Version": "1.8.2",
-    "Date": "20/6/2026",
+    "Date": "2026-06-20T11:58:06",
     "Size": 1035264,
     "Sha256": "a6fc67fedaf9128a3309a1e2ebb8b986aeccf70122ee46d2cb4849e423f0c627",
     "Architecture": "x64",
@@ -31,7 +31,7 @@
   },
   {
     "Version": "1.8.2",
-    "Date": "20/6/2026",
+    "Date": "2026-06-20T11:58:06",
     "Size": 1082368,
     "Sha256": "a99cb668f95bdd788d9ee20529613b115e5d2a0d7f9127ee6976607e878558ba",
     "Architecture": "x86",

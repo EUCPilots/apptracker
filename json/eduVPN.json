@@ -1,7 +1,7 @@
 [
   {
     "Version": "4.6.3",
-    "Date": "21/10/2026",
+    "Date": "2026-10-21T07:52:02",
     "Size": 41862096,
     "Architecture": "x86",
     "InstallerType": "Default",
@@ -10,16 +10,16 @@
   },
   {
     "Version": "4.6.3",
-    "Date": "21/10/2026",
+    "Date": "2026-10-21T07:52:02",
     "Size": 13598720,
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://codeberg.org/eduVPN/windows/releases/download/4.6.3/eduVPNClient_4.6.3_ARM64.msi"
   },
   {
     "Version": "4.6.3",
-    "Date": "21/10/2026",
+    "Date": "2026-10-21T07:52:02",
     "Size": 14635008,
     "Architecture": "x64",
     "InstallerType": "Default",
@@ -28,7 +28,7 @@
   },
   {
     "Version": "4.6.3",
-    "Date": "21/10/2026",
+    "Date": "2026-10-21T07:52:02",
     "Size": 13938688,
     "Architecture": "x86",
     "InstallerType": "Default",

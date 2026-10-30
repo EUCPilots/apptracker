@@ -1,17 +1,17 @@
 [
   {
     "Version": "5.7.1",
-    "Date": "9/10/2026",
+    "Date": "2026-10-09T13:13:29",
     "Size": 12099792,
     "Sha256": "24f28f6d78c0346012f6f7b7af71bce882cd168f13b9a205e826e7002c5ba340",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/TeraTermProject/teraterm/releases/download/v5.7.1/teraterm-5.7.1-arm64.exe"
   },
   {
     "Version": "5.7.1",
-    "Date": "9/10/2026",
+    "Date": "2026-10-09T13:13:29",
     "Size": 12396936,
     "Sha256": "a091233b41ad3ebd2277892ad9ef077148f1720171ae225c041e895e573343fe",
     "Architecture": "x64",
@@ -21,7 +21,7 @@
   },
   {
     "Version": "5.7.1",
-    "Date": "9/10/2026",
+    "Date": "2026-10-09T13:13:29",
     "Size": 12051976,
     "Sha256": "88bf481c67e9de7037a5e986e9f5f860f8c70832b456e936cac6c593fdd37950",
     "Architecture": "x86",
@@ -31,17 +31,17 @@
   },
   {
     "Version": "5.7.1",
-    "Date": "9/10/2026",
+    "Date": "2026-10-09T13:13:29",
     "Size": 15550169,
     "Sha256": "62a8130ace6ce6686f87a4e16b9aca6f9a55cffa32afa53c2bf0628a8049381f",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "zip",
     "URI": "https://github.com/TeraTermProject/teraterm/releases/download/v5.7.1/teraterm-5.7.1-arm64.zip"
   },
   {
     "Version": "5.7.1",
-    "Date": "9/10/2026",
+    "Date": "2026-10-09T13:13:29",
     "Size": 16148516,
     "Sha256": "68521f36a07754396eb925aabb0cd1f2092b15fffac74d330b428952552adafc",
     "Architecture": "x64",
@@ -51,7 +51,7 @@
   },
   {
     "Version": "5.7.1",
-    "Date": "9/10/2026",
+    "Date": "2026-10-09T13:13:29",
     "Size": 15091177,
     "Sha256": "b4640c1157df01f50ea273bdecbb49bee18e208af48360bb625ab6651100c22a",
     "Architecture": "x86",

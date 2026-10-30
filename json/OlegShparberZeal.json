@@ -1,17 +1,17 @@
 [
   {
     "Version": "0.9.1",
-    "Date": "28/7/2026",
+    "Date": "2026-07-28T20:54:47",
     "Size": 89567232,
     "Sha256": "e7fd85f3e0606d2f4dcb671b559691db13be6b50ca40606ee815ff6a350a9202",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/zealdocs/zeal/releases/download/v0.9.1/zeal-0.9.1-windows-arm64.msi"
   },
   {
     "Version": "0.9.1",
-    "Date": "28/7/2026",
+    "Date": "2026-07-28T20:54:47",
     "Size": 110329856,
     "Sha256": "cc6108100167637e60595c8c7372e2406ff5cb5d3954b40f130121e6d0fd20c9",
     "Architecture": "x64",

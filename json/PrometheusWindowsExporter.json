@@ -1,42 +1,42 @@
 [
   {
-    "Version": "0.32.0",
-    "Date": "22/10/2026",
-    "Size": 30619576,
-    "Sha256": "eb6ca0cbf86048d919937f2d2b0c9c6bfc231f511fb2460c16cb574f1fa9ecee",
-    "Architecture": "ARM64",
+    "Version": "0.32.1",
+    "Date": "2026-10-29T16:19:00",
+    "Size": 30694840,
+    "Sha256": "686e204d169c25d1060d3197bfd11478bfe7ce667d9c0910ee90ceb6271dc58d",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/prometheus-community/windows_exporter/releases/download/v0.32.0/windows_exporter-0.32.0-arm64.exe"
+    "URI": "https://github.com/prometheus-community/windows_exporter/releases/download/v0.32.1/windows_exporter-0.32.1-arm64.exe"
   },
   {
-    "Version": "0.32.0",
-    "Date": "22/10/2026",
-    "Size": 33358776,
-    "Sha256": "ca811672573c930c6ba0dd0fd9ac3e010b74b4e951595485fc04d06e7c608687",
+    "Version": "0.32.1",
+    "Date": "2026-10-29T16:19:00",
+    "Size": 33450928,
+    "Sha256": "da0e3d3bd45a32feed3ae966225a2892cf3fdbc0918cf6ea4971befa17295dea",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/prometheus-community/windows_exporter/releases/download/v0.32.0/windows_exporter-0.32.0-amd64.exe"
+    "URI": "https://github.com/prometheus-community/windows_exporter/releases/download/v0.32.1/windows_exporter-0.32.1-amd64.exe"
   },
   {
-    "Version": "0.32.0",
-    "Date": "22/10/2026",
-    "Size": 13590528,
-    "Sha256": "30e3639f33c5674a61c94b4c57375d999592173576765d3918c75b806fe25297",
-    "Architecture": "ARM64",
+    "Version": "0.32.1",
+    "Date": "2026-10-29T16:19:00",
+    "Size": 13623296,
+    "Sha256": "fb5fe27adee598d38015b7e5d619da75a805114c58af5946cdcc7151b5ff0e09",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/prometheus-community/windows_exporter/releases/download/v0.32.0/windows_exporter-0.32.0-arm64.msi"
+    "URI": "https://github.com/prometheus-community/windows_exporter/releases/download/v0.32.1/windows_exporter-0.32.1-arm64.msi"
   },
   {
-    "Version": "0.32.0",
-    "Date": "22/10/2026",
-    "Size": 14614528,
-    "Sha256": "d48ebad7999aac5603fe01007016a0ddbcecbc1aa0ecbc51867a2416b6c60a7d",
+    "Version": "0.32.1",
+    "Date": "2026-10-29T16:19:00",
+    "Size": 14643200,
+    "Sha256": "8e1ade6a2fbcdeb4774c300b598667cd7888246be8fcc4b586d11b3680433981",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/prometheus-community/windows_exporter/releases/download/v0.32.0/windows_exporter-0.32.0-amd64.msi"
+    "URI": "https://github.com/prometheus-community/windows_exporter/releases/download/v0.32.1/windows_exporter-0.32.1-amd64.msi"
   }
 ]

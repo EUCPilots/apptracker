@@ -1,17 +1,17 @@
 [
   {
     "Version": "2.6.1",
-    "Date": "6/10/2025",
+    "Date": "2025-10-06T11:26:48",
     "Size": 1966080,
     "Sha256": "540c245c73b64cafb682182e020ec9b6f0ad2b5402dd0066e13a253a12c7e278",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/gerardog/gsudo/releases/download/v2.6.1/gsudo.setup.arm64.msi"
   },
   {
     "Version": "2.6.1",
-    "Date": "6/10/2025",
+    "Date": "2025-10-06T11:26:48",
     "Size": 2002944,
     "Sha256": "a0049fd974f1a1e7e133ec31fbd420843e75d49459391ec343b6e7883bfcb895",
     "Architecture": "x64",
@@ -21,7 +21,7 @@
   },
   {
     "Version": "2.6.1",
-    "Date": "6/10/2025",
+    "Date": "2025-10-06T11:26:48",
     "Size": 1847296,
     "Sha256": "3f8856ece8d045d8bc8c172a374a7ee643aa064d559aa6a67edf9cf1771ff09e",
     "Architecture": "x86",
@@ -31,7 +31,7 @@
   },
   {
     "Version": "2.6.1",
-    "Date": "6/10/2025",
+    "Date": "2025-10-06T11:26:48",
     "Size": 5998522,
     "Sha256": "21130bf178d7b9891207f00bff56f05b6b363ce9cec7b2d084e45fb12ee51f44",
     "Architecture": "x86",

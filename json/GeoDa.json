@@ -1,27 +1,17 @@
 [
   {
     "Version": "1.22.1",
-    "Date": "26/8/2026",
+    "Date": "2026-08-26T11:18:59",
     "Size": 47157431,
     "Sha256": "4184cfcafae6b5d18b4cf5a56b15a12ba2fac03e5221fc8fd826ba91bc1724fe",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/GeoDaCenter/geoda/releases/download/v1.22.1/GeoDa_1.22.1_arm64_Setup.exe"
   },
   {
     "Version": "1.22.1",
-    "Date": "26/8/2026",
-    "Size": 50308988,
-    "Sha256": "2dbd5aea49e2782c3b4bda18f9c51323e7d486ec1853fec84f4be6dc756b1119",
-    "Architecture": "x64",
-    "InstallerType": "Default",
-    "Type": "exe",
-    "URI": "https://github.com/GeoDaCenter/geoda/releases/download/v1.22.1/GeoDa_1.22.1_win7%2Bx64_Setup.exe"
-  },
-  {
-    "Version": "1.22.1",
-    "Date": "26/8/2026",
+    "Date": "2026-08-26T11:18:59",
     "Size": 50308842,
     "Sha256": "660f7291266c9003af37cad743ce34dc74e73106776eefc6f1c2351c85d6309e",
     "Architecture": "x64",
@@ -31,7 +21,17 @@
   },
   {
     "Version": "1.22.1",
-    "Date": "26/8/2026",
+    "Date": "2026-08-26T11:18:59",
+    "Size": 50308988,
+    "Sha256": "2dbd5aea49e2782c3b4bda18f9c51323e7d486ec1853fec84f4be6dc756b1119",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/GeoDaCenter/geoda/releases/download/v1.22.1/GeoDa_1.22.1_win7%2Bx64_Setup.exe"
+  },
+  {
+    "Version": "1.22.1",
+    "Date": "2026-08-26T11:18:59",
     "Size": 47232014,
     "Sha256": "1ee468c32259dfc8ccf9ec155350ca46fbb4bbe1bdff473b8f62b80cf6cf3504",
     "Architecture": "x86",
@@ -41,7 +41,7 @@
   },
   {
     "Version": "1.22.1",
-    "Date": "26/8/2026",
+    "Date": "2026-08-26T11:18:59",
     "Size": 47231978,
     "Sha256": "7375260a6f7059798668ee523a33e885cc3cf7f827126f2bca7094c111ec3559",
     "Architecture": "x86",

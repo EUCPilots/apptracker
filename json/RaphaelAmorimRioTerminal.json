@@ -1,17 +1,17 @@
 [
   {
     "Version": "0.5.28",
-    "Date": "17/9/2026",
+    "Date": "2026-09-17T20:13:40",
     "Size": 22241280,
     "Sha256": "f1236741544923cae67a7f8812c5c8cfec729bc038d07920bbc677186941a003",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Portable",
     "Type": "exe",
     "URI": "https://github.com/raphamorim/rio/releases/download/v0.5.28/rio-portable-aarch64.exe"
   },
   {
     "Version": "0.5.28",
-    "Date": "17/9/2026",
+    "Date": "2026-09-17T20:13:40",
     "Size": 24653312,
     "Sha256": "7c567ee7f512694caab13fc01517c191a3ff6c3acc1942eb619b53bcd3a00180",
     "Architecture": "x64",
@@ -21,17 +21,17 @@
   },
   {
     "Version": "0.5.28",
-    "Date": "17/9/2026",
+    "Date": "2026-09-17T20:13:40",
     "Size": 9003008,
     "Sha256": "e9cec1728670d6af37dccc4bf7422320d0a122181d28f55706376084d2d8117d",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/raphamorim/rio/releases/download/v0.5.28/rio-installer-aarch64.msi"
   },
   {
     "Version": "0.5.28",
-    "Date": "17/9/2026",
+    "Date": "2026-09-17T20:13:40",
     "Size": 9687040,
     "Sha256": "78fddd38bd5d6934fc01061811f9d5f6badb460aad73701bc52062107d90bb68",
     "Architecture": "x64",

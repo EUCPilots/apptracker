@@ -1,17 +1,17 @@
 [
   {
     "Version": "0.26.0",
-    "Date": "28/10/2026",
+    "Date": "2026-10-28T19:24:03",
     "Size": 28999680,
     "Sha256": "8f0554b3384f323be08256852f76d20ff8b8832859ecb3390de6a076725253e1",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/mickem/nscp/releases/download/0.26.0/NSCP-0.26.0-ARM64.msi"
   },
   {
     "Version": "0.26.0",
-    "Date": "28/10/2026",
+    "Date": "2026-10-28T19:24:03",
     "Size": 35573760,
     "Sha256": "3f85470365c498986cf37f3dc7bcc060dda2cf8aa35b4e8a234831a477470dbc",
     "Architecture": "x64",
@@ -21,7 +21,7 @@
   },
   {
     "Version": "0.26.0",
-    "Date": "28/10/2026",
+    "Date": "2026-10-28T19:24:03",
     "Size": 91979776,
     "Sha256": "fcffca16a831f45439ea9755156420e68386494ad03e7a3c0f1488888498288f",
     "Architecture": "x86",
@@ -31,7 +31,7 @@
   },
   {
     "Version": "0.26.0",
-    "Date": "28/10/2026",
+    "Date": "2026-10-28T19:24:03",
     "Size": 28008448,
     "Sha256": "8bdce97324989274771d0aa6f19b1fc9e5a2475689b565feaa46356750033c14",
     "Architecture": "x86",

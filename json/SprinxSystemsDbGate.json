@@ -1,27 +1,27 @@
 [
   {
     "Version": "7.3.3",
-    "Date": "27/10/2026",
+    "Date": "2026-10-27T12:03:45",
     "Size": 145797408,
     "Sha256": "bd5676e77308a6aa585c00064095d3da470775cb6276ba6614f6549441cae2ac",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/dbgate/dbgate/releases/download/v7.3.3/dbgate-7.3.3-win_arm64.exe"
   },
   {
     "Version": "7.3.3",
-    "Date": "27/10/2026",
+    "Date": "2026-10-27T12:03:45",
     "Size": 145797408,
     "Sha256": "bd5676e77308a6aa585c00064095d3da470775cb6276ba6614f6549441cae2ac",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/dbgate/dbgate/releases/download/v7.3.3/dbgate-windows-latest-arm64.exe"
   },
   {
     "Version": "7.3.3",
-    "Date": "27/10/2026",
+    "Date": "2026-10-27T12:03:45",
     "Size": 151736768,
     "Sha256": "9e4759d6cc7fefb85bfe947869163608528fe11c922a42065b611187efba2f84",
     "Architecture": "x64",
@@ -31,7 +31,7 @@
   },
   {
     "Version": "7.3.3",
-    "Date": "27/10/2026",
+    "Date": "2026-10-27T12:03:45",
     "Size": 166391360,
     "Sha256": "00e9aae3153dd89f74673adc591f2912b2bc7ee88b9a0cf9dbb1bec53edde3ae",
     "Architecture": "x64",
@@ -41,7 +41,7 @@
   },
   {
     "Version": "7.3.3",
-    "Date": "27/10/2026",
+    "Date": "2026-10-27T12:03:45",
     "Size": 296734360,
     "Sha256": "b49a880f9dece2bb8305cac977ed2376d06735e4d378e23156013f765e5c307f",
     "Architecture": "x86",
@@ -51,7 +51,7 @@
   },
   {
     "Version": "7.3.3",
-    "Date": "27/10/2026",
+    "Date": "2026-10-27T12:03:45",
     "Size": 296734360,
     "Sha256": "b49a880f9dece2bb8305cac977ed2376d06735e4d378e23156013f765e5c307f",
     "Architecture": "x86",
@@ -61,7 +61,7 @@
   },
   {
     "Version": "7.3.3",
-    "Date": "27/10/2026",
+    "Date": "2026-10-27T12:03:45",
     "Size": 166391360,
     "Sha256": "00e9aae3153dd89f74673adc591f2912b2bc7ee88b9a0cf9dbb1bec53edde3ae",
     "Architecture": "x86",

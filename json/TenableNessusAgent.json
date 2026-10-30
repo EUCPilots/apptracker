@@ -5,7 +5,7 @@
     "Size": 17977344,
     "Md5": "57c45fa6be4adddf0155f93b7374cb2d",
     "Sha256": "4101fd077222100de3fe1b5b34075660141586cb310df27b684026e8dd9fd4be",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "Type": "msi",
     "URI": "https://www.tenable.com/downloads/api/v2/pages/nessus-agents/files/NessusAgent-11.2.3-arm64.msi"
   },

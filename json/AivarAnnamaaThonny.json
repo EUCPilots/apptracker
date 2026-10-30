@@ -1,17 +1,17 @@
 [
   {
     "Version": "5.0.1",
-    "Date": "28/10/2026",
+    "Date": "2026-10-28T21:45:50",
     "Size": 29288584,
     "Sha256": "907f61d2cdc07ced9a7320886968fc7669d63f67728ea2102b3870598c2036ab",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/thonny/thonny/releases/download/v5.0.1/thonny-5.0.1-arm64.exe"
   },
   {
     "Version": "5.0.1",
-    "Date": "28/10/2026",
+    "Date": "2026-10-28T21:45:50",
     "Size": 31109656,
     "Sha256": "a2b04784cd2ee7d4c22ed46865de5e8ba6eaf55950543ef9546374f53cf778a5",
     "Architecture": "x64",

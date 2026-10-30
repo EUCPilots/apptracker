@@ -1,47 +1,47 @@
 [
   {
     "Version": "1.30.5",
-    "Date": "13/10/2026",
+    "Date": "2026-10-13T07:31:46",
     "Size": 155488328,
     "Sha256": "d0c04c6996c45b5896bf45b742f7ba1f9ae19921b35974362d5bf9340a38d0a9",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Portable",
     "Type": "exe",
     "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-arm64.exe"
   },
   {
     "Version": "1.30.5",
-    "Date": "13/10/2026",
+    "Date": "2026-10-13T07:31:46",
     "Size": 155765472,
     "Sha256": "ba5feb232e8dfe37136505a92e7e808a0de96fba78eb3d1757e7b86b4db7bea4",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-setup-arm64.exe"
   },
   {
     "Version": "1.30.5",
-    "Date": "13/10/2026",
+    "Date": "2026-10-13T07:31:46",
     "Size": 389520760,
     "Sha256": "ac606706431e2af5e959133a4e656b922038772282d2fe84315d25005429c30a",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Portable",
     "Type": "exe",
     "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-arm64.exe"
   },
   {
     "Version": "1.30.5",
-    "Date": "13/10/2026",
+    "Date": "2026-10-13T07:31:46",
     "Size": 389797920,
     "Sha256": "62ac7ba3d17809f955603e55499d794f7cf591c5bac618bec987f8632e006f75",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Airgap",
     "Type": "exe",
     "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-setup-arm64.exe"
   },
   {
     "Version": "1.30.5",
-    "Date": "13/10/2026",
+    "Date": "2026-10-13T07:31:46",
     "Size": 162833128,
     "Sha256": "0689d9389853a5256c2b0ce7a09c012399948a5df4c9c4d4735c09de1bbe6928",
     "Architecture": "x64",
@@ -51,7 +51,7 @@
   },
   {
     "Version": "1.30.5",
-    "Date": "13/10/2026",
+    "Date": "2026-10-13T07:31:46",
     "Size": 162555496,
     "Sha256": "d1e877d5e004bda0c0a7a2f18ea5f7fed7a536efe34a998c4cccb345330f7e2e",
     "Architecture": "x64",
@@ -61,7 +61,7 @@
   },
   {
     "Version": "1.30.5",
-    "Date": "13/10/2026",
+    "Date": "2026-10-13T07:31:46",
     "Size": 411427456,
     "Sha256": "a386ccda7c62ad57e620a8c85a06b59a6624ff5eb099139a0b1fd35fb88c2080",
     "Architecture": "x64",
@@ -71,7 +71,7 @@
   },
   {
     "Version": "1.30.5",
-    "Date": "13/10/2026",
+    "Date": "2026-10-13T07:31:46",
     "Size": 411149824,
     "Sha256": "e7f2726f34f0a6fc1a4348d0aae666f37a71da0dbfa44b8a0a38cc364caca5bb",
     "Architecture": "x64",
@@ -81,7 +81,7 @@
   },
   {
     "Version": "1.30.5",
-    "Date": "13/10/2026",
+    "Date": "2026-10-13T07:31:46",
     "Size": 317900448,
     "Sha256": "2ede9346c2157d0a7955ea3232753449f4ef589cfdccaa11e0d915c5da532aa9",
     "Architecture": "x86",
@@ -91,7 +91,7 @@
   },
   {
     "Version": "1.30.5",
-    "Date": "13/10/2026",
+    "Date": "2026-10-13T07:31:46",
     "Size": 317623080,
     "Sha256": "0aec7caa4b8e662d57aef46ebcaa03c1842e39ae8861056ade479ad6a4ae79ed",
     "Architecture": "x86",
@@ -101,7 +101,7 @@
   },
   {
     "Version": "1.30.5",
-    "Date": "13/10/2026",
+    "Date": "2026-10-13T07:31:46",
     "Size": 800527216,
     "Sha256": "008ddb481a4b75cc767e2eb751439bb46788f656a4a5cf01fb41744bd6b8fa78",
     "Architecture": "x86",
@@ -111,7 +111,7 @@
   },
   {
     "Version": "1.30.5",
-    "Date": "13/10/2026",
+    "Date": "2026-10-13T07:31:46",
     "Size": 800249848,
     "Sha256": "9178bfab44be0957a18be16de6e73274045be5429f01335978d610cb8d416950",
     "Architecture": "x86",

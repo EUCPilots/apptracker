@@ -2,13 +2,13 @@
   {
     "Version": "3.27.22",
     "Platform": "win32-arm64",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "URI": "https://downloads.cursor.com/production/b1aa50cb6db84fd3e8c808259cb172ea73425c1f/win32/arm64/system-setup/CursorSetup-arm64-3.27.22.exe"
   },
   {
     "Version": "3.27.22",
     "Platform": "win32-arm64-user",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "URI": "https://downloads.cursor.com/production/b1aa50cb6db84fd3e8c808259cb172ea73425c1f/win32/arm64/user-setup/CursorUserSetup-arm64-3.27.22.exe"
   },
   {

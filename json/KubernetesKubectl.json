@@ -2,7 +2,7 @@
   {
     "Version": "1.37.2",
     "Platform": "Windows",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "URI": "https://dl.k8s.io/release/v1.37.2/bin/windows/arm64/kubectl.exe"
   },
   {

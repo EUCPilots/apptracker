@@ -1,16 +1,20 @@
 [
   {
     "Version": "17.0.16+8",
-    "Date": "2025-07-22T17:09:16Z",
+    "Date": "2025-07-22T17:09:16",
     "ImageType": "jdk",
+    "Checksum": null,
+    "Size": null,
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/July_2025/java-17-openjdk-17.0.16.0.8-1.win.jdk.x86_64.msi"
   },
   {
     "Version": "17.0.16+8",
-    "Date": "2025-07-22T17:09:16Z",
+    "Date": "2025-07-22T17:09:16",
     "ImageType": "jre",
+    "Checksum": null,
+    "Size": null,
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/July_2025/java-17-openjdk-17.0.16.0.8-1.win.jre.x86_64.msi"

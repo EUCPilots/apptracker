@@ -1,17 +1,17 @@
 [
   {
     "Version": "2.8.0",
-    "Date": "21/10/2026",
+    "Date": "2026-10-21T14:55:52",
     "Size": 58859520,
     "Sha256": "85eb8f60a7780136b82d672b834822b7047e773d824459acce4f118c4bfde1c1",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-ARM64.msi"
   },
   {
     "Version": "2.8.0",
-    "Date": "21/10/2026",
+    "Date": "2026-10-21T14:55:52",
     "Size": 69419008,
     "Sha256": "4f105af5ba780428718c8be5614cf95deceed5cb3b474a9bd624c5df81cec6e5",
     "Architecture": "x64",

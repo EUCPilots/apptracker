@@ -1,17 +1,17 @@
 [
   {
     "Version": "0.37.1",
-    "Date": "20/7/2026",
+    "Date": "2026-07-20T10:24:30",
     "Size": 1645924,
     "Sha256": "30889cca635b794b327a59664ac9657bc338e62e1c66d01e40a8c422ff524057",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "zip",
     "URI": "https://github.com/mozilla/geckodriver/releases/download/v0.37.1/geckodriver-v0.37.1-win-aarch64.zip"
   },
   {
     "Version": "0.37.1",
-    "Date": "20/7/2026",
+    "Date": "2026-07-20T10:24:30",
     "Size": 1780114,
     "Sha256": "dfed9315abe8d2fbc1b6161a2ee8002452e79cf05ee92fdc653a4e26bc35edd8",
     "Architecture": "x64",
@@ -21,7 +21,7 @@
   },
   {
     "Version": "0.37.1",
-    "Date": "20/7/2026",
+    "Date": "2026-07-20T10:24:30",
     "Size": 1698255,
     "Sha256": "7b4bfd914e24a843db2dc38ba515086d28828601aaf443e9d2664918e343fb99",
     "Architecture": "x86",

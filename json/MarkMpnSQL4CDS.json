@@ -1,7 +1,7 @@
 [
   {
     "Version": "10.5.1",
-    "Date": "5/9/2026",
+    "Date": "2026-09-05T19:19:59",
     "Size": 30088151,
     "Sha256": "27f1b1bc2d3b37b1aa838b4a2cb341d0f8c3e677fc082bcf73754e8288c594d4",
     "Architecture": "x86",
@@ -11,7 +11,17 @@
   },
   {
     "Version": "10.5.1",
-    "Date": "5/9/2026",
+    "Date": "2026-09-05T19:19:59",
+    "Size": 5540623,
+    "Sha256": "ca69fb12d7c8f538ff8df63a04e820f0920697f454df0380e9a3196f65299ae6",
+    "Architecture": "x86",
+    "InstallerType": "Debug",
+    "Type": "vsix",
+    "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.5.1/MarkMpn.Sql4Cds.DebugVisualizer.DebuggerSide.vsix"
+  },
+  {
+    "Version": "10.5.1",
+    "Date": "2026-09-05T19:19:59",
     "Size": 9439443,
     "Sha256": "5438a1e96b769c9178cfc13dc4f84e6678a69f012b0f2ac4f69f7a6e72ab29bb",
     "Architecture": "x86",

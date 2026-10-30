@@ -1,17 +1,17 @@
 [
   {
     "Version": "2.9.3",
-    "Date": "11/10/2026",
+    "Date": "2026-10-11T22:26:08",
     "Size": 2396160,
     "Sha256": "4b6867dffbb0687cabfcf0a89031c95a0cbb40b36615bb73dad80e4804d59f71",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/windirstat/windirstat/releases/download/release/v2.9.3/WinDirStat-arm64.msi"
   },
   {
     "Version": "2.9.3",
-    "Date": "11/10/2026",
+    "Date": "2026-10-11T22:26:08",
     "Size": 2486272,
     "Sha256": "96c4c4beb63c7c5ad6b1a206f96560d7a9a2b6063f3cd175a82f392977a9af5d",
     "Architecture": "x64",
@@ -21,7 +21,7 @@
   },
   {
     "Version": "2.9.3",
-    "Date": "11/10/2026",
+    "Date": "2026-10-11T22:26:08",
     "Size": 2334720,
     "Sha256": "077bdbbe2909db10020d8cc00dfdd7765ccf13babb0bc2fb7e32667041671c94",
     "Architecture": "x86",
@@ -31,17 +31,17 @@
   },
   {
     "Version": "2.9.3",
-    "Date": "11/10/2026",
+    "Date": "2026-10-11T22:26:08",
     "Size": 1510823,
     "Sha256": "5e49d4be349ac3812943e2a26f86b26165f7026da4f33de87910592939a6efc3",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msix",
     "URI": "https://github.com/windirstat/windirstat/releases/download/release/v2.9.3/WinDirStat_arm64.msix"
   },
   {
     "Version": "2.9.3",
-    "Date": "11/10/2026",
+    "Date": "2026-10-11T22:26:08",
     "Size": 1634056,
     "Sha256": "5a53bc76396b33297eff88c7255a237d841d9b6bd9e9cc40af5f4e7133b45845",
     "Architecture": "x64",
@@ -51,7 +51,7 @@
   },
   {
     "Version": "2.9.3",
-    "Date": "11/10/2026",
+    "Date": "2026-10-11T22:26:08",
     "Size": 1413492,
     "Sha256": "c5e5bf3dd3209cebd474468c5e75ec12575a63f969ef0cf14a7df3957685bfc0",
     "Architecture": "x86",
@@ -61,10 +61,10 @@
   },
   {
     "Version": "2.9.3",
-    "Date": "11/10/2026",
+    "Date": "2026-10-11T22:26:08",
     "Size": 4568372,
     "Sha256": "26d51657a2232e35c85f51064b7db552578781217bb15c1eaa80a52bba398d43",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msixbundle",
     "URI": "https://github.com/windirstat/windirstat/releases/download/release/v2.9.3/WinDirStat_x86_x64_arm64.msixbundle"

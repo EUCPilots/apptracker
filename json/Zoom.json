@@ -5,7 +5,7 @@
     "Installer": "User",
     "Size": 119701864,
     "Type": "exe",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "URI": "https://cdn.zoom.us/prod/7.2.1.48556/arm64/ZoomInstallerFull.exe"
   },
   {
@@ -23,7 +23,7 @@
     "Installer": "Admin",
     "Size": 160147456,
     "Type": "msi",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "URI": "https://cdn.zoom.us/prod/7.2.1.48556/arm64/ZoomInstallerFull.msi"
   },
   {

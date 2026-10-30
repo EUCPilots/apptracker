@@ -4,7 +4,7 @@
     "Python": 100,
     "md5": "",
     "Size": 10829824,
-    "Date": "9/10/2026",
+    "Date": "2026-10-09T14:58:02",
     "Type": "msi",
     "Architecture": "x86",
     "URI": "https://www.python.org/ftp/python/pymanager/python-manager-26.4.msi"
@@ -14,9 +14,9 @@
     "Python": 3,
     "md5": "",
     "Size": 36952392,
-    "Date": "25/10/2026",
+    "Date": "2026-10-25T04:15:38",
     "Type": "exe",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "URI": "https://www.python.org/ftp/python/3.15.2/python-3.15.2-arm64.exe"
   },
   {
@@ -24,7 +24,7 @@
     "Python": 3,
     "md5": "",
     "Size": 37694360,
-    "Date": "25/10/2026",
+    "Date": "2026-10-25T04:15:38",
     "Type": "exe",
     "Architecture": "x64",
     "URI": "https://www.python.org/ftp/python/3.15.2/python-3.15.2-amd64.exe"
@@ -34,7 +34,7 @@
     "Python": 3,
     "md5": "",
     "Size": 35929848,
-    "Date": "25/10/2026",
+    "Date": "2026-10-25T04:15:38",
     "Type": "exe",
     "Architecture": "x86",
     "URI": "https://www.python.org/ftp/python/3.15.2/python-3.15.2.exe"
@@ -42,21 +42,21 @@
   {
     "Version": "2.7.18",
     "Python": 2,
-    "md5": "a425c758d38f8e28b56f4724b499239a",
-    "Size": 20598784,
-    "Date": "20/4/2020",
+    "md5": "db6ad9195b3086c6b4cefb9493d738d2",
+    "Size": 19632128,
+    "Date": "2020-04-20T14:18:29",
     "Type": "msi",
-    "Architecture": "x64",
-    "URI": "https://www.python.org/ftp/python/2.7.18/python-2.7.18.amd64.msi"
+    "Architecture": "x86",
+    "URI": "https://www.python.org/ftp/python/2.7.18/python-2.7.18.msi"
   },
   {
     "Version": "2.7.18",
     "Python": 2,
-    "md5": "db6ad9195b3086c6b4cefb9493d738d2",
-    "Size": 19632128,
-    "Date": "20/4/2020",
+    "md5": "a425c758d38f8e28b56f4724b499239a",
+    "Size": 20598784,
+    "Date": "2020-04-20T14:18:29",
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://www.python.org/ftp/python/2.7.18/python-2.7.18.msi"
+    "URI": "https://www.python.org/ftp/python/2.7.18/python-2.7.18.amd64.msi"
   }
 ]

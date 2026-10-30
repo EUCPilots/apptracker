@@ -1,27 +1,27 @@
 [
   {
     "Version": "0.12.0",
-    "Date": "23/4/2026",
+    "Date": "2026-04-23T00:40:47",
     "Size": 209232100,
     "Sha256": "3564f910d15820445993e37a139314900d095d71c94272567af72631d8f97565",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/tareqimbasher/NetPad/releases/download/v0.12.0/netpad-0.12.0-win-arm64.exe"
   },
   {
     "Version": "0.12.0",
-    "Date": "23/4/2026",
+    "Date": "2026-04-23T00:40:47",
     "Size": 85925424,
     "Sha256": "f37d0563ecf58020e936f8c0115e72e65e47215ad92c56f87da318cd3502b9b5",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/tareqimbasher/NetPad/releases/download/v0.12.0/netpad_vnext-0.12.0-win-arm64.exe"
   },
   {
     "Version": "0.12.0",
-    "Date": "23/4/2026",
+    "Date": "2026-04-23T00:40:47",
     "Size": 213146431,
     "Sha256": "cdfb2b7310707a12be5959eaae823a04ccbab1765b3e11e22f4b62abe5f23d8e",
     "Architecture": "x64",
@@ -31,7 +31,7 @@
   },
   {
     "Version": "0.12.0",
-    "Date": "23/4/2026",
+    "Date": "2026-04-23T00:40:47",
     "Size": 93938513,
     "Sha256": "470ec52f1134a957623f2881e495222ef6df5bf8384783aac68a9a3a8ca4a737",
     "Architecture": "x64",
@@ -41,17 +41,17 @@
   },
   {
     "Version": "0.12.0",
-    "Date": "23/4/2026",
+    "Date": "2026-04-23T00:40:47",
     "Size": 122274716,
     "Sha256": "2e289612c5b5b06dda35cf2271cea3fd434896751d7480e59ea1d4f7bd430f3e",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/tareqimbasher/NetPad/releases/download/v0.12.0/netpad_vnext-0.12.0-win-arm64.msi"
   },
   {
     "Version": "0.12.0",
-    "Date": "23/4/2026",
+    "Date": "2026-04-23T00:40:47",
     "Size": 126800796,
     "Sha256": "c866f30c751898d0695a7ed4e1efdddeead193b5ac32d382fab584a33c06c0ca",
     "Architecture": "x64",

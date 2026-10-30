@@ -3,6 +3,22 @@
     "Version": "11.92.109.0",
     "JavaVersion": "11.0.33+9",
     "ImageType": "JRE",
+    "Architecture": "Unknown",
+    "Type": "msi",
+    "URI": "https://cdn.azul.com/zulu/bin/zulu11.92.109-ca-jre11.0.33-win_i686.msi"
+  },
+  {
+    "Version": "11.92.109.0",
+    "JavaVersion": "11.0.33+9",
+    "ImageType": "JDK",
+    "Architecture": "Unknown",
+    "Type": "msi",
+    "URI": "https://cdn.azul.com/zulu/bin/zulu11.92.109-ca-jdk11.0.33-win_i686.msi"
+  },
+  {
+    "Version": "11.92.109.0",
+    "JavaVersion": "11.0.33+9",
+    "ImageType": "JRE",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://cdn.azul.com/zulu/bin/zulu11.92.109-ca-jre11.0.33-win_x64.msi"
@@ -19,17 +35,17 @@
     "Version": "11.92.109.0",
     "JavaVersion": "11.0.33+9",
     "ImageType": "JRE",
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu11.92.109-ca-jre11.0.33-win_i686.msi"
+    "Architecture": "Unknown",
+    "Type": "zip",
+    "URI": "https://cdn.azul.com/zulu/bin/zulu11.92.109-ca-jre11.0.33-win_i686.zip"
   },
   {
     "Version": "11.92.109.0",
     "JavaVersion": "11.0.33+9",
     "ImageType": "JDK",
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu11.92.109-ca-jdk11.0.33-win_i686.msi"
+    "Architecture": "Unknown",
+    "Type": "zip",
+    "URI": "https://cdn.azul.com/zulu/bin/zulu11.92.109-ca-jdk11.0.33-win_i686.zip"
   },
   {
     "Version": "11.92.109.0",
@@ -46,21 +62,5 @@
     "Architecture": "x64",
     "Type": "zip",
     "URI": "https://cdn.azul.com/zulu/bin/zulu11.92.109-ca-jdk11.0.33-win_x64.zip"
-  },
-  {
-    "Version": "11.92.109.0",
-    "JavaVersion": "11.0.33+9",
-    "ImageType": "JRE",
-    "Architecture": "x86",
-    "Type": "zip",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu11.92.109-ca-jre11.0.33-win_i686.zip"
-  },
-  {
-    "Version": "11.92.109.0",
-    "JavaVersion": "11.0.33+9",
-    "ImageType": "JDK",
-    "Architecture": "x86",
-    "Type": "zip",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu11.92.109-ca-jdk11.0.33-win_i686.zip"
   }
 ]

@@ -1,17 +1,17 @@
 [
   {
     "Version": "0.46.0",
-    "Date": "15/10/2026",
+    "Date": "2026-10-15T23:09:17",
     "Size": 122101368,
     "Sha256": "eab7bff734b3cafdbc8c2a4525bd0be6aefed6a66b1e4f4ea870f1fa7159c817",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.46.0/Headlamp-0.46.0-win-arm64.exe"
   },
   {
     "Version": "0.46.0",
-    "Date": "15/10/2026",
+    "Date": "2026-10-15T23:09:17",
     "Size": 128297356,
     "Sha256": "8169fadd6291c125266182e8566ecdef835d6e0e7b0a7c9ec16be660ee02c67a",
     "Architecture": "x64",
@@ -21,7 +21,7 @@
   },
   {
     "Version": "0.46.0",
-    "Date": "15/10/2026",
+    "Date": "2026-10-15T23:09:17",
     "Size": 171320777,
     "Sha256": "595e97a2046bd29faba0c2ffdab6679e030d6b44e1bba79f1d24120a989d8667",
     "Architecture": "x64",

@@ -1,17 +1,17 @@
 [
   {
     "Version": "2.16.60",
-    "Date": "27/10/2026",
+    "Date": "2026-10-27T12:37:19",
     "Size": 19468088,
     "Sha256": "6bd632957d3a89fa8d7bc724d509e000a12bfa8141000a8925c0847bd6457fde",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.60/WinMerge-2.16.60-ARM64-Setup.exe"
   },
   {
     "Version": "2.16.60",
-    "Date": "27/10/2026",
+    "Date": "2026-10-27T12:37:19",
     "Size": 18686216,
     "Sha256": "35217e6b3bb981e37b7ce3858e686e4ee3afe5cb7820ff5960258829fea0ba03",
     "Architecture": "x64",
@@ -21,7 +21,7 @@
   },
   {
     "Version": "2.16.60",
-    "Date": "27/10/2026",
+    "Date": "2026-10-27T12:37:19",
     "Size": 18697696,
     "Sha256": "ed01097f60b63b3e7d58b3036064c40f05504a47c23c231a1081142295815f7f",
     "Architecture": "x64",
@@ -31,7 +31,7 @@
   },
   {
     "Version": "2.16.60",
-    "Date": "27/10/2026",
+    "Date": "2026-10-27T12:37:19",
     "Size": 17628256,
     "Sha256": "2fbc886be8b28d8d542aafe430e4440b449d2e4107bd13cdb5c9238d165a2329",
     "Architecture": "x86",

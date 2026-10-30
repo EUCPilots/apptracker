@@ -1,17 +1,17 @@
 [
   {
     "Version": "26.9.27",
-    "Date": "27/9/2026",
+    "Date": "2026-09-27T19:03:13",
     "Size": 117265384,
     "Sha256": "364ef9bf0b2319c154280137415bf62d332ea1f584656b75f81259c20712a807",
-    "Architecture": "ARM",
+    "Architecture": "arm",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-win_ARM-26.9.27.exe"
   },
   {
     "Version": "26.9.27",
-    "Date": "27/9/2026",
+    "Date": "2026-09-27T19:03:13",
     "Size": 152926384,
     "Sha256": "77e1ee1f713d92bdbaff23266f416e33cde3d367f7ef518b1841ddc961d05af9",
     "Architecture": "x64",

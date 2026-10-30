@@ -1,17 +1,17 @@
 [
   {
     "Version": "4.9.9",
-    "Date": "23/10/2026",
+    "Date": "2026-10-23T15:19:59",
     "Size": 139711256,
     "Sha256": "febe8fe81a8fc1efe7f045139674aac154d3a72b380817f2c6c1f21de4d99802",
-    "Architecture": "ARM",
+    "Architecture": "arm",
     "InstallerType": "Qt6",
     "Type": "exe",
     "URI": "https://github.com/texstudio-org/texstudio/releases/download/4.9.9/texstudio-4.9.9-win-arm-qt6-signed.exe"
   },
   {
     "Version": "4.9.9",
-    "Date": "23/10/2026",
+    "Date": "2026-10-23T15:19:59",
     "Size": 154566552,
     "Sha256": "dce92577ac3c0a75ed7de350538ad5ab7505dca45979a7163950b07cde21d850",
     "Architecture": "x86",

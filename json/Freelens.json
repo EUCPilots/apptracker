@@ -1,27 +1,27 @@
 [
   {
     "Version": "2.0.0",
-    "Date": "28/10/2026",
+    "Date": "2026-10-28T11:23:32",
     "Size": 168457984,
     "Sha256": "894fb8370ffb509975bc407c5b12667ba5d274ce3f9c90eef586fcff1ddb4847",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/freelensapp/freelens/releases/download/v2.0.0/Freelens-2.0.0-windows-arm64.exe"
   },
   {
     "Version": "2.0.0",
-    "Date": "28/10/2026",
+    "Date": "2026-10-28T11:23:32",
     "Size": 142836904,
     "Sha256": "9c4d0e026cd59f9f5b8447f30d5ccf2be42bc268601064637255e2ff171ac691",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Portable",
     "Type": "exe",
     "URI": "https://github.com/freelensapp/freelens/releases/download/v2.0.0/Freelens-2.0.0-windows-portable-arm64.exe"
   },
   {
     "Version": "2.0.0",
-    "Date": "28/10/2026",
+    "Date": "2026-10-28T11:23:32",
     "Size": 178243904,
     "Sha256": "b777e99397aeec525f7d8a8e0f29b9550266a385c283338fd18c1003928d95b6",
     "Architecture": "x64",
@@ -31,7 +31,7 @@
   },
   {
     "Version": "2.0.0",
-    "Date": "28/10/2026",
+    "Date": "2026-10-28T11:23:32",
     "Size": 153382840,
     "Sha256": "b0d49360a78f506141cb7170dcfea24def733735a0ac39a44ac808ea8e51eaa9",
     "Architecture": "x64",
@@ -41,17 +41,17 @@
   },
   {
     "Version": "2.0.0",
-    "Date": "28/10/2026",
+    "Date": "2026-10-28T11:23:32",
     "Size": 177049600,
     "Sha256": "9ad9570204f153ca9c4adad8051556211622c59765a517be19e38dd261d72c92",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/freelensapp/freelens/releases/download/v2.0.0/Freelens-2.0.0-windows-arm64.msi"
   },
   {
     "Version": "2.0.0",
-    "Date": "28/10/2026",
+    "Date": "2026-10-28T11:23:32",
     "Size": 187215872,
     "Sha256": "08ccae8beabc2cd9bd789a2a8883ba5c8d9093a92fdfb2abcadd76c38603e483",
     "Architecture": "x64",

@@ -1,7 +1,7 @@
 [
   {
     "Version": "3.6.10",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "Type": "exe",
     "URI": "https://desktop.githubusercontent.com/releases/3.6.10-ffeefe5d/GitHubDesktopSetup-arm64.exe"
   },
@@ -13,7 +13,7 @@
   },
   {
     "Version": "3.6.10",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "Type": "msi",
     "URI": "https://desktop.githubusercontent.com/releases/3.6.10-ffeefe5d/GitHubDesktopSetup-arm64.msi"
   },

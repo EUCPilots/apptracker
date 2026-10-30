@@ -1,37 +1,37 @@
 [
   {
     "Version": "21.1.16.1",
-    "Date": "10/3/2025",
+    "Date": "2025-03-10T14:35:48",
     "Size": 43873685,
-    "Architecture": "x64",
+    "Architecture": "x86",
     "InstallerType": "Debug",
     "Type": "exe",
     "URI": "https://github.com/marchaesen/vcxsrv/releases/download/21.1.16.1/vcxsrv-64-debug.21.1.16.1.installer.exe"
   },
   {
     "Version": "21.1.16.1",
-    "Date": "10/3/2025",
+    "Date": "2025-03-10T14:35:48",
     "Size": 43875010,
-    "Architecture": "x64",
-    "InstallerType": "Admin",
+    "Architecture": "x86",
+    "InstallerType": "NoAdmin",
     "Type": "exe",
     "URI": "https://github.com/marchaesen/vcxsrv/releases/download/21.1.16.1/vcxsrv-64-debug.21.1.16.1.installer.noadmin.exe"
   },
   {
     "Version": "21.1.16.1",
-    "Date": "10/3/2025",
+    "Date": "2025-03-10T14:35:48",
     "Size": 42993397,
-    "Architecture": "x64",
+    "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/marchaesen/vcxsrv/releases/download/21.1.16.1/vcxsrv-64.21.1.16.1.installer.exe"
   },
   {
     "Version": "21.1.16.1",
-    "Date": "10/3/2025",
+    "Date": "2025-03-10T14:35:48",
     "Size": 42998523,
-    "Architecture": "x64",
-    "InstallerType": "Admin",
+    "Architecture": "x86",
+    "InstallerType": "NoAdmin",
     "Type": "exe",
     "URI": "https://github.com/marchaesen/vcxsrv/releases/download/21.1.16.1/vcxsrv-64.21.1.16.1.installer.noadmin.exe"
   }

@@ -1,67 +1,67 @@
 [
   {
     "Version": "7.1.2",
-    "Date": "14/10/2026",
+    "Date": "2026-10-14T20:25:16",
     "Size": 24337264,
     "Sha256": "5be61e80d712f73207ba1f5ac1a33281ffa839cd4e080adfdb9fb7576183f3db",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-arm64-dll.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "14/10/2026",
+    "Date": "2026-10-14T20:25:16",
     "Size": 19593224,
     "Sha256": "e3f6d476e932a827c84b83a0fca1e7b3879f0e75c90df3d26c591513060b55e3",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-arm64-static.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "14/10/2026",
+    "Date": "2026-10-14T20:25:16",
     "Size": 24339760,
     "Sha256": "9839cb3fc8952dd677083ac53089066d1694b02dafe01c9b133ea9c61c275ab3",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-HDRI-arm64-dll.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "14/10/2026",
+    "Date": "2026-10-14T20:25:16",
     "Size": 19588688,
     "Sha256": "85805f19ef374f4d753595ee36d4ca97c1ee353a2a4256c65062fec4d19ecf39",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-HDRI-arm64-static.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "14/10/2026",
+    "Date": "2026-10-14T20:25:16",
     "Size": 24333408,
     "Sha256": "e36761677418b29ca881084b1f8842bca5a6d7d8c025595b5878e1e09ac773ce",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q8-arm64-dll.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "14/10/2026",
+    "Date": "2026-10-14T20:25:16",
     "Size": 19577040,
     "Sha256": "ad12d6fa726edaa6f14e4f525b726d50d63a5e4113feb738a4095f5be337c762",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q8-arm64-static.exe"
   },
   {
     "Version": "7.1.2",
-    "Date": "14/10/2026",
+    "Date": "2026-10-14T20:25:16",
     "Size": 24548448,
     "Sha256": "eb32ded8b605795dfcb08b8cadbeef6732fe2252af933b54b38df586332e1007",
     "Architecture": "x64",
@@ -71,7 +71,7 @@
   },
   {
     "Version": "7.1.2",
-    "Date": "14/10/2026",
+    "Date": "2026-10-14T20:25:16",
     "Size": 19504432,
     "Sha256": "8af004759d50629869b513825284904930495139ee8c4e12e1454c77d9a170d2",
     "Architecture": "x64",
@@ -81,7 +81,7 @@
   },
   {
     "Version": "7.1.2",
-    "Date": "14/10/2026",
+    "Date": "2026-10-14T20:25:16",
     "Size": 24525976,
     "Sha256": "1286266aa7aa51646bdb35e292c4f2e55f4775009338ee823663b96ea3774fdc",
     "Architecture": "x64",
@@ -91,7 +91,7 @@
   },
   {
     "Version": "7.1.2",
-    "Date": "14/10/2026",
+    "Date": "2026-10-14T20:25:16",
     "Size": 19507544,
     "Sha256": "a0d1428fb4076d208bb5fbb503d97d69b1746648e92f6c02e754ff779480ae4a",
     "Architecture": "x64",
@@ -101,7 +101,7 @@
   },
   {
     "Version": "7.1.2",
-    "Date": "14/10/2026",
+    "Date": "2026-10-14T20:25:16",
     "Size": 19480224,
     "Sha256": "5034e4e7544d1881ce8cc2231fd940860e46903c9f1ba2cba192d4169d8d1293",
     "Architecture": "x64",
@@ -111,7 +111,7 @@
   },
   {
     "Version": "7.1.2",
-    "Date": "14/10/2026",
+    "Date": "2026-10-14T20:25:16",
     "Size": 24521088,
     "Sha256": "2f06971e523bc6c454b2735fe731623af892682fc6d8021e2c374d177e714ab9",
     "Architecture": "x64",
@@ -121,7 +121,7 @@
   },
   {
     "Version": "7.1.2",
-    "Date": "14/10/2026",
+    "Date": "2026-10-14T20:25:16",
     "Size": 17768328,
     "Sha256": "7eee6c7d12ec8c5ac719f4b6aaabc646391aa464e0bfe1be421dd8c10c6253bb",
     "Architecture": "x86",
@@ -131,7 +131,7 @@
   },
   {
     "Version": "7.1.2",
-    "Date": "14/10/2026",
+    "Date": "2026-10-14T20:25:16",
     "Size": 22589008,
     "Sha256": "27945f9813a40d7331032c08a9582df340dce1bea3ad2387e3618244e8905db6",
     "Architecture": "x86",
@@ -141,7 +141,7 @@
   },
   {
     "Version": "7.1.2",
-    "Date": "14/10/2026",
+    "Date": "2026-10-14T20:25:16",
     "Size": 22595944,
     "Sha256": "6a1dba2b3db278a5bb2dec8e73bc9c570007a1c7a06187d0d65430ff5106cf85",
     "Architecture": "x86",
@@ -151,7 +151,7 @@
   },
   {
     "Version": "7.1.2",
-    "Date": "14/10/2026",
+    "Date": "2026-10-14T20:25:16",
     "Size": 17772656,
     "Sha256": "99f604b963ee5785c056fc5ccda9cfb6ff6a71a3e6f2d9345937c4b532237592",
     "Architecture": "x86",
@@ -161,7 +161,7 @@
   },
   {
     "Version": "7.1.2",
-    "Date": "14/10/2026",
+    "Date": "2026-10-14T20:25:16",
     "Size": 22605048,
     "Sha256": "fc8674a1480496e2c08021fc052d35863f22425141ab0100923a4e861a749c13",
     "Architecture": "x86",
@@ -171,7 +171,7 @@
   },
   {
     "Version": "7.1.2",
-    "Date": "14/10/2026",
+    "Date": "2026-10-14T20:25:16",
     "Size": 17770944,
     "Sha256": "1b47b5b7686ac542cc74f8f219e09a8083ed1c35030718d5629546cc0bca8ea4",
     "Architecture": "x86",
@@ -181,7 +181,7 @@
   },
   {
     "Version": "7.1.2",
-    "Date": "14/10/2026",
+    "Date": "2026-10-14T20:25:16",
     "Size": 33868023,
     "Sha256": "f7639b92e859265f479f6cd7ec1e95e23351d66591d0aacd237b7f290c8913a0",
     "Architecture": "x86",
@@ -191,7 +191,7 @@
   },
   {
     "Version": "7.1.2",
-    "Date": "14/10/2026",
+    "Date": "2026-10-14T20:25:16",
     "Size": 33874127,
     "Sha256": "c2a6c767fe87c05debb176f9e225f35026f20de60f2e2456900bc74e7d2a32d7",
     "Architecture": "x86",
@@ -201,7 +201,7 @@
   },
   {
     "Version": "7.1.2",
-    "Date": "14/10/2026",
+    "Date": "2026-10-14T20:25:16",
     "Size": 33835429,
     "Sha256": "7b2b986da24936730d12aabd09288d1b4f84492616e9de6d6e236e7772cf3856",
     "Architecture": "x86",

@@ -1,17 +1,17 @@
 [
   {
     "Version": "4.4.5",
-    "Date": "27/10/2026",
+    "Date": "2026-10-27T16:05:53",
     "Size": 37224448,
     "Sha256": "fcbdbd8327f1416bb34c566f413a9f92f1e35b014909dee89ce42035a131e206",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/Kitware/CMake/releases/download/v4.4.5/cmake-4.4.5-windows-arm64.msi"
   },
   {
     "Version": "4.4.5",
-    "Date": "27/10/2026",
+    "Date": "2026-10-27T16:05:53",
     "Size": 39153664,
     "Sha256": "c18b52b4017c4e5ffcd7d516ea39c4e0ed37f58920b90a5c98a46280b1857145",
     "Architecture": "x64",
@@ -21,7 +21,7 @@
   },
   {
     "Version": "4.4.5",
-    "Date": "27/10/2026",
+    "Date": "2026-10-27T16:05:53",
     "Size": 36532224,
     "Sha256": "4a9fd1ecc6b42b8ee2764d4daf030666c7393a5526d34c74abebf7328ddf0241",
     "Architecture": "x86",

@@ -1,17 +1,17 @@
 [
   {
     "Version": "1.5.0",
-    "Date": "30/9/2026",
+    "Date": "2026-09-30T15:50:12",
     "Size": 23857008,
     "Sha256": "b660dbd7fd5ba4723447bb642dd95063f3a2abad76f5544d024f3b1c029dd87e",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.5.0/rustdesk-1.5.0-aarch64.exe"
   },
   {
     "Version": "1.5.0",
-    "Date": "30/9/2026",
+    "Date": "2026-09-30T15:50:12",
     "Size": 25887600,
     "Sha256": "8555777215510d83d2d61c9dc984e4fcc838bd7e79f9d18a42585431f5e8bb47",
     "Architecture": "x64",
@@ -21,7 +21,7 @@
   },
   {
     "Version": "1.5.0",
-    "Date": "30/9/2026",
+    "Date": "2026-09-30T15:50:12",
     "Size": 13377392,
     "Sha256": "9f5e99ed33c08d3f61dd4e3d0dc06b927836bb518acd7047ffb0a68b9b138bf0",
     "Architecture": "x86",
@@ -31,17 +31,17 @@
   },
   {
     "Version": "1.5.0",
-    "Date": "30/9/2026",
+    "Date": "2026-09-30T15:50:12",
     "Size": 24428544,
     "Sha256": "ec4dc1afa5ae3d6a8ecceab1a681bfd17ed56400056c8fa1c182decf43eab1f7",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.5.0/rustdesk-1.5.0-aarch64.msi"
   },
   {
     "Version": "1.5.0",
-    "Date": "30/9/2026",
+    "Date": "2026-09-30T15:50:12",
     "Size": 26345472,
     "Sha256": "624fe792ab1d76b35134dab84bff97a6bcd14043ffd090a2c6a2800f77580495",
     "Architecture": "x64",

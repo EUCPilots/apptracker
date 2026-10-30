@@ -1,7 +1,7 @@
 [
   {
     "Version": "3.13.1",
-    "Date": "17/1/2025",
+    "Date": "2025-01-17T21:44:58",
     "Size": 27094952,
     "Architecture": "x86",
     "InstallerType": "Portable",
@@ -10,17 +10,17 @@
   },
   {
     "Version": "3.13.1",
-    "Date": "17/1/2025",
+    "Date": "2025-01-17T21:44:58",
     "Size": 19156992,
     "Sha256": "89bf0adafad492f44d850d76c188204f0639f185b50482a3cbd59afe509b1d84",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.1/DB.Browser.for.SQLite-v3.13.1-arm64.msi"
   },
   {
     "Version": "3.13.1",
-    "Date": "17/1/2025",
+    "Date": "2025-01-17T21:44:58",
     "Size": 19857408,
     "Architecture": "x64",
     "InstallerType": "Default",
@@ -29,7 +29,7 @@
   },
   {
     "Version": "3.13.1",
-    "Date": "17/1/2025",
+    "Date": "2025-01-17T21:44:58",
     "Size": 17891328,
     "Architecture": "x86",
     "InstallerType": "Default",
@@ -38,17 +38,17 @@
   },
   {
     "Version": "3.13.1",
-    "Date": "17/1/2025",
+    "Date": "2025-01-17T21:44:58",
     "Size": 22816477,
     "Sha256": "f758bc14f49589b37250039c07d52ac93e8452948adbfe853f28d55a22a0ad35",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "zip",
     "URI": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.1/DB.Browser.for.SQLite-v3.13.1-arm64.zip"
   },
   {
     "Version": "3.13.1",
-    "Date": "17/1/2025",
+    "Date": "2025-01-17T21:44:58",
     "Size": 21720951,
     "Architecture": "x64",
     "InstallerType": "Default",
@@ -57,7 +57,7 @@
   },
   {
     "Version": "3.13.1",
-    "Date": "17/1/2025",
+    "Date": "2025-01-17T21:44:58",
     "Size": 19360651,
     "Architecture": "x86",
     "InstallerType": "Default",

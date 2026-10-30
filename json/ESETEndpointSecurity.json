@@ -3,7 +3,7 @@
     "Version": "13.1.2036.0",
     "Size": 84637408,
     "Sha256": "2173f34c707cae439132c5dc0e4fba811bc014b8bb3192f8bb8ea3e4fd399ed3",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "Type": "exe",
     "URI": "https://download.eset.com/com/eset/apps/business/ees/windows/latest/ees_arm64.exe"
   },
@@ -27,7 +27,7 @@
     "Version": "13.1.2036.0",
     "Size": 73076736,
     "Sha256": "93b6a723bc527db2f0324b7a8cdf2c30ac71a1a0abe008803073001b02d73523",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "Type": "msi",
     "URI": "https://download.eset.com/com/eset/apps/business/ees/windows/latest/ees_arm64.msi"
   },

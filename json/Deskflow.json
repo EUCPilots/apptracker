@@ -1,17 +1,17 @@
 [
   {
     "Version": "1.27.0",
-    "Date": "1/10/2026",
+    "Date": "2026-10-01T12:00:46",
     "Size": 14532500,
     "Sha256": "7a8632193d8fb4814bd93526995b209afbbb9f293468cfc50ca1bddaa3cb752b",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/deskflow/deskflow/releases/download/v1.27.0/deskflow-1.27.0-win-arm64.msi"
   },
   {
     "Version": "1.27.0",
-    "Date": "1/10/2026",
+    "Date": "2026-10-01T12:00:46",
     "Size": 15953799,
     "Sha256": "0ca5668c4731f5477d0b189bdb11196a2ca51281985d9d8c0757bf7f3b782d64",
     "Architecture": "x64",

@@ -1,12 +1,35 @@
 [
   {
-    "Version": "2026.2.3",
-    "Build": "262.10968.77",
+    "Version": "2026.2.4",
+    "Build": "262.11879.105",
     "Edition": "WebStorm",
-    "Sha256": "0410d741ade75e4723c27ec25c0d19300ce63443abcffd9d0330544300f14333",
-    "Date": "17/9/2026",
-    "Size": 884741832,
+    "Date": "2026-10-30T00:00:00",
+    "Sha256": "0c2c384e72a65071b178f3527ca3ef57cccbef85cc43fe14a106376c27f9555e",
+    "Size": 888181920,
+    "Architecture": "arm64",
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/webstorm/WebStorm-2026.2.3.exe"
+    "URI": "https://download.jetbrains.com/webstorm/WebStorm-2026.2.4-aarch64.exe"
+  },
+  {
+    "Version": "2026.2.4",
+    "Build": "262.11879.105",
+    "Edition": "WebStorm",
+    "Date": "2026-10-30T00:00:00",
+    "Sha256": "14e87d70b61e9880fdbf0fc43f7357099262761829cd6d576b2b1a72a1d7dd29",
+    "Size": 889782360,
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://download.jetbrains.com/webstorm/WebStorm-2026.2.4.exe"
+  },
+  {
+    "Version": "2026.2.4",
+    "Build": "262.11879.105",
+    "Edition": "WebStorm",
+    "Date": "2026-10-30T00:00:00",
+    "Sha256": "67f8ad3069543d27888f0c9f371c2ef4ff29a63ba5377c523f7a6515412166a1",
+    "Size": 1169471728,
+    "Architecture": "x86",
+    "Type": "zip",
+    "URI": "https://download.jetbrains.com/webstorm/WebStorm-2026.2.4.win.zip"
   }
 ]

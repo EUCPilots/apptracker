@@ -1,7 +1,7 @@
 [
   {
     "Version": "1.25.2733.0",
-    "Date": "1/10/2026",
+    "Date": "2026-10-01T23:39:31",
     "Size": 23809353,
     "Sha256": "cce6e9cc3c8457fa11ced1d2a7354888c7d6db83c5ace5d5891a52c95e3b21da",
     "Architecture": "x86",
@@ -11,17 +11,17 @@
   },
   {
     "Version": "1.25.2733.0",
-    "Date": "1/10/2026",
+    "Date": "2026-10-01T23:39:31",
     "Size": 12245254,
     "Sha256": "11b4fe264ecaa71b08cd84195536f68c669808155338e9f47f4da668b4cf0e26",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "zip",
     "URI": "https://github.com/microsoft/terminal/releases/download/v1.25.2733.0/Microsoft.WindowsTerminal_1.25.2733.0_arm64.zip"
   },
   {
     "Version": "1.25.2733.0",
-    "Date": "1/10/2026",
+    "Date": "2026-10-01T23:39:31",
     "Size": 12127272,
     "Sha256": "bf3ef2012f6c44d8340a4c58125acc9498d19b580f9890dc043cdf831852e796",
     "Architecture": "x64",
@@ -31,7 +31,7 @@
   },
   {
     "Version": "1.25.2733.0",
-    "Date": "1/10/2026",
+    "Date": "2026-10-01T23:39:31",
     "Size": 2512,
     "Sha256": "c1cd8d99b184be91dd7728db6990a0290c4bc7795413764633306501fcd436ea",
     "Architecture": "x86",
@@ -41,7 +41,7 @@
   },
   {
     "Version": "1.25.2733.0",
-    "Date": "1/10/2026",
+    "Date": "2026-10-01T23:39:31",
     "Size": 42869026,
     "Sha256": "151cb3ee9a93ba41ad7c412c0efd165a1e47eda6ef47d15a154c33af1e1cec9c",
     "Architecture": "x86",
@@ -51,7 +51,7 @@
   },
   {
     "Version": "1.25.2733.0",
-    "Date": "1/10/2026",
+    "Date": "2026-10-01T23:39:31",
     "Size": 10970297,
     "Sha256": "39ec034dae2b207f3325d7e630d9a46cff291b7f1e14c7c529448d88c1830ca2",
     "Architecture": "x86",

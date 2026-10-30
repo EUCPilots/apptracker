@@ -1,16 +1,16 @@
 [
   {
     "Version": "1.18.7",
-    "Date": "18/7/2021",
+    "Date": "2021-07-18T14:21:55",
     "Size": 59490304,
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.arm64.exe"
   },
   {
     "Version": "1.18.7",
-    "Date": "18/7/2021",
+    "Date": "2021-07-18T14:21:55",
     "Size": 63026752,
     "Architecture": "x64",
     "InstallerType": "Default",
@@ -19,7 +19,7 @@
   },
   {
     "Version": "1.18.7",
-    "Date": "18/7/2021",
+    "Date": "2021-07-18T14:21:55",
     "Size": 60156888,
     "Architecture": "x86",
     "InstallerType": "Default",
@@ -28,16 +28,16 @@
   },
   {
     "Version": "1.18.7",
-    "Date": "18/7/2021",
+    "Date": "2021-07-18T14:21:55",
     "Size": 85382735,
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "zip",
     "URI": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.arm64.zip"
   },
   {
     "Version": "1.18.7",
-    "Date": "18/7/2021",
+    "Date": "2021-07-18T14:21:55",
     "Size": 83753334,
     "Architecture": "x64",
     "InstallerType": "Default",
@@ -46,7 +46,7 @@
   },
   {
     "Version": "1.18.7",
-    "Date": "18/7/2021",
+    "Date": "2021-07-18T14:21:55",
     "Size": 7160996,
     "Architecture": "x86",
     "InstallerType": "Default",
@@ -55,7 +55,7 @@
   },
   {
     "Version": "1.18.7",
-    "Date": "18/7/2021",
+    "Date": "2021-07-18T14:21:55",
     "Size": 79082537,
     "Architecture": "x86",
     "InstallerType": "Default",

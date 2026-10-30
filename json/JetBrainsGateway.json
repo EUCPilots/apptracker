@@ -1,12 +1,46 @@
 [
   {
-    "Version": "2026.2.2",
-    "Build": "262.10315.114",
+    "Version": "2026.2.4",
+    "Build": "262.11879.99",
     "Edition": "Gateway",
-    "Sha256": "971e5736e2c657d441972791ab7e08f54656b373ae314f3dfd69e069fc53bca0",
-    "Date": "3/9/2026",
-    "Size": 265056360,
+    "Date": "2026-10-30T00:00:00",
+    "Sha256": "1cfc8608f9e048bb162695167ebf38b3e2d4e6f3b4ca3a691f969578214811ff",
+    "Size": 249654760,
+    "Architecture": "arm64",
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2026.2.2.exe"
+    "URI": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2026.2.4-aarch64.exe"
+  },
+  {
+    "Version": "2026.2.4",
+    "Build": "262.11879.99",
+    "Edition": "Gateway",
+    "Date": "2026-10-30T00:00:00",
+    "Sha256": "9f054e79e18f0eed78116167e789b9e7722ebfeefd77f8ac370d59a85848f762",
+    "Size": 265290736,
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2026.2.4.exe"
+  },
+  {
+    "Version": "2026.2.4",
+    "Build": "262.11879.99",
+    "Edition": "Gateway",
+    "Date": "2026-10-30T00:00:00",
+    "Sha256": "c1ac4e191e2f468b89cc310b9bf9e4993e46d820e92c22a01073b4e6a8bd4764",
+    "Size": 346798037,
+    "Architecture": "arm64",
+    "Type": "zip",
+    "URI": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2026.2.4-aarch64.win.zip"
+  },
+  {
+    "Version": "2026.2.4",
+    "Build": "262.11879.99",
+    "Edition": "Gateway",
+    "Date": "2026-10-30T00:00:00",
+    "Sha256": "ce79e8228f23364cc95b15867da1f4932826e20e8a08dab68851837bdd0dd084",
+    "Size": 367147078,
+    "Architecture": "x86",
+    "Type": "zip",
+    "URI": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2026.2.4.win.zip"
   }
 ]

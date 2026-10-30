@@ -1,27 +1,27 @@
 [
   {
     "Version": "2.43.2",
-    "Date": "28/7/2026",
+    "Date": "2026-07-28T14:15:05",
     "Size": 7372800,
     "Sha256": "c6d99544964bb22480fc82958677c4fce74f426dfdd7ed1697d95e12b5b7e6c2",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Light",
     "Type": "msi",
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Light.Setup.Arm64.msi"
   },
   {
     "Version": "2.43.2",
-    "Date": "28/7/2026",
+    "Date": "2026-07-28T14:15:05",
     "Size": 70791168,
     "Sha256": "6e5f16cafdcdb6c83096ad8aec647fae60e53734ebd1884ccf39e7008cdf81df",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Setup.Arm64.msi"
   },
   {
     "Version": "2.43.2",
-    "Date": "28/7/2026",
+    "Date": "2026-07-28T14:15:05",
     "Size": 7426048,
     "Sha256": "37aa0a58daeafbb068ed5039d93892399a25568610b63b7d1e6c3f007d10b8cc",
     "Architecture": "x64",
@@ -31,7 +31,7 @@
   },
   {
     "Version": "2.43.2",
-    "Date": "28/7/2026",
+    "Date": "2026-07-28T14:15:05",
     "Size": 75137024,
     "Sha256": "b494e929ac250d0e09cf2803cd172cc5580d9c35df179b022b451304a06df4a7",
     "Architecture": "x64",
@@ -41,7 +41,7 @@
   },
   {
     "Version": "2.43.2",
-    "Date": "28/7/2026",
+    "Date": "2026-07-28T14:15:05",
     "Size": 7372800,
     "Sha256": "66075008f8dda74775ed530e7d12af6d47894861fcc9c723965833760f43019a",
     "Architecture": "x86",
@@ -51,7 +51,7 @@
   },
   {
     "Version": "2.43.2",
-    "Date": "28/7/2026",
+    "Date": "2026-07-28T14:15:05",
     "Size": 69849088,
     "Sha256": "216c90afa47cc6ef91c4c10f7c2d5519797b5172cd0fc3dd93b1901b6dd258fe",
     "Architecture": "x86",
@@ -61,17 +61,17 @@
   },
   {
     "Version": "2.43.2",
-    "Date": "28/7/2026",
+    "Date": "2026-07-28T14:15:05",
     "Size": 69423961,
     "Sha256": "c189aeb16ec3a4ae474e4b98cbe06799ce4983d8cd3d14526a15051184028403",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msix",
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Package.arm64.msix"
   },
   {
     "Version": "2.43.2",
-    "Date": "28/7/2026",
+    "Date": "2026-07-28T14:15:05",
     "Size": 73717762,
     "Sha256": "8216469d4bc01243da88188f186396001393d13a8d8d9d2804853c6c6c3ab166",
     "Architecture": "x64",
@@ -81,7 +81,7 @@
   },
   {
     "Version": "2.43.2",
-    "Date": "28/7/2026",
+    "Date": "2026-07-28T14:15:05",
     "Size": 67744097,
     "Sha256": "71fe973b23095fb8220f96b5877b445644561c41c47896006c7326f498c866e0",
     "Architecture": "x86",
@@ -91,27 +91,27 @@
   },
   {
     "Version": "2.43.2",
-    "Date": "28/7/2026",
+    "Date": "2026-07-28T14:15:05",
     "Size": 5283363,
     "Sha256": "3d07dca04ea75200f2e5e9df4532e483c76438d211b6834ee1b7e21d432c0302",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Light",
     "Type": "zip",
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Light.Portable.Arm64.zip"
   },
   {
     "Version": "2.43.2",
-    "Date": "28/7/2026",
+    "Date": "2026-07-28T14:15:05",
     "Size": 68648455,
     "Sha256": "ab92de243ebb18a7571cc7d2ae518339bfe022af0d2f09c044c53ccfb9a65cc2",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Portable",
     "Type": "zip",
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Portable.Arm64.zip"
   },
   {
     "Version": "2.43.2",
-    "Date": "28/7/2026",
+    "Date": "2026-07-28T14:15:05",
     "Size": 5296103,
     "Sha256": "455999ae2672728ee7da6438896207193e7586ad7370000f0e2cdbdc8df822a2",
     "Architecture": "x64",
@@ -121,7 +121,7 @@
   },
   {
     "Version": "2.43.2",
-    "Date": "28/7/2026",
+    "Date": "2026-07-28T14:15:05",
     "Size": 73035883,
     "Sha256": "42a0b53d67ecae22698b4881ffb2c9c7a9049663f5fbdd2edb779e1971000664",
     "Architecture": "x64",
@@ -131,7 +131,7 @@
   },
   {
     "Version": "2.43.2",
-    "Date": "28/7/2026",
+    "Date": "2026-07-28T14:15:05",
     "Size": 5279766,
     "Sha256": "ae0357ec4e380b03dd0fd990db3362620365fa46ad6a990ae6c4790b4a1177b6",
     "Architecture": "x86",
@@ -141,7 +141,7 @@
   },
   {
     "Version": "2.43.2",
-    "Date": "28/7/2026",
+    "Date": "2026-07-28T14:15:05",
     "Size": 67680368,
     "Sha256": "f378cd84065fa5f24af266213bfb5dad66e661374967586b8374203b970b445e",
     "Architecture": "x86",

@@ -1,27 +1,27 @@
 [
   {
     "Version": "6.2.0",
-    "Date": "28/10/2026",
+    "Date": "2026-10-28T17:02:00",
     "Size": 272790000,
     "Sha256": "c71e0c55da8ac7add904548e191d6efa2d78b8c19dbe4a348ad0ae2b8f0e33ab",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Portable",
     "Type": "exe",
     "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.2.0/Beekeeper-Studio-6.2.0-arm64-portable.exe"
   },
   {
     "Version": "6.2.0",
-    "Date": "28/10/2026",
+    "Date": "2026-10-28T17:02:00",
     "Size": 273152232,
     "Sha256": "2b5e3338ec56a6758ad8ad53fc1c1ccf848ae1e775e6da23b383696d314e7437",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.2.0/Beekeeper-Studio-Setup-6.2.0-arm64.exe"
   },
   {
     "Version": "6.2.0",
-    "Date": "28/10/2026",
+    "Date": "2026-10-28T17:02:00",
     "Size": 279520504,
     "Sha256": "37594af5a9a0a773bbf0ac18b03603164a0c747301c9e93468983093e420d8c7",
     "Architecture": "x86",
@@ -31,7 +31,7 @@
   },
   {
     "Version": "6.2.0",
-    "Date": "28/10/2026",
+    "Date": "2026-10-28T17:02:00",
     "Size": 279883128,
     "Sha256": "a35e980ecbaa777e2a0679061baa6ff39c9911e64bc26e70003ff63abeeb454f",
     "Architecture": "x86",

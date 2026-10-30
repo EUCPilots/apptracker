@@ -1,17 +1,17 @@
 [
   {
     "Version": "4.15",
-    "Date": "30/6/2026",
+    "Date": "2026-06-30T10:58:42",
     "Size": 5491048,
     "Sha256": "af01a2136db7391eb8a52de7001fd231f0731cd27e042318dc2743d87fa35c1c",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/pbatard/rufus/releases/download/v4.15/rufus-4.15_arm64.exe"
   },
   {
     "Version": "4.15",
-    "Date": "30/6/2026",
+    "Date": "2026-06-30T10:58:42",
     "Size": 1989992,
     "Sha256": "84c8a437f8af89257524478489e5c85f1edf25f761d299e2bcde46ac0afbe106",
     "Architecture": "x86",
@@ -21,7 +21,7 @@
   },
   {
     "Version": "4.15",
-    "Date": "30/6/2026",
+    "Date": "2026-06-30T10:58:42",
     "Size": 1989992,
     "Sha256": "84c8a437f8af89257524478489e5c85f1edf25f761d299e2bcde46ac0afbe106",
     "Architecture": "x86",
@@ -31,7 +31,7 @@
   },
   {
     "Version": "4.15",
-    "Date": "30/6/2026",
+    "Date": "2026-06-30T10:58:42",
     "Size": 1933672,
     "Sha256": "20e1345715aff4aebf016839f721390882201a2b5d00655424c4ca38cb919576",
     "Architecture": "x86",

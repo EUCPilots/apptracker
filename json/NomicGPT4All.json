@@ -1,16 +1,16 @@
 [
   {
     "Version": "3.10.0",
-    "Date": "24/2/2025",
+    "Date": "2025-02-24T22:16:14",
     "Size": 318116056,
-    "Architecture": "ARM",
+    "Architecture": "arm",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/nomic-ai/gpt4all/releases/download/v3.10.0/gpt4all-installer-win64-arm-v3.10.0.exe"
   },
   {
     "Version": "3.10.0",
-    "Date": "24/2/2025",
+    "Date": "2025-02-24T22:16:14",
     "Size": 744456856,
     "Architecture": "x64",
     "InstallerType": "Default",

@@ -1,17 +1,17 @@
 [
   {
     "Version": "2026.9.3",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T20:34:46",
     "Size": 5059240,
     "Sha256": "88bf91c1fd430b59472230b6f131fc84046f9f6832557c5c26ca630edd2274a4",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/microsoft/coreutils/releases/download/v2026.9.3/coreutils-2026.9.3-arm64.exe"
   },
   {
     "Version": "2026.9.3",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T20:34:46",
     "Size": 5152000,
     "Sha256": "5600caf3ea219274feb3e8f8b626a80263eb5c41d531e36a0acbc72cc670a229",
     "Architecture": "x64",

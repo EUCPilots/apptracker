@@ -1,12 +1,35 @@
 [
   {
-    "Version": "2026.2.3",
-    "Build": "262.10968.66",
+    "Version": "2026.2.4",
+    "Build": "262.11879.97",
     "Edition": "RubyMine",
-    "Sha256": "372bc75fee852fe79967cc451c1c34683908576b037abe5e06d8a9c7b1375c54",
-    "Date": "18/9/2026",
-    "Size": 815516160,
+    "Date": "2026-10-30T00:00:00",
+    "Sha256": "f8dc741d9c96ebeaba372c62cbae35ebf25bbfc8110e7dae3ad80b61678add4c",
+    "Size": 819025088,
+    "Architecture": "arm64",
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/ruby/RubyMine-2026.2.3.exe"
+    "URI": "https://download.jetbrains.com/ruby/RubyMine-2026.2.4-aarch64.exe"
+  },
+  {
+    "Version": "2026.2.4",
+    "Build": "262.11879.97",
+    "Edition": "RubyMine",
+    "Date": "2026-10-30T00:00:00",
+    "Sha256": "050f6267d41618484fa601e7621f9a99150553f6964ce563c19f7b0b8106d601",
+    "Size": 820369808,
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://download.jetbrains.com/ruby/RubyMine-2026.2.4.exe"
+  },
+  {
+    "Version": "2026.2.4",
+    "Build": "262.11879.97",
+    "Edition": "RubyMine",
+    "Date": "2026-10-30T00:00:00",
+    "Sha256": "ab14beac05be90fdb78fc479b5948d45d3e74505fe74c1f63e9f3597cea156a4",
+    "Size": 1115569067,
+    "Architecture": "x86",
+    "Type": "zip",
+    "URI": "https://download.jetbrains.com/ruby/RubyMine-2026.2.4.win.zip"
   }
 ]

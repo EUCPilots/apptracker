@@ -1,17 +1,17 @@
 [
   {
     "Version": "10.0.0",
-    "Date": "22/10/2026",
+    "Date": "2026-10-22T17:54:33",
     "Size": 266184712,
     "Sha256": "8e91b5387d993f9446058fa8630fec0db2a28c406520638e23f6006377c86d40",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v10.0.0/DesktopEditors_arm64.exe"
   },
   {
     "Version": "10.0.0",
-    "Date": "22/10/2026",
+    "Date": "2026-10-22T17:54:33",
     "Size": 299860896,
     "Sha256": "e9f6df29bb09770cfc14c9ebb9bce881ff7ad9705d76b3faf038831fe248e46b",
     "Architecture": "x64",
@@ -21,7 +21,7 @@
   },
   {
     "Version": "10.0.0",
-    "Date": "22/10/2026",
+    "Date": "2026-10-22T17:54:33",
     "Size": 278178472,
     "Sha256": "6daa9c963ccdf991bab4273a87cc1c9ec8ccdf27c6b82fafb49bdf63c5b8bdeb",
     "Architecture": "x86",

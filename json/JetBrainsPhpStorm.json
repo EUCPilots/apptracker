@@ -1,12 +1,35 @@
 [
   {
-    "Version": "2026.2.3",
-    "Build": "262.10968.76",
+    "Version": "2026.2.4",
+    "Build": "262.11879.104",
     "Edition": "PhpStorm",
-    "Sha256": "ce98805875c531ccdaea4918f11859a6dcd42087a69e9a24571f9c41fa508267",
-    "Date": "17/9/2026",
-    "Size": 844355072,
+    "Date": "2026-10-30T00:00:00",
+    "Sha256": "e9e3c2a95af212fcd7ebc1fceebd034a496156f400e6667649b5070b2b416895",
+    "Size": 847897240,
+    "Architecture": "arm64",
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/webide/PhpStorm-2026.2.3.exe"
+    "URI": "https://download.jetbrains.com/webide/PhpStorm-2026.2.4-aarch64.exe"
+  },
+  {
+    "Version": "2026.2.4",
+    "Build": "262.11879.104",
+    "Edition": "PhpStorm",
+    "Date": "2026-10-30T00:00:00",
+    "Sha256": "ddc0e3be3df71fffe29ffee9525ec270781476b817c92cf248784b8f736ca74b",
+    "Size": 849496848,
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://download.jetbrains.com/webide/PhpStorm-2026.2.4.exe"
+  },
+  {
+    "Version": "2026.2.4",
+    "Build": "262.11879.104",
+    "Edition": "PhpStorm",
+    "Date": "2026-10-30T00:00:00",
+    "Sha256": "554414e50622c05afb9d46db43f3a7c28941e811a5ae635fb4619e2180563346",
+    "Size": 1136492785,
+    "Architecture": "x86",
+    "Type": "zip",
+    "URI": "https://download.jetbrains.com/webide/PhpStorm-2026.2.4.win.zip"
   }
 ]

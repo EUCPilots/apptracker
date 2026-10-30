@@ -1,17 +1,17 @@
 [
   {
     "Version": "3.0.3",
-    "Date": "7/10/2026",
+    "Date": "2026-10-07T20:58:24",
     "Size": 341086208,
     "Sha256": "2937c7ce840bb35ec6e97f052189bdfff27f8c3463bfdd231df9a958212787a3",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/microsoft/WSL/releases/download/3.0.3/wsl.3.0.3.0.arm64.msi"
   },
   {
     "Version": "3.0.3",
-    "Date": "7/10/2026",
+    "Date": "2026-10-07T20:58:24",
     "Size": 367575040,
     "Sha256": "ae977286974255bd26bf925f00f40f5692c6b2084155cbc0563c09aea091f211",
     "Architecture": "x64",
@@ -21,10 +21,10 @@
   },
   {
     "Version": "3.0.3",
-    "Date": "7/10/2026",
+    "Date": "2026-10-07T20:58:24",
     "Size": 711892825,
     "Sha256": "b0d0c317ee7249eb4a40788b1516d3c3053cdfce62ff7bef7f0c35f4d2606005",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msixbundle",
     "URI": "https://github.com/microsoft/WSL/releases/download/3.0.3/Microsoft.WSL_3.0.3.0_x64_ARM64.msixbundle"

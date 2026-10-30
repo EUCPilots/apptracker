@@ -1,106 +1,106 @@
 [
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T10:06:18",
     "Size": 13221888,
     "Language": "Chinese (Simplified)",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "Type": "msi",
     "URI": "https://download.microsoft.com/download/cc1ca98c-88a1-4eb1-97e1-8950a895f238/arm64/2052/msodbcsql.msi"
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:09:54",
     "Size": 13230080,
     "Language": "Chinese (Traditional)",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "Type": "msi",
     "URI": "https://download.microsoft.com/download/b12112d2-f399-4c49-beb2-73683cbbf410/arm64/1028/msodbcsql.msi"
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:25:59",
     "Size": 13148160,
     "Language": "English",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "Type": "msi",
     "URI": "https://download.microsoft.com/download/92f6c111-1489-4538-8d7e-b35218b0675b/arm64/1033/msodbcsql.msi"
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:30:08",
     "Size": 13258752,
     "Language": "French",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "Type": "msi",
     "URI": "https://download.microsoft.com/download/24d7036b-dd85-4196-96dd-fdf5e723990d/arm64/1036/msodbcsql.msi"
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:16:55",
     "Size": 13254656,
     "Language": "German",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "Type": "msi",
     "URI": "https://download.microsoft.com/download/a16b7fea-aec1-4f16-83b2-de10315230f3/arm64/1031/msodbcsql.msi"
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:34:04",
     "Size": 13246464,
     "Language": "Italian",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "Type": "msi",
     "URI": "https://download.microsoft.com/download/9a05e168-c804-4105-8123-fadd7f02e381/arm64/1040/msodbcsql.msi"
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:37:49",
     "Size": 13299712,
     "Language": "Japanese",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "Type": "msi",
     "URI": "https://download.microsoft.com/download/ecc7df1f-fd00-47f8-a988-037e54af4b14/arm64/1041/msodbcsql.msi"
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:40:58",
     "Size": 13262848,
     "Language": "Korean",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "Type": "msi",
     "URI": "https://download.microsoft.com/download/8db083fd-07c6-4e44-aa5f-b2d871629536/arm64/1042/msodbcsql.msi"
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:53:51",
     "Size": 13242368,
     "Language": "Portuguese (Brazil)",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "Type": "msi",
     "URI": "https://download.microsoft.com/download/c065bb95-fbb8-49a6-88eb-bb3dd71bbf4d/arm64/1046/msodbcsql.msi"
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:58:33",
     "Size": 13332480,
     "Language": "Russian",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "Type": "msi",
     "URI": "https://download.microsoft.com/download/e2ad306c-840b-434f-bf7a-7a643afbbff2/arm64/1049/msodbcsql.msi"
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T10:09:48",
     "Size": 13250560,
     "Language": "Spanish",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "Type": "msi",
     "URI": "https://download.microsoft.com/download/be7023f6-6bcc-4ec8-8807-f5e3fb813315/arm64/3082/msodbcsql.msi"
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T10:11:15",
     "Size": 10170368,
     "Language": "Chinese (Simplified)",
     "Architecture": "x64",
@@ -109,7 +109,7 @@
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:06:14",
     "Size": 10174464,
     "Language": "Chinese (Traditional)",
     "Architecture": "x64",
@@ -118,7 +118,7 @@
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:22:21",
     "Size": 10092544,
     "Language": "English",
     "Architecture": "x64",
@@ -127,7 +127,7 @@
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:30:38",
     "Size": 10207232,
     "Language": "French",
     "Architecture": "x64",
@@ -136,7 +136,7 @@
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:16:34",
     "Size": 10194944,
     "Language": "German",
     "Architecture": "x64",
@@ -145,7 +145,7 @@
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:34:19",
     "Size": 10194944,
     "Language": "Italian",
     "Architecture": "x64",
@@ -154,7 +154,7 @@
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:40:29",
     "Size": 10248192,
     "Language": "Japanese",
     "Architecture": "x64",
@@ -163,7 +163,7 @@
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:43:56",
     "Size": 10211328,
     "Language": "Korean",
     "Architecture": "x64",
@@ -172,7 +172,7 @@
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:50:17",
     "Size": 10186752,
     "Language": "Portuguese (Brazil)",
     "Architecture": "x64",
@@ -181,7 +181,7 @@
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:53:44",
     "Size": 10280960,
     "Language": "Russian",
     "Architecture": "x64",
@@ -190,7 +190,7 @@
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T10:16:48",
     "Size": 10199040,
     "Language": "Spanish",
     "Architecture": "x64",
@@ -199,7 +199,7 @@
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:45:19",
     "Size": 4665344,
     "Language": "Chinese (Simplified)",
     "Architecture": "x86",
@@ -208,7 +208,7 @@
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:05:34",
     "Size": 4669440,
     "Language": "Chinese (Traditional)",
     "Architecture": "x86",
@@ -217,7 +217,7 @@
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:15:27",
     "Size": 4628480,
     "Language": "English",
     "Architecture": "x86",
@@ -226,7 +226,7 @@
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:19:33",
     "Size": 4694016,
     "Language": "French",
     "Architecture": "x86",
@@ -235,7 +235,7 @@
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:12:13",
     "Size": 4689920,
     "Language": "German",
     "Architecture": "x86",
@@ -244,7 +244,7 @@
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:23:34",
     "Size": 4681728,
     "Language": "Italian",
     "Architecture": "x86",
@@ -253,7 +253,7 @@
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:26:11",
     "Size": 4739072,
     "Language": "Japanese",
     "Architecture": "x86",
@@ -262,7 +262,7 @@
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:30:00",
     "Size": 4706304,
     "Language": "Korean",
     "Architecture": "x86",
@@ -271,7 +271,7 @@
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:36:02",
     "Size": 4677632,
     "Language": "Portuguese (Brazil)",
     "Architecture": "x86",
@@ -280,7 +280,7 @@
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:38:48",
     "Size": 4771840,
     "Language": "Russian",
     "Architecture": "x86",
@@ -289,7 +289,7 @@
   },
   {
     "Version": "18.7.1.1",
-    "Date": "3/9/2026",
+    "Date": "2026-09-03T09:48:41",
     "Size": 4685824,
     "Language": "Spanish",
     "Architecture": "x86",

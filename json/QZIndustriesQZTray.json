@@ -1,17 +1,17 @@
 [
   {
     "Version": "2.3.0",
-    "Date": "11/9/2026",
+    "Date": "2026-09-11T19:19:42",
     "Size": 137645696,
     "Sha256": "10e308b91d84b637520eb36096cb6814b33a66f3cabc317ce776253e759babc8",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/qzind/tray/releases/download/v2.3.0/qz-tray-2.3.0-arm64.exe"
   },
   {
     "Version": "2.3.0",
-    "Date": "11/9/2026",
+    "Date": "2026-09-11T19:19:42",
     "Size": 140352312,
     "Sha256": "7a44a50f679f0a1dab6679e6c22158dd335511074f5fcc1b208b6f9caf711ba7",
     "Architecture": "x64",

@@ -1,17 +1,17 @@
 [
   {
     "Version": "7.1.2",
-    "Date": "26/10/2026",
+    "Date": "2026-10-26T22:46:47",
     "Size": 83375369,
     "Sha256": "8fdedbc80840697ebd57e95330f1d938c3dcd886841e86636ad17695eba37cd3",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/sn4k3/UVtools/releases/download/v7.1.2/UVtools_win-arm64_v7.1.2.msi"
   },
   {
     "Version": "7.1.2",
-    "Date": "26/10/2026",
+    "Date": "2026-10-26T22:46:47",
     "Size": 107558279,
     "Sha256": "4041374926da02bb99395b090cc21b9c4c23041ee04f8dd936f90ba25df38056",
     "Architecture": "x64",

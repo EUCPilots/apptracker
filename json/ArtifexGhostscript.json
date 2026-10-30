@@ -1,22 +1,22 @@
 [
   {
     "Version": "10.08.0",
-    "Date": "8/9/2026",
-    "Size": 65093120,
-    "Sha256": "52a91b8bf09298788d7a57b9206127026c23eacd75405f0a131e26dc381dce50",
-    "Architecture": "x64",
-    "InstallerType": "Default",
-    "Type": "exe",
-    "URI": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10080/gs10080w64.exe"
-  },
-  {
-    "Version": "10.08.0",
-    "Date": "8/9/2026",
+    "Date": "2026-09-08T10:41:59",
     "Size": 53133968,
     "Sha256": "42f9e97ea2580bc24e2604cc03a2213bdba6094869dbe9f8ede50f8dd86b7463",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10080/gs10080w32.exe"
+  },
+  {
+    "Version": "10.08.0",
+    "Date": "2026-09-08T10:41:59",
+    "Size": 65093120,
+    "Sha256": "52a91b8bf09298788d7a57b9206127026c23eacd75405f0a131e26dc381dce50",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10080/gs10080w64.exe"
   }
 ]

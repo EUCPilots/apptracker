@@ -1,17 +1,17 @@
 [
   {
     "Version": "3.3.1",
-    "Date": "29/7/2026",
+    "Date": "2026-07-29T23:33:04",
     "Size": 41652000,
     "Sha256": "5a5dc86d090a3be8e56d7e7fb070329a5a8f8bca5a1462b914ef62b8b6059821",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/TurboVNC/turbovnc/releases/download/3.3.1/TurboVNC-3.3.1-arm64.exe"
   },
   {
     "Version": "3.3.1",
-    "Date": "29/7/2026",
+    "Date": "2026-07-29T23:33:04",
     "Size": 42978472,
     "Sha256": "cb16f343ae39aac6fd8a6eb1c107e932bb2ff03419cb861d019cfb240896df1a",
     "Architecture": "x64",

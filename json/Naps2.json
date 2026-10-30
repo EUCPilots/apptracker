@@ -1,17 +1,17 @@
 [
   {
     "Version": "8.6.0",
-    "Date": "25/10/2026",
+    "Date": "2026-10-25T21:12:52",
     "Size": 46086224,
     "Sha256": "b646a4d85a4d59208f21466a0ced4de29663f852f87462921265c67813f98a5b",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/cyanfish/naps2/releases/download/v8.6.0/naps2-8.6.0-win-arm64.exe"
   },
   {
     "Version": "8.6.0",
-    "Date": "25/10/2026",
+    "Date": "2026-10-25T21:12:52",
     "Size": 48975816,
     "Sha256": "684e26d2145bceab5199971b8620dd715cbeb824ecdc080fe122912b1486da22",
     "Architecture": "x64",
@@ -21,7 +21,7 @@
   },
   {
     "Version": "8.6.0",
-    "Date": "25/10/2026",
+    "Date": "2026-10-25T21:12:52",
     "Size": 55574528,
     "Sha256": "37ca3798bfd414aa2d101d64f1f249a05cc6a1710a7f5b90bfe7303ef3537f26",
     "Architecture": "x64",
@@ -31,7 +31,7 @@
   },
   {
     "Version": "8.6.0",
-    "Date": "25/10/2026",
+    "Date": "2026-10-25T21:12:52",
     "Size": 68509341,
     "Sha256": "bd0275244bfbc6d16144f9ea5916e41ba050c5ec6027e1e093c2210d544282a1",
     "Architecture": "x64",

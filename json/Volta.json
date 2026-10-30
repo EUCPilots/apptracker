@@ -1,16 +1,16 @@
 [
   {
     "Version": "2.0.2",
-    "Date": "5/12/2024",
+    "Date": "2024-12-05T06:37:36",
     "Size": 5292032,
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/volta-cli/volta/releases/download/v2.0.2/volta-2.0.2-windows-arm64.msi"
   },
   {
     "Version": "2.0.2",
-    "Date": "5/12/2024",
+    "Date": "2024-12-05T06:37:36",
     "Size": 5586944,
     "Architecture": "x64",
     "InstallerType": "Default",

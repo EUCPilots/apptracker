@@ -1,12 +1,35 @@
 [
   {
-    "Version": "2026.2.4",
-    "Build": "262.11879.74",
+    "Version": "2026.2.4.1",
+    "Build": "262.11879.106",
     "Edition": "CLion",
-    "Sha256": "02303f8f837b87dc383026ce450c8d83d1b2ede2de59a9a1a1e0392b2cba967f",
-    "Date": "23/10/2026",
-    "Size": 1750935136,
+    "Date": "2026-10-30T00:00:00",
+    "Sha256": "20c286364d8df75c6d128d0a4e253cff189c126d2188b2885d5f61ff326a1d80",
+    "Size": 2032420104,
+    "Architecture": "arm64",
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/cpp/CLion-2026.2.4.exe"
+    "URI": "https://download.jetbrains.com/cpp/CLion-2026.2.4.1-aarch64.exe"
+  },
+  {
+    "Version": "2026.2.4.1",
+    "Build": "262.11879.106",
+    "Edition": "CLion",
+    "Date": "2026-10-30T00:00:00",
+    "Sha256": "b1ee23c8e6e68987b5a3133dcd9794132a89c185f34dd635293272de1af9c9de",
+    "Size": 1752515416,
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://download.jetbrains.com/cpp/CLion-2026.2.4.1.exe"
+  },
+  {
+    "Version": "2026.2.4.1",
+    "Build": "262.11879.106",
+    "Edition": "CLion",
+    "Date": "2026-10-30T00:00:00",
+    "Sha256": "86116f5f066797e610d450a17b60714402be13be3a2dfe606b9633c348b04a38",
+    "Size": 2390422678,
+    "Architecture": "x86",
+    "Type": "zip",
+    "URI": "https://download.jetbrains.com/cpp/CLion-2026.2.4.1.win.zip"
   }
 ]

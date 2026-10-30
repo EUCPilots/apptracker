@@ -1,17 +1,17 @@
 [
   {
     "Version": "1.18.8",
-    "Date": "17/10/2026",
+    "Date": "2026-10-17T20:22:00",
     "Size": 22460504,
     "Sha256": "a1e33199ae715c32faa15aeec5e7d4c8401dcd1a4d348d6829d3e0978bd62b96",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Plus",
     "Type": "exe",
     "URI": "https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.18.8/Sandboxie-Plus-ARM64-v1.18.8.exe"
   },
   {
     "Version": "1.18.8",
-    "Date": "17/10/2026",
+    "Date": "2026-10-17T20:22:00",
     "Size": 3144024,
     "Sha256": "47b8dd6bc070d17c66e03a097df043214685208ea1c1522228e7ee009053fe5f",
     "Architecture": "x64",
@@ -21,7 +21,7 @@
   },
   {
     "Version": "1.18.8",
-    "Date": "17/10/2026",
+    "Date": "2026-10-17T20:22:00",
     "Size": 24930680,
     "Sha256": "f27078ff74a07906fd51476079e1a7a8f5e20c8bb75a9d2ae86169d47179ae76",
     "Architecture": "x64",

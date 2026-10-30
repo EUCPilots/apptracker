@@ -1,17 +1,17 @@
 [
   {
     "Version": "2.24.13",
-    "Date": "8/9/2026",
+    "Date": "2026-09-08T19:35:57",
     "Size": 37337560,
     "Sha256": "1013e6b459d9f3f98d01bf62ed4f9463e3b7fd04448875210b56bacba4e3e53e",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/Windscribe/Desktop-App/releases/download/v2.24.13/Windscribe_2.24.13_arm64.exe"
   },
   {
     "Version": "2.24.13",
-    "Date": "8/9/2026",
+    "Date": "2026-09-08T19:35:57",
     "Size": 42001368,
     "Sha256": "821ff217d87b4acbd71408303d9a5bc35abfefdada6761f7fd2944a92d5609d2",
     "Architecture": "x64",

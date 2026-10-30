@@ -1,17 +1,17 @@
 [
   {
     "Version": "11.1.1.1",
-    "Date": "14/8/2026",
+    "Date": "2026-08-14T21:47:56",
     "Size": 104840216,
     "Sha256": "9369a9f710889fb9c4954354f35976536038f5ad6fed4a3c8d92bd3a258d72d3",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/11.1.1.1/AutoDarkMode_Setup_11.1.1.1_ARM64.exe"
   },
   {
     "Version": "11.1.1.1",
-    "Date": "14/8/2026",
+    "Date": "2026-08-14T21:47:56",
     "Size": 110719920,
     "Sha256": "89bcc3d49f87a5f7dfd245fa366ea426039111fed7e3de44b5cbfc1c2871508a",
     "Architecture": "x86",
@@ -21,17 +21,17 @@
   },
   {
     "Version": "11.1.1.1",
-    "Date": "14/8/2026",
+    "Date": "2026-08-14T21:47:56",
     "Size": 147569983,
     "Sha256": "81445cf8286d8e069af890e1e2b58999f25fdf86efc7f3410b3df4ddc77aacb3",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "zip",
     "URI": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/11.1.1.1/AutoDarkMode_11.1.1.1_ARM64.zip"
   },
   {
     "Version": "11.1.1.1",
-    "Date": "14/8/2026",
+    "Date": "2026-08-14T21:47:56",
     "Size": 152631439,
     "Sha256": "7b307aace6e3a08ce11eda8c43a759c33f33c7629d97e544ef90967223858e87",
     "Architecture": "x86",

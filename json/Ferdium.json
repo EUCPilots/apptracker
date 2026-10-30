@@ -1,27 +1,27 @@
 [
   {
     "Version": "7.2.3",
-    "Date": "7/9/2026",
+    "Date": "2026-09-07T15:43:32",
     "Size": 142298553,
     "Sha256": "196b24ba4ab5cee210eb254473107aa62beccfd31ed59a5e9e0a03d779cc4048",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/ferdium/ferdium-app/releases/download/v7.2.3/Ferdium-win-AutoSetup-7.2.3-arm64.exe"
   },
   {
     "Version": "7.2.3",
-    "Date": "7/9/2026",
+    "Date": "2026-09-07T15:43:32",
     "Size": 142051593,
     "Sha256": "b8eff0be672c8af5e80fd60211009a7972f4898c0050427debcbf0645375a5bb",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Portable",
     "Type": "exe",
     "URI": "https://github.com/ferdium/ferdium-app/releases/download/v7.2.3/Ferdium-win-Portable-7.2.3-arm64.exe"
   },
   {
     "Version": "7.2.3",
-    "Date": "7/9/2026",
+    "Date": "2026-09-07T15:43:32",
     "Size": 135558756,
     "Sha256": "ab15d3efcfc7703ac13d159c8a784ff73b22d0c83cd96fbcc33b5527719a9be3",
     "Architecture": "x64",
@@ -31,7 +31,7 @@
   },
   {
     "Version": "7.2.3",
-    "Date": "7/9/2026",
+    "Date": "2026-09-07T15:43:32",
     "Size": 135311297,
     "Sha256": "973ddb9d3c9d55a430e01760db7bcaede6d4a5240056443bafc0429685067b24",
     "Architecture": "x64",
@@ -41,7 +41,7 @@
   },
   {
     "Version": "7.2.3",
-    "Date": "7/9/2026",
+    "Date": "2026-09-07T15:43:32",
     "Size": 125597619,
     "Sha256": "463df5bf8b41d05f5dc8feb934416b894ca930f8d4a68240467353046b436749",
     "Architecture": "x86",
@@ -51,7 +51,7 @@
   },
   {
     "Version": "7.2.3",
-    "Date": "7/9/2026",
+    "Date": "2026-09-07T15:43:32",
     "Size": 401927240,
     "Sha256": "101586d86c7dde128c50540f37a591b498a47077e0ff4138c4c6e1684109c2bd",
     "Architecture": "x86",
@@ -61,7 +61,7 @@
   },
   {
     "Version": "7.2.3",
-    "Date": "7/9/2026",
+    "Date": "2026-09-07T15:43:32",
     "Size": 125350742,
     "Sha256": "b1c82d5b11766af1aa0dfe5ff6efa4f3df2fbae96ef51dd890d32f9779459757",
     "Architecture": "x86",
@@ -71,7 +71,7 @@
   },
   {
     "Version": "7.2.3",
-    "Date": "7/9/2026",
+    "Date": "2026-09-07T15:43:32",
     "Size": 401679946,
     "Sha256": "95eddb0f53ec31783b6ee80971b2b9c2e328077d0538272c5d26fed29ca17d97",
     "Architecture": "x86",

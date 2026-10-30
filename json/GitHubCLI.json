@@ -1,17 +1,17 @@
 [
   {
     "Version": "2.103.3",
-    "Date": "26/10/2026",
+    "Date": "2026-10-26T18:02:47",
     "Size": 13840384,
     "Sha256": "751f6cd2dafff9340822bf10c910f6daec3896638c030fcc8dda8822129e4780",
-    "Architecture": "ARM64",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/cli/cli/releases/download/v2.103.3/gh_2.103.3_windows_arm64.msi"
   },
   {
     "Version": "2.103.3",
-    "Date": "26/10/2026",
+    "Date": "2026-10-26T18:02:47",
     "Size": 15450112,
     "Sha256": "5073112b7abb5ffbba24b76aee7e89269af531218c0a42751f5f0bfb6440c2cc",
     "Architecture": "x64",
@@ -21,7 +21,7 @@
   },
   {
     "Version": "2.103.3",
-    "Date": "26/10/2026",
+    "Date": "2026-10-26T18:02:47",
     "Size": 14835712,
     "Sha256": "b98702030ef20fa21f17675a8d67c4343c284c69ac6d42c418806999b80c7fe5",
     "Architecture": "x86",

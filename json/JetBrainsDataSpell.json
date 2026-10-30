@@ -1,12 +1,24 @@
 [
   {
-    "Version": "2026.1.3",
-    "Build": "261.26222.84",
+    "Version": "2026.1.3.1",
+    "Build": "261.27258.145",
     "Edition": "DataSpell",
-    "Sha256": "5e8c28474d1572362611939ada587eba29650f6b1d270670c945f0473f81d324",
-    "Date": "29/7/2026",
-    "Size": 1002629384,
+    "Date": "2026-10-30T00:00:00",
+    "Sha256": "61cbc2d3ffbb491e431b30c3812dc8ef78e0ee299fff5e672aebf1246681d03b",
+    "Size": 1002174504,
+    "Architecture": "arm64",
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/python/dataspell-2026.1.3.exe"
+    "URI": "https://download.jetbrains.com/python/dataspell-2026.1.3.1-aarch64.exe"
+  },
+  {
+    "Version": "2026.1.3.1",
+    "Build": "261.27258.145",
+    "Edition": "DataSpell",
+    "Date": "2026-10-30T00:00:00",
+    "Sha256": "bddf494aac209b1f3366d47f44b47127f1a161029812fec9c5e88f2b67fc2050",
+    "Size": 1002820976,
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://download.jetbrains.com/python/dataspell-2026.1.3.1.exe"
   }
 ]
