@@ -1,42 +1,42 @@
 [
   {
-    "Version": "0.5.28",
-    "Date": "2026-09-17T20:13:40",
-    "Size": 22241280,
-    "Sha256": "f1236741544923cae67a7f8812c5c8cfec729bc038d07920bbc677186941a003",
+    "Version": "0.5.29",
+    "Date": "2026-10-31T23:13:01",
+    "Size": 22126592,
+    "Sha256": "7f602818eebba5a74e6c146fac9366bbe9717ceaa9748f2cfc962a5dd26072dc",
     "Architecture": "arm64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/raphamorim/rio/releases/download/v0.5.28/rio-portable-aarch64.exe"
+    "URI": "https://github.com/raphamorim/rio/releases/download/v0.5.29/rio-portable-aarch64.exe"
   },
   {
-    "Version": "0.5.28",
-    "Date": "2026-09-17T20:13:40",
-    "Size": 24653312,
-    "Sha256": "7c567ee7f512694caab13fc01517c191a3ff6c3acc1942eb619b53bcd3a00180",
+    "Version": "0.5.29",
+    "Date": "2026-10-31T23:13:01",
+    "Size": 24557568,
+    "Sha256": "a245f6e0bf980d19e8acfc84552b542038a4529ed97ef1ddcad7249e4c780f9e",
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/raphamorim/rio/releases/download/v0.5.28/rio-portable-x86_64.exe"
+    "URI": "https://github.com/raphamorim/rio/releases/download/v0.5.29/rio-portable-x86_64.exe"
   },
   {
-    "Version": "0.5.28",
-    "Date": "2026-09-17T20:13:40",
-    "Size": 9003008,
-    "Sha256": "e9cec1728670d6af37dccc4bf7422320d0a122181d28f55706376084d2d8117d",
+    "Version": "0.5.29",
+    "Date": "2026-10-31T23:13:01",
+    "Size": 8966144,
+    "Sha256": "2f81bb3583c826d033878a299e0c118c55c15082d73d189561fbec35d6d378ff",
     "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/raphamorim/rio/releases/download/v0.5.28/rio-installer-aarch64.msi"
+    "URI": "https://github.com/raphamorim/rio/releases/download/v0.5.29/rio-installer-aarch64.msi"
   },
   {
-    "Version": "0.5.28",
-    "Date": "2026-09-17T20:13:40",
-    "Size": 9687040,
-    "Sha256": "78fddd38bd5d6934fc01061811f9d5f6badb460aad73701bc52062107d90bb68",
+    "Version": "0.5.29",
+    "Date": "2026-10-31T23:13:01",
+    "Size": 9666560,
+    "Sha256": "f143fdd89cee01cf92994f4d94af3ad33ef8035308656980d4daee26ab4dce05",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/raphamorim/rio/releases/download/v0.5.28/rio-installer-x86_64.msi"
+    "URI": "https://github.com/raphamorim/rio/releases/download/v0.5.29/rio-installer-x86_64.msi"
   }
 ]

@@ -1,32 +1,32 @@
 [
   {
-    "Version": "3.0.3",
-    "Date": "2026-10-29T09:23:43",
-    "Size": 72637616,
-    "Sha256": "dd85972c88efdec464efba7af2d0ffe7e398486f16aebb7ad214fb0f4e93a858",
+    "Version": "3.0.4",
+    "Date": "2026-11-01T15:22:30",
+    "Size": 72641736,
+    "Sha256": "1d0d4dc85a738f92f7fb28f049355fd94a378e419acf9ce5609b7253e43724aa",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/metabrainz/picard/releases/download/release-3.0.3/MusicBrainz-Picard-3.0.3.exe"
+    "URI": "https://github.com/metabrainz/picard/releases/download/release-3.0.4/MusicBrainz-Picard-3.0.4.exe"
   },
   {
-    "Version": "3.0.3",
-    "Date": "2026-10-29T09:23:43",
-    "Size": 64746544,
-    "Sha256": "5a80fc98a6b3791ecb0571c253c4334640aad75a369fde4d86f94628a076158d",
+    "Version": "3.0.4",
+    "Date": "2026-11-01T15:22:30",
+    "Size": 64752328,
+    "Sha256": "fd85d397e5e9c3ecff0ab34f27dc282fe5ad85e76d88caddf778215156104995",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/metabrainz/picard/releases/download/release-3.0.3/picard-setup-3.0.3.exe"
+    "URI": "https://github.com/metabrainz/picard/releases/download/release-3.0.4/picard-setup-3.0.4.exe"
   },
   {
-    "Version": "3.0.3",
-    "Date": "2026-10-29T09:23:43",
-    "Size": 75535391,
-    "Sha256": "fb70dc9d8b7000e0cf0365019209f34d06cb3b6dadc720eac4b4bac3a35a4d60",
+    "Version": "3.0.4",
+    "Date": "2026-11-01T15:22:30",
+    "Size": 75537763,
+    "Sha256": "e9ed2b4bede20bd4095128e30fe3cab8685f36dc5ee77f3ec8fa036452a892ba",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msix",
-    "URI": "https://github.com/metabrainz/picard/releases/download/release-3.0.3/MusicBrainz-Picard-3.0.3.msix"
+    "URI": "https://github.com/metabrainz/picard/releases/download/release-3.0.4/MusicBrainz-Picard-3.0.4.msix"
   }
 ]
