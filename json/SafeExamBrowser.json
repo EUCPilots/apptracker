@@ -1,32 +1,32 @@
 [
   {
-    "Version": "3.10.2",
-    "Date": "2026-05-08T08:27:29",
-    "Size": 378974944,
-    "Sha256": "45e463ff49dcc39d6bb48cde3749ab7fa31d502f7dd271e9a86b04a8948893f9",
+    "Version": "3.10.3",
+    "Date": "2026-11-02T10:15:25",
+    "Size": 402372576,
+    "Sha256": "716b25f77ada22bffdd223e147c3f21042d130c006347e35bd9be2c91e51730b",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.10.2/SEB_3.10.2.920_SetupBundle.exe"
+    "URI": "https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.10.3/SEB_3.10.3.960_SetupBundle.exe"
   },
   {
-    "Version": "3.10.2",
-    "Date": "2026-05-08T08:27:29",
-    "Size": 202211328,
-    "Sha256": "fa5a3b95f5f1e5380f71c5e9db7b4fbeb583262eeffefc598ace3665e98d02c3",
+    "Version": "3.10.3",
+    "Date": "2026-11-02T10:15:25",
+    "Size": 214536192,
+    "Sha256": "e5aaf3de9037d5a361186eb0fc18562f5a83179d4bf53ec3092061e0fece0ccb",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.10.2/SEB_3.10.2.920_x64_Setup.msi"
+    "URI": "https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.10.3/SEB_3.10.3.960_x64_Setup.msi"
   },
   {
-    "Version": "3.10.2",
-    "Date": "2026-05-08T08:27:29",
-    "Size": 177152000,
-    "Sha256": "1d63487b4995c0c9112ff017c76cf4fb82be0d9cb45846d11417d5dd841f4460",
+    "Version": "3.10.3",
+    "Date": "2026-11-02T10:15:25",
+    "Size": 188219392,
+    "Sha256": "9800140481b0d5b55a92ab7253b120117ed616f60db4b71435c6252e0cf6af27",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.10.2/SEB_3.10.2.920_x86_Setup.msi"
+    "URI": "https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.10.3/SEB_3.10.3.960_x86_Setup.msi"
   }
 ]

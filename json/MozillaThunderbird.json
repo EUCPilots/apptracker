@@ -5320,2663 +5320,2663 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/153.6.0esr/win32/multi/Thunderbird%20Setup%20153.6.0esr.msix"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "af",
-    "Sha256": "7cf7645467399b182f89729e67ffca29e85a67fd52afc963d26b1e99af94048f",
+    "Sha256": "3080d0dec800e86575932eb280c7d9efe25762fa5815d6091a7fe7e6b0e2ae58",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/af/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/af/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ar",
-    "Sha256": "00f9b6eac5b020edafa7801311ee2832271f5a05348c6695915a240f3a187c51",
+    "Sha256": "add9ab1e4b5b02da31ce1eb834617f633390c5bf306ad67180ad0bbcfe54dc2d",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/ar/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/ar/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ast",
-    "Sha256": "95c2e116acb81bccb68497fbf425dfb75d5d033eebb094506c9c95334c168461",
+    "Sha256": "988097e00463bcbe423d22ff341e77155afa4178c64b12a5016927a84ce14cd3",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/ast/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/ast/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "be",
-    "Sha256": "96ec6a113d7fb6fa3fecce4ac436a7270336bc89bcfed12c3e96f2b0273ab0ce",
+    "Sha256": "24f7a6788cfa897a2d565d4c923b8eeed3a67e89201635ed36d0fa97d19bad00",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/be/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/be/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "bg",
-    "Sha256": "78131e206d1ce4cf4e0650be838b0046863a28549c095a41c953fee65e0724a0",
+    "Sha256": "af1ef094e387543355c10240b03882869e56feedddf6fccbe134a675298f2f03",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/bg/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/bg/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "br",
-    "Sha256": "7a01c69fdf104576d68ab29945b5f5b1834fcc9b0b4aaebe3731842cf0e1d720",
+    "Sha256": "a62d292ba2129f2fce6a85b69b1235f351e93c35c891155a83003a39572fab8b",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/br/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/br/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ca",
-    "Sha256": "9d854b9ae6229e3c1ee09cee9ddbdd8b445b48ee7a2072eaa9e039924f965269",
+    "Sha256": "89a0a179deb885d4ed4a94913f272b3d4cf1536610ad6ce87d627787a7362671",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/ca/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/ca/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "cak",
-    "Sha256": "2c0024fc4b43c7affd3ad15e5e1eeb99e0638fbdb63df1b2399137b2aaf1723c",
+    "Sha256": "88ced637d56ff353dc7e527f2fed66cda81600e893d9922eaa81eb5a1bea9b0f",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/cak/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/cak/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "cs",
-    "Sha256": "321f222295007046f9389943f3706a02d26eb31393c4a1c8f9a775490d365018",
+    "Sha256": "979155dd796c4459368955352db388e6d48c11b4910ba23a3fe5b562f4251c53",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/cs/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/cs/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "cy",
-    "Sha256": "a935a6252a08a197cbcf5b45c1723a1e1b32d654a09b00a96334fa7c88e93c5b",
+    "Sha256": "3c60683018b0c733f48bca215e81ec74fb1c45373055434e6506447930634c90",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/cy/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/cy/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "da",
-    "Sha256": "b3fe0f786d340e3545c6f9893994cd24ef1365adcff009691b86eb5ab6a6310f",
+    "Sha256": "764b11064abf41c86da24c03a9785cee7704ed5a15945cc78d26cbc488209c80",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/da/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/da/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "de",
-    "Sha256": "d515d557f507e9aa83f96d2a2c78817b897bd35671de9f613c2abfd3ecf05bac",
+    "Sha256": "07217daadce2ef30566dd652c9e8b5bca8fb220ecc00af93b6122d7ca7ab3238",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/de/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/de/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "dsb",
-    "Sha256": "c4bfe3702d340897d5c6cdf73c5c61d27d66615db35fdb7fd318578edf6cf6f6",
+    "Sha256": "e900a7860030f22eb8e751ffea35f196ffd25342a8f55a1968bd3b6373273bfd",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/dsb/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/dsb/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "el",
-    "Sha256": "8158f1ec4736644fc0b5b513c7ff00c93736a1036684354d699a32cee4ea8672",
+    "Sha256": "833e8a53b78ce7a75b9741c7ca33657d1670e3e81467e5f89cd7d3f3e54a1eea",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/el/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/el/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "en-CA",
-    "Sha256": "bc03c25d05d0a0d800bd22ab13484ff3bc3961fdf0ab72eda95c73878767bc8c",
+    "Sha256": "b5d5cefe58df36d908aaac32da855d586dd082bd7a82405eb7e0129c296ba8d0",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/en-CA/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/en-CA/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "en-GB",
-    "Sha256": "47311bbc98471fe859e8ca92f7477c3f613a62650b3e75653529317dc435a969",
+    "Sha256": "d2c58a7fc53716d6d9f53a2e3fe147c8ba8cea2fb17563a93ba6935c99dfdfcd",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/en-GB/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/en-GB/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "en-US",
-    "Sha256": "e90c21b6a38cb2f3b94900da65f042409795a3a77dcbc3bce68b975f6a8c15fb",
+    "Sha256": "2e021b1597b9edc7c4b69f99c67861e81545bdadbf9d2086c1f493d256871a26",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/en-US/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/en-US/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "es-AR",
-    "Sha256": "c227ce8982ea62ca95de00adeeeb3998663c8d05cc5c9f5df042259d738e9184",
+    "Sha256": "74b15fcc588a269b4cf1b1b9bc21bc76325a7a46e9d8cc8cea22f0882f28bdda",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/es-AR/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/es-AR/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "es-ES",
-    "Sha256": "2f5c1b0157850413812575b318fa4df72dfe8aea6c69d33ab8e31875feb1a0be",
+    "Sha256": "12a3cd3196d4fd43cd6d84a04dd2c34ab0cd7c1739f4465b7b1899b012a7fa87",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/es-ES/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/es-ES/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "es-MX",
-    "Sha256": "b55b5d841da121d141ec6f934a3822a734faa5ab4c88d2e39776d16ef601117a",
+    "Sha256": "0afea2e05e296610449d64104b78082e0c1546c3742e1e331cfec8c5c83be34d",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/es-MX/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/es-MX/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "et",
-    "Sha256": "77ed5b05b4797e677cdb0819cd3e97b432d3a8b3356a51bc9cec26ac0ec31484",
+    "Sha256": "3e306b32dbda6543379806c632aa10a090256c2ba01ad680fae766dde431d21a",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/et/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/et/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "eu",
-    "Sha256": "2f56b10586ea32562e8469f5f09b0cde8246acfaa4bb4f34cf3fb5686e8b0f6d",
+    "Sha256": "69df52e3a82dc5f2cd4bfbd940368e4c90710b4470e0a281502bc820e19bed6d",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/eu/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/eu/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "fi",
-    "Sha256": "93fa110b9c4722ab2cab9c5c1114476cb166564e1c6af2f9a12e5d23116b5dc7",
+    "Sha256": "c9de366994dece0699652bbcb0b19fbca9ebd4c348dd43968ec69c745ba301c9",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/fi/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/fi/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "fr",
-    "Sha256": "08861140be2c0dfefc7729b7f5cfea696fde10a211cd9c68db7e50e7d05e817a",
+    "Sha256": "c01d0f65147cb8f64968653cbb7985ad2fb473c76a704aad6acadd674558ebe5",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/fr/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/fr/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "fy-NL",
-    "Sha256": "1bd4bd5f636cd1fe7e5f9a01e890f26de72489d7d39ca7ac3fb085740e473fc0",
+    "Sha256": "0cb16b9f83e9129b3f2eb514aa19e42c228d1d8472f6001f986951f44aff0e69",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/fy-NL/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/fy-NL/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ga-IE",
-    "Sha256": "890ff73e8a836ad7a2dc8d9a3d8a8e3d5c91cc5fd0f8089651289c768c3c556b",
+    "Sha256": "ea5be67e5080b3e033fa5c1a47fdddc5f6b729cef3368728405613ab9dd6fb62",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/ga-IE/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/ga-IE/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "gd",
-    "Sha256": "848f9313ae63a56fcc7059aa4ed04d24701128faeac35f10d9d3c8d61c4b8c7b",
+    "Sha256": "6c64a932a821996b608085cad630cdb1ad20f686db7b1a3687871155180aeab0",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/gd/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/gd/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "gl",
-    "Sha256": "773bd8cfa0ec7d917394231f80ffbdb45dfcc036e503ff4fb513eff85d3f276b",
+    "Sha256": "7cfb88c083c8f38fadf6590a0cf3abc0e970423cb0b726edac073342eeebc62c",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/gl/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/gl/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "he",
-    "Sha256": "ef1ed2b1043cdfe1dc9b97a0236ee495338b2da98e219d759bb04d9f4217383b",
+    "Sha256": "ec5dc9014d44b7d95fa3911bc93984a75e09ecfd73bacb38df5b32ece9471f0f",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/he/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/he/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "hr",
-    "Sha256": "5560fb2b5d918c218535e66cc4f600769c739869b59a0c29718ee2effd27b0f9",
+    "Sha256": "4177e41afc08db039d7354b394dfdab074cb9149900c14bc3c8e9e946e0a2caa",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/hr/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/hr/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "hsb",
-    "Sha256": "f29f846449a52b5fe87aee2b4cb771b382747ac94879e4c49ac15f23ecda7873",
+    "Sha256": "266366131151b7460a8a45264d2ef56e49d39952be9a7b9dad3491d817507dbb",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/hsb/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/hsb/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "hu",
-    "Sha256": "01396f1f7a72ad22aeb27ea74bad7fe987b6f801b85bf3aec045e0044bd30f25",
+    "Sha256": "4e45912919beba0627fa8b4b6ae857699bf9136b74f06ade1482a042216823f8",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/hu/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/hu/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "hy-AM",
-    "Sha256": "79a1ea06525aaa0d2b1b495cd6cde84c67ba7a593941bdd7878bcec178bf1257",
+    "Sha256": "7ab4d673419868b3eeb1d08d903869be7a44c3df76924cdcd548e78758a891b3",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/hy-AM/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/hy-AM/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "id",
-    "Sha256": "acae6753c68fd11127c05544a048ffe6033b202ed93723217b2efa1029e638ec",
+    "Sha256": "cbbc96360ad897fc8fbeca31a38cf69a43ad0e1dd4915fa38b3b0e13755c39c8",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/id/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/id/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "is",
-    "Sha256": "0f5ba0385caefb5f898e52b8a6b28948b9836565badec431c4a762c81a5597a1",
+    "Sha256": "148d0ded9edff879a430e8c473f62f718e758ad33f2348bf9353cba28d6d5fc1",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/is/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/is/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "it",
-    "Sha256": "7e4e2e5ed5a4624f88e400b8243161545965adcb4b0d11bd256c579b12374eca",
+    "Sha256": "dbc454c090b71dea6f6952ac97cb9f900aeafbf0718963142a859b6c415416cb",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/it/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/it/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ja",
-    "Sha256": "79637a8c7a48721a1328686702a0f088b9ae72560836092c30927512162a8f45",
+    "Sha256": "d03a1c0cc918b61d24088061f79c0ae76ddf13e35f63f841e9875a2e84e35aaa",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/ja/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/ja/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ka",
-    "Sha256": "0197c9d975c3207c4818d684547adfe298ee1868f74eb86d34aef33c71122ddd",
+    "Sha256": "647edc90ebf9911ba7b0472bb934cd8549b44e4cc8db3388f6806e5614ef0231",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/ka/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/ka/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "kab",
-    "Sha256": "46519ecd325a78ad7023c2588d6ef79e3025888578c8db875cd4bd28be0feec4",
+    "Sha256": "ff29593708cb342d3bc4e0356e9c552e390ce7173adc56b5b51626d29d7acf83",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/kab/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/kab/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "kk",
-    "Sha256": "f7ec6eabcb5baef084a1421098b7a08cc41f670c3bb3fdb936074d0e6feec5c8",
+    "Sha256": "bcc18c8ffcc6e23dd44980ed176223be9e2a37672ec2c4749a92cde2d80975c0",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/kk/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/kk/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ko",
-    "Sha256": "437d433d69e307ac94a59bcec10543eb52b64da131a75c7ebf69e4344b20e9b4",
+    "Sha256": "ab2259850534400d94dd9d749cdfcd1e67f2fb4e1867a5ec280d0154124b19c7",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/ko/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/ko/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "lt",
-    "Sha256": "b2bd879b6aa2c30773fde78ea039a62c9959f0c130ac2e8e9054c532a3511243",
+    "Sha256": "eb5fbac700ab640200f3153325dcbfd769e1fa81219167c696e50592d79a6a33",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/lt/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/lt/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "lv",
-    "Sha256": "9e85e6456b1f0f2d876534d85792904b83d0be02ac27ea4a00c7b62e2a33e085",
+    "Sha256": "e42fb4c696df13f6680c39779246d5638b20d205f1fb0acffccb30e404165bc2",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/lv/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/lv/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ms",
-    "Sha256": "7ff4e711da0712bd589901c8ccc8fc4d57f26fd601b8881ec2189e3d2cafea20",
+    "Sha256": "8d8db2ace631b9e1ea4af886b496abbb8d5c595032939df76dd694ab3db131c2",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/ms/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/ms/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "nb-NO",
-    "Sha256": "d907736589744d34ba5206f011975e21ffcccfb8a7fa7703aeb824e1949a12b9",
+    "Sha256": "bec8e25d5a98b7888413660bcb3758d86f305ea76d59807de583fb88018cec23",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/nb-NO/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/nb-NO/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "nl",
-    "Sha256": "49c3419131906644b411bc896b4d229d51023a2f362cfa7dba04bcb47cbe2d53",
+    "Sha256": "111497bd09d4b6233fbaa1948e1c2720830edea78b60ec9675c25f6a58ff9267",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/nl/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/nl/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "nn-NO",
-    "Sha256": "4cb0dba0eac92d8b7b3289954b8a757cc416cab9c71e5f586c2be9695fa4db43",
+    "Sha256": "05df8e926bf9f853e9bdc7e9c3b2780aed5d82648fcfe1c4d91e1c23208b0796",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/nn-NO/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/nn-NO/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "pa-IN",
-    "Sha256": "a54947d77a9e7fa0b12a6e99aa09b593b310e58612daf788a13b3aa9fcafe12c",
+    "Sha256": "22f910bcdd5284c7e212efc2c874d7cc9390af3de3bd8ecd75fc058184affd7e",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/pa-IN/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/pa-IN/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "pl",
-    "Sha256": "9f9676737667852639351c6eae1818ef11e2b11828393eb865b8e5e285920ce4",
+    "Sha256": "488a3089236ae3634ce239c2f7a4eeece1592d4f14a5f5df0548d1a28e3ae819",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/pl/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/pl/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "pt-BR",
-    "Sha256": "22318ce14ffe1c4a8328e9a3dffd8f14f00588dae0af2457880ea7923e8d29b7",
+    "Sha256": "205423637f53b2920a42d072ee54d8583c1470582e7d2a72851bca5cf42e8266",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/pt-BR/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/pt-BR/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "pt-PT",
-    "Sha256": "bec05a5fb1bc6813068fe3d9f5d92a388425afec4bec42fba9afa7e7f48a088e",
+    "Sha256": "e18be9ba80067ca0629b19e0d694a1853ded8eeedc4a4f7418abafd9e1115bdb",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/pt-PT/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/pt-PT/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "rm",
-    "Sha256": "443848a58b92571a88edbd2778785691e757321166c8555e968448c78cb9d108",
+    "Sha256": "a25b66eb33c8fd6534cca36ca1179174f25484e3d0daa3b5f555524afdcba738",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/rm/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/rm/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ro",
-    "Sha256": "bd7d3a63556b11848ad3c41ca36280831618c78acd95007bac9e6cf59ae2f4bc",
+    "Sha256": "48bfd5111713c63b212fc942d877d0c0c2611719d4f5e81f1d6329be869de615",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/ro/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/ro/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ru",
-    "Sha256": "b71304beea1f73e1c2bf7402cc13664e91aeae38a085dcf8d550d77641414b07",
+    "Sha256": "bf2df6e141f12ac94994a6b86a7fb4b32f11dafd38bbeada2fe7bc81fc67e67f",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/ru/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/ru/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "sk",
-    "Sha256": "fd614791e038c54b0e3f645dcafb8b4fe49471429cea017bbf6f9b050041fafa",
+    "Sha256": "0dbe287ff96277aa87707437902ac3141092dd97bf8bc488099b94901fdadb72",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/sk/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/sk/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "sl",
-    "Sha256": "3294085bf5d3bff9406d4c011d1205f770ff192fc4bf7c198667bf716e724552",
+    "Sha256": "08da9f59be5b94715320b98494d603164d88c214c8e3bd9375ed7325b24cc1e0",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/sl/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/sl/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "sq",
-    "Sha256": "1cd28d9b0a90a2ea400aeabd09b1ffd7d36b8457eb25415ee9a8aaa1708968fe",
+    "Sha256": "3212a57e2157ab3748468a1578a372ef61d121f83b15dbfbc011e2f52a6b64e5",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/sq/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/sq/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "sr",
-    "Sha256": "7f222ccbc1be7eb245bc4c126af1a4dc7a58d4e4618e18457f0ae3fd21ccb086",
+    "Sha256": "005dd9cd65e964d7d6ce19dc4e189a7a4d91cc9a4a0469e5cd61ca9e019e756f",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/sr/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/sr/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "sv-SE",
-    "Sha256": "4ba9ef00788bc4fc083e5e019fc4e42ea36a1ff586a21fa0ab2d5c7b28618413",
+    "Sha256": "a90eb917db37e6eb226aad39709e524ad9d3f706600f001f3eba8080b5761ac5",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/sv-SE/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/sv-SE/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "th",
-    "Sha256": "6abe35d0550568258a0ab5590296d2457b4ad9b60f032744ed541636961b935b",
+    "Sha256": "8c48c101270c9db1ae4e17fc2cb5870ee8f0e6a3b1ae2e21d12c21dbb134e4b4",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/th/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/th/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "tr",
-    "Sha256": "fd72a6d853f52cce3cd7ee6aec5ca259e1401b69daa3f0776cb10006d389e572",
+    "Sha256": "ea37c54bb7ccf210a922b2fea94d8964f8311cddcdf849a49b9c41de5857031f",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/tr/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/tr/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "uk",
-    "Sha256": "30e20c4220f23e0f23e6d652f983d58ceab8004195e094568e076550f0db08f9",
+    "Sha256": "52a5f09f0f55fccca337b96474cabde2e6b8825179ead3528c54a4b3384dff33",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/uk/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/uk/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "uz",
-    "Sha256": "f4856c4c787d1e9c83d59b1dbe4dd29c1b8dda37c82c6fa663ae36f234dda216",
+    "Sha256": "01e7c4edd9bc0a64ee29cc36b3cf508684c741ef8bb56927b5c8f52cda023b5c",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/uz/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/uz/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "vi",
-    "Sha256": "31740a7448b6b55a2b53c6b98dee4e1b4965ae73ca65fcbedfc25f3da1b6be74",
+    "Sha256": "50fb3b076082d5f1927116abae9a87a1747264c41f6afeaea218f1ea055616aa",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/vi/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/vi/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "zh-CN",
-    "Sha256": "a8d12ae300855db5f7d145586c41723b7e5f8fb7cf16b4fbb13c5cbf1a342bf7",
+    "Sha256": "494a4a6b6ceb5bfb7012eb344d8eb5837abbbbdf2ab522af33ad03f8b8ef51e9",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/zh-CN/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/zh-CN/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "zh-TW",
-    "Sha256": "0021b16ec13374d57e11529793e9c6fca537a146cb2a439116c2d5ab6b126a92",
+    "Sha256": "53aaa068f8a3bac5888bb362a7e5404791e8732d045cc23096f63c09138261b9",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/zh-TW/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/zh-TW/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "af",
-    "Sha256": "da3c52257e0d8d8fc80a46bbce237859cb6d5227536eeffbfa92c6724db973ee",
+    "Sha256": "ad002a9228a5ff6ab4ff6bb950e1cdbac7a5d646eaacb78e025571a524c72669",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/af/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/af/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ar",
-    "Sha256": "61321117eaece059259e4a6715996f37618ff4ba211d4bd54dfcac2ef787d933",
+    "Sha256": "4e6331f95aca51cf7511c376a58b805ac9cdfe2ff0d55f4e09ce199ca2c9adce",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/ar/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/ar/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ast",
-    "Sha256": "715a9a3a970a5f412f5fa4ee3185d6c8c367b547528eab36ddb65cf4d4ba9a37",
+    "Sha256": "9cb2f481393228b99b9b31842b9f2c6aca694758f526117c12a95e5d3c662aff",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/ast/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/ast/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "be",
-    "Sha256": "55d66c4822ab3d9d1c8055f67f20bea46cc71a2748a8ba700aaeee30f9820f22",
+    "Sha256": "c68887ebff4211356b9d7fc7222b262a233a73a71105349cef5a7099fb0235a4",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/be/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/be/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "bg",
-    "Sha256": "c01d3f6158ee77b23a95f401c97c954d5c31989589b8836671ba2b252a25307a",
+    "Sha256": "541029dd4fe0ba00fc130a36ce9a9d7777fa3f2830e6f00a159a04b93b5e35be",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/bg/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/bg/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "br",
-    "Sha256": "ead3d645775f98c619ac1e3c248fc30b3ffeb92b69c481d3659ce6db6ebd61c3",
+    "Sha256": "64a005a4fddfd613fea77cb6f7143f803e55f6b250ef173041a277d194136414",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/br/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/br/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ca",
-    "Sha256": "359bf08732251f9955024a3f335682084dcd1e67cea23d16aa0eb7411e2bae88",
+    "Sha256": "80eccc1ce74ef6171c895211d99d8b16f1eb79c354d270bbeb062abccd4918a0",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/ca/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/ca/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "cak",
-    "Sha256": "80bb9906ef07c0a556d2216c98de45e9b9e001163c03bc3e9ceac51499251c89",
+    "Sha256": "245f779cc66f08d7940ef6a95196c47e7a7606628c02075154f2273dd975180c",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/cak/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/cak/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "cs",
-    "Sha256": "c88af2a2946a2aceddd3233e9708fae2fe1dc8f2c27f3d23274adba020117691",
+    "Sha256": "774fe529935d1e8521d7c9fb3a0efc6c44e07efebcb291206aefeded23109b8f",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/cs/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/cs/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "cy",
-    "Sha256": "0d2a6b272b7b3cbfd00b14875c95b54ebabb4d336ade81b871c0a30127d0e9f5",
+    "Sha256": "d1193e9f6695822d6a4a67ac889e630d851062b3d0ae5d8a52887965e170419c",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/cy/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/cy/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "da",
-    "Sha256": "e11565d13357eea85c51eb79b41477fcb978a910eaac47943b99629dfe3d634a",
+    "Sha256": "ee0b14e5847ad8f5e573171ec6ce1efe36d4839fc9df41b2cb88038881f7d0d4",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/da/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/da/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "de",
-    "Sha256": "195852fe50b17faf4cc3712fc97d6156b19522cb9e6a289453ef669805998d9a",
+    "Sha256": "7540986cb11b4afadecda08dc2168660bb0abccc93c87c792a3323eaf4d3d88f",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/de/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/de/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "dsb",
-    "Sha256": "88c59df8d7414b59bee9fac08633f69e25b14cf278a0622b7b5814e54cca6f72",
+    "Sha256": "7a3ef1a4c06a29efa903c74f85a0ece39df041fe580cd3809ba383091b996a26",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/dsb/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/dsb/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "el",
-    "Sha256": "7956d92933eb80bebc35e9b1a44cfcf9d43453309ebb1426612964d6bb5a4581",
+    "Sha256": "5b18bd15ed740d9c76284bef5531ac0d4df88ea08bde5e8926c365db5a69f3be",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/el/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/el/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "en-CA",
-    "Sha256": "af5ea31b8b2956c35a2ab48868451006a0149621de16ab6cf6ba444d88efa56e",
+    "Sha256": "1696ddfdbcae821b045d2a9caf9f28cda4db9beaf71c14e3e301d016049e6389",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/en-CA/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/en-CA/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "en-GB",
-    "Sha256": "2d261ecefe68d71bd2ad272bbecaea9f1e4bce28ae872deb14ff372f37ae0dbc",
+    "Sha256": "3e3c82822d61408937ea42182bec1c94515d6a3c840d12caa72c126e7f19c246",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/en-GB/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/en-GB/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "en-US",
-    "Sha256": "a0071d32304e5c1305883dddd8f4da6bf660e67c6146352afd181fd94e1e33f3",
+    "Sha256": "d9e3f0db3f55393e7040514cc6529b8a2796085779fa0545d2bc4f3a171a0829",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/en-US/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/en-US/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "es-AR",
-    "Sha256": "38fd27a2921f0a163ad7e865645ce13c8a6a9a5b307dfe4fac2f5a5e350eac26",
+    "Sha256": "2ceb36a521d973ecf223cf09b5e3d8d9ad1e9121f1a69e68dde77d0ce8af49d4",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/es-AR/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/es-AR/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "es-ES",
-    "Sha256": "8666bd65460f404d0e8c53534ced0dc190ea83492e6cc35803d7f4ffd4a77986",
+    "Sha256": "c0160fa04d73bf7ba23683bb7cb01ab04d81718c6d64176fa66f21c34980dee2",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/es-ES/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/es-ES/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "es-MX",
-    "Sha256": "2dc84d25aa3fd03b1cf7ec5cdf1b435f09e76516e21c56c452bffc24e4edeed2",
+    "Sha256": "7fcd53cb24a7f3f61d3af5be14be75251502a14e4364f0c6b373f743f803659b",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/es-MX/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/es-MX/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "et",
-    "Sha256": "b05fba14a5be70664c0a4ebcf68b36b1ec6a93158a3a33826601c2dd6c07f7ac",
+    "Sha256": "c1b38b5dc46b5fbaadad2cca3cc692280ef217c584c3b79b2261e2d1bdea0508",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/et/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/et/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "eu",
-    "Sha256": "78fdc4d4396186e64728145f3c25707921456fdcee3af60e2491ec32f358664a",
+    "Sha256": "d6155d3c4719609956a84545bfca5b57693ecb049c4d1ee039b154d897ed91f5",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/eu/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/eu/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "fi",
-    "Sha256": "6057bb73ad89f1b2ab3a5af8dfa5a3a8274620eacc518829c67072d43c1907bc",
+    "Sha256": "f4226af79e33ac579500d51dfb388f2d89eda5f309ba88564869a7f4dea8af62",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/fi/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/fi/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "fr",
-    "Sha256": "e46914c6d0d0d81f70fd142cecf40b40d841686512b8364af64ac2fb2bde64a8",
+    "Sha256": "9428cd5926ee550edf85ed87946895eed35ead8e55c2b4939bc454f94a36a1e6",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/fr/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/fr/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "fy-NL",
-    "Sha256": "fee174af6b8c053dc6c7de2637bc5bea5c89743f6809347e738d9c865c3e3edc",
+    "Sha256": "216bedca145ac1f6d692c056da706299fe30461bd958eb776743e170f2c99c46",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/fy-NL/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/fy-NL/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ga-IE",
-    "Sha256": "b87bc9e9443033b97b92e37e2bd06fb416f1a42316cc0dff9f9aa955b48e98e9",
+    "Sha256": "4c0bc144810096304d948786617bf477a4010c7cc59dd472bcaf2bc3e1001b46",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/ga-IE/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/ga-IE/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "gd",
-    "Sha256": "dc10fdc822f505201723f5fdedb94556cc9e8a28317c1e120c57affc76fa2039",
+    "Sha256": "c28395862b4f54ebe52fe59e17ba539f01397978daa9d32e41184caa635d7610",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/gd/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/gd/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "gl",
-    "Sha256": "ae8e700a86dbbaadf614bcc8231811e0890b178890c4de9ad408e4bcabadb8c7",
+    "Sha256": "3270ea6da81e4265d73667656496df2cc1d081ded2f63819ddccd7ba423e1fa9",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/gl/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/gl/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "he",
-    "Sha256": "11a4f5efd386cf982caa5ed7bc2f20ddf186ae1b50642690afddb119bfa85b8a",
+    "Sha256": "529088b7c9fd675664984d1f201f776fb84602b7ebfac2322a81bf65238f63c9",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/he/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/he/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "hr",
-    "Sha256": "a110d9acf53d933578887c66a714843a98cde746699b54a43b819a4420da6c29",
+    "Sha256": "52c7cec4c750f2f395a00d892a9bf1e941cec5ad67641dad6fedef2d00921d28",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/hr/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/hr/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "hsb",
-    "Sha256": "41f2536903735d851670cb3e9a54c53a6d41d38c7d490aa439a6da2a0f976060",
+    "Sha256": "2d3c818e77701c8849bb8ba7ce5d56dca8e521df06b60eed3a67e7ac2c29651f",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/hsb/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/hsb/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "hu",
-    "Sha256": "ce15c8fc7e84afe0a1af2ee65374030dba01aab23768ff173d8f344a27668601",
+    "Sha256": "9aed79bbcbff34f3c1abf1732eec4d90cfa91b8b36d790d2c868fce2cb18baaf",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/hu/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/hu/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "hy-AM",
-    "Sha256": "0498219813ade4375ab911ac0c44cd724b0ea3ade3126533119fddc1fad86244",
+    "Sha256": "be2df8fe9231293cfca62ffd3cdfdc8569694bef3681c878f220252c2b8f0615",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/hy-AM/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/hy-AM/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "id",
-    "Sha256": "f6b03a9d6ee3c111d852e0c04c082d1df0d3a409902242cdcc820b214204ee25",
+    "Sha256": "de6abf709f55ca49ce74994ae912b433a31f0162df4856f284bfed00514f4fd0",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/id/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/id/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "is",
-    "Sha256": "16e35b73d70a9ad6c794cb7482d29e57a22ef7ad161b01975732e1a422f897bb",
+    "Sha256": "8ae15ec09326459ebf66272342253129c8e47817d37d4871d7effe6f5ee42d51",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/is/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/is/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "it",
-    "Sha256": "4d2660b2133e6e324b068d88b09c9394a0529efae73705accf82909e5b9082c9",
+    "Sha256": "996917b70ff0ae3c231318ceec3b4f854d9dfd7111049f3400a02b233177f0b8",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/it/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/it/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ja",
-    "Sha256": "2e9a89a20ad3dd761bbfb10d1d1a1144c7fa2449fea9581f809208df87c290f3",
+    "Sha256": "ac7c4d4755758d16939979f4591255c68bd67959f2058291591e6508c5d04e32",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/ja/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/ja/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ka",
-    "Sha256": "eba473645e00bacb43c5b0d31af7fce99b8bf11f900cd031a43b71852272ede4",
+    "Sha256": "f4c174da3d545c7231e32a356afd6696624769370798dc2eaeacc02cc04172e4",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/ka/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/ka/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "kab",
-    "Sha256": "11146339f8d7783c56bbd45e79a3e9f4eae8b987c4f92820f0d7a1be43f1acde",
+    "Sha256": "eb82a06ca78582d3e6ce935faabd746c65ac06088cc0eeb1f45e3340f2e54358",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/kab/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/kab/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "kk",
-    "Sha256": "37002907bde2da4a3be0f8aaa175a54aae5376b92518aff7f0b84fda2ac7b999",
+    "Sha256": "e4ff51cacddff4b494f1a824fb29d75f522db41f533ec8a7f57a532166d47552",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/kk/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/kk/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ko",
-    "Sha256": "48356078f5672a8b7ccbf8763280162674f0a0de5d49d1014462026712ebf319",
+    "Sha256": "2b439ecd435b9171018699017ae06e69aa0a67557de54f46ef536c9966de9f2f",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/ko/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/ko/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "lt",
-    "Sha256": "b7c98b2a77e5f56b2da2b7e280a2dc13276c8d527c87cecce9e36f934c270162",
+    "Sha256": "6e0356d8c6ca8b77b0907969187b70d0ae49af0842028cfe5902003d35de0adc",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/lt/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/lt/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "lv",
-    "Sha256": "f78eaa9b173e303ffe39945e475697c61cfcf253bc5be8868d691e4f87540961",
+    "Sha256": "5da93ae3532916d515a5dec6150b99a7b2dcbece1fd50ffa8a287fd16c7644f1",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/lv/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/lv/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ms",
-    "Sha256": "4cb2bfb2111c881ae951de0391269821ffc3d543910cab78ce6a95fa2b920fee",
+    "Sha256": "f828fd83b2e11972894436f9325d58dc2b3d7c36411308eafee268e86cb671f4",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/ms/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/ms/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "nb-NO",
-    "Sha256": "2e88bdcccf5b7fed6a35df0209bcea22036da02062577916849defc9ea3db3e2",
+    "Sha256": "b441a617253ed99b1c4a817faa70f4f12075f527776c40855dbf15d7b6991681",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/nb-NO/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/nb-NO/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "nl",
-    "Sha256": "3362c65db0b7418938bcc607adea150bc6829f8ce7d4f603eaddcaa36c881d76",
+    "Sha256": "caab250882993a22c33e97d5cef0291ba227ef85a3f53c6e726b85a9bb6ddc74",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/nl/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/nl/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "nn-NO",
-    "Sha256": "a1779ddec000ab4c64cefcd9a9be77df4ed18e04947729d2bf48300262b3ad85",
+    "Sha256": "1da3f39a08a171b25ab698c0c567c6e8ae5c60a2359612cc5e828552d4f9a89a",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/nn-NO/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/nn-NO/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "pa-IN",
-    "Sha256": "a4d69ad737b68fc97ba23db82b2ca7b55a0a0f03dd8312c9b30dda077771e2f7",
+    "Sha256": "e27f01065d2e0043a4c3065074fb94fdf8c377d8e8e95c3aa81fbc187e027154",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/pa-IN/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/pa-IN/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "pl",
-    "Sha256": "5d4e67317711012c7fb1d8fbeec5d91d0e03f4fe61026ec3bed13ca2f065b292",
+    "Sha256": "806a4a0aa4b08107b16aa40686c52eedf3fc3da82fa7439404f6a6cd1b3512b1",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/pl/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/pl/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "pt-BR",
-    "Sha256": "2e71c1cd42d69b27b29b396696843934b132abe1712471c89433612ac863de0e",
+    "Sha256": "ca33d8b18ab862593e9f8b931528d8f5145dff68d99816763ad6d149f073ced9",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/pt-BR/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/pt-BR/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "pt-PT",
-    "Sha256": "5486d7db6a62446f1a37cc787d1ce05c1953884166b49dccdd754259477e2217",
+    "Sha256": "5e40c66dbcd7a11a71ff574107757a7694a04d523e00a7b3970ac1f02df20edd",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/pt-PT/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/pt-PT/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "rm",
-    "Sha256": "769cbe39a999f4a35ef89f53b30f89f2f6ad269c64c23040373eaf34af5b6cb6",
+    "Sha256": "5eea3c02e84ea7bd5f4b87af0fe6303de3daddbf5f6d0d3d8c869780f37c946b",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/rm/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/rm/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ro",
-    "Sha256": "6c3ceba553425cd97767fb7329a85ca9db4672ddd963be9cfd8f6b698f686dc1",
+    "Sha256": "8b06fad085ad64722a725454a6d215ae39aa36cc78d40122be8567199fd498f9",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/ro/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/ro/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ru",
-    "Sha256": "ce1f2958dcf0acad5e643e8983f0e855f84148b1d0d662c0d04f616acda6de87",
+    "Sha256": "75cabdd2fefd544dce51cfe35015c8c982245acffe3c5efbc949bba6e0b5b12a",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/ru/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/ru/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "sk",
-    "Sha256": "e747a1df398156d0bd8dbdcf16bfae965d4dfaae90378d532e84b983b97300e6",
+    "Sha256": "3e25548f360fec140f08c7c8bae2327df6483e598cef1ac67f4e8a13873efd45",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/sk/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/sk/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "sl",
-    "Sha256": "08060d3742114b4e95e7a0e30b772bfbc3f873a1dcc54198c08748f9f2d1699d",
+    "Sha256": "a61f25e998528b231c302a024aac650e8f233362f2b871cf92bc8006686933be",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/sl/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/sl/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "sq",
-    "Sha256": "d0d1a0abfa32555f6921455929937ad573bec967198e8a6e460850fc3613c8a1",
+    "Sha256": "5b0bd2126e2e76a62341d5cccee862f85176439941612d3a96f0440c37a0b6e6",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/sq/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/sq/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "sr",
-    "Sha256": "b35346af51cecd8dfbc062f9637bb6cba3e90890d7871de310eb68403b3151e3",
+    "Sha256": "43cd24668ca40aafd52272664bc6e1b24bb0b6862da7900973518bb690e18304",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/sr/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/sr/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "sv-SE",
-    "Sha256": "10fd3137f68bddb6652a2fe6f55ddb6f3df13bac29d97bcfdd0ab89a475f1817",
+    "Sha256": "fd58c51d9e134b1c9028c345f037e537c915c44b8225effe2ef2f69bf64a9908",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/sv-SE/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/sv-SE/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "th",
-    "Sha256": "d153367f5148b0077ce9239b02a6d683c69e8bea39df724b63dc6a44bfe4a8e1",
+    "Sha256": "f33d4bfa346ebe0f547d5bd9006325d7dc68f653f0c0f2dd199a487df7603b52",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/th/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/th/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "tr",
-    "Sha256": "23fc634399ed8a33c9175afa68c8f6363a6bc16772418680bb58709c6e27ff2e",
+    "Sha256": "18d07d83e9555fc9e0e017685e26e4c03028b890bba7ed5064258526e61ce306",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/tr/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/tr/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "uk",
-    "Sha256": "f321378f4cbf9f696eba9bec18bc66a0510830aef591c479b2c704d821db5147",
+    "Sha256": "d397087f63e439bb73a54e7425bee43626208194a7555b91edef1d579e0da2a8",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/uk/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/uk/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "uz",
-    "Sha256": "86b0bfa8a88d72c2645fa89ee497baf79e75d99bb3bf946712ed3a4e5956c041",
+    "Sha256": "48f62355ad88f36c14e836ce80c7227beadb94d2125a4ca16c6fd17887f6a8af",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/uz/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/uz/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "vi",
-    "Sha256": "5b6620e51e389db2bd8e8f3f1dba3baed1cb9d433e8e98329b1bf25b2b0b45dd",
+    "Sha256": "750fd3266a9736bba81748aa88c531929e3c7cc8fc945f80376085c2416200a9",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/vi/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/vi/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "zh-CN",
-    "Sha256": "c50d7e76e46666be9ecd10a3cf7bd2f6ae9a3d03af881beb1ace460cbffc5ba1",
+    "Sha256": "c7d416f81af12acd4e3131c4c9a66b7faf800ae7901d0fa68b4e656a09475e5f",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/zh-CN/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/zh-CN/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "zh-TW",
-    "Sha256": "b5e1f88223f85a1122636fd1de13ff366abf24e1cbb3b02dbf50263bf6687b80",
+    "Sha256": "ad64307f93e993feca651cea4b5ebc4752f1b2b33c070258479750a985a9dde2",
     "Architecture": "x86",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 160.0b2.exe",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/zh-TW/Thunderbird%20Setup%20160.0b2.exe"
+    "Filename": "Thunderbird Setup 160.0b3.exe",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/zh-TW/Thunderbird%20Setup%20160.0b3.exe"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "af",
-    "Sha256": "1ee0f5929d07113e6200ed55f4f9ba5785343c0efe68baffaf40515ea1018d49",
+    "Sha256": "b2cf381af35da8520eb837ddc7de644291f6647e371af5862c8cec0d51b58f48",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/af/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/af/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ar",
-    "Sha256": "f254577cb4e5a4407be42f1a4f3fcc44a6f0baf1f70fbc2015225e8adfa44e84",
+    "Sha256": "4540daabd50a46a7638d2758a5933cdcd01d86e1661ebac921175e9da126b4f6",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/ar/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/ar/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ast",
-    "Sha256": "50860c3fc2cbfa5c65a7c4c21664116be8f4c796735c0592a89480bb656b4e39",
+    "Sha256": "065e4cb1895761998a4622d8128291a775e8c6fdbe7144b1c13c416686cfa0c2",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/ast/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/ast/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "be",
-    "Sha256": "a560eaccf9fa7a91e76e372192826264fda8615e2b308f9ec5e05f5f659b73bd",
+    "Sha256": "6ab4d92dfa22e943070ac279a7457a54ebdb8c7d530714e95d8f6128e3f943cc",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/be/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/be/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "bg",
-    "Sha256": "fd07873029a9160a03f60a68b127438c163a08d8599373a0a54242e7dfad473d",
+    "Sha256": "dad69a868661ce648a049fe70e8b060f2e98a5afe23b61b6c6a6b86765369f6c",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/bg/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/bg/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "br",
-    "Sha256": "969a117fd518f1934228e45d7f377eeb156f8d0cde7074d347aedd253c20d62b",
+    "Sha256": "7153706e437d67b3d1c44612101e60bee7779b6d8aa04747aaad56f2d6af33a5",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/br/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/br/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ca",
-    "Sha256": "ec38c99a21cc7ef1a047e1f7af0d8292d87e10c7d25b09d7127b91d0afe9eac5",
+    "Sha256": "e6435cd02480e3243c624586aa7fa511eaf4c8f75c21b107588271b2747bd889",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/ca/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/ca/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "cak",
-    "Sha256": "103d3473513210bc0a34a2d916594331c408b318a11011d10091f9bf9f5dcd2c",
+    "Sha256": "b89bdb1f8080f54035a2f7b223d89dfbf408452f395221f0648c2b5f0c8ce1d4",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/cak/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/cak/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "cs",
-    "Sha256": "a50da274dc648cd785585d866522a0998dda8295d05bf742619b82f0efd9b10c",
+    "Sha256": "ca141f94e0fdf0ffffb1ce1339b2d33f8d7fbd4bb3b19c1b3fa2c7fbcd2251e6",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/cs/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/cs/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "cy",
-    "Sha256": "34959870e88215fccc8703448699fd325d4b7649d0ae5742464f11ac4d7d04c5",
+    "Sha256": "cc665278b01c2bb8b17e88ea7957cbef50c7f5895e4314902f18d1b982f5686a",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/cy/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/cy/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "da",
-    "Sha256": "4a2884296f05a693c173d4f88eca4edd91052c4d2581c2b8f94666b1cc2ea3b2",
+    "Sha256": "8789f46f48789775feab0f9567f6c08983ca149ecee5689ffa1d71a5a6ec7c5a",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/da/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/da/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "de",
-    "Sha256": "7d26a70c28e60f680889fa8e7074e52c4b26d7cdd3f26fc4cf430c5d9767f482",
+    "Sha256": "f0c22dfdb6650bd6bd156a6b5aafb924f134055014fa47bf4264a5396c597b9e",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/de/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/de/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "dsb",
-    "Sha256": "6aa8e604100b1b4202ef91bde5be2ebe0e4bd6562069976fc8c2749a879a8586",
+    "Sha256": "83c916d7d161a8cc41f5db8f9503dab2587ef8fa40b03e81b96975a70e22f960",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/dsb/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/dsb/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "el",
-    "Sha256": "3acb1d79f79b88a502ae5fae00f444b1f7173a008133a3fd04db7b390a0d62f5",
+    "Sha256": "0d926b8d4851c17e414677de49039487e60aff9760a495058d2493bc03e5350f",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/el/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/el/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "en-CA",
-    "Sha256": "d9987b2ccb4da53c45659fb6f115f97568196830afefa8d975a2358e0c0f1085",
+    "Sha256": "3060502d06ec710d8f568913f792f4a625b14e14b180e09a7b91b332ae467d40",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/en-CA/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/en-CA/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "en-GB",
-    "Sha256": "7abe3c2675bd8408a86b5c3e0e84a2d2ef0e2e000e65f097b8d08f3773b005e6",
+    "Sha256": "3adaf1410b12cce406bf9173f1d594c19ca94fdcd9e92c91ae904de8d083c2d8",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/en-GB/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/en-GB/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "en-US",
-    "Sha256": "672919a1c16f1e6c38cd9f44b66e9f31fcc1e450ca9d4231f4116e012f008e50",
+    "Sha256": "8dca7696e2159dc153ef82ce5f2de71cebdfe36c2d3afe5288d923a38fafb5ca",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/en-US/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/en-US/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "es-AR",
-    "Sha256": "3e8332f5fe1d15b5a7a5ed67fd4f7dfda15f4d769393a4ab827dcec5ff7f417a",
+    "Sha256": "f207683b001388104fc8b87cb6ed68a2d86e5bdf34326e75b740b637187dc1a2",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/es-AR/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/es-AR/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "es-ES",
-    "Sha256": "9c083f220e6390198cf99c81be1b071ea307e2b23ce4c5cc9780c3250882fc64",
+    "Sha256": "3b331fb5ec17d3695b466358e98e08354a57146ab9e364dbb0f5c4f44fe6e298",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/es-ES/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/es-ES/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "es-MX",
-    "Sha256": "643d5b589e51de3985188039336619c70bcc5c4108f4d2b6daecc260df9f0516",
+    "Sha256": "dbb7b192566881351b0042f1d5170da29f41a5f1f26feed1c47822d711ac6ad1",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/es-MX/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/es-MX/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "et",
-    "Sha256": "223843fd6229d638aa6d6ccefd1808caece0647aab8743e6664308ff31778dec",
+    "Sha256": "80d9ae214d78227a11af407b693aeb9a39eeb4d9b2f586a2b21c5fecfed8efb7",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/et/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/et/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "eu",
-    "Sha256": "c702706c26b1166078fe8863413836abcc3b49fc1ff6f0720edb32c5bba5e17d",
+    "Sha256": "91edf0ff4001a4939e39ab24b7d74d8785131bcfc5c99745c26c28a53b291c39",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/eu/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/eu/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "fi",
-    "Sha256": "f7437c0f0d8582f4a9bcd1b2f2f1631c1ed087b82d0dc4476c5a0b4b8a859c43",
+    "Sha256": "621e8e9fed5ecdeb62861f36efae0bd1332304bcaa5a8a0d1365c6f4f3b0989b",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/fi/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/fi/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "fr",
-    "Sha256": "a8f72ac7c49a8f70d18394630c8f8a5ddcac437e14ca4dcb2650204b2d381bc9",
+    "Sha256": "d632aa39242d0e78a01402dd29a3ec5a0545836fc66980a16b1e68999749d7e9",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/fr/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/fr/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "fy-NL",
-    "Sha256": "abba97a5e96cc8f0ef5c19075d60f19fba765b2a8b44fdf430abda494047e76c",
+    "Sha256": "c70a0b974143ba85cc1bb1ed2e8bce4eb918488290e275c0964f0db81cb6cf1c",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/fy-NL/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/fy-NL/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ga-IE",
-    "Sha256": "0be94fb9ea44873ac11232e63df105c41209624fb7946526a9fc3ca54040ffe1",
+    "Sha256": "1b2e4a35dbd31f04374bfb622b9e36c4cb1ba6a43035511d460920fbfe809813",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/ga-IE/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/ga-IE/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "gd",
-    "Sha256": "52a5773e0396b4021a5e01d6e4d5e495158f89104fe0a5315405f8d405b356a4",
+    "Sha256": "837152cd211ce0f380536e04c1c3fd089944e924deaf9b816efd60332629e458",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/gd/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/gd/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "gl",
-    "Sha256": "bb2a64d372932fd1d0126f53e1fca42ca38403b9ccd0629fa24c9c72a887a380",
+    "Sha256": "49e3c48d5829f3b98f53212baf589c1a9c16483e397bb76a82608353b3af27d6",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/gl/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/gl/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "he",
-    "Sha256": "876f321a25ccb61c7d146fd2706779c666fd70e33cdcab12418445e91c6f2b58",
+    "Sha256": "82747dfe84c3c2f453045eec53e3c752e8b08c72d2a2ce21939ce5f0d3a5675e",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/he/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/he/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "hr",
-    "Sha256": "bd7006a8eba8c5c0e37debf7f0e840e5f0f9c66ee65e5967913d0573c05e331b",
+    "Sha256": "3ec685a0b60754139553ef6fd9b2dd72ee07d77913a7db42b9e5a382f1d43fec",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/hr/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/hr/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "hsb",
-    "Sha256": "bbebf2df84c82c8c315b9bd9d90aab499d9581f13f5e0587564d4b7e4b9e1f89",
+    "Sha256": "ea161ad35ccc3f7d38990782cce7757cb10a48104b371377fe03d1e6a96d6454",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/hsb/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/hsb/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "hu",
-    "Sha256": "f39dc470ba669aee36516649eb8a53d6528eadf60c7ee6b2528997884dd3cebe",
+    "Sha256": "48c19ba902c1ad24d1befc4acd46f0da0190180ed7ac88a060f4515d6ff0f775",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/hu/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/hu/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "hy-AM",
-    "Sha256": "811666b7d456f38e0fa9c8e1a00125bfa73b63fc8141a4ab77da7fc7d54f36f7",
+    "Sha256": "755ac5c76e9e8276c51ed5a587913555b8c62591eb4a6625b184a5049c4e1565",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/hy-AM/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/hy-AM/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "id",
-    "Sha256": "9a02512d32e615cd075ada900c51b4eb4c0373ee476d3aac79b3a913f38246c0",
+    "Sha256": "745c8a053df1e2c607e861ac8e3cb9a15a2eaa686dda2c69fc5f49a2eab74069",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/id/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/id/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "is",
-    "Sha256": "6ccf3ee5505669b7d89851fdd5d0cafbb0905a6e3f73166dcca2e89224a25acb",
+    "Sha256": "8541cff1476dae25e824a3a90511e725de9662e47d80e4d7877b5fbc05d3d3bb",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/is/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/is/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "it",
-    "Sha256": "1e62ffcb84ba05e6d2d5c472019a5f50476d8ee2dd5b8054bddc3ab66dcd3b09",
+    "Sha256": "aa86c59623a482997a4c5f7d040496ca46583ab8b2517740b7219882b4e6e143",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/it/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/it/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ja",
-    "Sha256": "5796c19faf715a3ad4cb34abeb3472760df1dc852667f9884fc9f10f91c31fa5",
+    "Sha256": "5233a3dfb6495a046bf481a9aab98eaa6232984651339036ae0e2c4e38452c63",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/ja/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/ja/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ka",
-    "Sha256": "84803c678aa38a0d6f991bef7c4f2a8c1bbc77d2e3ec5eb92f6493d61afe88a4",
+    "Sha256": "1db9206a24e0d14949dd911c80fbe9cdd4570dbf111f7ac3498eb0c51815c77a",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/ka/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/ka/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "kab",
-    "Sha256": "eeea698ccccbd5201cfe652a182ab9004670056e09aeaa166b44eb07dfc9a608",
+    "Sha256": "bd5349f3d11e9e30284abc09e6600b7d7688d9d3c159f15148b8d9b341c5bdce",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/kab/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/kab/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "kk",
-    "Sha256": "08bc09e492fcd5e8e59213938bb306babc330360bad9ed3e54abe69dc7e7e89a",
+    "Sha256": "6ddf8b8b3acb4f0aaf3ba815076085925462072f9a99ccb5296670f34a91ea39",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/kk/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/kk/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ko",
-    "Sha256": "420bd1cde8abe897f46e45aa581ddc89ad08c4ff3d97cf28e8d9fd1733eeb1c8",
+    "Sha256": "3c74f25b83aa194e194cfc4273271f42671628326507fdf1f7ba5c4329c8742a",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/ko/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/ko/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "lt",
-    "Sha256": "0f7bd5271f68ee340d37a9cf17a6e811bcf99bc17190859ca51e0ac8897f4b98",
+    "Sha256": "2e507b8c0407665fcf052d1a81abbcf92a9084c9831dac44bb463ded91e4e2e0",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/lt/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/lt/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "lv",
-    "Sha256": "e2d261bb36dc107cf1e464fbf1398130794f43e20bc8f282efb76e67d55ade03",
+    "Sha256": "86b943ad4c470385168defc5b15fea34e9575c4c29ec954cd2e8c20de74010fd",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/lv/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/lv/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ms",
-    "Sha256": "fb3ca5a251f4a87636184ed1c2d32a3f00d3dcee11a28491ef0b3a86e007905f",
+    "Sha256": "5a4f1abc4ce7ac7c84c0976692c0dc95015663a8196bd4664933949210efb1c7",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/ms/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/ms/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "nb-NO",
-    "Sha256": "217638e2cb6b55ee4e4bee1381324c54ab67df5fe660dd95b0f01947a1177fc1",
+    "Sha256": "fdc59fefc19fda9d16f4a97687b4ba19ec54b3389dae472c9da4640a65b7d0ca",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/nb-NO/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/nb-NO/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "nl",
-    "Sha256": "4c58101dd8abeb4c15d44981adb77c5b306739c66d988964d88d1e9ae4c01d1d",
+    "Sha256": "b63d26c1f3020c9e72c4b1dba71fed0e5ab19139fcb513a79b0d7716d054bee2",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/nl/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/nl/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "nn-NO",
-    "Sha256": "c20395d2ac77738e790c37d8c4a45f4a30f751ed60afa5e113884efdeca4e437",
+    "Sha256": "10c3a24b4c89a1e462ee5d486c734bfab56ee3902bf811e7f0dbbb8f8382107f",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/nn-NO/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/nn-NO/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "pa-IN",
-    "Sha256": "64d1c1b8b85259f6948bca9226db8faed4cde9d4006673e2239e7ab31e894a7e",
+    "Sha256": "2914929e26de4065bb89b0fc0cd9ae00c0978d2e88a70d9345f05f57c3113fac",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/pa-IN/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/pa-IN/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "pl",
-    "Sha256": "663b24d44964de50d2196670a95bacf55603cb09611845dc035230d42347d60d",
+    "Sha256": "ea56cdb4a911aeb690effe2808381227f103a5f23ce760b364ae9edd6d75b059",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/pl/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/pl/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "pt-BR",
-    "Sha256": "661a29e2b68bd68821da105cf63ea0afc3ffb90aa3b18cf28096b2d2ffbef2f0",
+    "Sha256": "0f572bceb53ca745f4746318b46874d6d71dddaff6a07a7c14456a840762e17e",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/pt-BR/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/pt-BR/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "pt-PT",
-    "Sha256": "d9e9608397e7ab988c9d3238b085e625ef34a538091dc8c9170262d0d432f781",
+    "Sha256": "0fa62fa40154325b7e0f2a1a6ddeb34234b54aea2b95dbeb08a97ffb8d57993f",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/pt-PT/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/pt-PT/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "rm",
-    "Sha256": "6fc05ca86729a583d63585591578194d32cf11793a1d41f79dc15cc245767af6",
+    "Sha256": "6d17b092fdb6114decb5c4fac31e019e523aa8779b0916c67bdc98f73ef99fab",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/rm/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/rm/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ro",
-    "Sha256": "c982370ec5290833bae777eb73277907e700f35a507b1c43373176e264274de6",
+    "Sha256": "82d01b5bd58d78b58a1c2ee4d543ba9ce7191b7ec923b493344632bab65cba63",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/ro/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/ro/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ru",
-    "Sha256": "74225bbae97b35ec90d22a26ad43b19378a5d3255f8244f04b29e2e295eaa551",
+    "Sha256": "0f9181646354841910eace7e16fe444c3cf601f561f07b06847af44f485a74c7",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/ru/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/ru/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "sk",
-    "Sha256": "39a2842a46b09aac480bb0025cc8a66c893d41ab9778de84a6390fa7e54b6f26",
+    "Sha256": "9ce94828c6a3e43fb5bfa065bc5f77bd9adceb0cdacdbec5e5aeda9fd6c36f66",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/sk/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/sk/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "sl",
-    "Sha256": "cb71cab69fc4039e7a0e3abc196ffafc96d48bcd33835ecaeb9e79ddeace3f00",
+    "Sha256": "cabf537387d1bc4b6cab7fa31a56c0ca67299386f7244def64f7ec7be1174eae",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/sl/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/sl/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "sq",
-    "Sha256": "e10d04853eb83a9b5c7894ad247fbdf942ceab712dead95f6eec42f937a05a8e",
+    "Sha256": "d712f57abe4789ca9c6581d1d445a7b55cb7d37b569c01e16c3a7afa50a79de9",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/sq/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/sq/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "sr",
-    "Sha256": "ab1c553cc3ce227900fa1d33e189d200862714483a736a459f8cee6c3cff3745",
+    "Sha256": "239a509c5c41f3b5a1815fd60de54207c7080f68de3e5cf9c606100cfbf9bf91",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/sr/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/sr/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "sv-SE",
-    "Sha256": "a01249526bd7ecb05a9295577083c3a44cbfdab1ef468049d049305f95d612e8",
+    "Sha256": "33498234a164341d996af7bb8e9816c4736375022c2268cac1894bfc498e1a61",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/sv-SE/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/sv-SE/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "th",
-    "Sha256": "a5b80775c260a73bdc56d808e33558fcce2315f803d7a04540c4d882125ac960",
+    "Sha256": "aab97ef71377bc76fdaf5e8f52bac49237263bcb1ab0c11f9c355e0a9dc9e68c",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/th/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/th/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "tr",
-    "Sha256": "c7247d73d2afa3164310c770bfdadef290e5222895ff07c9b9f1a9e145bcb1c7",
+    "Sha256": "9438f55d498693795e2195d68ab6281fae7876307d381188ee417adddadb85b3",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/tr/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/tr/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "uk",
-    "Sha256": "c7f980f090f2846650665cd259303e70a5a1ddf87d6fc0d83a7d0d2232a1a983",
+    "Sha256": "318f9c57a49e7404d6f414baa422c0d3f68861ba481e161b399225f076c94dd2",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/uk/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/uk/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "uz",
-    "Sha256": "667ea70da582b046774c532e41e497dd7961575631a778abfe5f7b34b5bff098",
+    "Sha256": "1b12676fde23018a4e234baed7ee4ff386e72dae661713a65daa613869e367c6",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/uz/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/uz/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "vi",
-    "Sha256": "1cb5b80fb3bf6fa99501297eb587b3972dca0c7bb96c683451e60adb75457d75",
+    "Sha256": "1e62b9055ed27e0c10a0aebbf4a04e0eb618040aa67effd80d80734c2a8adfea",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/vi/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/vi/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "zh-CN",
-    "Sha256": "5dfa37aaee9e756ef17645435ba478b498cd7b2dc0b0ae52d7ef0390ef6183e5",
+    "Sha256": "0e5ef23f20e45c2090e9158d0feda816c690a6792731322c14df5f24f296ad54",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/zh-CN/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/zh-CN/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "zh-TW",
-    "Sha256": "ef682a5dbf16ed5857d789c894cddabe547c8bf7e754ef184de84507818cc67f",
+    "Sha256": "6c2d02f7d30870317081c8b35504fc9b74385351f9954c3f398dd0a3cfb2d668",
     "Architecture": "x64",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win64/zh-TW/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win64/zh-TW/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "af",
-    "Sha256": "7c559c9f7adf000a23bcaae6679ab0f0af3b97ffe210ece421303cd10d260418",
+    "Sha256": "060ca2abec90f580c1cd1ea543e19905ea754432f0e819a66d5e45febd4e70a6",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/af/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/af/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ar",
-    "Sha256": "315521c53bca32e1fd16abd93bc3e291b1cb4488dac07d2187ba80d4c2d34b72",
+    "Sha256": "032ba809252717f186a2064e2be8eb29467b8268cd4b7f94133fe42bd47a200a",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/ar/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/ar/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ast",
-    "Sha256": "f44960c702fb606702e86b0e5609db3475c211824332e4c36b5dc019e11e60c7",
+    "Sha256": "3a3ac6e032fc032ee80fa119084a730d566ceeaf150afc4dd79d88c8ad3a449f",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/ast/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/ast/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "be",
-    "Sha256": "43b29868a7adff27ed40da84803fb1405556e6328cc2de4bd5e88f7d3cd2ba7d",
+    "Sha256": "d353f4815ad38b3bf8a13c8ea89e4d8f68ef46ead96c04a4d2559589e5e2b8ba",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/be/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/be/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "bg",
-    "Sha256": "e5460123a5acf313cd5931ce5229a3099c22d759bb2742c39328324f5b3a950c",
+    "Sha256": "bbebb3f21f922905088a16db059cd7e38f5d0f331598738bc9548b96163e7a1f",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/bg/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/bg/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "br",
-    "Sha256": "6f2e23f90fa6c13d7d927a68c2e0bfae0ee0ab3779e87900be812ccc4f328f95",
+    "Sha256": "a506e126d4b1bc56383b17db6ed8cd296c699430ea71e325a795d0fc9fd5e7b7",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/br/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/br/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ca",
-    "Sha256": "28f29a5a3ec57ba331b58d8b9614acecd3f7b0f7a44f348bad033bf8dd719c5e",
+    "Sha256": "7e1a0f61d5238bf0f3b406b16ea1f4f15559afa21cfe9679d3476924e9bd40a9",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/ca/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/ca/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "cak",
-    "Sha256": "ba00f6301f0116c4c71959f78b6b537fc240f356e57f4055cdde6d60ad3f2935",
+    "Sha256": "d18ef3f6465c6f89b774992710e5c7a6bcaa72502883c45b9aed94df7919a20a",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/cak/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/cak/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "cs",
-    "Sha256": "cfb8b643f9fee4104fbb8ef616b57cba21c493f00277b021d80a71a6181e5061",
+    "Sha256": "1652d2d42c8d88d29fa3f1b955aad002928408f44f0a367405513fd120149b55",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/cs/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/cs/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "cy",
-    "Sha256": "41dbd1e9279e1e9a947d4b066772cfce7274dc25f68f0b27f013f8b281915680",
+    "Sha256": "646c38ce81d0d8f01b373b91377cfc08dbf036cda988a990973580b1e2b26365",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/cy/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/cy/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "da",
-    "Sha256": "71cbbacc86c21bd5a5493df52886d15a84f0218af1ecc882d8ccea65e3b28f70",
+    "Sha256": "dc8095cef718c0c0d59b0d0c047bcf9bb7c91842ef3ec312079e2caa152616fd",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/da/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/da/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "de",
-    "Sha256": "51c6fb7bbac678ee2a26c0ac5c5b54e692fd17e093ab76e82a9a48c3eeda655c",
+    "Sha256": "52fc1cbef2a037bb6e25cc1796effc88bef38126bc648fa99402c157afcabe7d",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/de/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/de/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "dsb",
-    "Sha256": "69c7a50295fd896a1dc69c120b007aebcaf2a1aa82f1299aa2473333ec0ff18c",
+    "Sha256": "22a3db9189b87fb04e8e515c86ab4d5ea9f58ac2a29583d7f771a071b3eb90fc",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/dsb/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/dsb/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "el",
-    "Sha256": "bf67ce9abc7d9e2504fcc02a4e4f8ad3938dfe992bb04ad36ca0aad53e612670",
+    "Sha256": "8979a3f6bc452ed89d78bc98ff1bc92d71489760eff3a54261302eded8416f48",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/el/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/el/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "en-CA",
-    "Sha256": "d6f4a15732a793dc19df909a9976bb9b97525630a515319a2afb7ae436755c9c",
+    "Sha256": "70f1a593fbec2bf1aacee4178b855b979859865783d6b78558c6baa2fb1859d2",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/en-CA/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/en-CA/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "en-GB",
-    "Sha256": "61a6b58929b76b85eeb8f74ba0cce06c94f7036c6790d365703447d6c0b6cc7b",
+    "Sha256": "f2b35917a31b02597c9dc4b5df4e59efdf945b810b91801d9c44c48346907ab6",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/en-GB/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/en-GB/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "en-US",
-    "Sha256": "7a74fb6bd0bdc451d3dc8a888f9e4662ed1206f3e2f6fb1ffbd2823146d0d4df",
+    "Sha256": "6cb3833e30dacb799e5c0fdfcf1b2eb821bf7df367f74530ca5d89f7bf09b3fa",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/en-US/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/en-US/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "es-AR",
-    "Sha256": "0f1d50f2cb14bd01f094227643066c1144030fb6a546f1477403d3b02246673c",
+    "Sha256": "064979479a44adcf9ff0ed890420b475551740b76fd274f15d3b799fd784d355",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/es-AR/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/es-AR/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "es-ES",
-    "Sha256": "0eefbc28625de0bad36e98835457ace63bcdacb8581844c9e362e97a699d02c7",
+    "Sha256": "e1db4354f07613f78f6fabc78d806fa3f945d39b8b6209cfc02bedae8b20bf1d",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/es-ES/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/es-ES/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "es-MX",
-    "Sha256": "32a2d28d603e4f57907088eb7f09f2f6b3870c4872c4d10aec5a05bd3ecb2356",
+    "Sha256": "30099f8808f98e451d3d1f8f9a535cb8f8d6eb061163e3fa21f662a6a2420b23",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/es-MX/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/es-MX/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "et",
-    "Sha256": "944f43681a52cafd4beaefff67f4b2915724fd8d3a50ec1c91e76eb477eab434",
+    "Sha256": "c4dd3b06fcf827fa4dd166c54fa7e40f2686c9c403bae20727c309d09324ee0a",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/et/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/et/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "eu",
-    "Sha256": "c3a2cd8d6c4e25046f52a93fdb45ce977959f9eb833da67b13de20d5d73c29b3",
+    "Sha256": "4c06ee32c5b2d4036a5a1d027a3e4e68095c0bab891c094586c669d3fecd59c4",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/eu/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/eu/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "fi",
-    "Sha256": "ed2ce49eb057da0d7952200d8a4aa8488310551e901863de54fa791f2dca3f9d",
+    "Sha256": "017eca4c39296a6d35f96dad93d5575fc1e7b50f90a326ecb6e5468e0b39da9d",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/fi/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/fi/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "fr",
-    "Sha256": "1dfacd7d38436c5ec3ff1684a094d09b31821260a142da46d609835e44e72869",
+    "Sha256": "bbe6f0fbd27a279e4f826a697ec8552bfc58082f0bdfa01a03b8b5344b2139da",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/fr/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/fr/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "fy-NL",
-    "Sha256": "fc66de20bb834c250f4abccea4f778dba3c167f09890f5851cad8464337d910c",
+    "Sha256": "79dce37616a8e0a4e1d51e8fc2ba5b0a7844df3c3ef5203aa9d1e572a6e46062",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/fy-NL/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/fy-NL/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ga-IE",
-    "Sha256": "5d7f317124f851bfc305793074c766dd673d6b3e41be8764391d6eb6cc6c0413",
+    "Sha256": "91005afad773c10f2cf1cd0d843423c47727b523aa9fb4b240990218e6c295ba",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/ga-IE/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/ga-IE/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "gd",
-    "Sha256": "6915457fcd7bf464583cbe06550fec8cc67c09fea112314c80a62e0be22345d1",
+    "Sha256": "f9fb2d2da7746e79ce3f3c6b5d0159d35e1e5c857f5e8d0b7565caf3c8e868de",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/gd/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/gd/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "gl",
-    "Sha256": "0d133aaeabdcc73861ab0695ee00ae0dee54bd29f5d28da7bbfedd01181f0017",
+    "Sha256": "6b2f92f6198ad430097377aa04a5a14a40406a7bda2ef01756fa30f5f381ae13",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/gl/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/gl/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "he",
-    "Sha256": "1c07fc3fd116f9d9abccea3091ace70ccf19b3741a0f4946b5f43d7d7c690eb5",
+    "Sha256": "d44adcd62b47f91db8db43cf2708b4950259b82dbf1f0f33c1e1848bf3db3f89",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/he/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/he/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "hr",
-    "Sha256": "f059355d8c6cb755e787cfa75d10dd822a57f83db8139fba5edcf1653a4fa088",
+    "Sha256": "de3483932b08366e113c0ecb7f0e87c340dc7b8cf7fba620054d0169d6e688c6",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/hr/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/hr/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "hsb",
-    "Sha256": "5c868b755599ee0095dc925d4de055333b60f84444335551451dcd1d2abef857",
+    "Sha256": "47ac391729dfc214e73e23cc4489d026b983dfac6dccb6b97f46cd2e1088c3b0",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/hsb/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/hsb/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "hu",
-    "Sha256": "0fc3f835288594e7a88ed891edeebd4d9db1806232b65925d0fd70bc2916565e",
+    "Sha256": "7ae531d9998f35604563936fd35b8fae9fd585f26ebc3b83fc59b386e114a5a1",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/hu/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/hu/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "hy-AM",
-    "Sha256": "7d07dd0dfd1fbf56d0b8bb4db1894b2f628762538b849d28cda363bd76a4aaef",
+    "Sha256": "cd5d30fa0d289f514f2384e225e6e6d9907ed68a86c02971c7489d90f55da894",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/hy-AM/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/hy-AM/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "id",
-    "Sha256": "f134d866aa3606f8005453942c19670a7a47f38b843099ce8f2b0fa2aba6c28f",
+    "Sha256": "c21ae00144593f59a7a037c0e97f9c66ffafef501f39a00a20565eaafa5ce8f8",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/id/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/id/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "is",
-    "Sha256": "779e0b2f97d5b14b729cb061297cb877f9a6b6101ca1de71671e4649b6db28ae",
+    "Sha256": "8fcbbacb268c41b6c2f60b9a22df37449f556e44cb39c588dd21a7a59a9f842e",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/is/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/is/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "it",
-    "Sha256": "bcff3e9a79a41d53221165d7d185202c2ee191622827555b81db701e7e87c47c",
+    "Sha256": "73c4da58c180203360a234bce3ac3ae2be8aa5d4d86f6fdc4d5baa2c118d69c6",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/it/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/it/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ja",
-    "Sha256": "7a9beb7e0b8e963290a8696c300dd3fdb0cb9aaa1cca4c9b54a4756e1834458b",
+    "Sha256": "d65d3ccd63f0b14c4ae4ee8e6737bdf90ecf56c438a83d5d441c8b35d8c73c08",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/ja/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/ja/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ka",
-    "Sha256": "94ae3c8ce3f5814ae713bfc6eb016a72676c732e27c679d6c3ddefd3d551b642",
+    "Sha256": "d66538cf69c5641172a3046c9ddc4a00488a268103bc1b7072279c444ac42acf",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/ka/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/ka/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "kab",
-    "Sha256": "9a83d85d1e8c5160bdbc691ddf214d042f576e3c0f4174dec7fa58b9595f2d1e",
+    "Sha256": "cf7bf0ee026894b1e548c54a5819ef6f9b8522da595853442fc8c36e94f9a76d",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/kab/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/kab/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "kk",
-    "Sha256": "d96478a8eaca43879be6e55b5eb67b62ee3d75a657adb5b2a435e39744b19122",
+    "Sha256": "aaafbbe290e7ec2216565d95e2b487952a92558ed960c681fc37ac7824527b78",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/kk/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/kk/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ko",
-    "Sha256": "7d47b6f1ff17068deb7089bdc2f2fcda101a502de3e3c8c6eed9f07f9a0a1830",
+    "Sha256": "f551923f07a90b26fc95fe0661d20dd67cd21cb6a6f66203963d26a7c389643f",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/ko/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/ko/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "lt",
-    "Sha256": "be185bdfcf77339fc539c2ece4489477f297280a928d544a55c9169fdba60d5f",
+    "Sha256": "dd273fbc552bc80a9ac745805923b5afe35e06c97c220243198d5b147982f535",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/lt/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/lt/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "lv",
-    "Sha256": "44ca38ee5e3e42dcff13f4dd527936eda590cd2fe2afc4dd714e51769dc688cf",
+    "Sha256": "69396ea27b68b15bc79af2a457caea8657b0a04748e658cb5b264bb9e7e4f2c1",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/lv/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/lv/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ms",
-    "Sha256": "d874faecad21732203d4d101d84bbcd9103b70a9358d4f900e764abc0bd77ff1",
+    "Sha256": "d283277ff51953b82105c97193b5bb9a13ab8a4b79c61c53d491ef52b89a2aff",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/ms/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/ms/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "nb-NO",
-    "Sha256": "2e06841ff74aa01da95656d0ecda3929649f6c0d11edf3100de7f4c22a969058",
+    "Sha256": "b2edd58afdfd48f888488dd1cc16dcc1fe10486cfa2d3016fd827b18972aca49",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/nb-NO/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/nb-NO/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "nl",
-    "Sha256": "80008f76a1d7240f9fd5ddfceab547e204b661e84e1e412938ca615201933e61",
+    "Sha256": "169abbd71feeed6902d67d6b4b8643cc4662b3f2662c75c4bf7c2f32db66819d",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/nl/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/nl/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "nn-NO",
-    "Sha256": "a48316c06e233d78b383742a5e954e99f70e455d7f65a3f643603759790099bb",
+    "Sha256": "88c7f712a41cc4397b58e75802b85370198e6eb945ea3cd7ffb226833698dedf",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/nn-NO/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/nn-NO/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "pa-IN",
-    "Sha256": "b76815f33d6a117a6eb1329f488f0662ed9104be5a9fd00804c7d5ce603aa885",
+    "Sha256": "2fc37f3b2da931b6825f0c4df8370ebe1f33e809871cabcf36615a301788f47c",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/pa-IN/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/pa-IN/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "pl",
-    "Sha256": "12ddfbc29555078f4ffacee1467f34c5818541762b1f9edd43349fb728fb5cbf",
+    "Sha256": "70c60190f7aa0cff9ea4dc196236b6dfe0057583ccdb2709a73b07a73f9f346f",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/pl/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/pl/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "pt-BR",
-    "Sha256": "cfc80c29b4fdbd219f713087a045ef2e506db84de3fcddf0c7e2b29cd43a4312",
+    "Sha256": "f967627444aecb5815455ed6b10dea51f43b6623cefb0732555e05f697374cc0",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/pt-BR/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/pt-BR/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "pt-PT",
-    "Sha256": "859226ec38a5c1acc5df7c1e5b2647701a5ffd289ba8610685e202dbce48ea34",
+    "Sha256": "aaf0d27b1a2c81dda85f1e71c4db4042d5d0dabbcbb0ff6946b2e37a31ab563f",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/pt-PT/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/pt-PT/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "rm",
-    "Sha256": "062e1f9cc3058aa75d1a267f26ef343b2ab8104a47a24cd65bf5ac67cc7bf45d",
+    "Sha256": "2cd626c28cc3d7d076e9d06d8b4403be2972fe5ea73483f95e6d10407b98b427",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/rm/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/rm/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ro",
-    "Sha256": "fc8ffe09c1f7341010ca25dc12bafdb74a91a8a25c3e49f877af8a036451dfdb",
+    "Sha256": "0d76272449aa2b279cc58a819289e0c2f9459fc69c1f9489f7eb40c3d46937db",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/ro/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/ro/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "ru",
-    "Sha256": "011b1cf9fc3502c6602d694f499f32fc63f02c45813e3499dc4429bb9e4524d2",
+    "Sha256": "c18dfbf001802bf71f8b6ee8b5ed70ef57d758ac80eaacf28638e4c1e0de0419",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/ru/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/ru/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "sk",
-    "Sha256": "ca81dd5c8ac43edb5544f9322e8db743e4b15346d091dde2cfc128fe74edd65f",
+    "Sha256": "d5d7fb8b38da4b007ba65df46790d082e5e973fb4f17c694e205d66168469c17",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/sk/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/sk/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "sl",
-    "Sha256": "f5670d041bfc65f9b664bff7de417129fcfc7bf82ee0cad79cde3efe5247b5e8",
+    "Sha256": "41cb0eb777f12ef8b41ac0e8cfebea770dd6ab5253cf54d3efdd2558ee7864d6",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/sl/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/sl/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "sq",
-    "Sha256": "75610ea84980185e6196e9aecf4193d8883ac328b07b6eb27cce18775e8e80c6",
+    "Sha256": "dc30a5d2bd8a07b579c5d643cfa36ccbeb148c14635b71b4245e5dcf27694c9a",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/sq/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/sq/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "sr",
-    "Sha256": "d48ecc6d55914b347086708131ce84c0155af234d9f6bec865cc7ae3f6474408",
+    "Sha256": "40ab3eca5bbca7cfdfe21b6b8b4755a0da2e4f215b5f241f5c9f205c7ab0c04e",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/sr/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/sr/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "sv-SE",
-    "Sha256": "c012d7c3679b093ced902fb9cfd71560b1ca57c730f8322bb6cacc88f2671f2a",
+    "Sha256": "4f1421891ef46e30bbf8caedcdf8a4f363e479b0d97bfd5d8033e759502ef26c",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/sv-SE/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/sv-SE/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "th",
-    "Sha256": "6d6ee2f59a9df66aea7e973726e9611b7ed37fdd93af43e9d8a7746288b084c9",
+    "Sha256": "2f7e87ebad0332ae70cf47c73f98cf66fe680da3788f5c0c7c9a49cf2e2c4a39",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/th/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/th/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "tr",
-    "Sha256": "0b861faaff829c1dcc48fa9a7b6bf168bc7a1f3e15fd8d3ad34b2c3758870449",
+    "Sha256": "8758a6812576797c89e43bd849f724db17d46cc00b79b23b7b77b64b9ad70286",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/tr/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/tr/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "uk",
-    "Sha256": "a0099a9217829650a3f6ff8a9e39fa579efa00ba1664f15c21519c6e0b27f2a0",
+    "Sha256": "ecc4413cdcef77f13b1d91018b91c230d98659c09d7b68f6d0448c8863840ddf",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/uk/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/uk/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "uz",
-    "Sha256": "ac8ae2a8070fde924cc8feeb20eea7f4ceb84c579654bf93f4d2ed4ef7e5d84a",
+    "Sha256": "45d340cdb3a4d0fbf77f89b610f061284ed0e532a57056addf6f9af07c04c574",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/uz/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/uz/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "vi",
-    "Sha256": "37510dca486452d4ae0bcf94f2e0ad55c65c24fea99cadf711cbe1b285dcd58f",
+    "Sha256": "e91a4b335a83b045448835ab3c7c2fc2b8f435f190a1cf975eeda6664ab13917",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/vi/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/vi/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "zh-CN",
-    "Sha256": "5c5a84d4fe970e14ec5f26f67670dc59b2560c8c6b389d633aa4e52115f61b4c",
+    "Sha256": "5a10588d532b2197cf782c4dfaced26e03edee722fbc508e6dcb9c3294b36d53",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/zh-CN/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/zh-CN/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "zh-TW",
-    "Sha256": "8cb0595d544f367cc01b551f60448e2452d2279df3f471f2e835998a1d8bc601",
+    "Sha256": "23904737ae4e5f245dc6a7bcffe22cb782fa8c6b66d778592fa73e0f783df60b",
     "Architecture": "x86",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 160.0b2.msi",
-    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b2/win32/zh-TW/Thunderbird%20Setup%20160.0b2.msi"
+    "Filename": "Thunderbird Setup 160.0b3.msi",
+    "URI": "https://archive.mozilla.org/pub/thunderbird/releases/160.0b3/win32/zh-TW/Thunderbird%20Setup%20160.0b3.msi"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "Multi",
     "Sha256": null,
     "Architecture": "x64",
     "Type": "msix",
-    "Filename": "Thunderbird Setup 160.0b2.msix",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/160.0b2/win64/multi/Thunderbird%20Setup%20160.0b2.msix"
+    "Filename": "Thunderbird Setup 160.0b3.msix",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/160.0b3/win64/multi/Thunderbird%20Setup%20160.0b3.msix"
   },
   {
-    "Version": "160.0b2",
+    "Version": "160.0b3",
     "Channel": "Beta",
     "Language": "Multi",
     "Sha256": null,
     "Architecture": "x86",
     "Type": "msix",
-    "Filename": "Thunderbird Setup 160.0b2.msix",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/160.0b2/win32/multi/Thunderbird%20Setup%20160.0b2.msix"
+    "Filename": "Thunderbird Setup 160.0b3.msix",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/160.0b3/win32/multi/Thunderbird%20Setup%20160.0b3.msix"
   }
 ]

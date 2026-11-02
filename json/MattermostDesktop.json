@@ -1,22 +1,22 @@
 [
   {
-    "Version": "6.3.1",
-    "Date": "2026-10-15T05:59:23",
-    "Size": 118026240,
-    "Sha256": "d771ad11cbf9d1814465f2459a49962651e3ea5e88ed1b0619de08cb94119084",
+    "Version": "6.3.2",
+    "Date": "2026-11-02T07:23:44",
+    "Size": 120225792,
+    "Sha256": "0de5374d3033c6b3a52c07a64afad528bc5c55b89777051f7883e9f120e33777",
     "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/mattermost/desktop/releases/download/v6.3.1/mattermost-desktop-6.3.1-win-arm64.msi"
+    "URI": "https://github.com/mattermost/desktop/releases/download/v6.3.2/mattermost-desktop-6.3.2-win-arm64.msi"
   },
   {
-    "Version": "6.3.1",
-    "Date": "2026-10-15T05:59:23",
-    "Size": 124289024,
-    "Sha256": "5f47b75874680f944539f4c33be60de83a4572180fe0a40848669932db88d2b8",
+    "Version": "6.3.2",
+    "Date": "2026-11-02T07:23:44",
+    "Size": 125181952,
+    "Sha256": "f468e53a41204dee816025772934b83416dee80077b3581daa81476d55efdad8",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/mattermost/desktop/releases/download/v6.3.1/mattermost-desktop-6.3.1-win-x64.msi"
+    "URI": "https://github.com/mattermost/desktop/releases/download/v6.3.2/mattermost-desktop-6.3.2-win-x64.msi"
   }
 ]
