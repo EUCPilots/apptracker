@@ -1,30 +1,30 @@
 [
   {
-    "Version": "2.6.4",
-    "Date": "2026-11-02T20:43:14",
+    "Version": "2.6.5",
+    "Date": "2026-11-03T18:19:49",
     "Architecture": "arm64",
     "Type": "exe",
-    "URI": "https://download.microsoft.com/download/05bdc36e-f439-40a9-8cfc-87d2aa4e5817/WindowsAppRuntimeInstall-arm64.exe"
+    "URI": "https://download.microsoft.com/download/1346f044-de9e-4d14-826c-98215cf54e6e/WindowsAppRuntimeInstall-arm64.exe"
   },
   {
-    "Version": "2.6.4",
-    "Date": "2026-11-02T20:43:14",
+    "Version": "2.6.5",
+    "Date": "2026-11-03T18:19:48",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://download.microsoft.com/download/891488a6-a8f8-404e-8639-1c0840b2bdf7/WindowsAppRuntimeInstall-x64.exe"
+    "URI": "https://download.microsoft.com/download/81f35163-9c63-4b4d-a293-6dcf1b32320a/WindowsAppRuntimeInstall-x64.exe"
   },
   {
-    "Version": "2.6.4",
-    "Date": "2026-11-02T20:43:14",
+    "Version": "2.6.5",
+    "Date": "2026-11-03T18:19:49",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://download.microsoft.com/download/4719ead4-0f69-4e14-9093-9b72554ae464/WindowsAppRuntimeInstall-x86.exe"
+    "URI": "https://download.microsoft.com/download/c73c509d-7943-4dbe-9ee6-3d206b23cdbf/WindowsAppRuntimeInstall-x86.exe"
   },
   {
-    "Version": "2.6.4",
-    "Date": "2026-11-02T20:43:14",
+    "Version": "2.6.5",
+    "Date": "2026-11-03T18:19:50",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://download.microsoft.com/download/83914a24-2712-42b9-8d7c-eacb22aa30d2/Microsoft.WindowsAppRuntime.Redist.2.6.4.zip"
+    "URI": "https://download.microsoft.com/download/666840ff-09a0-44f5-96eb-72c6605ddce5/Microsoft.WindowsAppRuntime.Redist.2.6.5.zip"
   }
 ]

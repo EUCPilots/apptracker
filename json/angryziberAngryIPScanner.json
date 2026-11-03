@@ -1,22 +1,22 @@
 [
   {
-    "Version": "3.12.0",
-    "Date": "2026-10-30T13:47:13",
-    "Size": 25100484,
-    "Sha256": "9d7244efd92d5cc80cc19d31c622681bc53925fbdee6e30e53e2f4ca1fb3bf1f",
+    "Version": "3.12.1",
+    "Date": "2026-11-02T22:07:31",
+    "Size": 25110126,
+    "Sha256": "b4dadf7e008012b78ae2ed545eb7965776b0eb05f8b7a1c5158a4e2726b7d872",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/angryip/ipscan/releases/download/3.12.0/ipscan-3.12.0-setup.exe"
+    "URI": "https://github.com/angryip/ipscan/releases/download/3.12.1/ipscan-3.12.1-setup.exe"
   },
   {
-    "Version": "3.12.0",
-    "Date": "2026-10-30T13:47:13",
-    "Size": 3099245,
-    "Sha256": "0e2f65564ed32e53434e0d2cb34b37b8addd3a408cb574374367aa5c77edca60",
+    "Version": "3.12.1",
+    "Date": "2026-11-02T22:07:31",
+    "Size": 3103003,
+    "Sha256": "fa5c9d4a92a332c79abcd87c6d371bad0f1bbab457b552600d1ab2613cbd4f90",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/angryip/ipscan/releases/download/3.12.0/ipscan-3.12.0-win.exe"
+    "URI": "https://github.com/angryip/ipscan/releases/download/3.12.1/ipscan-3.12.1-win.exe"
   }
 ]

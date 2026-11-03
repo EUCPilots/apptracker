@@ -1,18 +1,18 @@
 [
   {
-    "Version": "2.91.0",
-    "Date": "30/9/2026",
-    "Size": 70066176,
+    "Version": "2.92.0",
+    "Date": "28/10/2026",
+    "Size": 70561792,
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://azcliprod.blob.core.windows.net/msi/azure-cli-2.91.0-x64.msi"
+    "URI": "https://azcliprod.blob.core.windows.net/msi/azure-cli-2.92.0-x64.msi"
   },
   {
-    "Version": "2.91.0",
-    "Date": "30/9/2026",
-    "Size": 67547136,
+    "Version": "2.92.0",
+    "Date": "28/10/2026",
+    "Size": 68071424,
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://azcliprod.blob.core.windows.net/msi/azure-cli-2.91.0.msi"
+    "URI": "https://azcliprod.blob.core.windows.net/msi/azure-cli-2.92.0.msi"
   }
 ]

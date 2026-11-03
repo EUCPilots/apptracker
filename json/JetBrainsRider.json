@@ -1,46 +1,46 @@
 [
   {
-    "Version": "2026.2.4",
-    "Build": "262.11879.110",
+    "Version": "2026.2.4.1",
+    "Build": "262.11879.119",
     "Edition": "Rider",
-    "Date": "2026-10-30T00:00:00",
-    "Sha256": "4846490512d1143f27be4bf7116d4e1206c39083a85634b32e1b0ae62cdff75b",
-    "Size": 1986678240,
+    "Date": "2026-11-03T00:00:00",
+    "Sha256": "430883cbe651dd5739706883e88e8ee62de479d03c5069a0f23ffd99e0e0197c",
+    "Size": 1986650920,
     "Architecture": "arm64",
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.4-aarch64.exe"
+    "URI": "https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.4.1-aarch64.exe"
   },
   {
-    "Version": "2026.2.4",
-    "Build": "262.11879.110",
+    "Version": "2026.2.4.1",
+    "Build": "262.11879.119",
     "Edition": "Rider",
-    "Date": "2026-10-30T00:00:00",
-    "Sha256": "5043c0112babb32367bd11accbce8a83f9c0f52736dc73d78a6630f343c6456a",
-    "Size": 1920287928,
+    "Date": "2026-11-03T00:00:00",
+    "Sha256": "7acd870cf6849328e3c6406c00fcb78d250d4e7123bc7a98557f3958e1a4f59b",
+    "Size": 1920263192,
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.4.exe"
+    "URI": "https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.4.1.exe"
   },
   {
-    "Version": "2026.2.4",
-    "Build": "262.11879.110",
+    "Version": "2026.2.4.1",
+    "Build": "262.11879.119",
     "Edition": "Rider",
-    "Date": "2026-10-30T00:00:00",
-    "Sha256": "60e6ee1cc612f791c81391c219f2b6891ad0ea7c3eaf3b9f972eaf937e83e358",
-    "Size": 2850171859,
+    "Date": "2026-11-03T00:00:00",
+    "Sha256": "ac50827d8e409a97e627bb0656e6826a0372024a2dcd1d27cc901ab800bffdb5",
+    "Size": 2850159889,
     "Architecture": "arm64",
     "Type": "zip",
-    "URI": "https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.4-aarch64.win.zip"
+    "URI": "https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.4.1-aarch64.win.zip"
   },
   {
-    "Version": "2026.2.4",
-    "Build": "262.11879.110",
+    "Version": "2026.2.4.1",
+    "Build": "262.11879.119",
     "Edition": "Rider",
-    "Date": "2026-10-30T00:00:00",
-    "Sha256": "c818951c4cdfe28b68c102e8fbdbbfebd456e6e89b691144d9eafeefd70c2a4b",
-    "Size": 2741574545,
+    "Date": "2026-11-03T00:00:00",
+    "Sha256": "4da5394538b2a67e132bbe09d9050a9bca4cdf13cae07543db285eb77c08f803",
+    "Size": 2741563693,
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.4.win.zip"
+    "URI": "https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.4.1.win.zip"
   }
 ]

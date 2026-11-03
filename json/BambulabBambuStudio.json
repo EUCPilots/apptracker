@@ -1,12 +1,12 @@
 [
   {
-    "Version": "02.08.02.61",
-    "Date": "2026-08-21T04:29:03",
-    "Size": 429020440,
-    "Sha256": "8af94a386689f265d22fd420c6d9bc72d3da872cc2c28d025eef4dd6cd614823",
+    "Version": "02.09.01.70",
+    "Date": "2026-11-03T12:09:55",
+    "Size": 456458448,
+    "Sha256": "63f0362a1a8af079f6bb07fd61a2f1d11911de40f68be4f71644aefb99327a80",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/bambulab/BambuStudio/releases/download/v02.08.02.61/Bambu_Studio_win-v02.08.02.61-20260820225108.exe"
+    "URI": "https://github.com/bambulab/BambuStudio/releases/download/v02.09.01.70/Bambu_Studio_win-v02.09.01.70-20261103183404.exe"
   }
 ]
