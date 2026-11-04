@@ -1,22 +1,22 @@
 [
   {
-    "Version": "5.1.8",
-    "Date": "2026-08-28T22:39:41",
-    "Size": 116059656,
-    "Sha256": "6041e1ebdce7dd0803e0a794f12d6ffffa9d8560a7b5192d8754890b35562bb4",
+    "Version": "5.1.9",
+    "Date": "2026-10-16T04:17:30",
+    "Size": 116009984,
+    "Sha256": "c3ead12469da97513e599789504a71dda0890d7be0ec074824599da35661cf1c",
     "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ProtonVPN/win-app/releases/download/v5.1.8/ProtonVPN_v5.1.8_arm64.exe"
+    "URI": "https://github.com/ProtonVPN/win-app/releases/download/v5.1.9/ProtonVPN_v5.1.9_arm64.exe"
   },
   {
-    "Version": "5.1.8",
-    "Date": "2026-08-28T22:39:41",
-    "Size": 130104760,
-    "Sha256": "c7e9d52fd4d3b65ff8ea83c24dbbe3f4ad9b3726739cf645ce15b9e24edc4aa4",
+    "Version": "5.1.9",
+    "Date": "2026-10-16T04:17:30",
+    "Size": 130022392,
+    "Sha256": "8454eba06a37c0a636ec8dcfe6a7a823a68a78ee8fe2eeda2d651cd5cd6c3d70",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ProtonVPN/win-app/releases/download/v5.1.8/ProtonVPN_v5.1.8_x64.exe"
+    "URI": "https://github.com/ProtonVPN/win-app/releases/download/v5.1.9/ProtonVPN_v5.1.9_x64.exe"
   }
 ]
