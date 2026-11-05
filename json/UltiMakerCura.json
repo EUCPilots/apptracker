@@ -1,22 +1,42 @@
 [
   {
-    "Version": "5.13.0",
-    "Date": "2026-05-28T09:29:01",
-    "Size": 165382744,
-    "Sha256": "6edb3c4394e6e4ecb6b00f3e96d70e1ea53652c57a9626b58f8fda56e291aa6d",
+    "Version": "5.14.0",
+    "Date": "2026-11-05T12:43:43",
+    "Size": 141706160,
+    "Sha256": "09b8c121fbef61fdc9b0148b62dc68e0d434715bbb6f463cb793d944f8cf41da",
+    "Architecture": "arm64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/Ultimaker/Cura/releases/download/5.14.0/UltiMaker-Cura-5.14.0-win64-ARM64.exe"
+  },
+  {
+    "Version": "5.14.0",
+    "Date": "2026-11-05T12:43:43",
+    "Size": 175661824,
+    "Sha256": "d7dc8f59bb3d428d057d19ba0700eceabce1e0f3a78736572a47d06381db7753",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Ultimaker/Cura/releases/download/5.13.0/UltiMaker-Cura-5.13.0-win64-X64.exe"
+    "URI": "https://github.com/Ultimaker/Cura/releases/download/5.14.0/UltiMaker-Cura-5.14.0-win64-X64.exe"
   },
   {
-    "Version": "5.13.0",
-    "Date": "2026-05-28T09:29:01",
-    "Size": 179818496,
-    "Sha256": "d049b1e9bd80adb2defbb76fcd8e5bfc395e297bd0141b4f2894e37d09d1c33c",
+    "Version": "5.14.0",
+    "Date": "2026-11-05T12:43:43",
+    "Size": 161374208,
+    "Sha256": "14c660de420dd7a8ebd57216dba7a110649c686ae06398961e8a28a71c4d515f",
+    "Architecture": "arm64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/Ultimaker/Cura/releases/download/5.14.0/UltiMaker-Cura-5.14.0-win64-ARM64.msi"
+  },
+  {
+    "Version": "5.14.0",
+    "Date": "2026-11-05T12:43:43",
+    "Size": 193908736,
+    "Sha256": "5e80c3590b1c706afce3fe8bcaf6d8b4fbfacd5bacfe5011a6ad994157866de8",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/Ultimaker/Cura/releases/download/5.13.0/UltiMaker-Cura-5.13.0-win64-X64.msi"
+    "URI": "https://github.com/Ultimaker/Cura/releases/download/5.14.0/UltiMaker-Cura-5.14.0-win64-X64.msi"
   }
 ]

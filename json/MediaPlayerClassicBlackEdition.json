@@ -1,22 +1,22 @@
 [
   {
-    "Version": "1.9.2",
-    "Date": "2026-10-13T03:12:01",
-    "Size": 19908437,
-    "Sha256": "4e6d4034a52ed7bc4703a42d78b559f303a8f6b7eed777304fe25eccc4fc4602",
+    "Version": "1.9.3",
+    "Date": "2026-11-05T03:23:31",
+    "Size": 20202037,
+    "Sha256": "b48153376dc488496df5b65c7332865c2c85a5b3163433186a699901c6e44824",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/Aleksoid1978/MPC-BE/releases/download/1.9.2/MPC-BE.1.9.2.x64-installer.zip"
+    "URI": "https://github.com/Aleksoid1978/MPC-BE/releases/download/1.9.3/MPC-BE.1.9.3.x64-installer.zip"
   },
   {
-    "Version": "1.9.2",
-    "Date": "2026-10-13T03:12:01",
-    "Size": 18310798,
-    "Sha256": "e206326c6960a1ac3c8ba96758a67931c4e0c0f1d212c4c07a2109cc15fc57cd",
+    "Version": "1.9.3",
+    "Date": "2026-11-05T03:23:31",
+    "Size": 18589794,
+    "Sha256": "d2decf257d5302a051072dd2b00e60b032b2d0f2b382234aa6b7d01e9593a560",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/Aleksoid1978/MPC-BE/releases/download/1.9.2/MPC-BE.1.9.2.x86-installer.zip"
+    "URI": "https://github.com/Aleksoid1978/MPC-BE/releases/download/1.9.3/MPC-BE.1.9.3.x86-installer.zip"
   }
 ]

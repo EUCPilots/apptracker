@@ -1,35 +1,35 @@
 [
   {
-    "Version": "2026.2.6.1",
-    "Build": "262.11879.103",
+    "Version": "2026.3",
+    "Build": "263.7307.216",
     "Edition": "DataGrip",
-    "Date": "2026-10-30T00:00:00",
-    "Sha256": "0bfb767e3005c8d7dbea943c9c56d3b63d34140a433738214178d64511fd7c94",
-    "Size": 861403536,
+    "Date": "2026-11-05T00:00:00",
+    "Sha256": "84036c9e0ee4ee7aa1cbf16d940292e184fc3827b97513a975696057eeca14b9",
+    "Size": 977271464,
     "Architecture": "arm64",
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/datagrip/datagrip-2026.2.6.1-aarch64.exe"
+    "URI": "https://download.jetbrains.com/datagrip/datagrip-2026.3-aarch64.exe"
   },
   {
-    "Version": "2026.2.6.1",
-    "Build": "262.11879.103",
+    "Version": "2026.3",
+    "Build": "263.7307.216",
     "Edition": "DataGrip",
-    "Date": "2026-10-30T00:00:00",
-    "Sha256": "bf5a6ea7fba46a0e3f4e451db4603850ac2c6456466b3b4eaf679519fdadae17",
-    "Size": 862747688,
+    "Date": "2026-11-05T00:00:00",
+    "Sha256": "98557e953a47db74f5d4acf4c93a40bed4ede49bb362c2b1b36684b6ad9911d9",
+    "Size": 981635960,
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/datagrip/datagrip-2026.2.6.1.exe"
+    "URI": "https://download.jetbrains.com/datagrip/datagrip-2026.3.exe"
   },
   {
-    "Version": "2026.2.6.1",
-    "Build": "262.11879.103",
+    "Version": "2026.3",
+    "Build": "263.7307.216",
     "Edition": "DataGrip",
-    "Date": "2026-10-30T00:00:00",
-    "Sha256": "356dd764651981937f765bf42e589aa09bee08b4c8d415da8fb14c787de545cb",
-    "Size": 1116384680,
+    "Date": "2026-11-05T00:00:00",
+    "Sha256": "2a80efd7cd25cf4ce9f8f8649d81d35e0b0d694a640682aa1efbd0476b231017",
+    "Size": 1272528184,
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://download.jetbrains.com/datagrip/datagrip-2026.2.6.1.win.zip"
+    "URI": "https://download.jetbrains.com/datagrip/datagrip-2026.3.win.zip"
   }
 ]

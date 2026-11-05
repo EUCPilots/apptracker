@@ -1,35 +1,35 @@
 [
   {
-    "Version": "2026.2.4",
-    "Build": "262.11879.101",
+    "Version": "2026.3",
+    "Build": "263.7307.211",
     "Edition": "GoLand",
-    "Date": "2026-10-30T00:00:00",
-    "Sha256": "3ff2de695c3110fa64a80a15ea856e2a57ca80d8c5426ce384edd7470233296d",
-    "Size": 940347776,
+    "Date": "2026-11-05T00:00:00",
+    "Sha256": "8865e345976a1b741ec9b5d124dab9d6c319a17ffed6d925643a6d19ba0641e0",
+    "Size": 984422960,
     "Architecture": "arm64",
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/go/goland-2026.2.4-aarch64.exe"
+    "URI": "https://download.jetbrains.com/go/goland-2026.3-aarch64.exe"
   },
   {
-    "Version": "2026.2.4",
-    "Build": "262.11879.101",
+    "Version": "2026.3",
+    "Build": "263.7307.211",
     "Edition": "GoLand",
-    "Date": "2026-10-30T00:00:00",
-    "Sha256": "f10b41d853f3b2569472667f8715e53a00e8716fb5e96c214a21cb5c2b06a4dd",
-    "Size": 941691920,
+    "Date": "2026-11-05T00:00:00",
+    "Sha256": "689b8cfdcfdfd100f224311a350409ff84a8bb0c8edf14fc0e87fe8fbe81be21",
+    "Size": 988787232,
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/go/goland-2026.2.4.exe"
+    "URI": "https://download.jetbrains.com/go/goland-2026.3.exe"
   },
   {
-    "Version": "2026.2.4",
-    "Build": "262.11879.101",
+    "Version": "2026.3",
+    "Build": "263.7307.211",
     "Edition": "GoLand",
-    "Date": "2026-10-30T00:00:00",
-    "Sha256": "bb35086bea7ee1c70447959d805b7ea42d80a8819c03eab52a3f50b5ab003fd3",
-    "Size": 1263491122,
+    "Date": "2026-11-05T00:00:00",
+    "Sha256": "75566e71d1d1f1f2f9cc1801e2f1eccb0e8e5a00b60ca89a85222f1a117321de",
+    "Size": 1350286261,
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://download.jetbrains.com/go/goland-2026.2.4.win.zip"
+    "URI": "https://download.jetbrains.com/go/goland-2026.3.win.zip"
   }
 ]
