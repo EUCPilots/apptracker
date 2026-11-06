@@ -1,12 +1,12 @@
 [
   {
-    "Version": "5.3.0",
-    "Date": "2026-10-14T04:37:58",
-    "Size": 59404363,
-    "Sha256": "d77f5ed24e55ec6d95e22d88f19ff6bf2c72ff48d2a1012f9a016712c2d61d3c",
+    "Version": "5.4.0",
+    "Date": "2026-11-06",
+    "Size": 61690303,
+    "Sha256": "d7f83a1b618bb881e2f3b5b5ab7e8638b9b98007b2b5e40099bfcb7bb607fa8f",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.3.0/SubtitleEdit-Windows-x64-Setup.exe"
+    "URI": "https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.4.0/SubtitleEdit-Windows-x64-Setup.exe"
   }
 ]

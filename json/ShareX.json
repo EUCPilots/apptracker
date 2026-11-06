@@ -1,22 +1,22 @@
 [
   {
-    "Version": "21.0.0",
-    "Date": "2026-07-03T04:18:16",
-    "Size": 139151207,
-    "Sha256": "f213aca04d30e0e2dc7c43bc79acae8622be291cee6014a90962ed87ea5f10cc",
+    "Version": "22.2.0",
+    "Date": "2026-11-06",
+    "Size": 132440520,
+    "Sha256": "cd16166d6df2b45af30bd80e8580dec52f4450d41a1fd79dc441a1b5ea639822",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ShareX/ShareX/releases/download/v21.0.0/ShareX-21.0.0-setup-x64.exe"
+    "URI": "https://github.com/ShareX/ShareX/releases/download/v22.2.0/ShareX-22.2.0-setup-x64.exe"
   },
   {
-    "Version": "21.0.0",
-    "Date": "2026-07-03T04:18:16",
-    "Size": 208850419,
-    "Sha256": "8124938fa718d702bb08ef29292f0140052bdad03d23b3041b5015054ff1c230",
+    "Version": "22.2.0",
+    "Date": "2026-11-06",
+    "Size": 192490070,
+    "Sha256": "a8ab66c438ccbaaa938dd592593c35c04d8b69d5ac34e11a15b0e135aa967e8a",
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/ShareX/ShareX/releases/download/v21.0.0/ShareX-21.0.0-portable-x64.zip"
+    "URI": "https://github.com/ShareX/ShareX/releases/download/v22.2.0/ShareX-22.2.0-portable-x64.zip"
   }
 ]

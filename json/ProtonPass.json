@@ -1,7 +1,7 @@
 [
   {
     "Version": "1.43.0",
-    "Date": "2026-10-22T08:32:00",
+    "Date": "2026-10-22",
     "Release": "Stable",
     "Sha512": "8bfe302c73eabdf7c35d076cca7f51333a1118a136523c496c38466ee78cb863bc38a0c360f6c9507c7903f55cfb0d08a9ad6432ae25a5c9738e5b69c731804d",
     "Type": "msix",
@@ -9,7 +9,7 @@
   },
   {
     "Version": "1.41.0",
-    "Date": "2026-09-23T18:12:28",
+    "Date": "2026-09-23",
     "Release": "Beta",
     "Sha512": "47da86c72252a5042ddd98c1afa350528e5cedf6f178f2c604001eab974998673353e8ddfb0a3eace4e4fbcc9ec3d18fa61f59342415735e656871ed8df6ec94",
     "Type": "msix",
@@ -17,7 +17,7 @@
   },
   {
     "Version": "1.14.0",
-    "Date": "2024-02-27T15:19:49",
+    "Date": "2024-02-27",
     "Release": "EarlyAccess",
     "Sha512": "05b62b494fb462671e1478d8a838cc18eaf9d26fab9b21fec5448f8468e78ed9333d0d53ecf112531d23d54bb5fe887b16bc39b789905dc5d9339bdbe905cdf6",
     "Type": "exe",
