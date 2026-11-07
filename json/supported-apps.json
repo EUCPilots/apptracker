@@ -285,6 +285,11 @@
     "Link": "https://appium.github.io/appium-inspector/"
   },
   {
+    "Name": "AppleiTunes",
+    "Application": "Apple iTunes",
+    "Link": "https://www.apple.com/itunes/"
+  },
+  {
     "Name": "AppVentiX",
     "Application": "AppVentiX",
     "Link": "https://appventix.com/"
@@ -2867,7 +2872,7 @@
   {
     "Name": "VMwareTools",
     "Application": "VMware Tools",
-    "Link": "https://docs.vmware.com/en/VMware-Tools/index.html"
+    "Link": "https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/tools/13-1-0.html"
   },
   {
     "Name": "voidtoolsEverything",
@@ -2928,6 +2933,11 @@
     "Name": "WinSCP",
     "Application": "WinSCP",
     "Link": "https://winscp.net/"
+  },
+  {
+    "Name": "WireGuard",
+    "Application": "WireGuard",
+    "Link": "https://www.wireguard.com"
   },
   {
     "Name": "Wireshark",
