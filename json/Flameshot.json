@@ -1,72 +1,72 @@
 [
   {
-    "Version": "14.0.0",
-    "Date": "2026-06-10",
-    "Size": 19030016,
-    "Sha256": "b3c38680c792410812e787d48ac1825c771fb044380d45789719b9e8373327ea",
+    "Version": "15.0.0",
+    "Date": "2026-11-02",
+    "Size": 19062784,
+    "Sha256": "69b8245ab4cb060e70716f493a7b2319e0421649d3e1b194a1b81503f3199a2d",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/Flameshot-14.0.0-win64.msi"
+    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/Flameshot-15.0.0-win64.msi"
   },
   {
-    "Version": "14.0.0",
-    "Date": "2026-06-10",
-    "Size": 55619743,
-    "Sha256": "4dca8914d79e759902cc7d2621b6554636c62748d1ae7f554f15d9ddd3bb4632",
+    "Version": "15.0.0",
+    "Date": "2026-11-02",
+    "Size": 55691917,
+    "Sha256": "c07506aafb5a4af6a31177b9e4d001f6d14abbb112dd43a21ff7e636f9958a95",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-14.0.0-win64.zip"
+    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-15.0.0-win64.zip"
   },
   {
-    "Version": "14.0.0",
-    "Date": "2026-06-10",
-    "Size": 57437346,
-    "Sha256": "93ad1261ccae9387d35fd39a8b9428451163dfcba3f32658d80ec02ab0597789",
+    "Version": "15.0.0",
+    "Date": "2026-11-02",
+    "Size": 57698812,
+    "Sha256": "c5ac8a5749454fab318fe8d613098e0aafa74340bb72fff2dac240eaad3cf78e",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0%2Bgit0.da6121bd-artifact-appimage-x86_64.zip"
+    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0%2Bgit0.f4f2e4e-artifact-appimage-x86_64.zip"
   },
   {
-    "Version": "14.0.0",
-    "Date": "2026-06-10",
-    "Size": 791044,
-    "Sha256": "1b3a0d020948ae2cbec12f6c31b173cc6613d593c7298d391b184bd242dfd479",
+    "Version": "15.0.0",
+    "Date": "2026-11-02",
+    "Size": 829991,
+    "Sha256": "91521ed92efd6ae257fd1521fc10fc61a3dbd0444098563b7ca60bc751164387",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0%2Bgit0.da6121bd-artifact-fedora-41-x86_64.zip"
+    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0%2Bgit0.f4f2e4e-artifact-fedora-43-x86_64.zip"
   },
   {
-    "Version": "14.0.0",
-    "Date": "2026-06-10",
-    "Size": 796623,
-    "Sha256": "15f0c088384b2115b74a469c2102792c0186e57fd1ae29b4961fa1c0f85c2a5d",
+    "Version": "15.0.0",
+    "Date": "2026-11-02",
+    "Size": 836056,
+    "Sha256": "e256a1469b0c61bfd3a56d62efddfe15ac9b304585a66577edc8ad907e1f90c2",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0%2Bgit0.da6121bd-artifact-fedora-42-x86_64.zip"
+    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0%2Bgit0.f4f2e4e-artifact-fedora-44-x86_64.zip"
   },
   {
-    "Version": "14.0.0",
-    "Date": "2026-06-10",
-    "Size": 1602078,
-    "Sha256": "86179a017be76b86dadda332fd4f50c53de88a6adc89a1c4893c9432f0c3a3ec",
+    "Version": "15.0.0",
+    "Date": "2026-11-02",
+    "Size": 1626723,
+    "Sha256": "5e9523dd64130f62ec5853769fc10f99cb07de8f4d9e7c32bd67d4272f8fbe45",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0%2Bgit0.da6121bd-artifact-flatpak-x86_64.zip"
+    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0%2Bgit0.f4f2e4e-artifact-flatpak-x86_64.zip"
   },
   {
-    "Version": "14.0.0",
-    "Date": "2026-06-10",
-    "Size": 40487298,
-    "Sha256": "33d04280985edc3b49249c67ae8d64b348bf4d68f9dc34d35b875d2635752059",
+    "Version": "15.0.0",
+    "Date": "2026-11-02",
+    "Size": 40969669,
+    "Sha256": "b51d7d86528e46fa2273357435aa04bbcc350b77d32283c5c835876a0dbb135a",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0%2Bgit0.da6121bd-artifact-snap-x86_64.zip"
+    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0%2Bgit0.f4f2e4e-artifact-snap-x86_64.zip"
   }
 ]

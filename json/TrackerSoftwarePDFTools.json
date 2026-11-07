@@ -4,20 +4,20 @@
     "Hash": "7e7605d19597622bc173a677da51eb92a8b08ca01249463da32b9cfd1bc8a14e",
     "Architecture": "arm64",
     "Type": "msi",
-    "URI": "https://downloads.pdf-xchange.com/ToolsV11.ARM64.msi"
+    "URI": "https://downloads.pdf-xchange.com/11.1.1.0/ToolsV11.ARM64.msi"
   },
   {
     "Version": "11.1.1.0",
     "Hash": "aa6ed9ae0d1aec27273412a383b48e12e18096b79b9b43410e3521eaf3054761",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://downloads.pdf-xchange.com/ToolsV11.x64.msi"
+    "URI": "https://downloads.pdf-xchange.com/11.1.1.0/ToolsV11.x64.msi"
   },
   {
     "Version": "11.1.1.0",
     "Hash": "c6c0595582c2f19ca22275e9547dd60f2db2e8287e246e4f45265de9ece78223",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://downloads.pdf-xchange.com/ToolsV11.x86.msi"
+    "URI": "https://downloads.pdf-xchange.com/11.1.1.0/ToolsV11.x86.msi"
   }
 ]

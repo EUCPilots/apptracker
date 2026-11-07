@@ -1,0 +1,23 @@
+[
+  {
+    "Version": "1.1.1",
+    "Architecture": "arm64",
+    "Type": "msi",
+    "Sha256": "1390d251ff4630f7cd32e06aa138105c6ededfbdac043efd11c7168b3876af2c",
+    "URI": "https://download.wireguard.com/windows-client/wireguard-arm64-1.1.1.msi"
+  },
+  {
+    "Version": "1.1.1",
+    "Architecture": "x64",
+    "Type": "msi",
+    "Sha256": "f64b88dea419f57cd8068c3a2284aedd2f33fb5656985dbdaf4bb6001168ac8b",
+    "URI": "https://download.wireguard.com/windows-client/wireguard-amd64-1.1.1.msi"
+  },
+  {
+    "Version": "1.1.1",
+    "Architecture": "x86",
+    "Type": "msi",
+    "Sha256": "b76929b5b6bd654665e606ebfcd1430455cf36d56b2f825ff6a00afd7a69c1b2",
+    "URI": "https://download.wireguard.com/windows-client/wireguard-x86-1.1.1.msi"
+  }
+]

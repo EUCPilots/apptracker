@@ -4,20 +4,20 @@
     "Hash": "1b31e3b90ec53681a70b0c61526278933f2a9784ec9edb946d9376fbafe0d4d2",
     "Architecture": "arm64",
     "Type": "msi",
-    "URI": "https://downloads.pdf-xchange.com/EditorV11.ARM64.msi"
+    "URI": "https://downloads.pdf-xchange.com/11.1.1.0/EditorV11.ARM64.msi"
   },
   {
     "Version": "11.1.1.0",
     "Hash": "de3cf6ed0532991a571bc8c9dd2415e6fe52930e763afaf67dd55a796616decf",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://downloads.pdf-xchange.com/EditorV11.x64.msi"
+    "URI": "https://downloads.pdf-xchange.com/11.1.1.0/EditorV11.x64.msi"
   },
   {
     "Version": "11.1.1.0",
     "Hash": "2662e02032049887bda1a7300b9d778653983ef3a7f2c4914afaf8c2526b25fe",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://downloads.pdf-xchange.com/EditorV11.x86.msi"
+    "URI": "https://downloads.pdf-xchange.com/11.1.1.0/EditorV11.x86.msi"
   }
 ]
