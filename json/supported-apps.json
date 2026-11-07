@@ -870,6 +870,11 @@
     "Link": "https://tabby.sh/"
   },
   {
+    "Name": "EuroOfficeDesktopEditors",
+    "Application": "Euro-Office Desktop Editors",
+    "Link": "https://euro-office.github.io/documentation/"
+  },
+  {
     "Name": "Ferdium",
     "Application": "Ferdium Ferdium",
     "Link": "https://ferdium.org/"
@@ -1947,7 +1952,7 @@
   {
     "Name": "NextcloudDesktop",
     "Application": "Nextcloud Desktop",
-    "Link": "https://github.com/nextcloud-releases/desktop"
+    "Link": "https://nextcloud.com/install/"
   },
   {
     "Name": "NikseSubtitleEdit",
@@ -2353,11 +2358,6 @@
     "Name": "PSAppDeployToolkit",
     "Application": "PSAppDeployToolkit",
     "Link": "https://psappdeploytoolkit.com/"
-  },
-  {
-    "Name": "PSFPython",
-    "Application": "PSF Python",
-    "Link": "https://www.python.org/"
   },
   {
     "Name": "PTRTECHUVtools",

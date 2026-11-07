@@ -1,12 +1,22 @@
 [
   {
-    "Version": "35.0.3",
-    "Date": "2026-11-04",
-    "Size": 62775296,
-    "Sha256": "09dbaecd4585078f33cbcd62482fc244d2146a92aeef2f3324a68478b12685d2",
+    "Version": "9.3.6",
+    "Date": "2026-10-19",
+    "Size": 619169440,
+    "Sha256": "af87e91d794c6dad8f2d304fe32011057d3d355beef5d19e06462002c71df097",
+    "Architecture": "arm64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/nextcloud-releases/Office-DesktopEditors/releases/download/v9.3.6/Nextcloud-Office-DesktopEditors-9.3.6-0-windows-arm64.exe"
+  },
+  {
+    "Version": "9.3.6",
+    "Date": "2026-10-19",
+    "Size": 646566824,
+    "Sha256": "35e2a1ce904d7a0e2b2029d297194b849ec5142a414afaab12faf16e76f72a4e",
     "Architecture": "x64",
     "InstallerType": "Default",
-    "Type": "msi",
-    "URI": "https://github.com/nextcloud-releases/desktop/releases/download/v35.0.3/Nextcloud-35.0.3-x64.msi"
+    "Type": "exe",
+    "URI": "https://github.com/nextcloud-releases/Office-DesktopEditors/releases/download/v9.3.6/Nextcloud-Office-DesktopEditors-9.3.6-0-windows-x64.exe"
   }
 ]
