@@ -1,0 +1,35 @@
+name: Validate Evergreen API
+
+on:
+  schedule:
+    - cron: '23 14 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: evergreen-api-validation
+  cancel-in-progress: false
+  queue: max
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+
+      - name: Test validator
+        run: python -m unittest discover -s scripts/tests -p 'test_evergreen_api.py' -v
+
+      - name: Validate API and reconcile issue
+        env:
+          API_TEST_USERAGENT: ${{ secrets.API_TEST_USERAGENT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/validate_evergreen_api.py

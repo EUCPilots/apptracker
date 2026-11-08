@@ -25,3 +25,23 @@ Run the mocked tests locally with PowerShell and Pester 5:
 ```powershell
 Invoke-Pester -Path ./scripts/tests/ApplicationIssues.Tests.ps1 -Output Detailed
 ```
+
+## Daily Evergreen API validation
+
+[Validate Evergreen API](.github/workflows/validate-api.yml) runs daily at 14:23 UTC and supports manual dispatch. GitHub scheduled runs can be delayed. Set the repository Actions secret `API_TEST_USERAGENT` to the custom User-Agent required by the API. GitHub Issues must be enabled; the workflow uses `GITHUB_TOKEN` with `issues: write` and read-only repository access.
+
+[validate_evergreen_api.py](scripts/validate_evergreen_api.py) checks the production [Evergreen API 1.6.0](https://app.swaggerhub.com/apis/stealthpuppy/evergreen-api/1.6.0): `/`, `/app`, `/apps`, `/health`, `/endpoints`, `/endpoints/versions`, `/endpoints/downloads`, and `/app/{appId}` for every app discovered from `/apps`. If discovery fails, it attempts the known apps in [supported-apps.json](json/supported-apps.json), but the run still fails. A malformed catalog does not prevent checking its valid app identifiers.
+
+Validation checks HTTP status, JSON content type, required fields, nonempty collections and strings, download/vendor URLs, endpoint hostnames, and health/binding status. Any null value, including a nested or optional field, is a failure. The informational `/`, `/app`, and `/endpoints` routes intentionally support the contract's documented 404/400 responses as well as its compatibility 200 responses, provided their JSON bodies are valid. Application releases can be objects or arrays; every release is checked. `Size` accepts nonnegative numbers because existing Evergreen releases include fractional values despite the published integer schema.
+
+Requests are sequential with a 15-second timeout and no retries. The four throttled endpoints (`MicrosoftEdgeWebView2Runtime`, `MicrosoftEdge`, `AdobeAcrobatReaderDC`, and `CitrixWorkspaceApp`) are spaced at least 10 seconds apart, even after a failed request or on a repeat query.
+
+All failures are collected in one managed issue titled **Evergreen API validation failed**, with endpoint names, validation/HTTP errors, observation time, and a workflow/log link. Repeated failures update it; a fully successful run comments and closes it; subsequent failures reopen it. Unrelated application-failure issues are unchanged. Do not remove both the title and hidden API-validation marker. Duplicate open managed issues stop reconciliation without creating another issue. Whole-run concurrency prevents overlapping issue creation.
+
+Successful endpoint payloads are only held in memory: they are not logged, exported, uploaded as artifacts, or committed. Logs contain counts and failure diagnostics; the job summary contains counts only. Known secret values are redacted from failure diagnostics. API failures and GitHub reconciliation errors fail the workflow.
+
+Run the mocked validator tests locally with Python (standard library only; no API requests or credentials required):
+
+```sh
+python3 -m unittest discover -s scripts/tests -p 'test_evergreen_api.py' -v
+```
