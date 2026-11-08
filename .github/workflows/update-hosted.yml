@@ -14,6 +14,10 @@ on:
 jobs:
   update-powershell:
     runs-on: [self-hosted, macos, arm64]
+    permissions:
+      contents: write
+    outputs:
+      report-artifact: ${{ steps.upload-results.outputs.artifact-id }}
 
     steps:
       - uses: actions/checkout@v7
@@ -34,10 +38,20 @@ jobs:
         shell: pwsh
         working-directory: ${{ github.workspace }}
         run: |
-          . "${{ github.workspace }}/scripts/Update-JsonHosted.ps1" -Path "${{ github.workspace }}/json"
+          . "${{ github.workspace }}/scripts/Update-JsonHosted.ps1" -Path "${{ github.workspace }}/json" -ReportPath "$env:RUNNER_TEMP/application-results-${{ github.run_id }}-${{ github.run_attempt }}.json"
 
           # Write the supported apps to a JSON file for reference
           Find-EvergreenApp | ConvertTo-Json | Out-File "${{ github.workspace }}/json/supported-apps.json" -Encoding utf8 -Force
+
+      - name: Upload application results
+        id: upload-results
+        if: ${{ !cancelled() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: application-results
+          path: ${{ runner.temp }}/application-results-${{ github.run_id }}-${{ github.run_attempt }}.json
+          if-no-files-found: ignore
+          retention-days: 14
 
       # Format the date number for the commit message
       - name: Get date
@@ -56,3 +70,32 @@ jobs:
           git add .
           git commit -m "Update json ${{ steps.get-date.outputs.date }}.${{ github.run_number }} ${{ github.job }}"
           git push origin main
+
+  reconcile-application-issues:
+    needs: [update-powershell]
+    if: ${{ !cancelled() && needs.update-powershell.outputs.report-artifact != '' }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+    concurrency:
+      group: application-issue-reconciliation
+      cancel-in-progress: false
+      queue: max
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - uses: actions/download-artifact@v4
+        with:
+          artifact-ids: ${{ needs.update-powershell.outputs.report-artifact }}
+          path: ${{ runner.temp }}/application-results
+          merge-multiple: true
+
+      - name: Reconcile application issues
+        shell: pwsh
+        run: |
+          $Reports = @(Get-ChildItem -LiteralPath "$env:RUNNER_TEMP/application-results" -Filter "application-results-*.json" -File -ErrorAction Stop)
+          if ($Reports.Count -ne 1) { throw "Expected exactly one application results report." }
+          ./scripts/Sync-ApplicationIssues.ps1 -ReportPath $Reports[0].FullName

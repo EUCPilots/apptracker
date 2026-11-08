@@ -8,8 +8,17 @@ param(
     [System.String] $Path,
 
     [ValidateNotNullOrEmpty()]
-    [System.String[]] $SkipApps = (Get-Content -LiteralPath "$PSScriptRoot\SkipApps.txt" -ErrorAction "Stop")
+    [System.String[]] $SkipApps = (Get-Content -LiteralPath "$PSScriptRoot\SkipApps.txt" -ErrorAction "Stop"),
+
+    [ValidateNotNullOrEmpty()]
+    [System.String] $ReportPath
 )
+
+. "$PSScriptRoot/ApplicationResults.ps1"
+$Report = Get-ApplicationReport
+if ($ReportPath) {
+    Save-ApplicationReport -Report $Report -ReportPath $ReportPath
+}
 
 # Configure the environment
 $InformationPreference = [System.Management.Automation.ActionPreference]::Continue
@@ -44,70 +53,9 @@ Compare-Object -ReferenceObject $Files -DifferenceObject $Apps | `
 
 # Walk-through each Evergreen app and export data to JSON files
 foreach ($App in (Find-EvergreenApp | Where-Object { $_.Name -notin $SkipApps } | Select-Object -ExpandProperty "Name" | Sort-Object)) {
-    $ErrPath = [System.IO.Path]::Combine($Path, "$App.err")
-    try {
-        $params = @{
-            Name          = $App
-            ErrorAction   = "SilentlyContinue"
-            WarningAction = "SilentlyContinue"
-        }
-        $Output = Get-EvergreenApp @params
-    }
-    catch {
-        Write-Information -MessageData "$($PSStyle.Foreground.Cyan)Encountered an issue with: $App."
-        Write-Information -MessageData "$($PSStyle.Foreground.Cyan)$($_.Exception.Message)"
-        $_.Exception.Message | Out-File -FilePath $ErrPath -NoNewline -Encoding "utf8"
-        $Output = $null
-    }
-
-    if ($null -eq $Output -or @($Output).Count -eq 0) {
-        Write-Information -MessageData "$($PSStyle.Foreground.Cyan)Output from app is null: $App."
-        if (!(Test-Path -Path $ErrPath)) {
-            "Output from last run on PowerShell Core was null." | Out-File -FilePath $ErrPath -NoNewline -Encoding "utf8"
-        }
-        $Reason = (Get-Content -Path $ErrPath -Raw -ErrorAction "SilentlyContinue").Trim()
-        if ([string]::IsNullOrWhiteSpace($Reason)) {
-            $Reason = "Output from app was null or empty."
-        }
-        if ($env:GITHUB_ACTIONS -eq 'true') {
-            $CleanReason = $Reason.Replace("`r`n", " ").Replace("`n", " ")
-            Write-Host "::warning title=$App::$CleanReason"
-        }
-    }
-    elseif ("RateLimited" -in $Output.Version) {
-        Write-Information -MessageData "$($PSStyle.Foreground.Cyan)Skipping. GitHub API rate limited: $App."
-        $Reason = "GitHub API rate limited."
-        $Reason | Out-File -FilePath $ErrPath -NoNewline -Encoding "utf8"
-        if ($env:GITHUB_ACTIONS -eq 'true') {
-            Write-Host "::warning title=$App::$Reason"
-        }
-    }
-    else {
-
-        # Normalise URLs for SourceForge
-        if ($Output[0].URI -match "sourceforge.net") {
-            $Output = $Output | `
-                ForEach-Object { $_.URI = $_.URI -replace [RegEx]::Match($_.URI, "https?://([^/]+)").Captures.Groups[1].Value, "ixpeering.dl.sourceforge.net"; $_ }
-        }
-
-        # Normalise URLs for various applications
-        switch ($App) {
-            "VideoLanVlcPlayer" {
-                $Output = $Output | `
-                    ForEach-Object { $_.URI = $_.URI -replace [RegEx]::Match($_.URI, "https?://([^/]+)").Captures.Groups[1].Value, "mirrors.middlendian.com"; $_ }
-            }
-        }
-
-        # Sort and export to JSON
-        ConvertTo-Json @($Output | `
-                Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Platform", "Type", "Architecture", "Channel", "Release", "Ring", "Language", "Product", "Branch", "JDK", "Title", "Edition" -ErrorAction "SilentlyContinue") | `
-            Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.json")) -NoNewline -Encoding "utf8" -Verbose
-
-        # Remove variable
-        Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
-
-        # Remove any leftover .err file from previous runs
-        Remove-Item -Path $ErrPath -ErrorAction "SilentlyContinue"
+    $Report.Results += Invoke-ApplicationUpdate -App $App -Path $Path -NormalizeUrls
+    if ($ReportPath) {
+        Save-ApplicationReport -Report $Report -ReportPath $ReportPath
     }
 }
 
