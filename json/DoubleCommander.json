@@ -1,62 +1,62 @@
 [
   {
-    "Version": "1.2.10",
-    "Date": "2026-10-31",
-    "Size": 10644880,
-    "Sha256": "e1c2732a8144a1260d425fe2c2b97ab9eca687d7ebfb89b9e3a19aa8b5a11b12",
+    "Version": "1.2.11",
+    "Date": "2026-11-07",
+    "Size": 10643657,
+    "Sha256": "6a352eea14c56798adcebf07c48e45e6d2f042d75d66a84f064670e5d3acef0e",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.2.10/doublecmd-1.2.10.x86_64-win64.exe"
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.2.11/doublecmd-1.2.11.x86_64-win64.exe"
   },
   {
-    "Version": "1.2.10",
-    "Date": "2026-10-31",
-    "Size": 10059272,
-    "Sha256": "e0c41dc9685d2a691beb2cfcdae9a03c168392e516a5cf360cfd663d7f6a2408",
+    "Version": "1.2.11",
+    "Date": "2026-11-07",
+    "Size": 10059203,
+    "Sha256": "082fc6eccc945e3d0efb0b4ee7f9bb4ed17b9ad34dc5f37ba76ec231a977a07e",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.2.10/doublecmd-1.2.10.i386-win32.exe"
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.2.11/doublecmd-1.2.11.i386-win32.exe"
   },
   {
-    "Version": "1.2.10",
-    "Date": "2026-10-31",
+    "Version": "1.2.11",
+    "Date": "2026-11-07",
     "Size": 17277696,
-    "Sha256": "8f6dfed2488fc05b62519d275ac0a39fd1af2a342606b7bf3431940223efc9d7",
+    "Sha256": "1e78d98898cbbc6355de40462cc800cf755ce90326d1b01094463e65ca3a33ee",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.2.10/doublecmd-1.2.10.x86_64-win64.msi"
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.2.11/doublecmd-1.2.11.x86_64-win64.msi"
   },
   {
-    "Version": "1.2.10",
-    "Date": "2026-10-31",
-    "Size": 16261884,
-    "Sha256": "316ae4896490f84a8572254fd5278e860184be73cc4cb65559c92ee4f6f1b47c",
+    "Version": "1.2.11",
+    "Date": "2026-11-07",
+    "Size": 16265980,
+    "Sha256": "dade60d0f553f460b48fb2543a9d672d3c48ed9bfc886b6463eefd50b91180d6",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.2.10/doublecmd-1.2.10.i386-win32.msi"
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.2.11/doublecmd-1.2.11.i386-win32.msi"
   },
   {
-    "Version": "1.2.10",
-    "Date": "2026-10-31",
-    "Size": 16649179,
-    "Sha256": "3a6fb16a5cf8dfb170bcfe1cbd04c1b5e7a5ec01ea5dda7ea0455e1775b80ae4",
+    "Version": "1.2.11",
+    "Date": "2026-11-07",
+    "Size": 16650093,
+    "Sha256": "f7bc1867bfff882c82200806c9561f0da1c63a5612425f3d65c141675a4762e5",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.2.10/doublecmd-1.2.10.x86_64-win64.zip"
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.2.11/doublecmd-1.2.11.x86_64-win64.zip"
   },
   {
-    "Version": "1.2.10",
-    "Date": "2026-10-31",
-    "Size": 15645001,
-    "Sha256": "c0b8edb71753c758e66d771e4d54d5e6c0338393de8bcb9a890066a18224f9d7",
+    "Version": "1.2.11",
+    "Date": "2026-11-07",
+    "Size": 15645809,
+    "Sha256": "e098095364fb1aea95bfd713af1373ab002c667478b3df24d397a49a10bb83a1",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.2.10/doublecmd-1.2.10.i386-win32.zip"
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.2.11/doublecmd-1.2.11.i386-win32.zip"
   }
 ]

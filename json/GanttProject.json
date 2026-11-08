@@ -1,20 +1,22 @@
 [
   {
-    "Version": "3.3.3316",
-    "Date": "2025-01-29",
-    "Size": 137847541,
+    "Version": "3.3.3323",
+    "Date": "2026-11-07",
+    "Size": 143179289,
+    "Sha256": "0b662319ec2bf4c3b7eb998fefe6516dc2ac4e59469ad9231532974230477dfd",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/bardsoftware/ganttproject/releases/download/ganttproject-3.3.3316/ganttproject-3.3.3316.exe"
+    "URI": "https://github.com/bardsoftware/ganttproject/releases/download/ganttproject-3.3.3323/ganttproject-3.3.3323.exe"
   },
   {
-    "Version": "3.3.3316",
-    "Date": "2025-01-29",
-    "Size": 139213978,
+    "Version": "3.3.3323",
+    "Date": "2026-11-07",
+    "Size": 144510023,
+    "Sha256": "2a343d5c41e93fb5b50c4501f3b77a0021e82f27461a4688148a1ab6ace041cf",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/bardsoftware/ganttproject/releases/download/ganttproject-3.3.3316/ganttproject-3.3.3316.msi"
+    "URI": "https://github.com/bardsoftware/ganttproject/releases/download/ganttproject-3.3.3323/ganttproject-3.3.3323.msi"
   }
 ]

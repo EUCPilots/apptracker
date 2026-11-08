@@ -1,52 +1,52 @@
 [
   {
-    "Version": "7.0.0.26278",
-    "Date": "2026-10-06",
-    "Size": 89053936,
-    "Sha256": "f7c42eb88785146334181013c56d6b80f7fcc734cf26fba37aa283063b22045a",
+    "Version": "7.0.1.26312",
+    "Date": "2026-11-08",
+    "Size": 89053728,
+    "Sha256": "c0a31721524d0de2eadcb8538e6bbc91f38799ffcfdbbdb5b400391753ab0655",
     "Architecture": "x86",
     "InstallerType": "Admin",
     "Type": "exe",
-    "URI": "https://github.com/pyrevitlabs/pyRevit/releases/download/v7.0.0.26278%2B2233/pyRevit_7.0.0.26278_admin_signed.exe"
+    "URI": "https://github.com/pyrevitlabs/pyRevit/releases/download/v7.0.1.26312%2B1155/pyRevit_7.0.1.26312_admin_signed.exe"
   },
   {
-    "Version": "7.0.0.26278",
-    "Date": "2026-10-06",
-    "Size": 89054472,
-    "Sha256": "bf242d23f3ca8ae214f430aa29764f63e02756e7fcb620b21ca85965c8ee4476",
+    "Version": "7.0.1.26312",
+    "Date": "2026-11-08",
+    "Size": 89054312,
+    "Sha256": "edb4f2d66f08bbc11cb9e5dfc78a6ccd5ba428b987c305e25203581c1ffd8e34",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pyrevitlabs/pyRevit/releases/download/v7.0.0.26278%2B2233/pyRevit_7.0.0.26278_signed.exe"
+    "URI": "https://github.com/pyrevitlabs/pyRevit/releases/download/v7.0.1.26312%2B1155/pyRevit_7.0.1.26312_signed.exe"
   },
   {
-    "Version": "7.0.0.26278",
-    "Date": "2026-10-06",
-    "Size": 10311800,
-    "Sha256": "bfbdd77a89cf026e215d124a90a4d1edd594286cd7354f97d9843c3495492b46",
+    "Version": "7.0.1.26312",
+    "Date": "2026-11-08",
+    "Size": 10314888,
+    "Sha256": "509035e9ef8429fc69e5a27fab5060cd68ac5d3ed0f929813ca655cde2ff7730",
     "Architecture": "x86",
     "InstallerType": "Admin",
     "Type": "exe",
-    "URI": "https://github.com/pyrevitlabs/pyRevit/releases/download/v7.0.0.26278%2B2233/pyRevit_CLI_7.0.0.26278_admin_signed.exe"
+    "URI": "https://github.com/pyrevitlabs/pyRevit/releases/download/v7.0.1.26312%2B1155/pyRevit_CLI_7.0.1.26312_admin_signed.exe"
   },
   {
-    "Version": "7.0.0.26278",
-    "Date": "2026-10-06",
-    "Size": 10312488,
-    "Sha256": "5238323922c02577bd4823785b2843ae3dde72f998b363916ab295d1cd82b4c0",
+    "Version": "7.0.1.26312",
+    "Date": "2026-11-08",
+    "Size": 10315608,
+    "Sha256": "cb147a3ac25ddc1528e4adf36af26dcb1834b745e00d9b1ed9c55a55aab1b0f5",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pyrevitlabs/pyRevit/releases/download/v7.0.0.26278%2B2233/pyRevit_CLI_7.0.0.26278_signed.exe"
+    "URI": "https://github.com/pyrevitlabs/pyRevit/releases/download/v7.0.1.26312%2B1155/pyRevit_CLI_7.0.1.26312_signed.exe"
   },
   {
-    "Version": "7.0.0.26278",
-    "Date": "2026-10-06",
-    "Size": 55148544,
-    "Sha256": "6d13a925c74dfd9f45b658f9464602dff21780fc2577ab3beeac194a241c7c9e",
+    "Version": "7.0.1.26312",
+    "Date": "2026-11-08",
+    "Size": 55144448,
+    "Sha256": "b556b44bde76eecb5b2cbdcbd795c9651000548d3ace3bd7a425a51c0e043849",
     "Architecture": "x86",
     "InstallerType": "Admin",
     "Type": "msi",
-    "URI": "https://github.com/pyrevitlabs/pyRevit/releases/download/v7.0.0.26278%2B2233/pyRevit_CLI_7.0.0.26278_admin_signed.msi"
+    "URI": "https://github.com/pyrevitlabs/pyRevit/releases/download/v7.0.1.26312%2B1155/pyRevit_CLI_7.0.1.26312_admin_signed.msi"
   }
 ]
