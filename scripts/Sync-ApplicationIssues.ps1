@@ -36,8 +36,11 @@ function Get-ApplicationIssuePage {
     $Separator = if ($Resource.Contains('?')) { '&' } else { '?' }
     $Page = 1
     do {
-        $Items = @(Invoke-ApplicationIssueApi -Resource "${Resource}${Separator}per_page=100&page=$Page")
-        $Items
+        $Response = Invoke-ApplicationIssueApi -Resource "${Resource}${Separator}per_page=100&page=$Page"
+        $Items = @($Response)
+        foreach ($Item in $Items) {
+            $Item
+        }
         $Page++
     } while ($Items.Count -eq 100)
 }

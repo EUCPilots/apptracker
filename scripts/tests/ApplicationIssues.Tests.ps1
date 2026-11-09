@@ -232,6 +232,20 @@ Describe 'Issue reconciliation' {
         $Patch.Body.body | Should -Match 'first-failure:2026-11-01T00:00:00Z'
     }
 
+    It 'updates existing issues returned as one REST array' {
+        Set-TestIssue
+        Mock Invoke-ApplicationIssueApi {
+            param($Resource, $Method, $Body)
+            $script:Calls.Add(@{ Resource = $Resource; Method = $Method; Body = $Body })
+            if ($Resource.StartsWith('labels?')) { return [pscustomobject]@{ name = 'application-failure' } }
+            if ($Resource.StartsWith('issues?')) { Write-Output -NoEnumerate $script:Issues }
+        }
+        Invoke-TestSync
+        @($script:Calls | Where-Object { $_.Method -eq 'POST' -and $_.Resource -eq 'issues' }).Count | Should -Be 0
+        $Update = $script:Calls | Where-Object Resource -eq 'issues/42'
+        $Update.Body.body | Should -Match 'first-failure:2026-11-01T00:00:00Z'
+    }
+
     It 'comments and closes on explicit success' {
         Set-TestIssue
         $script:Report.Results[0].Status = 'Success'
@@ -327,7 +341,8 @@ Describe 'Issue reconciliation' {
 
     It 'retrieves every page rather than limiting issue matching to the first page' {
         Mock Invoke-ApplicationIssueApi {
-            1..100 | ForEach-Object { [pscustomobject]@{ number = $_ } }
+            $Items = 1..100 | ForEach-Object { [pscustomobject]@{ number = $_ } }
+            Write-Output -NoEnumerate $Items
         } -ParameterFilter { $Resource -like '*page=1' }
         Mock Invoke-ApplicationIssueApi { [pscustomobject]@{ number = 101 } } -ParameterFilter { $Resource -like '*page=2' }
         $Items = @(Get-ApplicationIssuePage -Resource 'issues?state=all')
