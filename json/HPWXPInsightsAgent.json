@@ -1,0 +1,30 @@
+[
+  {
+    "Version": "5.26.123",
+    "Date": "2026-09-16",
+    "Architecture": "arm64",
+    "Type": "exe",
+    "URI": "https://downloads.hpdaas.com/production/microsoft/tm-client/5.26.123/arm64/WXPInsights-arm.exe"
+  },
+  {
+    "Version": "5.26.123",
+    "Date": "2026-09-16",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://downloads.hpdaas.com/production/microsoft/tm-client/5.26.123/WXPInsights.exe"
+  },
+  {
+    "Version": "5.26.123",
+    "Date": "2026-09-16",
+    "Architecture": "arm64",
+    "Type": "zip",
+    "URI": "https://downloads.hpdaas.com/production/microsoft/tm-client/5.26.123/arm64/WXPInsights-arm64.zip"
+  },
+  {
+    "Version": "5.26.123",
+    "Date": "2026-09-16",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://downloads.hpdaas.com/production/microsoft/tm-client/5.26.123/WXPInsights.zip"
+  }
+]

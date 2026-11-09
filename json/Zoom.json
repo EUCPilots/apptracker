@@ -36,22 +36,22 @@
     "URI": "https://cdn.zoom.us/prod/7.2.5.51704/x64/ZoomInstallerFull.msi"
   },
   {
-    "Version": "7.2.0.8375",
+    "Version": "7.2.5.8613",
     "Platform": "Rooms",
     "Installer": "User",
-    "Size": 458596264,
+    "Size": 459789448,
     "Type": "exe",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/7.2.0.8375/x64/zoomrooms-7.2.0.8375-x64.exe"
+    "URI": "https://cdn.zoom.us/prod/7.2.5.8613/x64/zoomrooms-7.2.5.8613-x64.exe"
   },
   {
-    "Version": "7.2.0.8375",
+    "Version": "7.2.5.8613",
     "Platform": "Rooms",
     "Installer": "Admin",
-    "Size": 463626752,
+    "Size": 464747520,
     "Type": "msi",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/7.2.0.8375/x64/zoomrooms-7.2.0.8375-x64.msi"
+    "URI": "https://cdn.zoom.us/prod/7.2.5.8613/x64/zoomrooms-7.2.5.8613-x64.msi"
   },
   {
     "Version": "7.2.0.1283",
