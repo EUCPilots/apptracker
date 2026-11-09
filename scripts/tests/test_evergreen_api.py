@@ -86,6 +86,23 @@ class SchemaTests(unittest.TestCase):
                 with self.assertRaises(api.ValidationError):
                     api.validate_response("/app/TestApp", {**RELEASE, **change})
 
+    def test_release_sizes_accept_numbers_and_evergreen_strings(self):
+        for size in (0, 12, 12.5, "0", "311607296", "226623624 ", " 12.5 ",
+                     "343.52 MB", "12MB", "1.5 GiB", "512 B", "2 kb"):
+            for as_array in (False, True):
+                with self.subTest(size=size, as_array=as_array):
+                    release = {**RELEASE, "Size": size}
+                    api.validate_response("/app/TestApp", [release] if as_array else release)
+                    self.assertEqual(release["Size"], size)
+
+    def test_invalid_release_sizes_fail(self):
+        for size in (-1, float("inf"), float("-inf"), float("nan"), True, False,
+                     None, [], {}, "", " ", "-1", "-1 MB", "NaN", "Infinity",
+                     "1e309", "unknown", "12 widgets", "MB", "1.2.3 MB", "12 MB extra"):
+            with self.subTest(size=size):
+                with self.assertRaisesRegex(api.ValidationError, r"\$\[0\].Size:"):
+                    api.validate_response("/app/TestApp", [{**RELEASE, "Size": size}])
+
     def test_app_identifiers_and_required_fields(self):
         for app in ({**APP, "Name": "../evil"}, {**APP, "Name": "A" * 65},
                     {**APP, "Application": ""}, {**APP, "Link": "broken"},
