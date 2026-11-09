@@ -109,12 +109,15 @@ def validate_response(path, value):
             require(release["Version"].lower() not in ("ratelimited", "error", "null"),
                     f"{location}.Version: error sentinel")
             uri(release["URI"], f"{location}.URI")
-            # Existing Evergreen data includes fractional sizes, not only integer bytes.
+            # Evergreen sizes include numbers, numeric strings, and strings with units.
             if "Size" in release:
-                require(type(release["Size"]) in (int, float)
-                        and (type(release["Size"]) is int or math.isfinite(release["Size"]))
-                        and release["Size"] >= 0,
-                        f"{location}.Size: expected nonnegative number")
+                size = release["Size"]
+                require((type(size) in (int, float)
+                         and (type(size) is int or math.isfinite(size)) and size >= 0)
+                        or (isinstance(size, str) and re.fullmatch(
+                            r"[0-9]+(?:\.[0-9]+)?(?:\s*(?:[KMGTPE]i?)?B)?",
+                            size.strip(), re.IGNORECASE)),
+                        f"{location}.Size: expected nonnegative number or size string")
             for key in ("Architecture", "Type", "Language"):
                 if key in release:
                     text(release[key], f"{location}.{key}")
