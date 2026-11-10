@@ -1,12 +1,12 @@
 [
   {
-    "Version": "8.0.0",
-    "Date": "2026-11-05",
-    "Size": 114131207,
-    "Sha256": "f367d7d89ebf753ad5def045e86571b46e3f4a2ac5ddb6222d72a0c986abcd2e",
+    "Version": "8.1.0",
+    "Date": "2026-11-10",
+    "Size": 114166756,
+    "Sha256": "f6f5548bb12fc5f10cc742b4ab586bc486a048555e148a03c4589045b107b35d",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/gitify-app/gitify/releases/download/v8.0.0/Gitify-Setup-8.0.0.exe"
+    "URI": "https://github.com/gitify-app/gitify/releases/download/v8.1.0/Gitify-Setup-8.1.0.exe"
   }
 ]

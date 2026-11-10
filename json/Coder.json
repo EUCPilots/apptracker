@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2.38.6",
-    "Date": "2026-11-03",
-    "Size": 174001216,
-    "Sha256": "00ab05382ad8aad2dda9c440050a302277fce7160840e1fa857422578a825fa7",
+    "Version": "2.38.7",
+    "Date": "2026-11-10",
+    "Size": 174055184,
+    "Sha256": "7cefa62db3b93d400f4fe52539439a402422ca29564f7194fa011618d6cefa17",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/coder/coder/releases/download/v2.38.6/coder_2.38.6_windows_amd64_installer.exe"
+    "URI": "https://github.com/coder/coder/releases/download/v2.38.7/coder_2.38.7_windows_amd64_installer.exe"
   }
 ]
