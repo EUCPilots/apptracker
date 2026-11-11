@@ -1955,8 +1955,18 @@
     "Link": "https://github.com/Nevcairiel/LAVFilters"
   },
   {
-    "Name": "NextcloudDesktop",
-    "Application": "Nextcloud Desktop",
+    "Name": "NextcloudFiles",
+    "Application": "Nextcloud Files",
+    "Link": "https://nextcloud.com/install/"
+  },
+  {
+    "Name": "NextcloudOffice",
+    "Application": "Nextcloud Office",
+    "Link": "https://nextcloud.com/install/"
+  },
+  {
+    "Name": "NextcloudTalk",
+    "Application": "Nextcloud Talk",
     "Link": "https://nextcloud.com/install/"
   },
   {
@@ -2108,6 +2118,11 @@
     "Name": "OperaGXBrowser",
     "Application": "Opera GX Browser",
     "Link": "https://www.opera.com/gx"
+  },
+  {
+    "Name": "OperaNeonBrowser",
+    "Application": "Opera Neon Browser",
+    "Link": "https://www.opera.com/neon/"
   },
   {
     "Name": "OracleJava17",
