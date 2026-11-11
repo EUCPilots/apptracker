@@ -1,62 +1,62 @@
 [
   {
-    "Version": "1.25.2733.0",
-    "Date": "2026-10-01",
-    "Size": 23809353,
-    "Sha256": "cce6e9cc3c8457fa11ced1d2a7354888c7d6db83c5ace5d5891a52c95e3b21da",
+    "Version": "1.25.3131.0",
+    "Date": "2026-11-09",
+    "Size": 23807268,
+    "Sha256": "86da5797d0cd1c5fb6f93391517ee13b4fad546c8aa31c7cd46d26684dd6d72f",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msixbundle",
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.25.2733.0/Microsoft.WindowsTerminal_1.25.2733.0_8wekyb3d8bbwe.msixbundle"
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.25.3131.0/Microsoft.WindowsTerminal_1.25.3131.0_8wekyb3d8bbwe.msixbundle"
   },
   {
-    "Version": "1.25.2733.0",
-    "Date": "2026-10-01",
-    "Size": 12245254,
-    "Sha256": "11b4fe264ecaa71b08cd84195536f68c669808155338e9f47f4da668b4cf0e26",
+    "Version": "1.25.3131.0",
+    "Date": "2026-11-09",
+    "Size": 12243850,
+    "Sha256": "b7e1d2a414e6368affd098d91a4cba441dcacd3ab634a6f39c8e6f5490deef89",
     "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.25.2733.0/Microsoft.WindowsTerminal_1.25.2733.0_arm64.zip"
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.25.3131.0/Microsoft.WindowsTerminal_1.25.3131.0_arm64.zip"
   },
   {
-    "Version": "1.25.2733.0",
-    "Date": "2026-10-01",
-    "Size": 12127272,
-    "Sha256": "bf3ef2012f6c44d8340a4c58125acc9498d19b580f9890dc043cdf831852e796",
+    "Version": "1.25.3131.0",
+    "Date": "2026-11-09",
+    "Size": 12126938,
+    "Sha256": "273d6f1502eca1b5bd95c43f5d4d7ec72cc503df340102f8659717e5bead3437",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.25.2733.0/Microsoft.WindowsTerminal_1.25.2733.0_x64.zip"
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.25.3131.0/Microsoft.WindowsTerminal_1.25.3131.0_x64.zip"
   },
   {
-    "Version": "1.25.2733.0",
-    "Date": "2026-10-01",
+    "Version": "1.25.3131.0",
+    "Date": "2026-11-09",
     "Size": 2512,
-    "Sha256": "c1cd8d99b184be91dd7728db6990a0290c4bc7795413764633306501fcd436ea",
+    "Sha256": "3f60bdf54c8feeed813c9a86582a774b79a0cee027bba5d7f09c2e60e8b9c50f",
     "Architecture": "x86",
     "InstallerType": "GroupPolicy",
     "Type": "zip",
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.25.2733.0/GroupPolicyTemplates_1.25.2733.0.zip"
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.25.3131.0/GroupPolicyTemplates_1.25.3131.0.zip"
   },
   {
-    "Version": "1.25.2733.0",
-    "Date": "2026-10-01",
-    "Size": 42869026,
-    "Sha256": "151cb3ee9a93ba41ad7c412c0efd165a1e47eda6ef47d15a154c33af1e1cec9c",
+    "Version": "1.25.3131.0",
+    "Date": "2026-11-09",
+    "Size": 42866579,
+    "Sha256": "7958c974571f795a42f387c59fb6bb0178e9d29e95d8398abeb496a3fbf6cd0c",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.25.2733.0/Microsoft.WindowsTerminal_1.25.2733.0_8wekyb3d8bbwe.msixbundle_Windows10_PreinstallKit.zip"
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.25.3131.0/Microsoft.WindowsTerminal_1.25.3131.0_8wekyb3d8bbwe.msixbundle_Windows10_PreinstallKit.zip"
   },
   {
-    "Version": "1.25.2733.0",
-    "Date": "2026-10-01",
-    "Size": 10970297,
-    "Sha256": "39ec034dae2b207f3325d7e630d9a46cff291b7f1e14c7c529448d88c1830ca2",
+    "Version": "1.25.3131.0",
+    "Date": "2026-11-09",
+    "Size": 10971393,
+    "Sha256": "61c103a995ad4140dd3fcff6d637b770f709f4ea0eff0431cc02f90a37ef3518",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.25.2733.0/Microsoft.WindowsTerminal_1.25.2733.0_x86.zip"
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.25.3131.0/Microsoft.WindowsTerminal_1.25.3131.0_x86.zip"
   }
 ]

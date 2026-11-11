@@ -1,62 +1,62 @@
 [
   {
-    "Version": "1.2.7",
-    "Date": "2026-10-12",
-    "Size": 100443600,
-    "Sha256": "e20eac9ecf9a5ac60c03045ae5f307b9caf0111d3bf11360c838b4e9592040ad",
+    "Version": "1.2.8",
+    "Date": "2026-11-11",
+    "Size": 150066168,
+    "Sha256": "0ea4f1241dd69e57372c660ea9acaac0ea560f7cae2834a3a79c40ecdcd99c02",
     "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/PowerPlatformToolBox/desktop-app/releases/download/v1.2.7/Power-Platform-ToolBox-1.2.7-arm64-win.exe"
+    "URI": "https://github.com/PowerPlatformToolBox/desktop-app/releases/download/v1.2.8/Power-Platform-ToolBox-1.2.8-arm64-win.exe"
   },
   {
-    "Version": "1.2.7",
-    "Date": "2026-10-12",
-    "Size": 105768472,
-    "Sha256": "e1649523d8e40d157434a3dee4c8ecb6f536d08ae438716ee8ae22fa6a643d18",
+    "Version": "1.2.8",
+    "Date": "2026-11-11",
+    "Size": 106273976,
+    "Sha256": "fcd26a2b2d27a948861edba6b69cda5e2ab9c55879656ec2951f42c55b09ef21",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/PowerPlatformToolBox/desktop-app/releases/download/v1.2.7/Power-Platform-ToolBox-1.2.7-x64-win.exe"
+    "URI": "https://github.com/PowerPlatformToolBox/desktop-app/releases/download/v1.2.8/Power-Platform-ToolBox-1.2.8-x64-win.exe"
   },
   {
-    "Version": "1.2.7",
-    "Date": "2026-10-12",
-    "Size": 115208192,
-    "Sha256": "e55f1c753015c5b5757452ae1daef23e1dcda1c24b9715f89f919c78d7849327",
+    "Version": "1.2.8",
+    "Date": "2026-11-11",
+    "Size": 115646464,
+    "Sha256": "9ce5b7a18cdd4fa86c82c471920a0a34c226f8d721f190b91f981d36950685b7",
     "Architecture": "arm64",
     "InstallerType": "MSI",
     "Type": "msi",
-    "URI": "https://github.com/PowerPlatformToolBox/desktop-app/releases/download/v1.2.7/Power-Platform-ToolBox-1.2.7-arm64-win.msi"
+    "URI": "https://github.com/PowerPlatformToolBox/desktop-app/releases/download/v1.2.8/Power-Platform-ToolBox-1.2.8-arm64-win.msi"
   },
   {
-    "Version": "1.2.7",
-    "Date": "2026-10-12",
-    "Size": 119463936,
-    "Sha256": "c36be87cf6172662834c77cff0cd079a24fe9a03cbc1d6e5687e792bfb33b9af",
+    "Version": "1.2.8",
+    "Date": "2026-11-11",
+    "Size": 119873536,
+    "Sha256": "cef6555ff59d03aeeea27a01204bfbcb819fecc83174a237e317fc679b909975",
     "Architecture": "x64",
     "InstallerType": "MSI",
     "Type": "msi",
-    "URI": "https://github.com/PowerPlatformToolBox/desktop-app/releases/download/v1.2.7/Power-Platform-ToolBox-1.2.7-x64-win.msi"
+    "URI": "https://github.com/PowerPlatformToolBox/desktop-app/releases/download/v1.2.8/Power-Platform-ToolBox-1.2.8-x64-win.msi"
   },
   {
-    "Version": "1.2.7",
-    "Date": "2026-10-12",
-    "Size": 148926292,
-    "Sha256": "d1cb2dfd7d2046846402edfc8a077191a9c140a0694df7740002e1238184dcab",
+    "Version": "1.2.8",
+    "Date": "2026-11-11",
+    "Size": 149438238,
+    "Sha256": "7c4f0b3e8c2a0dd7dd984ca03fe0559cff4b8f75bd87c94284e6e6c75ee5f273",
     "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/PowerPlatformToolBox/desktop-app/releases/download/v1.2.7/Power-Platform-ToolBox-1.2.7-arm64-win.zip"
+    "URI": "https://github.com/PowerPlatformToolBox/desktop-app/releases/download/v1.2.8/Power-Platform-ToolBox-1.2.8-arm64-win.zip"
   },
   {
-    "Version": "1.2.7",
-    "Date": "2026-10-12",
-    "Size": 149683844,
-    "Sha256": "f39910322178449b8a5034658fa9e4c25144456466d543d56a00b2d5e25f6de7",
+    "Version": "1.2.8",
+    "Date": "2026-11-11",
+    "Size": 150195765,
+    "Sha256": "0a52eb4d8960c9462f090a82a69fbbe04c6c2e2fa684da8481c7017de6bd8d5d",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/PowerPlatformToolBox/desktop-app/releases/download/v1.2.7/Power-Platform-ToolBox-1.2.7-x64-win.zip"
+    "URI": "https://github.com/PowerPlatformToolBox/desktop-app/releases/download/v1.2.8/Power-Platform-ToolBox-1.2.8-x64-win.zip"
   }
 ]

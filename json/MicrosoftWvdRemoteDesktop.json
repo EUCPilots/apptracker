@@ -27,54 +27,54 @@
     "URI": "https://res.cdn.office.net/remote-desktop-windows-client/e767beca-dfed-4cb8-ba8d-7275ff69324b/RemoteDesktop_1.2.7472.0_x86.msi"
   },
   {
-    "Version": "1.2.7422.0",
-    "Date": "2026-10-09",
-    "Channel": "Insider",
-    "MD5": "39D8A30F82C874AD92E67C08E69A5F3E",
-    "Sha2": "46CD9696F2502B64A0D50CB2B06E10D493E7390E12AF7AFB313DFEA23B31EC854E6C95DE17F40694E8726C81118AF1C32EE903AF0CA84C173C1CCBA8EF6D019B",
-    "Architecture": "ARM64",
-    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/92c82d2a-5487-49eb-b89b-1dd8b892f2bd/RemoteDesktop_1.2.7422.0_ARM64.msi"
-  },
-  {
-    "Version": "1.2.7422.0",
-    "Date": "2026-10-09",
+    "Version": "1.2.7430.0",
+    "Date": "2026-11-10",
     "Channel": "Public",
-    "MD5": "39D8A30F82C874AD92E67C08E69A5F3E",
-    "Sha2": "46CD9696F2502B64A0D50CB2B06E10D493E7390E12AF7AFB313DFEA23B31EC854E6C95DE17F40694E8726C81118AF1C32EE903AF0CA84C173C1CCBA8EF6D019B",
+    "MD5": "5B06E3A13D32E6A8CDB8D6C45AE1B447",
+    "Sha2": "7D97F735CDE5B8B734CE2415E02748BB7D1225FBDF581FF923181D0FEC9BB9AC8B47861C9FE3DC5B3AF7F7C23CAB73B4244403EB5FCE4C9A6B71E9C003863298",
     "Architecture": "ARM64",
-    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/92c82d2a-5487-49eb-b89b-1dd8b892f2bd/RemoteDesktop_1.2.7422.0_ARM64.msi"
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/1feafc4e-29f7-497e-bb27-3b77343d612c/RemoteDesktop_1.2.7430.0_ARM64.msi"
   },
   {
-    "Version": "1.2.7422.0",
-    "Date": "2026-10-09",
-    "Channel": "Insider",
-    "MD5": "4CD8B2094133B40D8F109343017A6488",
-    "Sha2": "C5A4358B8A986FE289AE75C300196384BC216E894911EC5F809E2202C309B3E6479ED1B4ED997F69CB9C04E094A28682BC2616EAFDE3AF80609A707C73138563",
-    "Architecture": "x64",
-    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/7a991e13-40ae-4ee4-9353-f42e622f5ee0/RemoteDesktop_1.2.7422.0_x64.msi"
-  },
-  {
-    "Version": "1.2.7422.0",
-    "Date": "2026-10-09",
+    "Version": "1.2.7430.0",
+    "Date": "2026-11-10",
     "Channel": "Public",
-    "MD5": "4CD8B2094133B40D8F109343017A6488",
-    "Sha2": "C5A4358B8A986FE289AE75C300196384BC216E894911EC5F809E2202C309B3E6479ED1B4ED997F69CB9C04E094A28682BC2616EAFDE3AF80609A707C73138563",
+    "MD5": "AA582E0FA93F406B4D81703C211C97F6",
+    "Sha2": "18687B085F9FB452442D2DA9940B7BDDCA7A3E7E9B00DFB354E5EA004EDE8C56A68701C45DB1DF7066D4EF60D5DDB461141CE746AFD1B1DEF02D7CA7F0DE68A8",
     "Architecture": "x64",
-    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/7a991e13-40ae-4ee4-9353-f42e622f5ee0/RemoteDesktop_1.2.7422.0_x64.msi"
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/229f15ef-f921-4ff3-95b8-7a6cd809a2df/RemoteDesktop_1.2.7430.0_x64.msi"
   },
   {
-    "Version": "1.2.7422.0",
-    "Date": "2026-10-09",
-    "Channel": "Insider",
-    "MD5": "8FBCDC64668A70D2FD69149E8CF0032E",
-    "Sha2": "00C61559BCE0EE36ACA522471DDC2890BD418CADBB313700A5048338FC678387E3D51CA98C84901D2E14A856988927B6F275A7DF6567B1542E8E456844D63093",
+    "Version": "1.2.7430.0",
+    "Date": "2026-11-10",
+    "Channel": "Public",
+    "MD5": "FFCC2C65FAB07EE057CD686E7B431496",
+    "Sha2": "AC64983E23F23CBCBFF6ED1FEC3B5F1CF794D30B552A1DA0CB482528894C2F73AC1E79F2EF12B3D9C66EF2289C82209A2501667D6A2241D2C5EBE97EA28766CF",
     "Architecture": "x86",
-    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/e45d54e8-589f-411b-a06b-b3e7a1f62654/RemoteDesktop_1.2.7422.0_x86.msi"
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/22ef1300-124c-4080-b99f-3fefdf2e2737/RemoteDesktop_1.2.7430.0_x86.msi"
   },
   {
     "Version": "1.2.7422.0",
     "Date": "2026-10-09",
-    "Channel": "Public",
+    "Channel": "Insider",
+    "MD5": "39D8A30F82C874AD92E67C08E69A5F3E",
+    "Sha2": "46CD9696F2502B64A0D50CB2B06E10D493E7390E12AF7AFB313DFEA23B31EC854E6C95DE17F40694E8726C81118AF1C32EE903AF0CA84C173C1CCBA8EF6D019B",
+    "Architecture": "ARM64",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/92c82d2a-5487-49eb-b89b-1dd8b892f2bd/RemoteDesktop_1.2.7422.0_ARM64.msi"
+  },
+  {
+    "Version": "1.2.7422.0",
+    "Date": "2026-10-09",
+    "Channel": "Insider",
+    "MD5": "4CD8B2094133B40D8F109343017A6488",
+    "Sha2": "C5A4358B8A986FE289AE75C300196384BC216E894911EC5F809E2202C309B3E6479ED1B4ED997F69CB9C04E094A28682BC2616EAFDE3AF80609A707C73138563",
+    "Architecture": "x64",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/7a991e13-40ae-4ee4-9353-f42e622f5ee0/RemoteDesktop_1.2.7422.0_x64.msi"
+  },
+  {
+    "Version": "1.2.7422.0",
+    "Date": "2026-10-09",
+    "Channel": "Insider",
     "MD5": "8FBCDC64668A70D2FD69149E8CF0032E",
     "Sha2": "00C61559BCE0EE36ACA522471DDC2890BD418CADBB313700A5048338FC678387E3D51CA98C84901D2E14A856988927B6F275A7DF6567B1542E8E456844D63093",
     "Architecture": "x86",

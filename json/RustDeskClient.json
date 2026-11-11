@@ -1,52 +1,52 @@
 [
   {
-    "Version": "1.5.1",
-    "Date": "2026-11-01",
-    "Size": 24252784,
-    "Sha256": "54de7328a4a2bff0b9e60d1268f7b239c45d11ab4dff4fed0c88a8a3b0fbe516",
+    "Version": "1.5.3",
+    "Date": "2026-11-09",
+    "Size": 24277360,
+    "Sha256": "4152a661be3ddb0e4d241ba3f3a99051f22ce33d348e7a1ccfaca052c832410e",
     "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.5.1/rustdesk-1.5.1-aarch64.exe"
+    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.5.3/rustdesk-1.5.3-aarch64.exe"
   },
   {
-    "Version": "1.5.1",
-    "Date": "2026-11-01",
-    "Size": 26211184,
-    "Sha256": "319206042390ebfcba934cf0baa2f612f34de463c78c843b7cb8c22097c4bf7b",
+    "Version": "1.5.3",
+    "Date": "2026-11-09",
+    "Size": 26233712,
+    "Sha256": "523ba0efbf62a21739961b62c7daaffb44d3da86139c546b364fd4e1333ed249",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.5.1/rustdesk-1.5.1-x86_64.exe"
+    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.5.3/rustdesk-1.5.3-x86_64.exe"
   },
   {
-    "Version": "1.5.1",
-    "Date": "2026-11-01",
-    "Size": 13645680,
-    "Sha256": "fbc9d8f59602bf6b1b419902cd8c77cd236393e6fe74635393e8a9cf4c765483",
+    "Version": "1.5.3",
+    "Date": "2026-11-09",
+    "Size": 13658480,
+    "Sha256": "5f4a42c16d0326efee52a3bb84649f2d7d08352193266e94bdc10d6a0fd75dc0",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.5.1/rustdesk-1.5.1-x86-sciter.exe"
+    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.5.3/rustdesk-1.5.3-x86-sciter.exe"
   },
   {
-    "Version": "1.5.1",
-    "Date": "2026-11-01",
-    "Size": 24842240,
-    "Sha256": "71900b5212fdc4af20d0d9ba9d6fc1f43767a16cd022bb55e46a17e3b7dc21c1",
+    "Version": "1.5.3",
+    "Date": "2026-11-09",
+    "Size": 24862720,
+    "Sha256": "b41893aed2cf411d557babc3cd02b74836dd199fc152a3b63147591f52f981aa",
     "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.5.1/rustdesk-1.5.1-aarch64.msi"
+    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.5.3/rustdesk-1.5.3-aarch64.msi"
   },
   {
-    "Version": "1.5.1",
-    "Date": "2026-11-01",
-    "Size": 26718208,
-    "Sha256": "71069183cbc6124273138684ab4032d2211e83efa035886f9c774fe1d3eba3f0",
+    "Version": "1.5.3",
+    "Date": "2026-11-09",
+    "Size": 26734592,
+    "Sha256": "27f6bfb48a93d524860dd7f4a79e349be14b6dc71295746cf132a060ba4869c8",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.5.1/rustdesk-1.5.1-x86_64.msi"
+    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.5.3/rustdesk-1.5.3-x86_64.msi"
   }
 ]

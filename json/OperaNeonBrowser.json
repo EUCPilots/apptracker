@@ -1,0 +1,16 @@
+[
+  {
+    "Version": "139.0.6053.61",
+    "Channel": "Stable",
+    "Architecture": "arm64",
+    "Type": "exe",
+    "URI": "https://get.geo.opera.com/pub/opera_neon/139.0.6053.61/win/Opera_Neon_139.0.6053.61_Setup_arm64.exe"
+  },
+  {
+    "Version": "139.0.6053.61",
+    "Channel": "Stable",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://get.geo.opera.com/pub/opera_neon/139.0.6053.61/win/Opera_Neon_139.0.6053.61_Setup_x64.exe"
+  }
+]
