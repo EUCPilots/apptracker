@@ -1,22 +1,22 @@
 [
   {
-    "Version": "2.3.10",
-    "Date": "2026-06-09",
-    "Size": 158074632,
-    "Sha256": "a8f3df0ac57c6b74aa1b1d22e5f202dc5ddb46663579d4e5108a69cc99b6f823",
+    "Version": "2.3.11",
+    "Date": "2026-11-12",
+    "Size": 160327776,
+    "Sha256": "7a7f471522a1a278553bd5d233f0d7155c2ac5b3aa8f88dee2b4acb9a9bb56f0",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/arduino/arduino-ide/releases/download/2.3.10/arduino-ide_2.3.10_Windows_64bit.exe"
+    "URI": "https://github.com/arduino/arduino-ide/releases/download/2.3.11/arduino-ide_2.3.11_Windows_64bit.exe"
   },
   {
-    "Version": "2.3.10",
-    "Date": "2026-06-09",
-    "Size": 167145472,
-    "Sha256": "aebbd1efeac5cfb02a6cad0d93af8221054fc983a5b3c5ce6da8a6bfb9425165",
+    "Version": "2.3.11",
+    "Date": "2026-11-12",
+    "Size": 169410560,
+    "Sha256": "5a5c69bb46c4f3cfcd64400f02e0e5cef62ddda31a234d73856f36727914006f",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/arduino/arduino-ide/releases/download/2.3.10/arduino-ide_2.3.10_Windows_64bit.msi"
+    "URI": "https://github.com/arduino/arduino-ide/releases/download/2.3.11/arduino-ide_2.3.11_Windows_64bit.msi"
   }
 ]

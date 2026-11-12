@@ -1,12 +1,12 @@
 [
   {
-    "Version": "14.7.1",
-    "Date": "2026-04-20",
-    "Size": 8389714,
-    "Sha256": "4bf30abb5fe097bd286028254e5a7b7749bcf32d7728b2fea2714f150b68bf0f",
+    "Version": "14.8.0",
+    "Date": "2026-11-11",
+    "Size": 8582885,
+    "Sha256": "ba55c425d7ae8a19216ca5a594022bcd19da6ca055e2ea3686063ffe483e0a8a",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/RicoSuter/NSwag/releases/download/v14.7.1/NSwagStudio.msi"
+    "URI": "https://github.com/RicoSuter/NSwag/releases/download/v14.8.0/NSwagStudio.msi"
   }
 ]

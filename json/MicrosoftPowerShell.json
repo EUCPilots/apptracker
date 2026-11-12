@@ -8,17 +8,6 @@
     "InstallerType": "Default",
     "Type": "msixbundle",
     "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.7.0/PowerShell-7.7.0.msixbundle",
-    "Release": "LTS"
-  },
-  {
-    "Version": "7.7.0",
-    "Date": "2026-11-10",
-    "Size": 369131389,
-    "Sha256": "e00c349858c2d273f29485541ece91617b435accdd5e3f156d68d5cb97740022",
-    "Architecture": "x86",
-    "InstallerType": "Default",
-    "Type": "msixbundle",
-    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.7.0/PowerShell-7.7.0.msixbundle",
     "Release": "Stable"
   },
   {
