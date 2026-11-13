@@ -26,6 +26,16 @@ Run the mocked tests locally with PowerShell and Pester 5:
 Invoke-Pester -Path ./scripts/tests/ApplicationIssues.Tests.ps1 -Output Detailed
 ```
 
+## Endpoint updates
+
+The update workflow extracts HTTP and HTTPS endpoints from Evergreen manifests and application JSON for the versions and downloads endpoints. URL matching excludes malformed host fragments from expressions such as `MatchUrlPath`.
+
+Run the endpoint extraction regression tests with:
+
+```powershell
+Invoke-Pester -Path ./scripts/tests/Endpoints.Tests.ps1 -Output Detailed
+```
+
 ## Daily Evergreen API validation
 
 [Validate Evergreen API](.github/workflows/validate-api.yml) runs daily at 14:23 UTC and supports manual dispatch. GitHub scheduled runs can be delayed. Set the repository Actions secret `API_TEST_USERAGENT` to the custom User-Agent required by the API. GitHub Issues must be enabled; the workflow uses `GITHUB_TOKEN` with `issues: write` and read-only repository access.

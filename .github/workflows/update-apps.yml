@@ -260,7 +260,7 @@ jobs:
           CLOUDFLARE_API_TOKEN: ${{secrets.CLOUDFLARE_API_TOKEN}}
         run: |
           # Get endpoint URLs from Evergreen manifests and post to the version endpoint
-          $UrlMatch = "http[s]?\:\/\/([^\/?#|\s]+)(?:[\/?#]|$)"
+          $UrlMatch = 'https?://([a-z0-9](?:[a-z0-9._:-]*[a-z0-9])?|\[[a-f0-9:.]+\](?::[0-9]+)?)(?:[/?#]|(?=["\s,}]|$))'
           $Endpoints = Get-ChildItem -Path "${{ github.workspace }}/Manifests" -Recurse -Include "*.json" | ForEach-Object {
             Write-Host "Processing: $($_.FullName)"
             [PSCustomObject]@{
@@ -303,7 +303,7 @@ jobs:
           CLOUDFLARE_API_TOKEN: ${{secrets.CLOUDFLARE_API_TOKEN}}
         run: |
           # Get endpoint URLs from Evergreen manifests and post to the downloads endpoint
-          $UrlMatch = "http[s]?\:\/\/([^\/?#|\s]+)(?:[\/?#]|$)"
+          $UrlMatch = 'https?://([a-z0-9](?:[a-z0-9._:-]*[a-z0-9])?|\[[a-f0-9:.]+\](?::[0-9]+)?)(?:[/?#]|(?=["\s,}]|$))'
           $Endpoints = Get-ChildItem -Path "${{ github.workspace }}/json" -Recurse -Include "*.json" | ForEach-Object {
             Write-Host "Processing: $($_.FullName)"
             [PSCustomObject]@{

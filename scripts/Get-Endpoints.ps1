@@ -8,7 +8,7 @@
 # Select-String -Path "/Users/aaron/projects/evergreen/Evergreen/Manifests/MicrosoftEdge.json" -Pattern $UrlMatch
 
 $Namespace = "037069e7da3e4944be2cbc97c92409a5"
-$UrlMatch = "http[s]?\:\/\/([^\/?#|\s]+)(?:[\/?#]|$)"
+$UrlMatch = 'https?://([a-z0-9](?:[a-z0-9._:-]*[a-z0-9])?|\[[a-f0-9:.]+\](?::[0-9]+)?)(?:[/?#]|(?=["\s,}]|$))'
 $EvergreenManifests = "/Users/aaron/projects/evergreen/Evergreen/Manifests"
 $AppTrackerJson = "/Users/aaron/projects/apptracker/json"
 
