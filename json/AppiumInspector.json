@@ -1,32 +1,32 @@
 [
   {
-    "Version": "2026.11.5",
-    "Date": "2026-11-12",
-    "Size": 139212648,
-    "Sha256": "596faccfd88067883203852921f5f6832a82e2ca46f24f5d7bfc8feeb02327de",
+    "Version": "2026.11.6",
+    "Date": "2026-11-13",
+    "Size": 139214448,
+    "Sha256": "96f21d01313e6bbebff8bdbea1ddff7b868731d9765d5d844d0b6f1d40fe3b56",
     "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/appium/appium-inspector/releases/download/v2026.11.5/Appium-Inspector-2026.11.5-win-arm64.exe"
+    "URI": "https://github.com/appium/appium-inspector/releases/download/v2026.11.6/Appium-Inspector-2026.11.6-win-arm64.exe"
   },
   {
-    "Version": "2026.11.5",
-    "Date": "2026-11-12",
-    "Size": 145106888,
-    "Sha256": "95cae7a0b1b94ecf7f2f76fce1e54fc19e82a6e663e2bf73c8bda473d7dfbf67",
+    "Version": "2026.11.6",
+    "Date": "2026-11-13",
+    "Size": 145108792,
+    "Sha256": "225aa4131fdcaf54e732cb2568b0edf6264dcdf3a9444eb46be69d45dee8d297",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/appium/appium-inspector/releases/download/v2026.11.5/Appium-Inspector-2026.11.5-win-x64.exe"
+    "URI": "https://github.com/appium/appium-inspector/releases/download/v2026.11.6/Appium-Inspector-2026.11.6-win-x64.exe"
   },
   {
-    "Version": "2026.11.5",
-    "Date": "2026-11-12",
-    "Size": 283659352,
-    "Sha256": "7bee95bfa5d1f6670b598d078f7cb95a790faa099de6526ae771cdd9084ff9a9",
+    "Version": "2026.11.6",
+    "Date": "2026-11-13",
+    "Size": 283664328,
+    "Sha256": "4acb2d0f3040a52c0a91db80876580bd9f16e302a01c041381337be78532db08",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/appium/appium-inspector/releases/download/v2026.11.5/Appium-Inspector-2026.11.5-win.exe"
+    "URI": "https://github.com/appium/appium-inspector/releases/download/v2026.11.6/Appium-Inspector-2026.11.6-win.exe"
   }
 ]

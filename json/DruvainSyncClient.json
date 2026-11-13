@@ -1,18 +1,10 @@
 [
   {
-    "Version": "8.1.8",
-    "InstallerVersion": "inSync8.1.8r111038",
+    "Version": "8.1.9",
+    "InstallerVersion": "inSync8.1.9r111040",
     "CloudPlatform": "Cloud",
-    "Md5sum": "686e9910eb5520b2003cd00c2f639009465fcba1",
+    "Md5sum": "ac5b0b6419c7871c055aa63da0debb09c4d27daa",
     "Type": "msi",
-    "URI": "https://downloads.druva.com/downloads/inSync/Windows/8.1.8/inSync8.1.8r111038.msi"
-  },
-  {
-    "Version": "8.1.8",
-    "InstallerVersion": "inSync8.1.8r111032",
-    "CloudPlatform": "GOVCloud",
-    "Md5sum": "546ec85042c6ed41fbcd48b33bd6f4ff09d769e9",
-    "Type": "msi",
-    "URI": "https://downloads.druva.com/downloads/inSync/Windows/8.1.8_Gov/inSync8.1.8r111032.msi"
+    "URI": "https://downloads.druva.com/downloads/inSync/Windows/8.1.9/inSync8.1.9r111040.msi"
   }
 ]
