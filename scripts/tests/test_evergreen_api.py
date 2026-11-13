@@ -71,6 +71,40 @@ class SchemaTests(unittest.TestCase):
             with self.assertRaisesRegex(api.ValidationError, "null value"):
                 api.validate_response("/app/TestApp", value)
 
+    def test_known_null_values_are_allowed_only_at_the_listed_paths(self):
+        known_nulls = {
+            "/app/JetBrainsSpace": (0, "Build"),
+            "/app/MicrosoftOpenJDK11": (0, "Checksum"),
+            "/app/MicrosoftOpenJDK17": (0, "Checksum"),
+            "/app/MicrosoftOpenJDK21": (0, "Checksum"),
+            "/app/MicrosoftOpenJDK25": (0, "Checksum"),
+            "/app/MozillaFirefox": (515, "Sha256"),
+            "/app/MozillaThunderbird": (264, "Sha256"),
+            "/app/OracleJava17": (0, "Sha256"),
+            "/app/OracleJava20": (0, "Sha256"),
+            "/app/OracleJava21": (0, "Sha256"),
+            "/app/OracleJava22": (0, "Sha256"),
+            "/app/OracleJava23": (0, "Sha256"),
+            "/app/OracleJava26": (0, "Sha256"),
+            "/app/RedHatOpenJDK17": (0, "Checksum"),
+            "/app/RedHatOpenJDK21": (0, "Checksum"),
+            "/app/RedHatOpenJDK8": (0, "Checksum"),
+        }
+        for path, (index, field) in known_nulls.items():
+            with self.subTest(path=path):
+                releases = [RELEASE.copy() for _ in range(index + 1)]
+                releases[index][field] = None
+                api.validate_response(path, releases)
+
+        for path, releases in (
+            ("/app/TestApp", [{**RELEASE, "Build": None}]),
+            ("/app/JetBrainsSpace", [RELEASE, {**RELEASE, "Build": None}]),
+            ("/app/JetBrainsSpace", [{**RELEASE, "Other": None}]),
+        ):
+            with self.subTest(path=path):
+                with self.assertRaisesRegex(api.ValidationError, "null value"):
+                    api.validate_response(path, releases)
+
     def test_invalid_downloads_fail(self):
         for uri in ("", "not a URL", "ftp://example.org/file", "https://[invalid",
                     "https://example.org:wrong/file", "https://example.org/a b"):

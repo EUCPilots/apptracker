@@ -97,26 +97,36 @@ function Sync-ApplicationIssue {
 
     foreach ($Result in $Report.Results) {
         $Marker = "<!-- apptracker:application:$($Result.Application) -->"
-        $ApplicationIssues = @($Issues | Where-Object { $_.body -and $_.body.Contains($Marker) })
+        $ApplicationIssues = @($Issues | Where-Object { $_.body -and $_.body.Contains($Marker) } | Sort-Object -Property number)
         if ($ApplicationIssues.Count -gt 1) {
-            throw "Multiple managed issues exist for $($Result.Application); consolidate them before retrying."
+            Write-Warning "Multiple managed issues exist for $($Result.Application); reusing issue #$($ApplicationIssues[0].number) and closing open duplicates."
         }
         $Issue = $ApplicationIssues | Select-Object -First 1
         $ObservedAt = [datetimeoffset]::Parse($Result.ObservedAt, [cultureinfo]::InvariantCulture)
         $FirstFailure = $Result.ObservedAt
+        $Stale = $false
+        foreach ($ApplicationIssue in $ApplicationIssues) {
+            if ($ApplicationIssue.body -match '<!-- apptracker:observed-at:(.*?) -->') {
+                $PreviousObservation = [datetimeoffset]::Parse($Matches[1], [cultureinfo]::InvariantCulture)
+                if ($ObservedAt -lt $PreviousObservation) {
+                    $Stale = $true
+                }
+            }
+        }
+        if ($Stale) {
+            continue
+        }
+        $AlreadyObserved = $false
         if ($Issue) {
             if ($Issue.body -match '<!-- apptracker:observed-at:(.*?) -->') {
-                $PreviousObservation = [datetimeoffset]::Parse($Matches[1], [cultureinfo]::InvariantCulture)
-                if ($ObservedAt -le $PreviousObservation) {
-                    continue
-                }
+                $AlreadyObserved = $ObservedAt -eq [datetimeoffset]::Parse($Matches[1], [cultureinfo]::InvariantCulture)
             }
             if ($Issue.body -match '<!-- apptracker:first-failure:(.*?) -->') {
                 $FirstFailure = $Matches[1]
             }
         }
         $Metadata = "$Marker`n<!-- apptracker:first-failure:$FirstFailure -->`n<!-- apptracker:observed-at:$($Result.ObservedAt) -->"
-        if ($Result.Status -eq 'Success') {
+        if ($Result.Status -eq 'Success' -and !$AlreadyObserved) {
             if ($Issue) {
                 $Body = $Issue.body -replace '<!-- apptracker:observed-at:.*? -->', "<!-- apptracker:observed-at:$($Result.ObservedAt) -->"
                 if ($Issue.state -eq 'open') {
@@ -132,15 +142,14 @@ function Sync-ApplicationIssue {
                     Invoke-ApplicationIssueApi -Resource "issues/$($Issue.number)" -Method PATCH -Body @{ body = $Body } | Out-Null
                 }
             }
-            continue
         }
-
-        $Details = Protect-ApplicationError -Message $Result.Details
-        if ($Details.Length -gt 12000) {
-            $Details = $Details.Substring(0, 12000) + "`n[Details truncated; see workflow logs.]"
-        }
-        $Details = [System.Net.WebUtility]::HtmlEncode($Details)
-        $Body = @"
+        elseif ($Result.Status -eq 'Failure' -and !$AlreadyObserved) {
+            $Details = Protect-ApplicationError -Message $Result.Details
+            if ($Details.Length -gt 12000) {
+                $Details = $Details.Substring(0, 12000) + "`n[Details truncated; see workflow logs.]"
+            }
+            $Details = [System.Net.WebUtility]::HtmlEncode($Details)
+            $Body = @"
 $Metadata
 ## Application update failed: $($Result.Application)
 
@@ -161,17 +170,28 @@ $Metadata
 
 This issue is updated automatically and closed after this application successfully exports JSON. A later failure reopens the same issue.
 "@
-        if ($Issue) {
-            Invoke-ApplicationIssueApi -Resource "issues/$($Issue.number)" -Method PATCH -Body @{
-                body = $Body; state = 'open'
-            } | Out-Null
-            if ($Issue.state -eq 'closed') { $Reopened++ } else { $Updated++ }
+            if ($Issue) {
+                Invoke-ApplicationIssueApi -Resource "issues/$($Issue.number)" -Method PATCH -Body @{
+                    body = $Body; state = 'open'
+                } | Out-Null
+                if ($Issue.state -eq 'closed') { $Reopened++ } else { $Updated++ }
+            }
+            else {
+                Invoke-ApplicationIssueApi -Resource 'issues' -Method POST -Body @{
+                    title = "Application update failed: $($Result.Application)"; body = $Body; labels = @($Label)
+                } | Out-Null
+                $Created++
+            }
         }
-        else {
-            Invoke-ApplicationIssueApi -Resource 'issues' -Method POST -Body @{
-                title = "Application update failed: $($Result.Application)"; body = $Body; labels = @($Label)
+
+        foreach ($Duplicate in ($ApplicationIssues | Select-Object -Skip 1 | Where-Object state -eq 'open')) {
+            Invoke-ApplicationIssueApi -Resource "issues/$($Duplicate.number)/comments" -Method POST -Body @{
+                body = "Closing this duplicate for ``$($Result.Application)``. Updates are tracked in [issue #$($Issue.number)]($env:GITHUB_SERVER_URL/$env:GITHUB_REPOSITORY/issues/$($Issue.number))."
             } | Out-Null
-            $Created++
+            Invoke-ApplicationIssueApi -Resource "issues/$($Duplicate.number)" -Method PATCH -Body @{
+                state = 'closed'; state_reason = 'not_planned'
+            } | Out-Null
+            $Closed++
         }
     }
 

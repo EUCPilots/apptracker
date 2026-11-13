@@ -24,6 +24,24 @@ THROTTLED = {
     "/app/adobeacrobatreaderdc",
     "/app/citrixworkspaceapp",
 }
+KNOWN_NULL_VALUES = {
+    "/app/jetbrainsspace": frozenset({"$[0].Build"}),
+    "/app/microsoftopenjdk11": frozenset({"$[0].Checksum"}),
+    "/app/microsoftopenjdk17": frozenset({"$[0].Checksum"}),
+    "/app/microsoftopenjdk21": frozenset({"$[0].Checksum"}),
+    "/app/microsoftopenjdk25": frozenset({"$[0].Checksum"}),
+    "/app/mozillafirefox": frozenset({"$[515].Sha256"}),
+    "/app/mozillathunderbird": frozenset({"$[264].Sha256"}),
+    "/app/oraclejava17": frozenset({"$[0].Sha256"}),
+    "/app/oraclejava20": frozenset({"$[0].Sha256"}),
+    "/app/oraclejava21": frozenset({"$[0].Sha256"}),
+    "/app/oraclejava22": frozenset({"$[0].Sha256"}),
+    "/app/oraclejava23": frozenset({"$[0].Sha256"}),
+    "/app/oraclejava26": frozenset({"$[0].Sha256"}),
+    "/app/redhatopenjdk17": frozenset({"$[0].Checksum"}),
+    "/app/redhatopenjdk21": frozenset({"$[0].Checksum"}),
+    "/app/redhatopenjdk8": frozenset({"$[0].Checksum"}),
+}
 APP_ID = re.compile(r"^[A-Za-z0-9_.-]{1,64}$")
 
 
@@ -36,14 +54,14 @@ def require(condition, message):
         raise ValidationError(message)
 
 
-def non_null(value, path="$"):
-    require(value is not None, f"{path}: null value")
+def non_null(value, path="$", allowed_null_paths=frozenset()):
+    require(value is not None or path in allowed_null_paths, f"{path}: null value")
     if isinstance(value, dict):
         for key, item in value.items():
-            non_null(item, f"{path}.{key}")
+            non_null(item, f"{path}.{key}", allowed_null_paths)
     elif isinstance(value, list):
         for index, item in enumerate(value):
-            non_null(item, f"{path}[{index}]")
+            non_null(item, f"{path}[{index}]", allowed_null_paths)
 
 
 def text(value, path):
@@ -80,7 +98,7 @@ def records(value):
 
 
 def validate_response(path, value):
-    non_null(value)
+    non_null(value, allowed_null_paths=KNOWN_NULL_VALUES.get(path.lower(), frozenset()))
     if path in ("/", "/app", "/endpoints"):
         fields(value, ("message",))
         text(value["message"], "$.message")

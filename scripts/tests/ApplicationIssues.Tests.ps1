@@ -300,11 +300,80 @@ Describe 'Issue reconciliation' {
         @($script:Calls | Where-Object { $_.Method -eq 'POST' -and $_.Resource -eq 'issues' }).Count | Should -Be 1
     }
 
-    It 'refuses duplicate managed issues rather than opening another' {
+    It 'reuses the oldest issue and comments and closes open duplicates on <Status>' -ForEach @(
+        @{ Status = 'Failure'; State = 'closed'; ExpectedState = 'open' }
+        @{ Status = 'Success'; State = 'open'; ExpectedState = 'closed' }
+        @{ Status = 'Success'; State = 'closed'; ExpectedState = $null }
+    ) {
+        Set-TestIssue -State $State
+        $script:Report.Results[0].Status = $Status
+        $script:Issues = @(
+            [pscustomobject]@{ number = 43; state = 'open'; body = $script:Issues[0].body }
+            $script:Issues[0]
+            [pscustomobject]@{ number = 44; state = 'closed'; body = $script:Issues[0].body }
+        )
+        Invoke-TestSync
+        @($script:Calls | Where-Object { $_.Method -eq 'POST' -and $_.Resource -eq 'issues' }).Count | Should -Be 0
+        $Canonical = @($script:Calls | Where-Object { $_.Method -eq 'PATCH' -and $_.Resource -eq 'issues/42' })
+        $Canonical.Count | Should -Be 1
+        $Canonical[0].Body.state | Should -Be $ExpectedState
+        $Canonical[0].Body.body | Should -Match 'first-failure:2026-11-01T00:00:00Z'
+        $Comment = @($script:Calls | Where-Object Resource -eq 'issues/43/comments')
+        $Comment.Count | Should -Be 1
+        $Comment[0].Body.body | Should -Match 'https://github.com/test/apptracker/issues/42'
+        $Duplicate = $script:Calls | Where-Object { $_.Method -eq 'PATCH' -and $_.Resource -eq 'issues/43' }
+        $Duplicate.Body.state | Should -Be closed
+        $Duplicate.Body.state_reason | Should -Be not_planned
+        @($script:Calls | Where-Object { $_.Resource -like 'issues/44*' }).Count | Should -Be 0
+    }
+
+    It 'ignores reports older than the newest observation across duplicates' {
         Set-TestIssue
-        $script:Issues += $script:Issues[0]
-        { Invoke-TestSync } | Should -Throw '*Multiple managed issues*'
+        $script:Issues += [pscustomobject]@{
+            number = 43; state = 'closed'
+            body = '<!-- apptracker:application:TestApp --><!-- apptracker:observed-at:2026-11-09T00:00:00Z -->'
+        }
+        Invoke-TestSync
         @($script:Calls | Where-Object { $_.Method -in @('PATCH', 'POST') }).Count | Should -Be 0
+    }
+
+    It 'retries duplicate closure after a partial API failure without updating the canonical issue again' {
+        Set-TestIssue
+        $script:Issues += [pscustomobject]@{ number = 43; state = 'open'; body = $script:Issues[0].body }
+        $script:FailClosure = $true
+        Mock Invoke-ApplicationIssueApi {
+            param($Resource, $Method, $Body)
+            $script:Calls.Add(@{ Resource = $Resource; Method = $Method; Body = $Body })
+            if ($Resource.StartsWith('labels?')) { return [pscustomobject]@{ name = 'application-failure' } }
+            if ($Resource.StartsWith('issues?')) { return $script:Issues }
+            if ($Method -eq 'PATCH' -and $Resource -eq 'issues/42') {
+                $script:Issues[0].body = $Body.body
+                $script:Issues[0].state = $Body.state
+            }
+            if ($Method -eq 'PATCH' -and $Resource -eq 'issues/43') {
+                if ($script:FailClosure) { throw 'duplicate closure unavailable' }
+                $script:Issues[1].state = $Body.state
+            }
+        }
+        { Invoke-TestSync } | Should -Throw '*duplicate closure unavailable*'
+        $script:FailClosure = $false
+        Invoke-TestSync
+        $script:Issues[1].state | Should -Be closed
+        @($script:Calls | Where-Object { $_.Method -eq 'PATCH' -and $_.Resource -eq 'issues/42' }).Count | Should -Be 1
+        @($script:Calls | Where-Object { $_.Method -eq 'POST' -and $_.Resource -eq 'issues' }).Count | Should -Be 0
+        $CallCount = $script:Calls.Count
+        Invoke-TestSync
+        @($script:Calls | Select-Object -Skip $CallCount | Where-Object { $_.Method -in @('PATCH', 'POST') }).Count | Should -Be 0
+    }
+
+    It 'does not close duplicates when updating the oldest issue fails' {
+        Set-TestIssue
+        $script:Issues += [pscustomobject]@{ number = 43; state = 'open'; body = $script:Issues[0].body }
+        Mock Invoke-ApplicationIssueApi { throw 'canonical update unavailable' } -ParameterFilter {
+            $Method -eq 'PATCH' -and $Resource -eq 'issues/42'
+        }
+        { Invoke-TestSync } | Should -Throw '*canonical update unavailable*'
+        @($script:Calls | Where-Object { $_.Resource -like 'issues/43*' }).Count | Should -Be 0
     }
 
     It 'validates the entire report before making API calls' -ForEach @('duplicate', 'status', 'metadata', 'timestamp') {
