@@ -1,42 +1,42 @@
 [
   {
-    "Version": "9.3.6",
-    "Date": "2026-10-22",
-    "Size": 618919079,
-    "Sha256": "504350997428c1c5aac4373bdece5d340e2fad86923db513283191fa6c99391c",
+    "Version": "9.3.8",
+    "Date": "2026-11-13",
+    "Size": 428908007,
+    "Sha256": "de550aaf3ed09af57fd2b133fa85eb36f5e44690a3f5f3fbeebb5c6bdbfbc3b5",
     "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Euro-Office/DesktopEditors/releases/download/v9.3.6/Euro-Office-DesktopEditors-9.3.6-0-windows-arm64.exe"
+    "URI": "https://github.com/Euro-Office/DesktopEditors/releases/download/v9.3.8/Euro-Office-DesktopEditors-9.3.8-0-windows-arm64.exe"
   },
   {
-    "Version": "9.3.6",
-    "Date": "2026-10-22",
-    "Size": 646477104,
-    "Sha256": "c8b69437f3adba5c1aa0614204d8636d95c0079ad96124c40ae7a54c11d0abce",
+    "Version": "9.3.8",
+    "Date": "2026-11-13",
+    "Size": 457143524,
+    "Sha256": "2d5ba10dd903d1043c57cf2764da3b9cea78511e99a4ee001cd37f048e62ad7d",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Euro-Office/DesktopEditors/releases/download/v9.3.6/Euro-Office-DesktopEditors-9.3.6-0-windows-x64.exe"
+    "URI": "https://github.com/Euro-Office/DesktopEditors/releases/download/v9.3.8/Euro-Office-DesktopEditors-9.3.8-0-windows-x64.exe"
   },
   {
-    "Version": "9.3.6",
-    "Date": "2026-10-22",
-    "Size": 1025619658,
-    "Sha256": "3b88a249bf623311cdd32c01675338f6c1604177f539e52c65f2c16bde58002e",
+    "Version": "9.3.8",
+    "Date": "2026-11-13",
+    "Size": 751725433,
+    "Sha256": "63140af2199c1cc94579540448c9fd41a1fe1c5f93e2b28388b313a08d6077d9",
     "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/Euro-Office/DesktopEditors/releases/download/v9.3.6/Euro-Office-DesktopEditors-9.3.6-0-windows-arm64.zip"
+    "URI": "https://github.com/Euro-Office/DesktopEditors/releases/download/v9.3.8/Euro-Office-DesktopEditors-9.3.8-0-windows-arm64.zip"
   },
   {
-    "Version": "9.3.6",
-    "Date": "2026-10-22",
-    "Size": 1044603212,
-    "Sha256": "1f6a221fec9864956fd4e787b2267668220ab2bc51807685bd15e89493b6d533",
+    "Version": "9.3.8",
+    "Date": "2026-11-13",
+    "Size": 771667202,
+    "Sha256": "abb6c881cd3ecc8e4bb4bb32e8b633dd11baf95bb285804ac318773959bd7a55",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/Euro-Office/DesktopEditors/releases/download/v9.3.6/Euro-Office-DesktopEditors-9.3.6-0-windows-x64.zip"
+    "URI": "https://github.com/Euro-Office/DesktopEditors/releases/download/v9.3.8/Euro-Office-DesktopEditors-9.3.8-0-windows-x64.zip"
   }
 ]

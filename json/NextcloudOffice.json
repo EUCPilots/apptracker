@@ -1,22 +1,42 @@
 [
   {
-    "Version": "9.3.6",
-    "Date": "2026-10-19",
-    "Size": 619169440,
-    "Sha256": "af87e91d794c6dad8f2d304fe32011057d3d355beef5d19e06462002c71df097",
+    "Version": "9.3.8",
+    "Date": "2026-10-29",
+    "Size": 429093200,
+    "Sha256": "271fd128dca2ccb152a255d71811e9940a6edd6523f75f55555a2c09cbf0ee40",
     "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/nextcloud-releases/Office-DesktopEditors/releases/download/v9.3.6/Nextcloud-Office-DesktopEditors-9.3.6-0-windows-arm64.exe"
+    "URI": "https://github.com/nextcloud-releases/Office-DesktopEditors/releases/download/v9.3.8/Nextcloud-Office-DesktopEditors-9.3.8-0-windows-arm64.exe"
   },
   {
-    "Version": "9.3.6",
-    "Date": "2026-10-19",
-    "Size": 646566824,
-    "Sha256": "35e2a1ce904d7a0e2b2029d297194b849ec5142a414afaab12faf16e76f72a4e",
+    "Version": "9.3.8",
+    "Date": "2026-10-29",
+    "Size": 457232112,
+    "Sha256": "ef31274d6f488f55d81994196dfd31d0d42b50ab897f3fa86334eec7bc335c27",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/nextcloud-releases/Office-DesktopEditors/releases/download/v9.3.6/Nextcloud-Office-DesktopEditors-9.3.6-0-windows-x64.exe"
+    "URI": "https://github.com/nextcloud-releases/Office-DesktopEditors/releases/download/v9.3.8/Nextcloud-Office-DesktopEditors-9.3.8-0-windows-x64.exe"
+  },
+  {
+    "Version": "9.3.8",
+    "Date": "2026-10-29",
+    "Size": 751815801,
+    "Sha256": "05831e8014913e527161d0f125f779ced651fbceb6142bdafad9fa3e9dbd4ad9",
+    "Architecture": "arm64",
+    "InstallerType": "Default",
+    "Type": "zip",
+    "URI": "https://github.com/nextcloud-releases/Office-DesktopEditors/releases/download/v9.3.8/Nextcloud-Office-DesktopEditors-9.3.8-0-windows-arm64.zip"
+  },
+  {
+    "Version": "9.3.8",
+    "Date": "2026-10-29",
+    "Size": 771748596,
+    "Sha256": "e64aa4a14ba1c1c5f3e1b826546d961b39c33268f19c05832cfe7559bce9ce5e",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "zip",
+    "URI": "https://github.com/nextcloud-releases/Office-DesktopEditors/releases/download/v9.3.8/Nextcloud-Office-DesktopEditors-9.3.8-0-windows-x64.zip"
   }
 ]
