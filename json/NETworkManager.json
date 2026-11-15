@@ -1,12 +1,22 @@
 [
   {
-    "Version": "2026.7.7.0",
-    "Date": "2026-07-07",
-    "Size": 29102080,
-    "Sha256": "26b4ced4ed8ff48ed10b484a7c25580f6fce545c18643461428bbdb47d171824",
-    "Architecture": "x86",
+    "Version": "2026.11.15.0",
+    "Date": "2026-11-15",
+    "Size": 27275264,
+    "Sha256": "a13805aa717b990518a2de488643e9489c666d66bcd1f2f22e453b4f81e8d8bb",
+    "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/BornToBeRoot/NETworkManager/releases/download/2026.7.7.0/NETworkManager_2026.7.7.0_Setup.msi"
+    "URI": "https://github.com/BornToBeRoot/NETworkManager/releases/download/2026.11.15.0/NETworkManager_2026.11.15.0_Setup_win-arm64.msi"
+  },
+  {
+    "Version": "2026.11.15.0",
+    "Date": "2026-11-15",
+    "Size": 28004352,
+    "Sha256": "4e6189c2f877ead8225a32b2f4e1d97d0075a5c5347d0ce5055344f5e894925c",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/BornToBeRoot/NETworkManager/releases/download/2026.11.15.0/NETworkManager_2026.11.15.0_Setup_win-x64.msi"
   }
 ]

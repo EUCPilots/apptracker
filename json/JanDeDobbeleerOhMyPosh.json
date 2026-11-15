@@ -1,42 +1,42 @@
 [
   {
-    "Version": "32.0.0",
-    "Date": "2026-11-08",
-    "Size": 13850888,
-    "Sha256": "47a8ef8c783a935e488185bf3e14976c5c1468e191b4948385bb2701738fd276",
+    "Version": "32.1.0",
+    "Date": "2026-11-15",
+    "Size": 13858064,
+    "Sha256": "46fa19c556258b533e3bf30abb004dafec1128f9a112216d934a73c3f506256b",
     "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v32.0.0/posh-windows-arm64.exe"
+    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v32.1.0/posh-windows-arm64.exe"
   },
   {
-    "Version": "32.0.0",
-    "Date": "2026-11-08",
-    "Size": 15122696,
-    "Sha256": "d34b1866860ca82b9349f0321aedcf40b5ad7edecd569d7c8d05c24512a4411c",
+    "Version": "32.1.0",
+    "Date": "2026-11-15",
+    "Size": 15130384,
+    "Sha256": "9e134c0ba4e803cb4d38e25616f75080ebdb64d1c2bfe52afd6214fdf6456215",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v32.0.0/posh-windows-amd64.exe"
+    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v32.1.0/posh-windows-amd64.exe"
   },
   {
-    "Version": "32.0.0",
-    "Date": "2026-11-08",
-    "Size": 5503132,
-    "Sha256": "7997c54fcd8ffeabf9b1dd0f8e7f4c6a01c4eb0ad4f3dd62931d2dc5ec9243b5",
+    "Version": "32.1.0",
+    "Date": "2026-11-15",
+    "Size": 5504129,
+    "Sha256": "f43ad0f10df6ad78bef8eb523642ba61927cd7201277f40bd1dad943c743cc25",
     "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msix",
-    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v32.0.0/install-arm64.msix"
+    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v32.1.0/install-arm64.msix"
   },
   {
-    "Version": "32.0.0",
-    "Date": "2026-11-08",
-    "Size": 6159660,
-    "Sha256": "4f4e88de0375fabb540615eda36e57f7fe906363f2c3289a615cade03bb5be83",
+    "Version": "32.1.0",
+    "Date": "2026-11-15",
+    "Size": 6165462,
+    "Sha256": "aa147a521ba9d98c4d8e434e142815f7b1fb6fba0b0eb82c501278f861c8aa3a",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msix",
-    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v32.0.0/install-x64.msix"
+    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v32.1.0/install-x64.msix"
   }
 ]
