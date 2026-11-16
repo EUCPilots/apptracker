@@ -1,0 +1,16 @@
+[
+  {
+    "Version": "4.31.0.1280",
+    "Release": "Admin",
+    "Sha1": "30c8b6a05d510dd965d85766e552e511f263e993",
+    "Type": "zip",
+    "URI": "https://e3.boxcdn.net/boxedit/upgrades/win/BoxToolsInstaller-AdminUpgrade-4.31.0.1280.msi.zip"
+  },
+  {
+    "Version": "4.31.0.1280",
+    "Release": "User",
+    "Sha1": "af6e79d1a3efd0568ef6ec57e462fa60564c072b",
+    "Type": "zip",
+    "URI": "https://e3.boxcdn.net/boxedit/upgrades/win/BoxToolsInstaller-UserUpgrade-4.31.0.1280.msi.zip"
+  }
+]

@@ -1,20 +1,20 @@
 [
   {
-    "Version": "4.0.0",
-    "Date": "2026-11-13",
+    "Version": "4.0.1",
+    "Date": "2026-11-16",
     "Architecture": "arm64",
-    "Size": 58242968,
-    "Sha512": "5utgSx7N/8PGlpULY2k3qs7CgH0MoXEivrJMJBbBlNQ5uIhmk06xcbyTqAL+flE6qBtV+J1L/wOnbdRConiGcQ==",
+    "Size": 58221968,
+    "Sha512": "h4QfDEQ85nivnV6J0NQGcr/m9bTdwZqkd3nxZ6ROaDXLPscdCF/Rx+HN8kGpCJTHIPnuC2GGXHzl5FktQhotMg==",
     "Type": "exe",
-    "URI": "https://public-cdn.cloud.unity3d.com/hub/prod/4.0.0/UnityHubSetup-4.0.0-arm64-msix-converter.exe"
+    "URI": "https://public-cdn.cloud.unity3d.com/hub/prod/4.0.1/UnityHubSetup-4.0.1-arm64-msix-converter.exe"
   },
   {
-    "Version": "4.0.0",
-    "Date": "2026-11-13",
+    "Version": "4.0.1",
+    "Date": "2026-11-16",
     "Architecture": "x64",
-    "Size": 61578752,
-    "Sha512": "CnAnQsIipuw8OMWcbJVOKDZAdOvqLgpyz9CjpOalxE892tfKpxZct0vYcHmqxSWGeMw9y5/NoXofXDGdZv1BPg==",
+    "Size": 61517072,
+    "Sha512": "u02T9GwFUbI9L/QERgrhsZXsBxB7gUyo10bTT/WCOXGcZSCGH7xpicZOcS/WCnPuHe/YAlNe9Bp4utdHIntGpw==",
     "Type": "exe",
-    "URI": "https://public-cdn.cloud.unity3d.com/hub/prod/4.0.0/UnityHubSetup-4.0.0-x64-msix-converter.exe"
+    "URI": "https://public-cdn.cloud.unity3d.com/hub/prod/4.0.1/UnityHubSetup-4.0.1-x64-msix-converter.exe"
   }
 ]

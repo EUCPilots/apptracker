@@ -1,0 +1,32 @@
+[
+  {
+    "Version": "2.56.271",
+    "Channel": "alpha",
+    "Type": "msi",
+    "URI": "https://e3.boxcdn.net/desktop/releases/win/BoxDrive-2.56.271.msi"
+  },
+  {
+    "Version": "2.56.271",
+    "Channel": "beta",
+    "Type": "msi",
+    "URI": "https://e3.boxcdn.net/desktop/releases/win/BoxDrive-2.56.271.msi"
+  },
+  {
+    "Version": "2.56.271",
+    "Channel": "eap",
+    "Type": "msi",
+    "URI": "https://e3.boxcdn.net/desktop/releases/win/BoxDrive-2.56.271.msi"
+  },
+  {
+    "Version": "2.56.271",
+    "Channel": "free",
+    "Type": "msi",
+    "URI": "https://e3.boxcdn.net/desktop/releases/win/BoxDrive-2.56.271.msi"
+  },
+  {
+    "Version": "2.55.145",
+    "Channel": "enterprise",
+    "Type": "msi",
+    "URI": "https://e3.boxcdn.net/desktop/releases/win/BoxDrive-2.55.145.msi"
+  }
+]
