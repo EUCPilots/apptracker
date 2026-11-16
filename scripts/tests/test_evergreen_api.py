@@ -71,7 +71,7 @@ class SchemaTests(unittest.TestCase):
             with self.assertRaisesRegex(api.ValidationError, "null value"):
                 api.validate_response("/app/TestApp", value)
 
-    def test_known_null_values_are_allowed_only_at_the_listed_paths(self):
+    def test_known_null_values_are_allowed_for_each_release_shape(self):
         known_nulls = {
             "/app/JetBrainsSpace": (0, "Build"),
             "/app/MicrosoftOpenJDK11": (0, "Checksum"),
@@ -91,15 +91,24 @@ class SchemaTests(unittest.TestCase):
             "/app/RedHatOpenJDK8": (0, "Checksum"),
         }
         for path, (index, field) in known_nulls.items():
-            with self.subTest(path=path):
-                releases = [RELEASE.copy() for _ in range(index + 1)]
-                releases[index][field] = None
-                api.validate_response(path, releases)
+            for value in (
+                {**RELEASE, field: None},
+                [{**RELEASE, field: None} for _ in range(index + 2)],
+            ):
+                with self.subTest(path=path, as_array=isinstance(value, list)):
+                    api.validate_response(path, value)
 
+    def test_known_null_exceptions_do_not_allow_other_nulls(self):
         for path, releases in (
             ("/app/TestApp", [{**RELEASE, "Build": None}]),
-            ("/app/JetBrainsSpace", [RELEASE, {**RELEASE, "Build": None}]),
+            ("/app/TestApp", [{**RELEASE, "Checksum": None}]),
+            ("/app/TestApp", [{**RELEASE, "Size": None}]),
             ("/app/JetBrainsSpace", [{**RELEASE, "Other": None}]),
+            ("/app/JetBrainsSpace", [{**RELEASE, "Extra": {"Build": None}}]),
+            ("/app/MicrosoftOpenJDK11", [{**RELEASE, "Version": None}]),
+            ("/app/MicrosoftOpenJDK11", [{**RELEASE, "URI": None}]),
+            ("/app/MicrosoftOpenJDK11", [{**RELEASE, "Size": [None]}]),
+            ("/app/OracleJava17", [None]),
         ):
             with self.subTest(path=path):
                 with self.assertRaisesRegex(api.ValidationError, "null value"):
@@ -111,6 +120,31 @@ class SchemaTests(unittest.TestCase):
             with self.subTest(uri=uri):
                 with self.assertRaises(api.ValidationError):
                     api.validate_response("/app/TestApp", {**RELEASE, "URI": uri})
+
+    def test_known_null_fields_follow_releases_when_positions_change(self):
+        for path, index in (
+            ("/app/MozillaFirefox", 516),
+            ("/app/MozillaThunderbird", 265),
+            ("/app/OracleJava17", 1),
+        ):
+            with self.subTest(path=path):
+                releases = [RELEASE.copy() for _ in range(index + 1)]
+                releases[index]["Sha256"] = None
+                api.validate_response(path, releases)
+
+    def test_known_java_null_metadata_is_allowed_together(self):
+        for name in ("MicrosoftOpenJDK11", "MicrosoftOpenJDK17", "MicrosoftOpenJDK21",
+                     "MicrosoftOpenJDK25", "RedHatOpenJDK8", "RedHatOpenJDK17",
+                     "RedHatOpenJDK21"):
+            with self.subTest(name=name):
+                release = {**RELEASE, "Checksum": None, "Size": None}
+                for value in (release, [release, release]):
+                    with self.subTest(as_array=isinstance(value, list)):
+                        api.validate_response(f"/app/{name}", value)
+                for size in (-1, True, "", "unknown"):
+                    with self.subTest(size=size):
+                        with self.assertRaisesRegex(api.ValidationError, r"\$\[0\].Size:"):
+                            api.validate_response(f"/app/{name}", [{**release, "Size": size}])
 
     def test_release_types_and_sentinel_fail(self):
         for change in ({"Version": 123}, {"Version": "RateLimited"}, {"Size": -1},

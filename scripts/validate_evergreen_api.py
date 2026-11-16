@@ -25,22 +25,22 @@ THROTTLED = {
     "/app/citrixworkspaceapp",
 }
 KNOWN_NULL_VALUES = {
-    "/app/jetbrainsspace": frozenset({"$[0].Build"}),
-    "/app/microsoftopenjdk11": frozenset({"$[0].Checksum"}),
-    "/app/microsoftopenjdk17": frozenset({"$[0].Checksum"}),
-    "/app/microsoftopenjdk21": frozenset({"$[0].Checksum"}),
-    "/app/microsoftopenjdk25": frozenset({"$[0].Checksum"}),
-    "/app/mozillafirefox": frozenset({"$[515].Sha256"}),
-    "/app/mozillathunderbird": frozenset({"$[264].Sha256"}),
-    "/app/oraclejava17": frozenset({"$[0].Sha256"}),
-    "/app/oraclejava20": frozenset({"$[0].Sha256"}),
-    "/app/oraclejava21": frozenset({"$[0].Sha256"}),
-    "/app/oraclejava22": frozenset({"$[0].Sha256"}),
-    "/app/oraclejava23": frozenset({"$[0].Sha256"}),
-    "/app/oraclejava26": frozenset({"$[0].Sha256"}),
-    "/app/redhatopenjdk17": frozenset({"$[0].Checksum"}),
-    "/app/redhatopenjdk21": frozenset({"$[0].Checksum"}),
-    "/app/redhatopenjdk8": frozenset({"$[0].Checksum"}),
+    "/app/jetbrainsspace": frozenset({"Build"}),
+    "/app/microsoftopenjdk11": frozenset({"Checksum", "Size"}),
+    "/app/microsoftopenjdk17": frozenset({"Checksum", "Size"}),
+    "/app/microsoftopenjdk21": frozenset({"Checksum", "Size"}),
+    "/app/microsoftopenjdk25": frozenset({"Checksum", "Size"}),
+    "/app/mozillafirefox": frozenset({"Sha256"}),
+    "/app/mozillathunderbird": frozenset({"Sha256"}),
+    "/app/oraclejava17": frozenset({"Sha256"}),
+    "/app/oraclejava20": frozenset({"Sha256"}),
+    "/app/oraclejava21": frozenset({"Sha256"}),
+    "/app/oraclejava22": frozenset({"Sha256"}),
+    "/app/oraclejava23": frozenset({"Sha256"}),
+    "/app/oraclejava26": frozenset({"Sha256"}),
+    "/app/redhatopenjdk17": frozenset({"Checksum", "Size"}),
+    "/app/redhatopenjdk21": frozenset({"Checksum", "Size"}),
+    "/app/redhatopenjdk8": frozenset({"Checksum", "Size"}),
 }
 APP_ID = re.compile(r"^[A-Za-z0-9_.-]{1,64}$")
 
@@ -98,7 +98,11 @@ def records(value):
 
 
 def validate_response(path, value):
-    non_null(value, allowed_null_paths=KNOWN_NULL_VALUES.get(path.lower(), frozenset()))
+    allowed_fields = KNOWN_NULL_VALUES.get(path.lower(), frozenset())
+    release_paths = (f"$[{index}]" for index in range(len(value))) if isinstance(value, list) else ("$",)
+    allowed_null_paths = {f"{location}.{field}"
+                          for location in release_paths for field in allowed_fields}
+    non_null(value, allowed_null_paths=allowed_null_paths)
     if path in ("/", "/app", "/endpoints"):
         fields(value, ("message",))
         text(value["message"], "$.message")
@@ -128,7 +132,7 @@ def validate_response(path, value):
                     f"{location}.Version: error sentinel")
             uri(release["URI"], f"{location}.URI")
             # Evergreen sizes include numbers, numeric strings, and strings with units.
-            if "Size" in release:
+            if "Size" in release and release["Size"] is not None:
                 size = release["Size"]
                 require((type(size) in (int, float)
                          and (type(size) is int or math.isfinite(size)) and size >= 0)
