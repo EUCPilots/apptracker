@@ -465,6 +465,11 @@
     "Link": "https://eucweb.com/"
   },
   {
+    "Name": "BitviseSSHClient",
+    "Application": "Bitvise SSH Client",
+    "Link": "https://bitvise.com/ssh-client"
+  },
+  {
     "Name": "BitwardenDesktop",
     "Application": "Bitwarden Desktop",
     "Link": "https://bitwarden.com/"
@@ -478,6 +483,16 @@
     "Name": "BlueJ",
     "Application": "BlueJ",
     "Link": "https://www.bluej.org/"
+  },
+  {
+    "Name": "BoxDrive",
+    "Application": "Box Drive",
+    "Link": "https://docs.box.com/en/box-drive/deploying-and-managing-box-drive/large-scale-deployments-box-drive"
+  },
+  {
+    "Name": "BoxTools",
+    "Application": "Box Tools",
+    "Link": "https://docs.box.com/en/box-tools/using-box-tools/large-scale-deployments-box-tools"
   },
   {
     "Name": "Brackets",
@@ -1728,6 +1743,11 @@
     "Name": "MicrosoftScout",
     "Application": "Microsoft Scout",
     "Link": "https://learn.microsoft.com/en-au/microsoft-scout/"
+  },
+  {
+    "Name": "MicrosoftSegoeFluentIconsFont",
+    "Application": "Microsoft Segoe Fluent Icons Font",
+    "Link": "https://www.microsoft.com/en-us/download/details.aspx?id=108863"
   },
   {
     "Name": "MicrosoftSsms",
