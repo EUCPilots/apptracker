@@ -1,42 +1,42 @@
 [
   {
-    "Version": "4.15",
-    "Date": "2026-06-30",
-    "Size": 5491048,
-    "Sha256": "af01a2136db7391eb8a52de7001fd231f0731cd27e042318dc2743d87fa35c1c",
+    "Version": "4.16",
+    "Date": "2026-11-17",
+    "Size": 5490168,
+    "Sha256": "301e7bfe41d7fa15bf75da189302eb797986a77629ea4e41b172431beef2744c",
     "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.15/rufus-4.15_arm64.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.16/rufus-4.16_arm64.exe"
   },
   {
-    "Version": "4.15",
-    "Date": "2026-06-30",
-    "Size": 1989992,
-    "Sha256": "84c8a437f8af89257524478489e5c85f1edf25f761d299e2bcde46ac0afbe106",
+    "Version": "4.16",
+    "Date": "2026-11-17",
+    "Size": 1985016,
+    "Sha256": "8351a56c134aa6dd26a930d702cc3fd57f11ef90b17e55a8de960d5a73d46cfc",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.15/rufus-4.15.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.16/rufus-4.16.exe"
   },
   {
-    "Version": "4.15",
-    "Date": "2026-06-30",
-    "Size": 1989992,
-    "Sha256": "84c8a437f8af89257524478489e5c85f1edf25f761d299e2bcde46ac0afbe106",
+    "Version": "4.16",
+    "Date": "2026-11-17",
+    "Size": 1985016,
+    "Sha256": "8351a56c134aa6dd26a930d702cc3fd57f11ef90b17e55a8de960d5a73d46cfc",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.15/rufus-4.15p.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.16/rufus-4.16p.exe"
   },
   {
-    "Version": "4.15",
-    "Date": "2026-06-30",
-    "Size": 1933672,
-    "Sha256": "20e1345715aff4aebf016839f721390882201a2b5d00655424c4ca38cb919576",
+    "Version": "4.16",
+    "Date": "2026-11-17",
+    "Size": 1929720,
+    "Sha256": "bf7375002ba867327d86c32839cff8dd7dd798853ac750a918312ccdcc3bd86a",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.15/rufus-4.15_x86.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.16/rufus-4.16_x86.exe"
   }
 ]

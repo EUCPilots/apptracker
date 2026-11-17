@@ -1,22 +1,22 @@
 [
   {
-    "Version": "2.3.4",
-    "Date": "2026-11-10",
-    "Size": 183813040,
-    "Sha256": "f3074ef32986e47d29bd8fd7f64b4c650e48ac812cbce9e2e52a00d97c0f53b5",
+    "Version": "2.3.5",
+    "Date": "2026-11-16",
+    "Size": 183835056,
+    "Sha256": "88a37242b09dd17c7e24fec72af93552004cf7f95092bc82f589c8463c31dcc6",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/nextcloud-releases/talk-desktop/releases/download/v2.3.4/Nextcloud.Talk-windows-x64.exe"
+    "URI": "https://github.com/nextcloud-releases/talk-desktop/releases/download/v2.3.5/Nextcloud.Talk-windows-x64.exe"
   },
   {
-    "Version": "2.3.4",
-    "Date": "2026-11-10",
-    "Size": 189591552,
-    "Sha256": "a1f1f601e6bcd18a6a1e98d8c350967c459094137b787dbffb2c64391a71f157",
+    "Version": "2.3.5",
+    "Date": "2026-11-16",
+    "Size": 189612032,
+    "Sha256": "93d3577cd8eb16759c5efc55c359d35e1ebd371cf65179714ff405c2050320ac",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/nextcloud-releases/talk-desktop/releases/download/v2.3.4/Nextcloud.Talk-windows-x64.msi"
+    "URI": "https://github.com/nextcloud-releases/talk-desktop/releases/download/v2.3.5/Nextcloud.Talk-windows-x64.msi"
   }
 ]

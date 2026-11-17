@@ -1,19 +1,19 @@
 [
   {
+    "Version": "1.44.0",
+    "Date": "2026-11-17",
+    "Release": "Beta",
+    "Sha512": "785a395bba85ef159bd1b6f4f2ab71ad412e3dfcd5aba9a4a7d810ebef231f21a44c4ff2506b6be73bc0a1130cb2aedf278605ae87fba0e590e4d070489c641d",
+    "Type": "msix",
+    "URI": "https://proton.me/download/pass/windows/ProtonPass_1.44.0.msix"
+  },
+  {
     "Version": "1.43.0",
     "Date": "2026-10-22",
     "Release": "Stable",
     "Sha512": "8bfe302c73eabdf7c35d076cca7f51333a1118a136523c496c38466ee78cb863bc38a0c360f6c9507c7903f55cfb0d08a9ad6432ae25a5c9738e5b69c731804d",
     "Type": "msix",
     "URI": "https://proton.me/download/pass/windows/ProtonPass_1.43.0.msix"
-  },
-  {
-    "Version": "1.41.0",
-    "Date": "2026-09-23",
-    "Release": "Beta",
-    "Sha512": "47da86c72252a5042ddd98c1afa350528e5cedf6f178f2c604001eab974998673353e8ddfb0a3eace4e4fbcc9ec3d18fa61f59342415735e656871ed8df6ec94",
-    "Type": "msix",
-    "URI": "https://proton.me/download/pass/windows/ProtonPass_1.41.0.msix"
   },
   {
     "Version": "1.14.0",
