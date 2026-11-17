@@ -1,26 +1,26 @@
 [
   {
-    "Version": "17.0.21.0.3",
-    "FullVersion": "17.0.21.0.3+1",
-    "Date": "2026-10-24",
+    "Version": "17.0.21.1",
+    "FullVersion": "17.0.21.1+4",
+    "Date": "2026-11-17",
     "Sha256": null,
     "Architecture": "x64",
     "Type": "exe",
     "URI": "https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe"
   },
   {
-    "Version": "17.0.21.0.3",
-    "FullVersion": "17.0.21.0.3+1",
-    "Date": "2026-10-24",
+    "Version": "17.0.21.1",
+    "FullVersion": "17.0.21.1+4",
+    "Date": "2026-11-17",
     "Sha256": null,
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.msi"
   },
   {
-    "Version": "17.0.21.0.3",
-    "FullVersion": "17.0.21.0.3+1",
-    "Date": "2026-10-24",
+    "Version": "17.0.21.1",
+    "FullVersion": "17.0.21.1+4",
+    "Date": "2026-11-17",
     "Sha256": null,
     "Architecture": "x64",
     "Type": "zip",
