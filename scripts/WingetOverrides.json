@@ -1,0 +1,10 @@
+{
+  "ESETServerSecurity": [],
+  "MicrosoftWindowsAppSDK": ["Microsoft.WindowsAppRuntime.2"],
+  "Minitab": ["Minitab.MinitabStatisticalSoftware.22"],
+  "mySQLConnectorNET": [],
+  "mySQLConnectorODBC": [],
+  "OperaNeonBrowser": [],
+  "TPGiColourContrastAnalyser": ["TPGi.CCAe"],
+  "WixToolset": ["WiXToolset.WiXCLI", "WiXToolset.WiXAdditionalTools"]
+}

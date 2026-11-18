@@ -55,3 +55,38 @@ Run the mocked validator tests locally with Python (standard library only; no AP
 ```sh
 python3 -m unittest discover -s scripts/tests -p 'test_evergreen_api.py' -v
 ```
+
+## Evergreen to winget mapping
+
+The `update-pwsh` job in [Update apps](.github/workflows/update-apps.yml) runs [map_evergreen_winget.py](scripts/map_evergreen_winget.py) after the application JSON is updated and commits the result to [winget/evergreen-winget.json](winget/evergreen-winget.json) for use by the Evergreen Workbench. The file is kept outside `json/` because that folder is reserved for Evergreen application output. Mapping or test failures do not block the application JSON commit, and a failed run keeps the previous mapping.
+
+The script downloads the public winget source indexes from `cdn.winget.microsoft.com`, ranks candidate packages by name, and confirms them using installer and homepage URLs from the winget manifests. Winget packages published once per architecture (for example `Postman.Postman` and `Postman.Postman.arm64`, or `Adobe.Acrobat.Reader.32-bit` and `Adobe.Acrobat.Reader.64-bit`) are grouped, so a multi-architecture Evergreen app maps to every matching package.
+
+Each entry in `applications` is keyed by Evergreen app name:
+
+```json
+{
+  "application": "Postman",
+  "architectures": ["arm64", "x64"],
+  "match": "high",
+  "winget": [
+    { "id": "Postman.Postman", "name": "Postman", "publisher": "Postman", "architectures": ["x64"] },
+    { "id": "Postman.Postman.arm64", "name": "Postman (arm64)", "publisher": "Postman", "architectures": ["arm64"] }
+  ],
+  "wingetByArchitecture": { "arm64": ["Postman.Postman.arm64"], "x64": ["Postman.Postman"] }
+}
+```
+
+`match` is `high`, `medium`, `override`, or `null` when no package was found. An empty package `architectures` list means the package applies to all architectures. The file contains no timestamps, so it only changes when the mapping changes.
+
+Correct wrong or missing matches in [WingetOverrides.json](scripts/WingetOverrides.json) by mapping an Evergreen app name to a list of winget package IDs; use `[]` to record that no equivalent exists. Override IDs are expanded to their architecture variants. To see why an app matched, run:
+
+```sh
+python3 scripts/map_evergreen_winget.py --explain Postman --cache-dir /tmp/wgcache
+```
+
+Run the mapping tests locally with:
+
+```sh
+python3 -m unittest discover -s scripts/tests -p 'test_winget_mapping.py' -v
+```
