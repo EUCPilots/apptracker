@@ -1,19 +1,19 @@
 [
   {
     "Version": "0.9.98",
-    "Architecture": "x64",
-    "Type": "exe",
     "Size": "11517943",
     "Md5": "a26d48bfd976226a026398e006b22d2c",
+    "Architecture": "x64",
+    "Type": "exe",
     "FileName": "KDiff3-64bit-Setup_0.9.98-2.exe",
     "URI": "http://ixpeering.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe?viasf=1"
   },
   {
     "Version": "0.9.98",
-    "Architecture": "x86",
-    "Type": "exe",
     "Size": "11413841",
     "Md5": "65c0778891521325b334f9cb98c3b041",
+    "Architecture": "x86",
+    "Type": "exe",
     "FileName": "KDiff3-32bit-Setup_0.9.98-3.exe",
     "URI": "http://ixpeering.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe?viasf=1"
   }

@@ -1,7 +1,7 @@
 [
   {
-    "Version": "160.0.8167.0",
-    "StartDate": "2026-11-17",
+    "Version": "160.0.8169.0",
+    "StartDate": "2026-11-18",
     "Channel": "Canary",
     "Architecture": "x64",
     "Type": "exe",
@@ -24,24 +24,24 @@
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
-    "Version": "159.0.8154.6",
-    "StartDate": "2026-11-12",
+    "Version": "159.0.8154.13",
+    "StartDate": "2026-11-18",
     "Channel": "Beta",
     "Architecture": "arm64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise_arm64.msi"
   },
   {
-    "Version": "159.0.8154.6",
-    "StartDate": "2026-11-12",
+    "Version": "159.0.8154.13",
+    "StartDate": "2026-11-18",
     "Channel": "Beta",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi"
   },
   {
-    "Version": "159.0.8154.6",
-    "StartDate": "2026-11-12",
+    "Version": "159.0.8154.13",
+    "StartDate": "2026-11-18",
     "Channel": "Beta",
     "Architecture": "x86",
     "Type": "msi",

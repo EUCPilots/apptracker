@@ -1,10 +1,10 @@
 [
   {
     "Version": "9.14.3",
-    "Architecture": "x86",
-    "Type": "exe",
     "Size": "86652818",
     "Md5": "6047120e483697b9742b9785bdc99d8d",
+    "Architecture": "x86",
+    "Type": "exe",
     "FileName": "saga-9.14.3_msw_setup.exe",
     "URI": "http://ixpeering.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.14.3/saga-9.14.3_msw_setup.exe?viasf=1"
   }

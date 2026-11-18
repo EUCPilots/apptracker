@@ -129,7 +129,9 @@
     },
     "acaudwellGource": {
       "application": "acaudwell Gource",
-      "architectures": [],
+      "architectures": [
+        "x64"
+      ],
       "match": "high",
       "winget": [
         {
@@ -141,7 +143,11 @@
           ]
         }
       ],
-      "wingetByArchitecture": {}
+      "wingetByArchitecture": {
+        "x64": [
+          "acaudwell.Gource"
+        ]
+      }
     },
     "ACLAPVideoDownloadHelperCoApp": {
       "application": "ACLAP Video DownloadHelper CoApp",
@@ -171,16 +177,8 @@
       "match": "high",
       "winget": [
         {
-          "id": "Adobe.Acrobat.Reader.32-bit",
-          "name": "Adobe Acrobat Reader (32-bit)",
-          "publisher": "Adobe Systems Incorporated",
-          "architectures": [
-            "x86"
-          ]
-        },
-        {
-          "id": "Adobe.Acrobat.Reader.64-bit",
-          "name": "Adobe Acrobat Reader (64-bit)",
+          "id": "Adobe.Acrobat.Pro",
+          "name": "Adobe Acrobat Pro",
           "publisher": "Adobe",
           "architectures": [
             "x64"
@@ -189,10 +187,7 @@
       ],
       "wingetByArchitecture": {
         "x64": [
-          "Adobe.Acrobat.Reader.64-bit"
-        ],
-        "x86": [
-          "Adobe.Acrobat.Reader.32-bit"
+          "Adobe.Acrobat.Pro"
         ]
       }
     },
@@ -5391,7 +5386,7 @@
       "application": "JGraph draw.io (diagrams.net)",
       "architectures": [
         "arm64",
-        "x86"
+        "x64"
       ],
       "match": "high",
       "winget": [
@@ -5407,6 +5402,9 @@
       ],
       "wingetByArchitecture": {
         "arm64": [
+          "JGraph.Draw"
+        ],
+        "x64": [
           "JGraph.Draw"
         ]
       }

@@ -1,10 +1,10 @@
 [
   {
     "Version": "1.9.8",
-    "Architecture": "x86",
-    "Type": "msi",
     "Size": "76898304",
     "Md5": "94963eab6f9af8669471f6f2d055e5c6",
+    "Architecture": "x86",
+    "Type": "msi",
     "FileName": "ProjectLibre-1.9.8.msi",
     "URI": "http://ixpeering.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.8/ProjectLibre-1.9.8.msi?viasf=1"
   }

@@ -1,22 +1,22 @@
 [
   {
-    "Version": "1.19.6",
-    "Date": "2026-10-30",
-    "Size": 54034176,
-    "Sha256": "98e8c539c1c98fc8631715f46947b1b22a2c0e927b4b027ef2b0d105e14dadc8",
+    "Version": "1.19.7",
+    "Date": "2026-11-18",
+    "Size": 54021032,
+    "Sha256": "a36bc15b88429d67f6b9ef8c30101ebd9d01a506d72997d500201aa92e474ca3",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/cryptomator/cryptomator/releases/download/1.19.6/Cryptomator-1.19.6-x64.exe"
+    "URI": "https://github.com/cryptomator/cryptomator/releases/download/1.19.7/Cryptomator-1.19.7-x64.exe"
   },
   {
-    "Version": "1.19.6",
-    "Date": "2026-10-30",
-    "Size": 53243904,
-    "Sha256": "ad416a6dff6ad969c2c346a9050b650e49fe5da9ac30c948148ae6b8412ebbce",
+    "Version": "1.19.7",
+    "Date": "2026-11-18",
+    "Size": 53231616,
+    "Sha256": "e8079987c521549ed32ca37db2480417f31824ef847771428590f01c9e2442f5",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/cryptomator/cryptomator/releases/download/1.19.6/Cryptomator-1.19.6-x64.msi"
+    "URI": "https://github.com/cryptomator/cryptomator/releases/download/1.19.7/Cryptomator-1.19.7-x64.msi"
   }
 ]

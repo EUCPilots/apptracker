@@ -5,7 +5,7 @@
     "Size": 59508680,
     "Sha256": "b395bd53bf36dacf88203aeb315006295f7b69dd0af5617cfb74695507d7cec7",
     "Architecture": "arm64",
-    "InstallerType": "Default",
+    "InstallerType": "HybridCRT",
     "Type": "exe",
     "URI": "https://github.com/openssl/installer/releases/download/publish/4.1.0-2/OpenSSL-arm64-hybridCRT-4.1.0.exe"
   },
@@ -15,7 +15,7 @@
     "Size": 64665768,
     "Sha256": "73dc47fc68b07a47efbde143c14cba1df82a649fd5af8f5f34c10adbf65863cc",
     "Architecture": "x64",
-    "InstallerType": "Default",
+    "InstallerType": "HybridCRT",
     "Type": "exe",
     "URI": "https://github.com/openssl/installer/releases/download/publish/4.1.0-2/OpenSSL-x64-hybridCRT-4.1.0.exe"
   },
@@ -35,7 +35,7 @@
     "Size": 58199048,
     "Sha256": "e6af52f263108c4219d415ea55770600e41009244865a279a8c38ed7c469f5f0",
     "Architecture": "x86",
-    "InstallerType": "Default",
+    "InstallerType": "HybridCRT",
     "Type": "exe",
     "URI": "https://github.com/openssl/installer/releases/download/publish/4.1.0-2/OpenSSL-x86-hybridCRT-4.1.0.exe"
   },
@@ -55,7 +55,7 @@
     "Size": 55188480,
     "Sha256": "6239f365c8e95d6b7db8374bdb7cf945ac8ba2ef6ac8dbc7b0afaea2591b87d9",
     "Architecture": "arm64",
-    "InstallerType": "Default",
+    "InstallerType": "HybridCRT",
     "Type": "msi",
     "URI": "https://github.com/openssl/installer/releases/download/publish/4.1.0-2/OpenSSL-arm64-hybridCRT-4.1.0.msi"
   },
@@ -65,7 +65,7 @@
     "Size": 60386816,
     "Sha256": "59803cf501cf4e643a89310a143e964ec9c0432d83a92f3fc585a4fc5a15dff3",
     "Architecture": "x64",
-    "InstallerType": "Default",
+    "InstallerType": "HybridCRT",
     "Type": "msi",
     "URI": "https://github.com/openssl/installer/releases/download/publish/4.1.0-2/OpenSSL-x64-hybridCRT-4.1.0.msi"
   },
@@ -85,7 +85,7 @@
     "Size": 53868032,
     "Sha256": "287376fce63a1b900ca7fe5d90bd24f751cc7eb38e91311335c258443aadca59",
     "Architecture": "x86",
-    "InstallerType": "Default",
+    "InstallerType": "HybridCRT",
     "Type": "msi",
     "URI": "https://github.com/openssl/installer/releases/download/publish/4.1.0-2/OpenSSL-x86-hybridCRT-4.1.0.msi"
   },

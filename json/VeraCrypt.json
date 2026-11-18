@@ -1,37 +1,37 @@
 [
   {
     "Version": "1.26.31",
-    "Architecture": "x86",
-    "Type": "exe",
     "Size": "44541680",
     "Md5": "2122a8666dbd5448dd47de97c1f0fcef",
+    "Architecture": "x86",
+    "Type": "exe",
     "FileName": "VeraCrypt Setup 1.26.31.exe",
     "URI": "http://ixpeering.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.31/Windows/VeraCrypt%20Setup%201.26.31.exe?viasf=1"
   },
   {
     "Version": "1.26.31",
-    "Architecture": "x86",
-    "Type": "exe",
     "Size": "44240112",
     "Md5": "be151e4d6ca27c9a9aae4301ec1a53ee",
+    "Architecture": "x86",
+    "Type": "exe",
     "FileName": "VeraCrypt Portable 1.26.31.exe",
     "URI": "http://ixpeering.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.31/Windows/VeraCrypt%20Portable%201.26.31.exe?viasf=1"
   },
   {
     "Version": "1.26.31",
-    "Architecture": "arm64",
-    "Type": "msi",
     "Size": "49459200",
     "Md5": "c073421a3e7a38ed09ca47820c6cf2ea",
+    "Architecture": "arm64",
+    "Type": "msi",
     "FileName": "VeraCrypt_Setup_arm64_1.26.31.msi",
     "URI": "http://ixpeering.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.31/Windows/VeraCrypt_Setup_arm64_1.26.31.msi?viasf=1"
   },
   {
     "Version": "1.26.31",
-    "Architecture": "x64",
-    "Type": "msi",
     "Size": "56094720",
     "Md5": "6cb7f862975b821ce2661e667f89aa16",
+    "Architecture": "x64",
+    "Type": "msi",
     "FileName": "VeraCrypt_Setup_x64_1.26.31.msi",
     "URI": "http://ixpeering.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.31/Windows/VeraCrypt_Setup_x64_1.26.31.msi?viasf=1"
   }
