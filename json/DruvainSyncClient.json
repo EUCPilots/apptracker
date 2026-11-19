@@ -6,5 +6,13 @@
     "Md5sum": "ac5b0b6419c7871c055aa63da0debb09c4d27daa",
     "Type": "msi",
     "URI": "https://downloads.druva.com/downloads/inSync/Windows/8.1.9/inSync8.1.9r111040.msi"
+  },
+  {
+    "Version": "8.1.9",
+    "InstallerVersion": "inSync8.1.9r111042",
+    "CloudPlatform": "GOVCloud",
+    "Md5sum": "5d436b2c735ae61ad3692f4a961588cdce909894",
+    "Type": "msi",
+    "URI": "https://downloads.druva.com/downloads/inSync/Windows/8.1.9_Gov/inSync8.1.9r111042.msi"
   }
 ]

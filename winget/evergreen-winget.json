@@ -4290,7 +4290,7 @@
     "Gpg4win": {
       "application": "Gpg4win",
       "architectures": [
-        "x86"
+        "x64"
       ],
       "match": "high",
       "winget": [
@@ -4303,7 +4303,11 @@
           ]
         }
       ],
-      "wingetByArchitecture": {}
+      "wingetByArchitecture": {
+        "x64": [
+          "GnuPG.Gpg4win"
+        ]
+      }
     },
     "gPodder": {
       "application": "The gPodder Team gPodder",
@@ -7465,7 +7469,8 @@
           "name": "XmlNotepad",
           "publisher": "Chris Lovett",
           "architectures": [
-            "neutral"
+            "neutral",
+            "x86"
           ]
         }
       ],
@@ -8602,17 +8607,19 @@
       "match": "medium",
       "winget": [
         {
-          "id": "Opera.OperaAir",
-          "name": "Opera Air",
+          "id": "Opera.Opera",
+          "name": "Opera Stable",
           "publisher": "Opera Software",
           "architectures": [
-            "x64"
+            "arm64",
+            "x64",
+            "x86"
           ]
         }
       ],
       "wingetByArchitecture": {
         "x64": [
-          "Opera.OperaAir"
+          "Opera.Opera"
         ]
       }
     },

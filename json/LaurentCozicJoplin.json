@@ -1,22 +1,22 @@
 [
   {
-    "Version": "3.7.22",
-    "Date": "2026-10-28",
-    "Size": 368820432,
-    "Sha256": "ee11551239e7d680f76c6a4ddbc2362dda850981904fdb365298e4d43bf1df4d",
+    "Version": "3.7.24",
+    "Date": "2026-11-19",
+    "Size": 368947560,
+    "Sha256": "9b528527bf24c4657c35052309437d2798c2ab38f80e32b66f0dedb8daeb3ec9",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/laurent22/joplin/releases/download/v3.7.22/Joplin-Setup-3.7.22.exe"
+    "URI": "https://github.com/laurent22/joplin/releases/download/v3.7.24/Joplin-Setup-3.7.24.exe"
   },
   {
-    "Version": "3.7.22",
-    "Date": "2026-10-28",
-    "Size": 368591720,
-    "Sha256": "cb959b1af470395a28460f8d29a82c677fd84a09d08929c9a695054405e607b5",
+    "Version": "3.7.24",
+    "Date": "2026-11-19",
+    "Size": 368718896,
+    "Sha256": "e0c4e11a0c5ae00ff93dfa0ca6172bde49c739ed85fdd19a6cfbaad0fa247057",
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/laurent22/joplin/releases/download/v3.7.22/JoplinPortable.exe"
+    "URI": "https://github.com/laurent22/joplin/releases/download/v3.7.24/JoplinPortable.exe"
   }
 ]

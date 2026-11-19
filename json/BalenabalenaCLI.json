@@ -1,12 +1,12 @@
 [
   {
-    "Version": "25.2.26",
-    "Date": "2026-11-18",
-    "Size": 112044760,
-    "Sha256": "7913a345218b0cbab5dfacabcc8fbc8a0ddf447d7f793028aaa942dc56da80b7",
+    "Version": "25.2.30",
+    "Date": "2026-11-19",
+    "Size": 113089288,
+    "Sha256": "97534e525605cf7809caef83f70192a66e4b60b3a1fb657529dd93d9a36a95d7",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/balena-io/balena-cli/releases/download/v25.2.26/balena-cli-v25.2.26-windows-x64-installer.exe"
+    "URI": "https://github.com/balena-io/balena-cli/releases/download/v25.2.30/balena-cli-v25.2.30-windows-x64-installer.exe"
   }
 ]
