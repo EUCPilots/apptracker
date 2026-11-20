@@ -1,23 +1,23 @@
 [
   {
-    "Version": "160.0.8172.0",
-    "StartDate": "2026-11-19",
+    "Version": "160.0.8173.0",
+    "StartDate": "2026-11-20",
     "Channel": "Canary",
     "Architecture": "x64",
     "Type": "exe",
     "URI": "https://dl.google.com/update2/installers/chromesetup.exe"
   },
   {
-    "Version": "160.0.8157.0",
-    "StartDate": "2026-11-13",
+    "Version": "160.0.8171.0",
+    "StartDate": "2026-11-20",
     "Channel": "Dev",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
   },
   {
-    "Version": "160.0.8157.0",
-    "StartDate": "2026-11-13",
+    "Version": "160.0.8171.0",
+    "StartDate": "2026-11-20",
     "Channel": "Dev",
     "Architecture": "x86",
     "Type": "msi",
@@ -97,7 +97,7 @@
   },
   {
     "Version": "156.0.8078.108",
-    "StartDate": "2026-11-17",
+    "StartDate": "2026-11-19",
     "Channel": "Extended",
     "Architecture": "arm64",
     "Type": "msi",
@@ -105,7 +105,7 @@
   },
   {
     "Version": "156.0.8078.108",
-    "StartDate": "2026-11-17",
+    "StartDate": "2026-11-19",
     "Channel": "Extended",
     "Architecture": "x64",
     "Type": "msi",
@@ -113,7 +113,7 @@
   },
   {
     "Version": "156.0.8078.108",
-    "StartDate": "2026-11-17",
+    "StartDate": "2026-11-19",
     "Channel": "Extended",
     "Architecture": "x86",
     "Type": "msi",
@@ -121,7 +121,7 @@
   },
   {
     "Version": "156.0.8078.108",
-    "StartDate": "2026-11-17",
+    "StartDate": "2026-11-19",
     "Channel": "Extended",
     "Architecture": "arm64",
     "Type": "zip",
@@ -129,7 +129,7 @@
   },
   {
     "Version": "156.0.8078.108",
-    "StartDate": "2026-11-17",
+    "StartDate": "2026-11-19",
     "Channel": "Extended",
     "Architecture": "x64",
     "Type": "zip",
@@ -137,7 +137,7 @@
   },
   {
     "Version": "156.0.8078.108",
-    "StartDate": "2026-11-17",
+    "StartDate": "2026-11-19",
     "Channel": "Extended",
     "Architecture": "x86",
     "Type": "zip",

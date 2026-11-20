@@ -1,32 +1,22 @@
 [
   {
-    "Version": "10.5.1",
-    "Date": "2026-09-05",
-    "Size": 30088151,
-    "Sha256": "27f1b1bc2d3b37b1aa838b4a2cb341d0f8c3e677fc082bcf73754e8288c594d4",
-    "Architecture": "x86",
-    "InstallerType": "Default",
-    "Type": "vsix",
-    "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.5.1/azuredatastudio-sql4cds-10.5.1.vsix"
-  },
-  {
-    "Version": "10.5.1",
-    "Date": "2026-09-05",
-    "Size": 5540623,
-    "Sha256": "ca69fb12d7c8f538ff8df63a04e820f0920697f454df0380e9a3196f65299ae6",
+    "Version": "10.6.0",
+    "Date": "2026-11-19",
+    "Size": 5577422,
+    "Sha256": "0615cbb8eeafd0cf6d92a4032382ebf6fd74f5aad7d3188eeae07542220b409d",
     "Architecture": "x86",
     "InstallerType": "Debug",
     "Type": "vsix",
-    "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.5.1/MarkMpn.Sql4Cds.DebugVisualizer.DebuggerSide.vsix"
+    "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.6.0/MarkMpn.Sql4Cds.DebugVisualizer.DebuggerSide.vsix"
   },
   {
-    "Version": "10.5.1",
-    "Date": "2026-09-05",
-    "Size": 9439443,
-    "Sha256": "5438a1e96b769c9178cfc13dc4f84e6678a69f012b0f2ac4f69f7a6e72ab29bb",
+    "Version": "10.6.0",
+    "Date": "2026-11-19",
+    "Size": 9468465,
+    "Sha256": "c74a379065fe60006f938ff54456febc559d2562f10f3bab8fa83a72d870d727",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "vsix",
-    "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.5.1/MarkMpn.Sql4Cds.SSMS.22.vsix"
+    "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.6.0/MarkMpn.Sql4Cds.SSMS.22.vsix"
   }
 ]

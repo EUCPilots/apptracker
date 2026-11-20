@@ -1,82 +1,82 @@
 [
   {
-    "Version": "4.16.1",
-    "Date": "2026-11-12",
-    "Size": 473481216,
-    "Sha256": "a1f7afdc4422f10988604d1ad004cac18123e6339856e3efafc446bc93d63838",
+    "Version": "4.17.0",
+    "Date": "2026-11-19",
+    "Size": 474750976,
+    "Sha256": "2b952d3501964f6d2534c5bb091647bff1e120f3c274c79c6c7ad864055f6e63",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/Azure/azure-functions-core-tools/releases/download/4.16.1/func-cli-4.16.1-x64.msi"
+    "URI": "https://github.com/Azure/azure-functions-core-tools/releases/download/4.17.0/func-cli-4.17.0-x64.msi"
   },
   {
-    "Version": "4.16.1",
-    "Date": "2026-11-12",
-    "Size": 455819264,
-    "Sha256": "ef6cf98ddd2b863fd48b992baf764783302dfa2333659f007ef7a576da29df4d",
+    "Version": "4.17.0",
+    "Date": "2026-11-19",
+    "Size": 457052160,
+    "Sha256": "ea0031a33f498a65581819ea804341798a3471db24efe4af9d6d20d4b9d63559",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/Azure/azure-functions-core-tools/releases/download/4.16.1/func-cli-4.16.1-x86.msi"
+    "URI": "https://github.com/Azure/azure-functions-core-tools/releases/download/4.17.0/func-cli-4.17.0-x86.msi"
   },
   {
-    "Version": "4.16.1",
-    "Date": "2026-11-12",
-    "Size": 72156480,
-    "Sha256": "0b6d1909aadb8898077efc806f82c94f21074ffa21c0eb0abebc6cdac8671479",
+    "Version": "4.17.0",
+    "Date": "2026-11-19",
+    "Size": 72202040,
+    "Sha256": "11937c18bdba7e736ee6a98106d55a05e76d563fdfedce066a4e6c54000e3297",
     "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/Azure/azure-functions-core-tools/releases/download/4.16.1/Azure.Functions.Cli.min.win-arm64.4.16.1.zip"
+    "URI": "https://github.com/Azure/azure-functions-core-tools/releases/download/4.17.0/Azure.Functions.Cli.min.win-arm64.4.17.0.zip"
   },
   {
-    "Version": "4.16.1",
-    "Date": "2026-11-12",
-    "Size": 497690527,
-    "Sha256": "951333b5e510994df03cefd5fe153ac4689e53789ccc8123afeb1c740ad4c077",
+    "Version": "4.17.0",
+    "Date": "2026-11-19",
+    "Size": 497719784,
+    "Sha256": "b08f2175990e5c6cc52508ae0dfe39aa6315751151b43b908e6e435a54477699",
     "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/Azure/azure-functions-core-tools/releases/download/4.16.1/Azure.Functions.Cli.win-arm64.4.16.1.zip"
+    "URI": "https://github.com/Azure/azure-functions-core-tools/releases/download/4.17.0/Azure.Functions.Cli.win-arm64.4.17.0.zip"
   },
   {
-    "Version": "4.16.1",
-    "Date": "2026-11-12",
-    "Size": 74844615,
-    "Sha256": "48d9258744204e5503cad50a7b92d8bceffe7f07186ae23c1efe40d56f0031f0",
+    "Version": "4.17.0",
+    "Date": "2026-11-19",
+    "Size": 74885659,
+    "Sha256": "aae4b881c73ed761171087bbef7c728f978c5bb47d5d528253e513f785de91b7",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/Azure/azure-functions-core-tools/releases/download/4.16.1/Azure.Functions.Cli.min.win-x64.4.16.1.zip"
+    "URI": "https://github.com/Azure/azure-functions-core-tools/releases/download/4.17.0/Azure.Functions.Cli.min.win-x64.4.17.0.zip"
   },
   {
-    "Version": "4.16.1",
-    "Date": "2026-11-12",
-    "Size": 585614002,
-    "Sha256": "55ef135f0783f3a673d9dfc8d982cc03e46678cc60b5123978680d2be4c9677d",
+    "Version": "4.17.0",
+    "Date": "2026-11-19",
+    "Size": 587059983,
+    "Sha256": "ef359eabe676d72544d3a729949697266f4fc63a9fd5681093eb09199c9f339b",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/Azure/azure-functions-core-tools/releases/download/4.16.1/Azure.Functions.Cli.win-x64.4.16.1.zip"
+    "URI": "https://github.com/Azure/azure-functions-core-tools/releases/download/4.17.0/Azure.Functions.Cli.win-x64.4.17.0.zip"
   },
   {
-    "Version": "4.16.1",
-    "Date": "2026-11-12",
-    "Size": 71316780,
-    "Sha256": "92bd0a8077c897cdca42425c0bb207174bb7c0b7d33154f12cd8097b13d82244",
+    "Version": "4.17.0",
+    "Date": "2026-11-19",
+    "Size": 71362634,
+    "Sha256": "aaeee34d0855dc7913bf96c03c0bc4b4c87a91edd52e2578de838a14ab4347b3",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/Azure/azure-functions-core-tools/releases/download/4.16.1/Azure.Functions.Cli.min.win-x86.4.16.1.zip"
+    "URI": "https://github.com/Azure/azure-functions-core-tools/releases/download/4.17.0/Azure.Functions.Cli.min.win-x86.4.17.0.zip"
   },
   {
-    "Version": "4.16.1",
-    "Date": "2026-11-12",
-    "Size": 565537992,
-    "Sha256": "d02475dac71aed12c3949b92c245c09e2e36d0734132c74d4434d6bceed916a9",
+    "Version": "4.17.0",
+    "Date": "2026-11-19",
+    "Size": 566932799,
+    "Sha256": "3491f1524944da1c0a61546eb25f510ea9e7d0fd87065819b89d6a1e82945034",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/Azure/azure-functions-core-tools/releases/download/4.16.1/Azure.Functions.Cli.win-x86.4.16.1.zip"
+    "URI": "https://github.com/Azure/azure-functions-core-tools/releases/download/4.17.0/Azure.Functions.Cli.win-x86.4.17.0.zip"
   }
 ]

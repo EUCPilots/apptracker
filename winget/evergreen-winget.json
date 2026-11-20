@@ -3,8 +3,8 @@
   "source": "https://cdn.winget.microsoft.com/cache",
   "summary": {
     "applications": 610,
-    "matched": 483,
-    "unmatched": 127
+    "matched": 484,
+    "unmatched": 126
   },
   "applications": {
     "1Password": {
@@ -7858,9 +7858,22 @@
       "architectures": [
         "x86"
       ],
-      "match": null,
-      "winget": [],
-      "wingetByArchitecture": {}
+      "match": "high",
+      "winget": [
+        {
+          "id": "WinFsp.WinFsp",
+          "name": "WinFsp",
+          "publisher": "Navimatics LLC",
+          "architectures": [
+            "x86"
+          ]
+        }
+      ],
+      "wingetByArchitecture": {
+        "x86": [
+          "WinFsp.WinFsp"
+        ]
+      }
     },
     "Neovim": {
       "application": "neovim.io Neovim",
@@ -8607,19 +8620,17 @@
       "match": "medium",
       "winget": [
         {
-          "id": "Opera.Opera",
-          "name": "Opera Stable",
+          "id": "Opera.OperaAir",
+          "name": "Opera Air",
           "publisher": "Opera Software",
           "architectures": [
-            "arm64",
-            "x64",
-            "x86"
+            "x64"
           ]
         }
       ],
       "wingetByArchitecture": {
         "x64": [
-          "Opera.Opera"
+          "Opera.OperaAir"
         ]
       }
     },
