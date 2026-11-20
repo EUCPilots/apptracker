@@ -1,20 +1,20 @@
 [
   {
-    "Version": "6.6395.1",
-    "Date": "2026-11-18",
-    "Sha256": "6d8040cc25e636a6eeaaa60c8c6a637c9e7b2afb4b30abeb46b1d0a7875d24c8",
-    "Size": 299393089,
+    "Version": "6.28899.2",
+    "Date": "2026-11-20",
+    "Sha256": "5750d681c1365a11f0b97e41022a2b5375f412d89000cb846985d95927c3f6b5",
+    "Size": 303612855,
     "Architecture": "arm64",
     "Type": "msix",
-    "URI": "https://downloads.claude.ai/releases/win32/arm64/6.6395.1/Claude-8fc566f7b97e371bae421fc79c260de86c6a4106.msix"
+    "URI": "https://downloads.claude.ai/releases/win32/arm64/6.28899.2/Claude-155ca43c0ad5a4bd5734795688543b65b464cf47.msix"
   },
   {
-    "Version": "6.6395.1",
-    "Date": "2026-11-18",
-    "Sha256": "34520053db39d45b2df793c8011ba6010b58bc967106bf8cb8a5e0f142aa7b14",
-    "Size": 307262114,
+    "Version": "6.28899.2",
+    "Date": "2026-11-20",
+    "Sha256": "ab9abc0dbeae271ad75fde1dcbcb9469fd2ca0cdc400564ca60e900641e0a031",
+    "Size": 312263241,
     "Architecture": "x64",
     "Type": "msix",
-    "URI": "https://downloads.claude.ai/releases/win32/x64/6.6395.1/Claude-8fc566f7b97e371bae421fc79c260de86c6a4106.msix"
+    "URI": "https://downloads.claude.ai/releases/win32/x64/6.28899.2/Claude-155ca43c0ad5a4bd5734795688543b65b464cf47.msix"
   }
 ]
