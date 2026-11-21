@@ -1,22 +1,22 @@
 [
   {
-    "Version": "9.18.0",
-    "Date": "2026-11-06",
-    "Size": 259196168,
-    "Sha256": "bb3b5423e1d64a735322a006edce15c6fb012980c2c5e55c1c45eaeba21a28dc",
+    "Version": "9.19.0",
+    "Date": "2026-11-21",
+    "Size": 259843848,
+    "Sha256": "785d9255ea7841c0ee1fcd13cb975a7ec04eadee8b2f1a5cbf97da77605aeded",
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/kovidgoyal/calibre/releases/download/v9.18.0/calibre-portable-installer-9.18.0.exe"
+    "URI": "https://github.com/kovidgoyal/calibre/releases/download/v9.19.0/calibre-portable-installer-9.19.0.exe"
   },
   {
-    "Version": "9.18.0",
-    "Date": "2026-11-06",
-    "Size": 291291136,
-    "Sha256": "05c0f2223866f8082e05b2d4bc9c57b31a833de8355a1191fd79c260c2636d38",
+    "Version": "9.19.0",
+    "Date": "2026-11-21",
+    "Size": 291713024,
+    "Sha256": "241193d5045bdcbc3e7ec000c22ede0b5da1fd2e91e83fa0b17f0e1f67174480",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/kovidgoyal/calibre/releases/download/v9.18.0/calibre-64bit-9.18.0.msi"
+    "URI": "https://github.com/kovidgoyal/calibre/releases/download/v9.19.0/calibre-64bit-9.19.0.msi"
   }
 ]
