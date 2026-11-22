@@ -4427,7 +4427,7 @@
         "x64",
         "x86"
       ],
-      "match": "medium",
+      "match": "high",
       "winget": [
         {
           "id": "gretl.gretl",
@@ -9058,22 +9058,17 @@
       "match": "high",
       "winget": [
         {
-          "id": "Parallels.Parallels",
-          "name": "Parallels Client",
+          "id": "outek.Parallels",
+          "name": "Parallels Client portable",
           "publisher": "Parallels International GmbH",
           "architectures": [
-            "arm64",
-            "x64",
-            "x86"
+            "x64"
           ]
         }
       ],
       "wingetByArchitecture": {
         "x64": [
-          "Parallels.Parallels"
-        ],
-        "x86": [
-          "Parallels.Parallels"
+          "outek.Parallels"
         ]
       }
     },
