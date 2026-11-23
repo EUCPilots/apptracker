@@ -8241,7 +8241,6 @@
           "name": "OBS Studio",
           "publisher": "OBS Project",
           "architectures": [
-            "arm64",
             "x64"
           ]
         }
@@ -8265,15 +8264,11 @@
           "name": "OBS Studio",
           "publisher": "OBS Project",
           "architectures": [
-            "arm64",
             "x64"
           ]
         }
       ],
       "wingetByArchitecture": {
-        "arm64": [
-          "OBSProject.OBSStudio"
-        ],
         "x64": [
           "OBSProject.OBSStudio"
         ]
@@ -9096,8 +9091,8 @@
       "match": "high",
       "winget": [
         {
-          "id": "Avanquestpdfforge.PDFCreator-Free",
-          "name": "PDFCreator Free",
+          "id": "Avanquestpdfforge.PDFCreator-Professional",
+          "name": "PDFCreator Professional",
           "publisher": "Avanquest pdfforge GmbH",
           "architectures": [
             "arm64",

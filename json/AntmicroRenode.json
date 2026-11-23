@@ -1,12 +1,12 @@
 [
   {
-    "Version": "1.17.0",
-    "Date": "2026-09-07",
-    "Size": 74982670,
-    "Sha256": "62b75c5ccc7daf16b3f19e6d63e826925f49358b961b7994d9e483293daceb01",
+    "Version": "1.17.1",
+    "Date": "2026-11-23",
+    "Size": 81373785,
+    "Sha256": "19ae76d9d7ff277aba21800a623e81977e74ba7c26d81eb23699d52958460418",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/renode/renode/releases/download/v1.17.0/renode-1.17.0.setup.exe"
+    "URI": "https://github.com/renode/renode/releases/download/v1.17.1/renode-1.17.1.setup.exe"
   }
 ]
