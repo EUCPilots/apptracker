@@ -1,35 +1,35 @@
 [
   {
-    "Version": "2026.3.1",
-    "Build": "263.7307.313",
+    "Version": "2026.3.1.1",
+    "Build": "263.7307.349",
     "Edition": "RustRover",
-    "Date": "2026-11-16",
-    "Sha256": "0e52d4864d5d76f8b05733d9e1c65e75796b3d18369d5be542c4f61a470ce562",
-    "Size": 1093975896,
+    "Date": "2026-11-24",
+    "Sha256": "03dfe64e9ae3531ecb255eb01a62fa6551bc981331b415a6f1b39456b18645b6",
+    "Size": 1099817680,
     "Architecture": "arm64",
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/rustrover/RustRover-2026.3.1-aarch64.exe"
+    "URI": "https://download.jetbrains.com/rustrover/RustRover-2026.3.1.1-aarch64.exe"
   },
   {
-    "Version": "2026.3.1",
-    "Build": "263.7307.313",
+    "Version": "2026.3.1.1",
+    "Build": "263.7307.349",
     "Edition": "RustRover",
-    "Date": "2026-11-16",
-    "Sha256": "e591cabf2ad07fc6b32d804173da265842f1d4078ee82e46d95beeabb4b8e971",
-    "Size": 1122829488,
+    "Date": "2026-11-24",
+    "Sha256": "67108374238a2d4fe36e438bccfb87146101e2755cec784b57a37f4676d639c6",
+    "Size": 1127059736,
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/rustrover/RustRover-2026.3.1.exe"
+    "URI": "https://download.jetbrains.com/rustrover/RustRover-2026.3.1.1.exe"
   },
   {
-    "Version": "2026.3.1",
-    "Build": "263.7307.313",
+    "Version": "2026.3.1.1",
+    "Build": "263.7307.349",
     "Edition": "RustRover",
-    "Date": "2026-11-16",
-    "Sha256": "cbc0c5e03bd492d2f0663f9cd6e6caba466e83dffa965cf2ab0b7f36fcd8268a",
-    "Size": 1529834608,
+    "Date": "2026-11-24",
+    "Sha256": "28141aac6d2ccac5e3d7d8f6487ec95b179d19e9b91e8ca24d0d9e6edab4b9c4",
+    "Size": 1536304886,
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://download.jetbrains.com/rustrover/RustRover-2026.3.1.win.zip"
+    "URI": "https://download.jetbrains.com/rustrover/RustRover-2026.3.1.1.win.zip"
   }
 ]

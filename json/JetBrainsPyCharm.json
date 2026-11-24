@@ -1,47 +1,47 @@
 [
   {
-    "Version": "2026.3.0.1",
-    "Build": "263.7307.329",
+    "Version": "2026.3.0.2",
+    "Build": "263.7307.351",
     "Edition": "PyCharm Professional",
-    "Date": "2026-11-19",
-    "Sha256": "cda7a2cd33ec53096726e29465759d8c3263a0daa7bc2b0c296c453d81afb3ec",
-    "Size": 989123272,
+    "Date": "2026-11-24",
+    "Sha256": "48810bfffba191ee13b23d194809da0e3a1fce8a636e4a557582a5b3017eba06",
+    "Size": 1007401440,
     "Architecture": "arm64",
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/python/pycharm-2026.3.0.1-aarch64.exe"
+    "URI": "https://download.jetbrains.com/python/pycharm-2026.3.0.2-aarch64.exe"
   },
   {
-    "Version": "2026.3.0.1",
-    "Build": "263.7307.329",
+    "Version": "2026.3.0.2",
+    "Build": "263.7307.351",
     "Edition": "PyCharm Professional",
-    "Date": "2026-11-19",
-    "Sha256": "f751f2fe4723c9e5086e3ef763874a6d0d8c694059701718d30289057230dce9",
-    "Size": 994728216,
+    "Date": "2026-11-24",
+    "Sha256": "93dd11806267d223ba906d55c67000775b4bfea8c60caea1ba2b8ec04df4ce3d",
+    "Size": 1011417976,
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/python/pycharm-2026.3.0.1.exe"
+    "URI": "https://download.jetbrains.com/python/pycharm-2026.3.0.2.exe"
   },
   {
-    "Version": "2026.3.0.1",
-    "Build": "263.7307.329",
+    "Version": "2026.3.0.2",
+    "Build": "263.7307.351",
     "Edition": "PyCharm Professional",
-    "Date": "2026-11-19",
-    "Sha256": "a51d19502b5ec32d562e26daa7f5c63022d927b86ddad671e7824b9c766e3841",
-    "Size": 1387978385,
+    "Date": "2026-11-24",
+    "Sha256": "15d53a21ba809c54c94883d675beb5fbca80b9763f7e37d1148e6c38d1223cb6",
+    "Size": 1395716347,
     "Architecture": "arm64",
     "Type": "zip",
-    "URI": "https://download.jetbrains.com/python/pycharm-2026.3.0.1-aarch64.win.zip"
+    "URI": "https://download.jetbrains.com/python/pycharm-2026.3.0.2-aarch64.win.zip"
   },
   {
-    "Version": "2026.3.0.1",
-    "Build": "263.7307.329",
+    "Version": "2026.3.0.2",
+    "Build": "263.7307.351",
     "Edition": "PyCharm Professional",
-    "Date": "2026-11-19",
-    "Sha256": "fb5582281c2bc9d2292896c07c1d726e9c29110df25f95e4c32a3797ca05ade1",
-    "Size": 1395628202,
+    "Date": "2026-11-24",
+    "Sha256": "e48ca06633450f4580d91ee8cf0f75ec4c6f06030c7938e05058ad48239526aa",
+    "Size": 1401643981,
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://download.jetbrains.com/python/pycharm-2026.3.0.1.win.zip"
+    "URI": "https://download.jetbrains.com/python/pycharm-2026.3.0.2.win.zip"
   },
   {
     "Version": "2025.3",

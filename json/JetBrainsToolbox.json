@@ -1,24 +1,24 @@
 [
   {
-    "Version": "3.9.1",
-    "Build": "3.9.1.89198",
+    "Version": "3.9.2",
+    "Build": "3.9.2.89815",
     "Edition": "Toolbox App",
-    "Date": "2026-10-30",
-    "Sha256": "75f399a6a56750941ca0d040975d466e5b83d8a55235967c0c3efb68b1c342f3",
-    "Size": 191535008,
+    "Date": "2026-11-24",
+    "Sha256": "9f2ef0b142d09627995e57a8acaecc152dbd18afceb58ab395ca6d44909cf76b",
+    "Size": 192136096,
     "Architecture": "arm64",
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.9.1.89198-arm64.exe"
+    "URI": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.9.2.89815-arm64.exe"
   },
   {
-    "Version": "3.9.1",
-    "Build": "3.9.1.89198",
+    "Version": "3.9.2",
+    "Build": "3.9.2.89815",
     "Edition": "Toolbox App",
-    "Date": "2026-10-30",
-    "Sha256": "595e627254d6b7ce07c0a1ea455828253137ff82a6611cd9e69a9e59c5b9d053",
-    "Size": 153882000,
+    "Date": "2026-11-24",
+    "Sha256": "3ee271bcf520aa4f1d19f548ff0be5fcc5013ecdf6ffdebf7118533c0bd5db5f",
+    "Size": 152365456,
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.9.1.89198.exe"
+    "URI": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.9.2.89815.exe"
   }
 ]

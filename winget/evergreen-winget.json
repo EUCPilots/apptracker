@@ -11231,8 +11231,7 @@
       "application": "Tien Do Nam LocalSend",
       "architectures": [
         "arm",
-        "x64",
-        "x86"
+        "x64"
       ],
       "match": "high",
       "winget": [

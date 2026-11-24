@@ -1,36 +1,36 @@
 [
   {
-    "Version": "2026.3",
-    "Build": "263.7307.200",
+    "Version": "2026.3.0.1",
+    "Build": "263.7307.353",
     "Edition": "IntelliJ IDEA Ultimate",
-    "Date": "2026-11-05",
-    "Sha256": "1ee720764808fb72f74c653ddd3ee6ea4798de79943f68fde4aece472edb69ad",
-    "Size": 1208862160,
+    "Date": "2026-11-24",
+    "Sha256": "9f280da02ce7dd3487f44de13e92c46bc60c83fd097f2622b653cf1cff197b8b",
+    "Size": 1213894056,
     "Architecture": "arm64",
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/idea/idea-2026.3-aarch64.exe"
+    "URI": "https://download.jetbrains.com/idea/idea-2026.3.0.1-aarch64.exe"
   },
   {
-    "Version": "2026.3",
-    "Build": "263.7307.200",
+    "Version": "2026.3.0.1",
+    "Build": "263.7307.353",
     "Edition": "IntelliJ IDEA Ultimate",
-    "Date": "2026-11-05",
-    "Sha256": "9b7e91d41e315df62024f8fff4cbc882eb1dad28edb45f1facf9b4c53f7484ac",
-    "Size": 1213323256,
+    "Date": "2026-11-24",
+    "Sha256": "a6f1c65c83b5cea5d9c86635d24a80096aec9cc11b76ca60ad9951c0eda2d0c0",
+    "Size": 1216769256,
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/idea/idea-2026.3.exe"
+    "URI": "https://download.jetbrains.com/idea/idea-2026.3.0.1.exe"
   },
   {
-    "Version": "2026.3",
-    "Build": "263.7307.200",
+    "Version": "2026.3.0.1",
+    "Build": "263.7307.353",
     "Edition": "IntelliJ IDEA Ultimate",
-    "Date": "2026-11-05",
-    "Sha256": "42265a4a25cac579aaa4690bb3553f4b034d42282ecaea571818e611f66fbb35",
-    "Size": 1674576889,
+    "Date": "2026-11-24",
+    "Sha256": "8c44f8f179f5b5974fd4f597f45ae1cc648a0ee52020ae48a2a8b82b4ace1f1e",
+    "Size": 1681209310,
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://download.jetbrains.com/idea/idea-2026.3.win.zip"
+    "URI": "https://download.jetbrains.com/idea/idea-2026.3.0.1.win.zip"
   },
   {
     "Version": "2025.3",

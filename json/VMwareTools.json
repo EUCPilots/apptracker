@@ -1,12 +1,12 @@
 [
   {
-    "Version": "13.1.6",
+    "Version": "13.1.10",
     "Architecture": "arm",
-    "URI": "https://packages-prod.broadcom.com/tools/releases/13.1.6/windows/arm/VMware-tools-13.1.6-25833820-arm.exe"
+    "URI": "https://packages-prod.broadcom.com/tools/releases/13.1.10/windows/arm/VMware-tools-13.1.10-25901045-arm.exe"
   },
   {
-    "Version": "13.1.6",
+    "Version": "13.1.10",
     "Architecture": "x64",
-    "URI": "https://packages-prod.broadcom.com/tools/releases/13.1.6/windows/x64/VMware-tools-13.1.6-25833820-x64.exe"
+    "URI": "https://packages-prod.broadcom.com/tools/releases/13.1.10/windows/x64/VMware-tools-13.1.10-25901045-x64.exe"
   }
 ]
