@@ -3,36 +3,36 @@
     "Version": "3.0.24",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "http://mirror.amaze.com.au/videolan/vlc/3.0.24/win64/vlc-3.0.24-win64.exe"
+    "URI": "http://videolan.mirror.digitalpacific.com.au/vlc/3.0.24/win64/vlc-3.0.24-win64.exe"
   },
   {
     "Version": "3.0.24",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "http://mirror.amaze.com.au/videolan/vlc/3.0.24/win32/vlc-3.0.24-win32.exe"
+    "URI": "http://videolan.mirror.digitalpacific.com.au/vlc/3.0.24/win32/vlc-3.0.24-win32.exe"
   },
   {
     "Version": "3.0.24",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "http://mirror.amaze.com.au/videolan/vlc/3.0.24/win64/vlc-3.0.24-win64.msi"
+    "URI": "http://videolan.mirror.digitalpacific.com.au/vlc/3.0.24/win64/vlc-3.0.24-win64.msi"
   },
   {
     "Version": "3.0.24",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "http://mirror.amaze.com.au/videolan/vlc/3.0.24/win32/vlc-3.0.24-win32.msi"
+    "URI": "http://videolan.mirror.digitalpacific.com.au/vlc/3.0.24/win32/vlc-3.0.24-win32.msi"
   },
   {
     "Version": "3.0.24",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "http://mirror.amaze.com.au/videolan/vlc/3.0.24/win64/vlc-3.0.24-win64.zip"
+    "URI": "http://videolan.mirror.digitalpacific.com.au/vlc/3.0.24/win64/vlc-3.0.24-win64.zip"
   },
   {
     "Version": "3.0.24",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "http://mirror.amaze.com.au/videolan/vlc/3.0.24/win32/vlc-3.0.24-win32.zip"
+    "URI": "http://videolan.mirror.digitalpacific.com.au/vlc/3.0.24/win32/vlc-3.0.24-win32.zip"
   }
 ]
