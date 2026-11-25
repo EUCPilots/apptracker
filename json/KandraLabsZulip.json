@@ -1,22 +1,22 @@
 [
   {
-    "Version": "5.14.2",
-    "Date": "2026-10-31",
+    "Version": "5.14.3",
+    "Date": "2026-11-25",
     "Size": 820736,
-    "Sha256": "af0dc5cc02df300ad443ff54ded9eecd932bf051c75a5b2eff8cac50f4ac6101",
+    "Sha256": "2e6aa87ae1a587e35c700dfbb6b0ad21bb0891ecf64e2635c2ba0878caf5ea72",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/zulip/zulip-desktop/releases/download/v5.14.2/Zulip-Web-Setup-5.14.2.exe"
+    "URI": "https://github.com/zulip/zulip-desktop/releases/download/v5.14.3/Zulip-Web-Setup-5.14.3.exe"
   },
   {
-    "Version": "5.14.2",
-    "Date": "2026-10-31",
-    "Size": 128851968,
-    "Sha256": "f549d0ed26954f866fab358e012191d154a397f526cd57b3f57853e206cbc435",
+    "Version": "5.14.3",
+    "Date": "2026-11-25",
+    "Size": 128995328,
+    "Sha256": "975955cbee2af945e8c4875c99dadddcf9ecc3d7a0a6a3d9ccdfe8c423cffbdc",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/zulip/zulip-desktop/releases/download/v5.14.2/Zulip-5.14.2-x64.msi"
+    "URI": "https://github.com/zulip/zulip-desktop/releases/download/v5.14.3/Zulip-5.14.3-x64.msi"
   }
 ]

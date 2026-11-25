@@ -1,11 +1,12 @@
 [
   {
-    "Version": "5.0.7",
-    "Date": "2023-04-16",
-    "Size": 125900016,
+    "Version": "6.0.23",
+    "Date": "2026-11-25",
+    "Size": 137211144,
+    "Sha256": "1565aebf7c4e5fd9905aedd28f42b0824fe23a3f531f0c591479757de6acaa94",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/koush/vysor.io/releases/download/v5.0.7/Vysor-win-5.0.7.exe"
+    "URI": "https://github.com/koush/vysor.io/releases/download/v6.0.23/Vysor-6.0.23.Setup.exe"
   }
 ]

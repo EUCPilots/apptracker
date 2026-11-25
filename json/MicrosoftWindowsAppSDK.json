@@ -1,28 +1,28 @@
 [
   {
     "Version": "2.7.0",
-    "Date": "2026-11-24",
+    "Date": "2026-11-25",
     "Architecture": "arm64",
     "Type": "exe",
     "URI": "https://download.microsoft.com/download/3fed4c2e-aaba-42a4-ba38-90a62e99b9a2/WindowsAppRuntimeInstall-arm64.exe"
   },
   {
     "Version": "2.7.0",
-    "Date": "2026-11-24",
+    "Date": "2026-11-25",
     "Architecture": "x64",
     "Type": "exe",
     "URI": "https://download.microsoft.com/download/b79f2091-5e42-4955-91b2-44d1b3f2f845/WindowsAppRuntimeInstall-x64.exe"
   },
   {
     "Version": "2.7.0",
-    "Date": "2026-11-24",
+    "Date": "2026-11-25",
     "Architecture": "x86",
     "Type": "exe",
     "URI": "https://download.microsoft.com/download/cb7bc847-fb0e-4831-a904-16ac769bddb5/WindowsAppRuntimeInstall-x86.exe"
   },
   {
     "Version": "2.7.0",
-    "Date": "2026-11-24",
+    "Date": "2026-11-25",
     "Architecture": "x86",
     "Type": "zip",
     "URI": "https://download.microsoft.com/download/dac14e94-3f7e-4c06-848e-f2996e1eac5a/Microsoft.WindowsAppRuntime.Redist.2.7.0.zip"
