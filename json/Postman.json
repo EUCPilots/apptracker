@@ -1,20 +1,20 @@
 [
   {
-    "Version": "12.38.3",
-    "Size": 216894432,
-    "Sha1": "70388FE7E5C37763BBF94572A2CAD283AC5E97AD",
-    "Date": "2026-11-24",
+    "Version": "12.38.5",
+    "Size": 216895456,
+    "Sha1": "3F9C55962D13CA97499B458D2871F8352909BBEE",
+    "Date": "2026-11-26",
     "Architecture": "arm64",
-    "Filename": "Postman v12.38.3 (arm64).exe",
-    "URI": "https://dl.pstmn.io/download/version/12.38.3/windowsarm64"
+    "Filename": "Postman v12.38.5 (arm64).exe",
+    "URI": "https://dl.pstmn.io/download/version/12.38.5/windowsarm64"
   },
   {
-    "Version": "12.38.3",
-    "Size": 219116000,
-    "Sha1": "A4A69723648FCA0E9B638AB08A5C9BB6C94BD964",
-    "Date": "2026-11-24",
+    "Version": "12.38.5",
+    "Size": 219418592,
+    "Sha1": "53431AE2577508E8675CEBC55DBF2B2AB6F524E1",
+    "Date": "2026-11-26",
     "Architecture": "x64",
-    "Filename": "Postman v12.38.3 (x64).exe",
-    "URI": "https://dl.pstmn.io/download/version/12.38.3/windows64"
+    "Filename": "Postman v12.38.5 (x64).exe",
+    "URI": "https://dl.pstmn.io/download/version/12.38.5/windows64"
   }
 ]

@@ -1,12 +1,12 @@
 [
   {
-    "Version": "14.0.4972",
+    "Version": "16.0.5003",
     "Architecture": "x64",
-    "URI": "https://download.octopusdeploy.com/octopus/Octopus.Tentacle.14.0.4972-x64.msi"
+    "URI": "https://download.octopusdeploy.com/octopus/Octopus.Tentacle.16.0.5003-x64.msi"
   },
   {
-    "Version": "14.0.4972",
+    "Version": "16.0.5003",
     "Architecture": "x86",
-    "URI": "https://download.octopusdeploy.com/octopus/Octopus.Tentacle.14.0.4972.msi"
+    "URI": "https://download.octopusdeploy.com/octopus/Octopus.Tentacle.16.0.5003.msi"
   }
 ]

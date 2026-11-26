@@ -2314,6 +2314,7 @@
           "name": "Citrix Workspace",
           "publisher": "Citrix Systems, Inc.",
           "architectures": [
+            "arm64",
             "x64"
           ]
         }

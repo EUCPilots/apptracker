@@ -1,42 +1,42 @@
 [
   {
-    "Version": "18_00_0006",
-    "Date": "2026-11-02",
-    "Size": 8603530,
-    "Sha256": "8aaab5c6cf697381dfcc14987238fb4437da7aa72a16654504add67589dddbff",
+    "Version": "18_00_0007",
+    "Date": "2026-11-25",
+    "Size": 8635574,
+    "Sha256": "289af807d325fcbe236004673ac8004d3392d4407eccdf7bf3f2b068a27c8011",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-18_00_0006/psqlodbc-setup.exe"
+    "URI": "https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-18_00_0007/psqlodbc-setup.exe"
   },
   {
-    "Version": "18_00_0006",
-    "Date": "2026-11-02",
-    "Size": 4292608,
-    "Sha256": "28533937372436555a76792358e0ec70efcf029f4b9046b6b91e2b3097159742",
+    "Version": "18_00_0007",
+    "Date": "2026-11-25",
+    "Size": 4337664,
+    "Sha256": "d93739098632db50a8f1ddfd239de80f63da5ef9ed763bf5fc4cfb2a7dc5c39a",
     "Architecture": "arm64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-18_00_0006/psqlodbc_arm64.msi"
+    "URI": "https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-18_00_0007/psqlodbc_arm64.msi"
   },
   {
-    "Version": "18_00_0006",
-    "Date": "2026-11-02",
-    "Size": 4587520,
-    "Sha256": "8962543113df83410b74f113db1ef80717b65a1dc7869e18c24bd852dd65535f",
+    "Version": "18_00_0007",
+    "Date": "2026-11-25",
+    "Size": 4616192,
+    "Sha256": "6c8c90e4715d118ef6ce48429dd3067208dace4015c804e5af9ea5b1c19d32a3",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-18_00_0006/psqlodbc_x64.msi"
+    "URI": "https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-18_00_0007/psqlodbc_x64.msi"
   },
   {
-    "Version": "18_00_0006",
-    "Date": "2026-11-02",
-    "Size": 4087808,
-    "Sha256": "b5e3d749a148d56b184984b23305794c3d602317b30215945a5ca7c5233dc24a",
+    "Version": "18_00_0007",
+    "Date": "2026-11-25",
+    "Size": 4091904,
+    "Sha256": "3da354f2a210c0bc03600cf4df28ac58a0bd10091e673cb920801818740338e3",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-18_00_0006/psqlodbc_x86.msi"
+    "URI": "https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-18_00_0007/psqlodbc_x86.msi"
   }
 ]
