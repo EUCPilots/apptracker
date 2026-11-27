@@ -73,7 +73,7 @@
   },
   {
     "Version": "158.0.4370.45",
-    "Date": "2026-11-25",
+    "Date": "2026-11-27",
     "Channel": "Stable",
     "Release": "Enterprise",
     "Expiry": "2027-11-25",
@@ -85,7 +85,7 @@
   },
   {
     "Version": "158.0.4370.45",
-    "Date": "2026-11-25",
+    "Date": "2026-11-27",
     "Channel": "Stable",
     "Release": "Enterprise",
     "Expiry": "2027-11-25",
@@ -97,7 +97,7 @@
   },
   {
     "Version": "158.0.4370.45",
-    "Date": "2026-11-25",
+    "Date": "2026-11-27",
     "Channel": "Stable",
     "Release": "Enterprise",
     "Expiry": "2027-11-25",
@@ -108,15 +108,15 @@
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/98dd0066-a07e-4015-8e7f-ce5d00601ebf/MicrosoftEdgeEnterpriseX86.msi"
   },
   {
-    "Version": "1.3.319.41",
-    "Date": "2026-11-20",
+    "Version": "1.3.319.43",
+    "Date": "2026-11-27",
     "Channel": "EdgeUpdate",
     "Release": "Enterprise",
-    "Expiry": "2027-11-20",
-    "SHA256": "C9D53BE7C045C3667E7534577A975F90A1C42F45020280664A2CC2D2C232E4A5",
-    "Size": 1.74,
+    "Expiry": "2027-11-27",
+    "SHA256": "DF3DBF85458A2BEF8B7D7C07C2475FF55CE9049D029B480D95E585CCECAE8F9D",
+    "Size": 1.75,
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/75468e82-db5b-46e7-a93b-d741ad69895b/MicrosoftEdgeUpdateSetup_X86_1.3.319.41.exe"
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0c97138f-9907-483c-8451-3dd2b38bd1f7/MicrosoftEdgeUpdateSetup_X86_1.3.319.43.exe"
   }
 ]

@@ -1,16 +1,16 @@
 [
   {
-    "Version": "140.0.6074.67",
+    "Version": "140.0.6074.78",
     "Channel": "Stable",
     "Architecture": "arm64",
     "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera_neon/140.0.6074.67/win/Opera_Neon_140.0.6074.67_Setup_arm64.exe"
+    "URI": "https://get.geo.opera.com/pub/opera_neon/140.0.6074.78/win/Opera_Neon_140.0.6074.78_Setup_arm64.exe"
   },
   {
-    "Version": "140.0.6074.67",
+    "Version": "140.0.6074.78",
     "Channel": "Stable",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera_neon/140.0.6074.67/win/Opera_Neon_140.0.6074.67_Setup_x64.exe"
+    "URI": "https://get.geo.opera.com/pub/opera_neon/140.0.6074.78/win/Opera_Neon_140.0.6074.78_Setup_x64.exe"
   }
 ]

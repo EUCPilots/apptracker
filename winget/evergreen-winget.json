@@ -3781,7 +3781,7 @@
         "arm64",
         "x86"
       ],
-      "match": "high",
+      "match": "medium",
       "winget": [
         {
           "id": "FxSound.FxSound",

@@ -2233,47 +2233,14 @@
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/618e6ffc-f7d4-4236-9df1-d1316c35a0c7/MicrosoftEdgeEnterpriseX86.msi"
   },
   {
-    "Version": "150.0.4078.96",
-    "Date": "2026-07-23",
-    "Channel": "Stable",
-    "Expiry": "2027-07-23",
-    "SHA256": "25E50E103385CA35F21B7456A75D13CCAF7123F8BD0DDA6AECD3D13299FEBA04",
-    "Size": 198.86,
-    "Architecture": "arm64",
-    "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/34e0082a-a3b0-40e7-bc4f-170e52493383/MicrosoftEdgeEnterpriseARM64.msi"
-  },
-  {
-    "Version": "150.0.4078.96",
-    "Date": "2026-07-23",
-    "Channel": "Stable",
-    "Expiry": "2027-07-23",
-    "SHA256": "C50452BAF080C01BE2E3D5516B2618255515BD467AC346E5E95B142FE308A7C3",
-    "Size": 194.82,
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/95aa11b7-11ea-4914-9c52-c116af1547fa/MicrosoftEdgeEnterpriseX64.msi"
-  },
-  {
-    "Version": "150.0.4078.96",
-    "Date": "2026-07-23",
-    "Channel": "Stable",
-    "Expiry": "2027-07-23",
-    "SHA256": "A0C619304DE94B2B491ABC4833FA6850DBF9F10E8BE53D06CA9624B465760D2A",
-    "Size": 170.98,
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/9d28aeb5-ef0e-4017-bfa0-03c166e8b624/MicrosoftEdgeEnterpriseX86.msi"
-  },
-  {
-    "Version": "1.3.319.41",
-    "Date": "2026-11-20",
+    "Version": "1.3.319.43",
+    "Date": "2026-11-27",
     "Channel": "EdgeUpdate",
-    "Expiry": "2027-11-20",
-    "SHA256": "C9D53BE7C045C3667E7534577A975F90A1C42F45020280664A2CC2D2C232E4A5",
-    "Size": 1.74,
+    "Expiry": "2027-11-27",
+    "SHA256": "DF3DBF85458A2BEF8B7D7C07C2475FF55CE9049D029B480D95E585CCECAE8F9D",
+    "Size": 1.75,
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/75468e82-db5b-46e7-a93b-d741ad69895b/MicrosoftEdgeUpdateSetup_X86_1.3.319.41.exe"
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0c97138f-9907-483c-8451-3dd2b38bd1f7/MicrosoftEdgeUpdateSetup_X86_1.3.319.43.exe"
   }
 ]
